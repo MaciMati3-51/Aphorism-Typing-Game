@@ -1,0 +1,57 @@
+:root {
+    font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+    line-height: 1.5;
+    font-weight: 400;
+
+    color-scheme: dark;
+    color: rgba(255, 255, 255, 0.87);
+    background-color: #242424;
+
+    font-synthesis: none;
+    text-rendering: optimizeLegibility;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+body {
+    margin: 0;
+    display: flex;
+    place-items: center;
+    min-width: 320px;
+    min-height: 100vh;
+}
+
+#root {
+    width: 100%;
+    max-width: 1280px;
+    margin: 0 auto;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.game-container {
+    width: 100%;
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 2rem;
+    text-align: center;
+    background: #0f0f1a;
+    /* Dark sci-fi background placeholder */
+    border-radius: 12px;
+    box-shadow: 0 0 20px rgba(0, 255, 255, 0.1);
+    position: relative;
+    /* For absolute positioning of effects */
+    z-index: 1;
+    /* Ensure text is above background elements */
+    transition: margin-right 0.3s ease;
+}
+
+/* On large screens, shift container left to make room for character */
+@media (min-width: 1400px) {
+    .game-container {
+        margin-right: 350px;
+        /* Push to the left to avoid character overlap */
+    }
+}
