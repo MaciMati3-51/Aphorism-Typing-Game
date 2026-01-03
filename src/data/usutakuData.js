@@ -10510,10 +10510,9 @@ export const APHORISMS = [
     },
     {
         "id": 74,
-        "text": "1nideetabeesu,2nideetabeesu,3nijouhouseirigakite,4nideetabeesu",
+        "text": "1nide-tabe-su,2nide-tabe-su,3nijouhouseirigakite,4nide-tabe-su",
         "tokens": [
-            "1nideetabeesu,2nideetabeesu,3nijouhouseirigakite,4nideetabeesu",
-            "1nideetabeesu,2nideetabeesu,3nizyouhouseirigakite,4nideetabeesu"
+            "1nide-tabe-su,2nide-tabe-su,3nijouhouseirigakite,4nide-tabe-su"
         ],
         "original": "1にデータベース、2にデータベース、3に情報整理が来て、4にデータベース"
     },

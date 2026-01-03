@@ -53,7 +53,15 @@ function App() {
 
             {gameState === 'finished' && (
                 <div className="result-screen" style={{ position: 'relative', zIndex: 10 }}>
-                    <h2>MISSION COMPLETE</h2>
+                    <h2 style={{
+                        fontSize: '3rem',
+                        color: score <= 5000 ? 'red' : 'inherit'
+                    }}>
+                        {score === 0 ? "超・非効率！！" :
+                            score <= 2000 ? "非効率！" :
+                                score <= 5000 ? "他責じゃない？" :
+                                    "効率的！"}
+                    </h2>
                     <div style={{ fontSize: '3rem', margin: '2rem 0' }}>FINAL SCORE: {score}</div>
                     <button onClick={startGame}>TRY AGAIN</button>
                 </div>
