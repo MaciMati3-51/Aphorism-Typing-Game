@@ -18,7 +18,7 @@ export const HUD = ({ timeLeft, score, wordMistakes }) => {
     const scorePercentage = Math.min(100, (score / 10000) * 100);
 
     return (
-        <div className="hud-container" style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginBottom: '2rem' }}>
+        <div className="hud-container" style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginBottom: '2rem', position: 'relative', zIndex: 10 }}>
 
             {/* Left: Score/Points */}
             <div className="bar-container left" style={{ width: '35%' }}>

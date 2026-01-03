@@ -5,17 +5,30 @@ export const TypingDisplay = ({ currentWord, userInput, isInefficient, feedback 
     const { text, original, tokens } = currentWord;
     const [effects, setEffects] = useState([]);
 
-    // ローマ字を30字程度で改行する関数
+    // ローマ字を40字程度で改行する関数
     const breakIntoLines = (tokens) => {
         if (!tokens || tokens.length === 0) return [text];
 
+        const MAX_LINE_LENGTH = 40;
         const lines = [];
         let currentLine = '';
 
         for (const token of tokens) {
-            // 次のトークンを追加したら30文字を超えるか確認
-            if (currentLine.length > 0 && currentLine.length + token.length > 30) {
-                // 現在の行を確定して、新しい行を開始
+            // トークン自体が最大長を超える場合、強制的に分割
+            if (token.length > MAX_LINE_LENGTH) {
+                // 現在の行があれば確定
+                if (currentLine.length > 0) {
+                    lines.push(currentLine);
+                    currentLine = '';
+                }
+
+                // トークンを40文字ずつ分割
+                for (let i = 0; i < token.length; i += MAX_LINE_LENGTH) {
+                    const chunk = token.slice(i, i + MAX_LINE_LENGTH);
+                    lines.push(chunk);
+                }
+            } else if (currentLine.length > 0 && currentLine.length + token.length > MAX_LINE_LENGTH) {
+                // 次のトークンを追加したら最大長を超える場合
                 lines.push(currentLine);
                 currentLine = token;
             } else {
@@ -29,7 +42,7 @@ export const TypingDisplay = ({ currentWord, userInput, isInefficient, feedback 
             lines.push(currentLine);
         }
 
-        return lines;
+        return lines.length > 0 ? lines : [text];
     };
 
     const romajiLines = breakIntoLines(tokens);
@@ -48,7 +61,7 @@ export const TypingDisplay = ({ currentWord, userInput, isInefficient, feedback 
     }, [feedback]);
 
     return (
-        <div className="typing-display" style={{ position: 'relative', margin: '4rem 0', minHeight: '150px' }}>
+        <div className="typing-display" style={{ position: 'relative', margin: '4rem 0', minHeight: '150px', zIndex: 10 }}>
 
             {/* Inefficient Alert - Large display on 3rd mistake */}
             {isInefficient && (

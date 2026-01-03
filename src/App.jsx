@@ -28,8 +28,8 @@ function App() {
     return (
         <div className="game-container">
             {gameState === 'idle' && (
-                <div className="start-screen">
-                    <h1 className="title">usu打</h1>
+                <div className="start-screen" style={{ position: 'relative', zIndex: 10 }}>
+                    <h1 className="title">usu打！</h1>
                     <button style={{ fontSize: '2rem', marginTop: '2rem' }} onClick={startGame}>
                         START GAME
                     </button>
@@ -52,7 +52,7 @@ function App() {
             )}
 
             {gameState === 'finished' && (
-                <div className="result-screen">
+                <div className="result-screen" style={{ position: 'relative', zIndex: 10 }}>
                     <h2>MISSION COMPLETE</h2>
                     <div style={{ fontSize: '3rem', margin: '2rem 0' }}>FINAL SCORE: {score}</div>
                     <button onClick={startGame}>TRY AGAIN</button>
