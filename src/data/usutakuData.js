@@ -1,6990 +1,21652 @@
+// Auto-generated from sentences_with_hiragana.csv
+// Do not edit manually
+
 export const APHORISMS = [
-    {
-        "id": 1,
-        "text": "aiwakasikoisinsotunoto-daisei",
-        "tokens": [
-            "aiwakasikoisinsotunoto-daisei",
-            "aiwakasikoisinsotsunoto-daisei",
-            "aiwakasikoishinsotunoto-daisei",
-            "aiwakasikoishinsotsunoto-daisei",
-            "aiwakashikoisinsotunoto-daisei",
-            "aiwakashikoisinsotsunoto-daisei",
-            "aiwakashikoishinsotunoto-daisei",
-            "aihakasikoisinsotunoto-daisei",
-            "aihakasikoisinsotsunoto-daisei",
-            "aihakasikoishinsotunoto-daisei",
-            "aihakasikoishinsotsunoto-daisei",
-            "aihakashikoisinsotunoto-daisei",
-            "aihakashikoisinsotsunoto-daisei",
-            "aihakashikoishinsotunoto-daisei",
-            "aihakashikoishinsotsunoto-daisei",
-            "aiwakashikoishinsotsunoto-daisei",
-            "aiwakashikoishinsotsunotoudaisei",
-            "aihakashikoishinsotsunotoudaisei",
-            "aihakashikoishinsotunotoudaisei",
-            "aihakashikoisinsotsunotoudaisei",
-            "aihakashikoisinsotunotoudaisei",
-            "aihakasikoishinsotsunotoudaisei",
-            "aihakasikoishinsotunotoudaisei",
-            "aihakasikoisinsotsunotoudaisei",
-            "aihakasikoisinsotunotoudaisei",
-            "aiwakashikoishinsotunotoudaisei",
-            "aiwakashikoisinsotsunotoudaisei",
-            "aiwakashikoisinsotunotoudaisei",
-            "aiwakasikoishinsotsunotoudaisei",
-            "aiwakasikoishinsotunotoudaisei",
-            "aiwakasikoisinsotsunotoudaisei",
-            "aiwakasikoisinsotunotoudaisei"
-        ],
-        "kana": "AIはかしこいしんそつのとうだいせい",
-        "original": "AIは賢い新卒の東大生"
-    },
-    {
-        "id": 2,
-        "text": "seiseiaitowa",
-        "tokens": [
-            "seiseiaitowa"
-        ],
-        "kana": "せいせいAIとは、せんたくきである",
-        "original": "生成AIとは、洗濯機である"
-    },
-    {
-        "id": 3,
-        "text": "yakitoriwatanpakusitunanodeko-ritutekidesu",
-        "tokens": [
-            "yakitoriwatanpakusitunanodeko-ritutekidesu",
-            "yakitoriwatanpakusitunanodeko-ritsutekidesu",
-            "yakitoriwatanpakusitsunanodeko-ritutekidesu",
-            "yakitoriwatanpakusitsunanodeko-ritsutekidesu",
-            "yakitoriwatanpakushitunanodeko-ritutekidesu",
-            "yakitoriwatanpakushitunanodeko-ritsutekidesu",
-            "yakitoriwatanpakushitsunanodeko-ritutekidesu",
-            "yakitorihatanpakusitunanodeko-ritutekidesu",
-            "yakitorihatanpakusitunanodeko-ritsutekidesu",
-            "yakitorihatanpakusitsunanodeko-ritutekidesu",
-            "yakitorihatanpakusitsunanodeko-ritsutekidesu",
-            "yakitorihatanpakushitunanodeko-ritutekidesu",
-            "yakitorihatanpakushitunanodeko-ritsutekidesu",
-            "yakitorihatanpakushitsunanodeko-ritutekidesu",
-            "yakitorihatanpakushitsunanodeko-ritsutekidesu",
-            "yakitoriwatanpakushitsunanodeko-ritsutekidesu",
-            "yakitoriwatanpakushitsunanodekouritsutekidesu",
-            "yakitorihatanpakushitsunanodekouritsutekidesu",
-            "yakitorihatanpakushitsunanodekouritutekidesu",
-            "yakitorihatanpakushitunanodekouritsutekidesu",
-            "yakitorihatanpakushitunanodekouritutekidesu",
-            "yakitorihatanpakusitsunanodekouritsutekidesu",
-            "yakitorihatanpakusitsunanodekouritutekidesu",
-            "yakitorihatanpakusitunanodekouritsutekidesu",
-            "yakitorihatanpakusitunanodekouritutekidesu",
-            "yakitoriwatanpakushitsunanodekouritutekidesu",
-            "yakitoriwatanpakushitunanodekouritsutekidesu",
-            "yakitoriwatanpakushitunanodekouritutekidesu",
-            "yakitoriwatanpakusitsunanodekouritsutekidesu",
-            "yakitoriwatanpakusitsunanodekouritutekidesu",
-            "yakitoriwatanpakusitunanodekouritsutekidesu",
-            "yakitoriwatanpakusitunanodekouritutekidesu"
-        ],
-        "kana": "やきとりはタンパクしつなのでこうりつてきです",
-        "original": "焼き鳥はタンパク質なので効率的です"
-    },
-    {
-        "id": 4,
-        "text": "seruketugo-suruna",
-        "tokens": [
-            "seruketugo-suruna",
-            "seruketsugo-suruna",
-            "seruketsugousuruna",
-            "seruketugousuruna"
-        ],
-        "kana": "セルけつごうするな",
-        "original": "セル結合するな"
-    },
-    {
-        "id": 5,
-        "text": "bare-ttetunenizenkeisiseinanogakotudana.bizinesutoonaziya.",
-        "tokens": [
-            "bare-ttetunenizenkeisiseinanogakotudana.bizinesutoonaziya.",
-            "bare-ttetunenizenkeisiseinanogakotudana.bizinesutoonajiya.",
-            "bare-ttetunenizenkeisiseinanogakotudana.bijinesutoonaziya.",
-            "bare-ttetunenizenkeisiseinanogakotudana.bijinesutoonajiya.",
-            "bare-ttetunenizenkeisiseinanogakotsudana.bizinesutoonaziya.",
-            "bare-ttetunenizenkeisiseinanogakotsudana.bizinesutoonajiya.",
-            "bare-ttetunenizenkeisiseinanogakotsudana.bijinesutoonaziya.",
-            "bare-ttetunenizenkeisiseinanogakotsudana.bijinesutoonajiya.",
-            "bare-ttetunenizenkeishiseinanogakotudana.bizinesutoonaziya.",
-            "bare-ttetunenizenkeishiseinanogakotudana.bizinesutoonajiya.",
-            "bare-ttetunenizenkeishiseinanogakotudana.bijinesutoonaziya.",
-            "bare-ttetunenizenkeishiseinanogakotudana.bijinesutoonajiya.",
-            "bare-ttetunenizenkeishiseinanogakotsudana.bizinesutoonaziya.",
-            "bare-ttetunenizenkeishiseinanogakotsudana.bizinesutoonajiya.",
-            "bare-ttetunenizenkeishiseinanogakotsudana.bijinesutoonaziya.",
-            "bare-ttetunenizenkeishiseinanogakotsudana.bijinesutoonajiya.",
-            "bare-ttetsunenizenkeisiseinanogakotudana.bizinesutoonaziya.",
-            "bare-ttetsunenizenkeisiseinanogakotudana.bizinesutoonajiya.",
-            "bare-ttetsunenizenkeisiseinanogakotudana.bijinesutoonaziya.",
-            "bare-ttetsunenizenkeisiseinanogakotudana.bijinesutoonajiya.",
-            "bare-ttetsunenizenkeisiseinanogakotsudana.bizinesutoonaziya.",
-            "bare-ttetsunenizenkeisiseinanogakotsudana.bizinesutoonajiya.",
-            "bare-ttetsunenizenkeisiseinanogakotsudana.bijinesutoonaziya.",
-            "bare-ttetsunenizenkeisiseinanogakotsudana.bijinesutoonajiya.",
-            "bare-ttetsunenizenkeishiseinanogakotudana.bizinesutoonaziya.",
-            "bare-ttetsunenizenkeishiseinanogakotudana.bizinesutoonajiya.",
-            "bare-ttetsunenizenkeishiseinanogakotudana.bijinesutoonaziya.",
-            "bare-ttetsunenizenkeishiseinanogakotudana.bijinesutoonajiya.",
-            "bare-ttetsunenizenkeishiseinanogakotsudana.bizinesutoonaziya.",
-            "bare-ttetsunenizenkeishiseinanogakotsudana.bizinesutoonajiya.",
-            "bare-ttetsunenizenkeishiseinanogakotsudana.bijinesutoonaziya.",
-            "bare-ttetsunenizenkeishiseinanogakotsudana.bijinesutoonajiya.",
-            "bareettetsunenizenkeishiseinanogakotsudana.bijinesutoonajiya.",
-            "bareettetsunenizenkeishiseinanogakotsudana.bijinesutoonaziya.",
-            "bareettetsunenizenkeishiseinanogakotsudana.bizinesutoonajiya.",
-            "bareettetsunenizenkeishiseinanogakotsudana.bizinesutoonaziya.",
-            "bareettetsunenizenkeishiseinanogakotudana.bijinesutoonajiya.",
-            "bareettetsunenizenkeishiseinanogakotudana.bijinesutoonaziya.",
-            "bareettetsunenizenkeishiseinanogakotudana.bizinesutoonajiya.",
-            "bareettetsunenizenkeishiseinanogakotudana.bizinesutoonaziya.",
-            "bareettetsunenizenkeisiseinanogakotsudana.bijinesutoonajiya.",
-            "bareettetsunenizenkeisiseinanogakotsudana.bijinesutoonaziya.",
-            "bareettetsunenizenkeisiseinanogakotsudana.bizinesutoonajiya.",
-            "bareettetsunenizenkeisiseinanogakotsudana.bizinesutoonaziya.",
-            "bareettetsunenizenkeisiseinanogakotudana.bijinesutoonajiya.",
-            "bareettetsunenizenkeisiseinanogakotudana.bijinesutoonaziya.",
-            "bareettetsunenizenkeisiseinanogakotudana.bizinesutoonajiya.",
-            "bareettetsunenizenkeisiseinanogakotudana.bizinesutoonaziya.",
-            "bareettetunenizenkeishiseinanogakotsudana.bijinesutoonajiya.",
-            "bareettetunenizenkeishiseinanogakotsudana.bijinesutoonaziya.",
-            "bareettetunenizenkeishiseinanogakotsudana.bizinesutoonajiya.",
-            "bareettetunenizenkeishiseinanogakotsudana.bizinesutoonaziya.",
-            "bareettetunenizenkeishiseinanogakotudana.bijinesutoonajiya.",
-            "bareettetunenizenkeishiseinanogakotudana.bijinesutoonaziya.",
-            "bareettetunenizenkeishiseinanogakotudana.bizinesutoonajiya.",
-            "bareettetunenizenkeishiseinanogakotudana.bizinesutoonaziya.",
-            "bareettetunenizenkeisiseinanogakotsudana.bijinesutoonajiya.",
-            "bareettetunenizenkeisiseinanogakotsudana.bijinesutoonaziya.",
-            "bareettetunenizenkeisiseinanogakotsudana.bizinesutoonajiya.",
-            "bareettetunenizenkeisiseinanogakotsudana.bizinesutoonaziya.",
-            "bareettetunenizenkeisiseinanogakotudana.bijinesutoonajiya.",
-            "bareettetunenizenkeisiseinanogakotudana.bijinesutoonaziya.",
-            "bareettetunenizenkeisiseinanogakotudana.bizinesutoonajiya.",
-            "bareettetunenizenkeisiseinanogakotudana.bizinesutoonaziya."
-        ],
-        "kana": "バレーってつねにぜん傾しせいなのがコツだな。ビジネスとおなじや。",
-        "original": "バレーって常に前傾姿勢なのがコツだな。ビジネスと同じや。"
-    },
-    {
-        "id": 6,
-        "text": "usutakuwohworo-",
-        "tokens": [
-            "usutakuwohworo-",
-            "usutakuwoforo-",
-            "usutakuohworo-",
-            "usutakuoforo-",
-            "usutakuoforou",
-            "usutakuohworou",
-            "usutakuwoforou",
-            "usutakuwohworou"
-        ],
-        "kana": "usutakuをフォロー",
-        "original": "usutakuをフォロー"
-    },
-    {
-        "id": 7,
-        "text": "rittsukonigaiwakuso",
-        "tokens": [
-            "rittsukonigaiwakuso",
-            "rittsukonigaihakuso",
-            "rittukonigaihakuso",
-            "rittukonigaiwakuso"
-        ],
-        "kana": "リッツこんいがいはクソ",
-        "original": "リッツ婚以外はクソ"
-    },
-    {
-        "id": 8,
-        "text": "zibunnoyokkyu-woseizitunimitasitekurerukankyo-yahitonosyu-go-wo\"zyo-situsekai\"toyobu",
-        "tokens": [
-            "zibunnoyokkyu-woseizitunimitasitekurerukankyo-yahitonosyu-go-wo\"zyo-situsekai\"toyobu",
-            "zibunnoyokkyu-woseizitunimitasitekurerukankyo-yahitonosyu-go-wo\"zyo-sitsusekai\"toyobu",
-            "zibunnoyokkyu-woseizitunimitasitekurerukankyo-yahitonosyu-go-wo\"zyo-shitusekai\"toyobu",
-            "zibunnoyokkyu-woseizitunimitasitekurerukankyo-yahitonosyu-go-wo\"zyo-shitsusekai\"toyobu",
-            "zibunnoyokkyu-woseizitunimitasitekurerukankyo-yahitonosyu-go-wo\"jo-situsekai\"toyobu",
-            "zibunnoyokkyu-woseizitunimitasitekurerukankyo-yahitonosyu-go-wo\"jo-sitsusekai\"toyobu",
-            "zibunnoyokkyu-woseizitunimitasitekurerukankyo-yahitonosyu-go-wo\"jo-shitusekai\"toyobu",
-            "zibunnoyokkyu-woseizitunimitasitekurerukankyo-yahitonosyu-go-wo\"jo-shitsusekai\"toyobu",
-            "zibunnoyokkyu-woseizitunimitasitekurerukankyo-yahitonosyu-go-o\"zyo-situsekai\"toyobu",
-            "zibunnoyokkyu-woseizitunimitasitekurerukankyo-yahitonosyu-go-o\"zyo-sitsusekai\"toyobu",
-            "zibunnoyokkyu-woseizitunimitasitekurerukankyo-yahitonosyu-go-o\"zyo-shitusekai\"toyobu",
-            "zibunnoyokkyu-woseizitunimitasitekurerukankyo-yahitonosyu-go-o\"zyo-shitsusekai\"toyobu",
-            "zibunnoyokkyu-woseizitunimitasitekurerukankyo-yahitonosyu-go-o\"jo-situsekai\"toyobu",
-            "zibunnoyokkyu-woseizitunimitasitekurerukankyo-yahitonosyu-go-o\"jo-sitsusekai\"toyobu",
-            "zibunnoyokkyu-woseizitunimitasitekurerukankyo-yahitonosyu-go-o\"jo-shitusekai\"toyobu",
-            "zibunnoyokkyu-woseizitunimitasitekurerukankyo-yahitonosyu-go-o\"jo-shitsusekai\"toyobu",
-            "zibunnoyokkyu-woseizitunimitasitekurerukankyo-yahitonoshu-go-wo\"zyo-situsekai\"toyobu",
-            "zibunnoyokkyu-woseizitunimitasitekurerukankyo-yahitonoshu-go-wo\"zyo-sitsusekai\"toyobu",
-            "zibunnoyokkyu-woseizitunimitasitekurerukankyo-yahitonoshu-go-wo\"zyo-shitusekai\"toyobu",
-            "zibunnoyokkyu-woseizitunimitasitekurerukankyo-yahitonoshu-go-wo\"zyo-shitsusekai\"toyobu",
-            "zibunnoyokkyu-woseizitunimitasitekurerukankyo-yahitonoshu-go-wo\"jo-situsekai\"toyobu",
-            "zibunnoyokkyu-woseizitunimitasitekurerukankyo-yahitonoshu-go-wo\"jo-sitsusekai\"toyobu",
-            "zibunnoyokkyu-woseizitunimitasitekurerukankyo-yahitonoshu-go-wo\"jo-shitusekai\"toyobu",
-            "zibunnoyokkyu-woseizitunimitasitekurerukankyo-yahitonoshu-go-wo\"jo-shitsusekai\"toyobu",
-            "zibunnoyokkyu-woseizitunimitasitekurerukankyo-yahitonoshu-go-o\"zyo-situsekai\"toyobu",
-            "zibunnoyokkyu-woseizitunimitasitekurerukankyo-yahitonoshu-go-o\"zyo-sitsusekai\"toyobu",
-            "zibunnoyokkyu-woseizitunimitasitekurerukankyo-yahitonoshu-go-o\"zyo-shitusekai\"toyobu",
-            "zibunnoyokkyu-woseizitunimitasitekurerukankyo-yahitonoshu-go-o\"zyo-shitsusekai\"toyobu",
-            "zibunnoyokkyu-woseizitunimitasitekurerukankyo-yahitonoshu-go-o\"jo-situsekai\"toyobu",
-            "zibunnoyokkyu-woseizitunimitasitekurerukankyo-yahitonoshu-go-o\"jo-sitsusekai\"toyobu",
-            "zibunnoyokkyu-woseizitunimitasitekurerukankyo-yahitonoshu-go-o\"jo-shitusekai\"toyobu",
-            "zibunnoyokkyu-woseizitunimitasitekurerukankyo-yahitonoshu-go-o\"jo-shitsusekai\"toyobu",
-            "zibunnoyokkyu-woseizitunimitasitekurerukankyo-yahitonosfu-go-wo\"zyo-situsekai\"toyobu",
-            "zibunnoyokkyu-woseizitunimitasitekurerukankyo-yahitonosfu-go-wo\"zyo-sitsusekai\"toyobu",
-            "zibunnoyokkyu-woseizitunimitasitekurerukankyo-yahitonosfu-go-wo\"zyo-shitusekai\"toyobu",
-            "zibunnoyokkyu-woseizitunimitasitekurerukankyo-yahitonosfu-go-wo\"zyo-shitsusekai\"toyobu",
-            "zibunnoyokkyu-woseizitunimitasitekurerukankyo-yahitonosfu-go-wo\"jo-situsekai\"toyobu",
-            "zibunnoyokkyu-woseizitunimitasitekurerukankyo-yahitonosfu-go-wo\"jo-sitsusekai\"toyobu",
-            "zibunnoyokkyu-woseizitunimitasitekurerukankyo-yahitonosfu-go-wo\"jo-shitusekai\"toyobu",
-            "zibunnoyokkyu-woseizitunimitasitekurerukankyo-yahitonosfu-go-wo\"jo-shitsusekai\"toyobu",
-            "zibunnoyokkyu-woseizitunimitasitekurerukankyo-yahitonosfu-go-o\"zyo-situsekai\"toyobu",
-            "zibunnoyokkyu-woseizitunimitasitekurerukankyo-yahitonosfu-go-o\"zyo-sitsusekai\"toyobu",
-            "zibunnoyokkyu-woseizitunimitasitekurerukankyo-yahitonosfu-go-o\"zyo-shitusekai\"toyobu",
-            "zibunnoyokkyu-woseizitunimitasitekurerukankyo-yahitonosfu-go-o\"zyo-shitsusekai\"toyobu",
-            "zibunnoyokkyu-woseizitunimitasitekurerukankyo-yahitonosfu-go-o\"jo-situsekai\"toyobu",
-            "zibunnoyokkyu-woseizitunimitasitekurerukankyo-yahitonosfu-go-o\"jo-sitsusekai\"toyobu",
-            "zibunnoyokkyu-woseizitunimitasitekurerukankyo-yahitonosfu-go-o\"jo-shitusekai\"toyobu",
-            "zibunnoyokkyu-woseizitunimitasitekurerukankyo-yahitonosfu-go-o\"jo-shitsusekai\"toyobu",
-            "zibunnoyokkyu-woseizitunimitashitekurerukankyo-yahitonosyu-go-wo\"zyo-situsekai\"toyobu",
-            "zibunnoyokkyu-woseizitunimitashitekurerukankyo-yahitonosyu-go-wo\"zyo-sitsusekai\"toyobu",
-            "zibunnoyokkyu-woseizitunimitashitekurerukankyo-yahitonosyu-go-wo\"zyo-shitusekai\"toyobu",
-            "zibunnoyokkyu-woseizitunimitashitekurerukankyo-yahitonosyu-go-wo\"zyo-shitsusekai\"toyobu",
-            "zibunnoyokkyu-woseizitunimitashitekurerukankyo-yahitonosyu-go-wo\"jo-situsekai\"toyobu",
-            "zibunnoyokkyu-woseizitunimitashitekurerukankyo-yahitonosyu-go-wo\"jo-sitsusekai\"toyobu",
-            "zibunnoyokkyu-woseizitunimitashitekurerukankyo-yahitonosyu-go-wo\"jo-shitusekai\"toyobu",
-            "zibunnoyokkyu-woseizitunimitashitekurerukankyo-yahitonosyu-go-wo\"jo-shitsusekai\"toyobu",
-            "zibunnoyokkyu-woseizitunimitashitekurerukankyo-yahitonosyu-go-o\"zyo-situsekai\"toyobu",
-            "zibunnoyokkyu-woseizitunimitashitekurerukankyo-yahitonosyu-go-o\"zyo-sitsusekai\"toyobu",
-            "zibunnoyokkyu-woseizitunimitashitekurerukankyo-yahitonosyu-go-o\"zyo-shitusekai\"toyobu",
-            "zibunnoyokkyu-woseizitunimitashitekurerukankyo-yahitonosyu-go-o\"zyo-shitsusekai\"toyobu",
-            "zibunnoyokkyu-woseizitunimitashitekurerukankyo-yahitonosyu-go-o\"jo-situsekai\"toyobu",
-            "zibunnoyokkyu-woseizitunimitashitekurerukankyo-yahitonosyu-go-o\"jo-sitsusekai\"toyobu",
-            "zibunnoyokkyu-woseizitunimitashitekurerukankyo-yahitonosyu-go-o\"jo-shitusekai\"toyobu",
-            "zibunnoyokkyu-woseizitunimitashitekurerukankyo-yahitonosyu-go-o\"jo-shitsusekai\"toyobu",
-            "zibunnoyokkyu-woseizitunimitashitekurerukankyo-yahitonoshu-go-wo\"zyo-situsekai\"toyobu",
-            "zibunnoyokkyu-woseizitunimitashitekurerukankyo-yahitonoshu-go-wo\"zyo-sitsusekai\"toyobu",
-            "zibunnoyokkyu-woseizitunimitashitekurerukankyo-yahitonoshu-go-wo\"zyo-shitusekai\"toyobu",
-            "zibunnoyokkyu-woseizitunimitashitekurerukankyo-yahitonoshu-go-wo\"zyo-shitsusekai\"toyobu",
-            "zibunnoyokkyu-woseizitunimitashitekurerukankyo-yahitonoshu-go-wo\"jo-situsekai\"toyobu",
-            "zibunnoyokkyu-woseizitunimitashitekurerukankyo-yahitonoshu-go-wo\"jo-sitsusekai\"toyobu",
-            "zibunnoyokkyu-woseizitunimitashitekurerukankyo-yahitonoshu-go-wo\"jo-shitusekai\"toyobu",
-            "zibunnoyokkyu-woseizitunimitashitekurerukankyo-yahitonoshu-go-wo\"jo-shitsusekai\"toyobu",
-            "zibunnoyokkyu-woseizitunimitashitekurerukankyo-yahitonoshu-go-o\"zyo-situsekai\"toyobu",
-            "zibunnoyokkyu-woseizitunimitashitekurerukankyo-yahitonoshu-go-o\"zyo-sitsusekai\"toyobu",
-            "zibunnoyokkyu-woseizitunimitashitekurerukankyo-yahitonoshu-go-o\"zyo-shitusekai\"toyobu",
-            "zibunnoyokkyu-woseizitunimitashitekurerukankyo-yahitonoshu-go-o\"zyo-shitsusekai\"toyobu",
-            "zibunnoyokkyu-woseizitunimitashitekurerukankyo-yahitonoshu-go-o\"jo-situsekai\"toyobu",
-            "zibunnoyokkyu-woseizitunimitashitekurerukankyo-yahitonoshu-go-o\"jo-sitsusekai\"toyobu",
-            "zibunnoyokkyu-woseizitunimitashitekurerukankyo-yahitonoshu-go-o\"jo-shitusekai\"toyobu",
-            "zibunnoyokkyu-woseizitunimitashitekurerukankyo-yahitonoshu-go-o\"jo-shitsusekai\"toyobu",
-            "zibunnoyokkyu-woseizitunimitashitekurerukankyo-yahitonosfu-go-wo\"zyo-situsekai\"toyobu",
-            "zibunnoyokkyu-woseizitunimitashitekurerukankyo-yahitonosfu-go-wo\"zyo-sitsusekai\"toyobu",
-            "zibunnoyokkyu-woseizitunimitashitekurerukankyo-yahitonosfu-go-wo\"zyo-shitusekai\"toyobu",
-            "zibunnoyokkyu-woseizitunimitashitekurerukankyo-yahitonosfu-go-wo\"zyo-shitsusekai\"toyobu",
-            "zibunnoyokkyu-woseizitunimitashitekurerukankyo-yahitonosfu-go-wo\"jo-situsekai\"toyobu",
-            "zibunnoyokkyu-woseizitunimitashitekurerukankyo-yahitonosfu-go-wo\"jo-sitsusekai\"toyobu",
-            "zibunnoyokkyu-woseizitunimitashitekurerukankyo-yahitonosfu-go-wo\"jo-shitusekai\"toyobu",
-            "zibunnoyokkyu-woseizitunimitashitekurerukankyo-yahitonosfu-go-wo\"jo-shitsusekai\"toyobu",
-            "zibunnoyokkyu-woseizitunimitashitekurerukankyo-yahitonosfu-go-o\"zyo-situsekai\"toyobu",
-            "zibunnoyokkyu-woseizitunimitashitekurerukankyo-yahitonosfu-go-o\"zyo-sitsusekai\"toyobu",
-            "zibunnoyokkyu-woseizitunimitashitekurerukankyo-yahitonosfu-go-o\"zyo-shitusekai\"toyobu",
-            "zibunnoyokkyu-woseizitunimitashitekurerukankyo-yahitonosfu-go-o\"zyo-shitsusekai\"toyobu",
-            "zibunnoyokkyu-woseizitunimitashitekurerukankyo-yahitonosfu-go-o\"jo-situsekai\"toyobu",
-            "zibunnoyokkyu-woseizitunimitashitekurerukankyo-yahitonosfu-go-o\"jo-sitsusekai\"toyobu",
-            "zibunnoyokkyu-woseizitunimitashitekurerukankyo-yahitonosfu-go-o\"jo-shitusekai\"toyobu",
-            "zibunnoyokkyu-woseizitunimitashitekurerukankyo-yahitonosfu-go-o\"jo-shitsusekai\"toyobu",
-            "zibunnoyokkyu-woseizitsunimitasitekurerukankyo-yahitonosyu-go-wo\"zyo-situsekai\"toyobu",
-            "zibunnoyokkyu-woseizitsunimitasitekurerukankyo-yahitonosyu-go-wo\"zyo-sitsusekai\"toyobu",
-            "zibunnoyokkyu-woseizitsunimitasitekurerukankyo-yahitonosyu-go-wo\"zyo-shitusekai\"toyobu",
-            "zibunnoyokkyu-woseizitsunimitasitekurerukankyo-yahitonosyu-go-wo\"zyo-shitsusekai\"toyobu",
-            "zibunnoyokkyu-woseizitsunimitasitekurerukankyo-yahitonosyu-go-wo\"jo-situsekai\"toyobu",
-            "zibunnoyokkyu-woseizitsunimitasitekurerukankyo-yahitonosyu-go-wo\"jo-sitsusekai\"toyobu",
-            "zibunnoyokkyu-woseizitsunimitasitekurerukankyo-yahitonosyu-go-wo\"jo-shitusekai\"toyobu",
-            "zibunnoyokkyu-woseizitsunimitasitekurerukankyo-yahitonosyu-go-wo\"jo-shitsusekai\"toyobu",
-            "zibunnoyokkyu-woseizitsunimitasitekurerukankyo-yahitonosyu-go-o\"zyo-situsekai\"toyobu",
-            "zibunnoyokkyu-woseizitsunimitasitekurerukankyo-yahitonosyu-go-o\"zyo-sitsusekai\"toyobu",
-            "zibunnoyokkyu-woseizitsunimitasitekurerukankyo-yahitonosyu-go-o\"zyo-shitusekai\"toyobu",
-            "zibunnoyokkyu-woseizitsunimitasitekurerukankyo-yahitonosyu-go-o\"zyo-shitsusekai\"toyobu",
-            "zibunnoyokkyu-woseizitsunimitasitekurerukankyo-yahitonosyu-go-o\"jo-situsekai\"toyobu",
-            "zibunnoyokkyu-woseizitsunimitasitekurerukankyo-yahitonosyu-go-o\"jo-sitsusekai\"toyobu",
-            "zibunnoyokkyu-woseizitsunimitasitekurerukankyo-yahitonosyu-go-o\"jo-shitusekai\"toyobu",
-            "zibunnoyokkyu-woseizitsunimitasitekurerukankyo-yahitonosyu-go-o\"jo-shitsusekai\"toyobu",
-            "zibunnoyokkyu-woseizitsunimitasitekurerukankyo-yahitonoshu-go-wo\"zyo-situsekai\"toyobu",
-            "zibunnoyokkyu-woseizitsunimitasitekurerukankyo-yahitonoshu-go-wo\"zyo-sitsusekai\"toyobu",
-            "zibunnoyokkyu-woseizitsunimitasitekurerukankyo-yahitonoshu-go-wo\"zyo-shitusekai\"toyobu",
-            "zibunnoyokkyu-woseizitsunimitasitekurerukankyo-yahitonoshu-go-wo\"zyo-shitsusekai\"toyobu",
-            "zibunnoyokkyu-woseizitsunimitasitekurerukankyo-yahitonoshu-go-wo\"jo-situsekai\"toyobu",
-            "zibunnoyokkyu-woseizitsunimitasitekurerukankyo-yahitonoshu-go-wo\"jo-sitsusekai\"toyobu",
-            "zibunnoyokkyu-woseizitsunimitasitekurerukankyo-yahitonoshu-go-wo\"jo-shitusekai\"toyobu",
-            "zibunnoyokkyu-woseizitsunimitasitekurerukankyo-yahitonoshu-go-wo\"jo-shitsusekai\"toyobu",
-            "zibunnoyokkyu-woseizitsunimitasitekurerukankyo-yahitonoshu-go-o\"zyo-situsekai\"toyobu",
-            "zibunnoyokkyu-woseizitsunimitasitekurerukankyo-yahitonoshu-go-o\"zyo-sitsusekai\"toyobu",
-            "zibunnoyokkyu-woseizitsunimitasitekurerukankyo-yahitonoshu-go-o\"zyo-shitusekai\"toyobu",
-            "zibunnoyokkyu-woseizitsunimitasitekurerukankyo-yahitonoshu-go-o\"zyo-shitsusekai\"toyobu",
-            "zibunnoyokkyu-woseizitsunimitasitekurerukankyo-yahitonoshu-go-o\"jo-situsekai\"toyobu",
-            "zibunnoyokkyu-woseizitsunimitasitekurerukankyo-yahitonoshu-go-o\"jo-sitsusekai\"toyobu",
-            "zibunnoyokkyu-woseizitsunimitasitekurerukankyo-yahitonoshu-go-o\"jo-shitusekai\"toyobu",
-            "zibunnoyokkyu-woseizitsunimitasitekurerukankyo-yahitonoshu-go-o\"jo-shitsusekai\"toyobu",
-            "zibunnoyokkyu-woseizitsunimitasitekurerukankyo-yahitonosfu-go-wo\"zyo-situsekai\"toyobu",
-            "zibunnoyokkyu-woseizitsunimitasitekurerukankyo-yahitonosfu-go-wo\"zyo-sitsusekai\"toyobu",
-            "zibunnoyokkyu-woseizitsunimitasitekurerukankyo-yahitonosfu-go-wo\"zyo-shitusekai\"toyobu",
-            "zibunnoyokkyu-woseizitsunimitasitekurerukankyo-yahitonosfu-go-wo\"zyo-shitsusekai\"toyobu",
-            "zibunnoyokkyu-woseizitsunimitasitekurerukankyo-yahitonosfu-go-wo\"jo-situsekai\"toyobu",
-            "zibunnoyokkyu-woseizitsunimitasitekurerukankyo-yahitonosfu-go-wo\"jo-sitsusekai\"toyobu",
-            "zibunnoyokkyu-woseizitsunimitasitekurerukankyo-yahitonosfu-go-wo\"jo-shitusekai\"toyobu",
-            "zibunnoyokkyu-woseizitsunimitasitekurerukankyo-yahitonosfu-go-wo\"jo-shitsusekai\"toyobu",
-            "zibunnoyokkyu-woseizitsunimitasitekurerukankyo-yahitonosfu-go-o\"zyo-situsekai\"toyobu",
-            "zibunnoyokkyu-woseizitsunimitasitekurerukankyo-yahitonosfu-go-o\"zyo-sitsusekai\"toyobu",
-            "zibunnoyokkyu-woseizitsunimitasitekurerukankyo-yahitonosfu-go-o\"zyo-shitusekai\"toyobu",
-            "zibunnoyokkyu-woseizitsunimitasitekurerukankyo-yahitonosfu-go-o\"zyo-shitsusekai\"toyobu",
-            "zibunnoyokkyu-woseizitsunimitasitekurerukankyo-yahitonosfu-go-o\"jo-situsekai\"toyobu",
-            "zibunnoyokkyu-woseizitsunimitasitekurerukankyo-yahitonosfu-go-o\"jo-sitsusekai\"toyobu",
-            "zibunnoyokkyu-woseizitsunimitasitekurerukankyo-yahitonosfu-go-o\"jo-shitusekai\"toyobu",
-            "zibunnoyokkyu-woseizitsunimitasitekurerukankyo-yahitonosfu-go-o\"jo-shitsusekai\"toyobu",
-            "zibunnoyokkyu-woseizitsunimitashitekurerukankyo-yahitonosyu-go-wo\"zyo-situsekai\"toyobu",
-            "zibunnoyokkyu-woseizitsunimitashitekurerukankyo-yahitonosyu-go-wo\"zyo-sitsusekai\"toyobu",
-            "zibunnoyokkyu-woseizitsunimitashitekurerukankyo-yahitonosyu-go-wo\"zyo-shitusekai\"toyobu",
-            "zibunnoyokkyu-woseizitsunimitashitekurerukankyo-yahitonosyu-go-wo\"zyo-shitsusekai\"toyobu",
-            "zibunnoyokkyu-woseizitsunimitashitekurerukankyo-yahitonosyu-go-wo\"jo-situsekai\"toyobu",
-            "zibunnoyokkyu-woseizitsunimitashitekurerukankyo-yahitonosyu-go-wo\"jo-sitsusekai\"toyobu",
-            "zibunnoyokkyu-woseizitsunimitashitekurerukankyo-yahitonosyu-go-wo\"jo-shitusekai\"toyobu",
-            "zibunnoyokkyu-woseizitsunimitashitekurerukankyo-yahitonosyu-go-wo\"jo-shitsusekai\"toyobu",
-            "zibunnoyokkyu-woseizitsunimitashitekurerukankyo-yahitonosyu-go-o\"zyo-situsekai\"toyobu",
-            "zibunnoyokkyu-woseizitsunimitashitekurerukankyo-yahitonosyu-go-o\"zyo-sitsusekai\"toyobu",
-            "zibunnoyokkyu-woseizitsunimitashitekurerukankyo-yahitonosyu-go-o\"zyo-shitusekai\"toyobu",
-            "zibunnoyokkyu-woseizitsunimitashitekurerukankyo-yahitonosyu-go-o\"zyo-shitsusekai\"toyobu",
-            "zibunnoyokkyu-woseizitsunimitashitekurerukankyo-yahitonosyu-go-o\"jo-situsekai\"toyobu",
-            "zibunnoyokkyu-woseizitsunimitashitekurerukankyo-yahitonosyu-go-o\"jo-sitsusekai\"toyobu",
-            "zibunnoyokkyu-woseizitsunimitashitekurerukankyo-yahitonosyu-go-o\"jo-shitusekai\"toyobu",
-            "zibunnoyokkyu-woseizitsunimitashitekurerukankyo-yahitonosyu-go-o\"jo-shitsusekai\"toyobu",
-            "zibunnoyokkyu-woseizitsunimitashitekurerukankyo-yahitonoshu-go-wo\"zyo-situsekai\"toyobu",
-            "zibunnoyokkyu-woseizitsunimitashitekurerukankyo-yahitonoshu-go-wo\"zyo-sitsusekai\"toyobu",
-            "zibunnoyokkyu-woseizitsunimitashitekurerukankyo-yahitonoshu-go-wo\"zyo-shitusekai\"toyobu",
-            "zibunnoyokkyu-woseizitsunimitashitekurerukankyo-yahitonoshu-go-wo\"zyo-shitsusekai\"toyobu",
-            "zibunnoyokkyu-woseizitsunimitashitekurerukankyo-yahitonoshu-go-wo\"jo-situsekai\"toyobu",
-            "zibunnoyokkyu-woseizitsunimitashitekurerukankyo-yahitonoshu-go-wo\"jo-sitsusekai\"toyobu",
-            "zibunnoyokkyu-woseizitsunimitashitekurerukankyo-yahitonoshu-go-wo\"jo-shitusekai\"toyobu",
-            "zibunnoyokkyu-woseizitsunimitashitekurerukankyo-yahitonoshu-go-wo\"jo-shitsusekai\"toyobu",
-            "zibunnoyokkyu-woseizitsunimitashitekurerukankyo-yahitonoshu-go-o\"zyo-situsekai\"toyobu",
-            "zibunnoyokkyu-woseizitsunimitashitekurerukankyo-yahitonoshu-go-o\"zyo-sitsusekai\"toyobu",
-            "zibunnoyokkyu-woseizitsunimitashitekurerukankyo-yahitonoshu-go-o\"zyo-shitusekai\"toyobu",
-            "zibunnoyokkyu-woseizitsunimitashitekurerukankyo-yahitonoshu-go-o\"zyo-shitsusekai\"toyobu",
-            "zibunnoyokkyu-woseizitsunimitashitekurerukankyo-yahitonoshu-go-o\"jo-situsekai\"toyobu",
-            "zibunnoyokkyu-woseizitsunimitashitekurerukankyo-yahitonoshu-go-o\"jo-sitsusekai\"toyobu",
-            "zibunnoyokkyu-woseizitsunimitashitekurerukankyo-yahitonoshu-go-o\"jo-shitusekai\"toyobu",
-            "zibunnoyokkyu-woseizitsunimitashitekurerukankyo-yahitonoshu-go-o\"jo-shitsusekai\"toyobu",
-            "zibunnoyokkyu-woseizitsunimitashitekurerukankyo-yahitonosfu-go-wo\"zyo-situsekai\"toyobu",
-            "zibunnoyokkyu-woseizitsunimitashitekurerukankyo-yahitonosfu-go-wo\"zyo-sitsusekai\"toyobu",
-            "zibunnoyokkyu-woseizitsunimitashitekurerukankyo-yahitonosfu-go-wo\"zyo-shitusekai\"toyobu",
-            "zibunnoyokkyu-woseizitsunimitashitekurerukankyo-yahitonosfu-go-wo\"zyo-shitsusekai\"toyobu",
-            "zibunnoyokkyu-woseizitsunimitashitekurerukankyo-yahitonosfu-go-wo\"jo-situsekai\"toyobu",
-            "zibunnoyokkyu-woseizitsunimitashitekurerukankyo-yahitonosfu-go-wo\"jo-sitsusekai\"toyobu",
-            "zibunnoyokkyu-woseizitsunimitashitekurerukankyo-yahitonosfu-go-wo\"jo-shitusekai\"toyobu",
-            "zibunnoyokkyu-woseizitsunimitashitekurerukankyo-yahitonosfu-go-wo\"jo-shitsusekai\"toyobu",
-            "zibunnoyokkyu-woseizitsunimitashitekurerukankyo-yahitonosfu-go-o\"zyo-situsekai\"toyobu",
-            "zibunnoyokkyu-woseizitsunimitashitekurerukankyo-yahitonosfu-go-o\"zyo-sitsusekai\"toyobu",
-            "zibunnoyokkyu-woseizitsunimitashitekurerukankyo-yahitonosfu-go-o\"zyo-shitusekai\"toyobu",
-            "zibunnoyokkyu-woseizitsunimitashitekurerukankyo-yahitonosfu-go-o\"zyo-shitsusekai\"toyobu",
-            "zibunnoyokkyu-woseizitsunimitashitekurerukankyo-yahitonosfu-go-o\"jo-situsekai\"toyobu",
-            "zibunnoyokkyu-woseizitsunimitashitekurerukankyo-yahitonosfu-go-o\"jo-sitsusekai\"toyobu",
-            "zibunnoyokkyu-woseizitsunimitashitekurerukankyo-yahitonosfu-go-o\"jo-shitusekai\"toyobu",
-            "zibunnoyokkyu-woseizitsunimitashitekurerukankyo-yahitonosfu-go-o\"jo-shitsusekai\"toyobu",
-            "zibunnoyokkyu-woseijitunimitasitekurerukankyo-yahitonosyu-go-wo\"zyo-situsekai\"toyobu",
-            "zibunnoyokkyu-woseijitunimitasitekurerukankyo-yahitonosyu-go-wo\"zyo-sitsusekai\"toyobu",
-            "zibunnoyokkyu-woseijitunimitasitekurerukankyo-yahitonosyu-go-wo\"zyo-shitusekai\"toyobu",
-            "zibunnoyokkyu-woseijitunimitasitekurerukankyo-yahitonosyu-go-wo\"zyo-shitsusekai\"toyobu",
-            "zibunnoyokkyu-woseijitunimitasitekurerukankyo-yahitonosyu-go-wo\"jo-situsekai\"toyobu",
-            "zibunnoyokkyu-woseijitunimitasitekurerukankyo-yahitonosyu-go-wo\"jo-sitsusekai\"toyobu",
-            "zibunnoyokkyu-woseijitunimitasitekurerukankyo-yahitonosyu-go-wo\"jo-shitusekai\"toyobu",
-            "zibunnoyokkyu-woseijitunimitasitekurerukankyo-yahitonosyu-go-wo\"jo-shitsusekai\"toyobu",
-            "zibunnoyokkyu-woseijitunimitasitekurerukankyo-yahitonosyu-go-o\"zyo-situsekai\"toyobu",
-            "zibunnoyokkyu-woseijitunimitasitekurerukankyo-yahitonosyu-go-o\"zyo-sitsusekai\"toyobu",
-            "zibunnoyokkyu-woseijitunimitasitekurerukankyo-yahitonosyu-go-o\"zyo-shitusekai\"toyobu",
-            "zibunnoyokkyu-woseijitunimitasitekurerukankyo-yahitonosyu-go-o\"zyo-shitsusekai\"toyobu",
-            "zibunnoyokkyu-woseijitunimitasitekurerukankyo-yahitonosyu-go-o\"jo-situsekai\"toyobu",
-            "zibunnoyokkyu-woseijitunimitasitekurerukankyo-yahitonosyu-go-o\"jo-sitsusekai\"toyobu",
-            "zibunnoyokkyu-woseijitunimitasitekurerukankyo-yahitonosyu-go-o\"jo-shitusekai\"toyobu",
-            "zibunnoyokkyu-woseijitunimitasitekurerukankyo-yahitonosyu-go-o\"jo-shitsusekai\"toyobu",
-            "zibunnoyokkyu-woseijitunimitasitekurerukankyo-yahitonoshu-go-wo\"zyo-situsekai\"toyobu",
-            "zibunnoyokkyu-woseijitunimitasitekurerukankyo-yahitonoshu-go-wo\"zyo-sitsusekai\"toyobu",
-            "zibunnoyokkyu-woseijitunimitasitekurerukankyo-yahitonoshu-go-wo\"zyo-shitusekai\"toyobu",
-            "zibunnoyokkyu-woseijitunimitasitekurerukankyo-yahitonoshu-go-wo\"zyo-shitsusekai\"toyobu",
-            "zibunnoyokkyu-woseijitunimitasitekurerukankyo-yahitonoshu-go-wo\"jo-situsekai\"toyobu",
-            "zibunnoyokkyu-woseijitunimitasitekurerukankyo-yahitonoshu-go-wo\"jo-sitsusekai\"toyobu",
-            "zibunnoyokkyu-woseijitunimitasitekurerukankyo-yahitonoshu-go-wo\"jo-shitusekai\"toyobu",
-            "zibunnoyokkyu-woseijitunimitasitekurerukankyo-yahitonoshu-go-wo\"jo-shitsusekai\"toyobu",
-            "zibunnoyokkyu-woseijitunimitasitekurerukankyo-yahitonoshu-go-o\"zyo-situsekai\"toyobu",
-            "zibunnoyokkyu-woseijitunimitasitekurerukankyo-yahitonoshu-go-o\"zyo-sitsusekai\"toyobu",
-            "zibunnoyokkyu-woseijitunimitasitekurerukankyo-yahitonoshu-go-o\"zyo-shitusekai\"toyobu",
-            "zibunnoyokkyu-woseijitunimitasitekurerukankyo-yahitonoshu-go-o\"zyo-shitsusekai\"toyobu",
-            "zibunnoyokkyu-woseijitunimitasitekurerukankyo-yahitonoshu-go-o\"jo-situsekai\"toyobu",
-            "zibunnoyokkyu-woseijitunimitasitekurerukankyo-yahitonoshu-go-o\"jo-sitsusekai\"toyobu",
-            "zibunnoyokkyu-woseijitunimitasitekurerukankyo-yahitonoshu-go-o\"jo-shitusekai\"toyobu",
-            "zibunnoyokkyu-woseijitunimitasitekurerukankyo-yahitonoshu-go-o\"jo-shitsusekai\"toyobu",
-            "zibunnoyokkyu-woseijitunimitasitekurerukankyo-yahitonosfu-go-wo\"zyo-situsekai\"toyobu",
-            "zibunnoyokkyu-woseijitunimitasitekurerukankyo-yahitonosfu-go-wo\"zyo-sitsusekai\"toyobu",
-            "zibunnoyokkyu-woseijitunimitasitekurerukankyo-yahitonosfu-go-wo\"zyo-shitusekai\"toyobu",
-            "zibunnoyokkyu-woseijitunimitasitekurerukankyo-yahitonosfu-go-wo\"zyo-shitsusekai\"toyobu",
-            "zibunnoyokkyu-woseijitunimitasitekurerukankyo-yahitonosfu-go-wo\"jo-situsekai\"toyobu",
-            "zibunnoyokkyu-woseijitunimitasitekurerukankyo-yahitonosfu-go-wo\"jo-sitsusekai\"toyobu",
-            "zibunnoyokkyu-woseijitunimitasitekurerukankyo-yahitonosfu-go-wo\"jo-shitusekai\"toyobu",
-            "zibunnoyokkyu-woseijitunimitasitekurerukankyo-yahitonosfu-go-wo\"jo-shitsusekai\"toyobu",
-            "zibunnoyokkyu-woseijitunimitasitekurerukankyo-yahitonosfu-go-o\"zyo-situsekai\"toyobu",
-            "zibunnoyokkyu-woseijitunimitasitekurerukankyo-yahitonosfu-go-o\"zyo-sitsusekai\"toyobu",
-            "zibunnoyokkyu-woseijitunimitasitekurerukankyo-yahitonosfu-go-o\"zyo-shitusekai\"toyobu",
-            "zibunnoyokkyu-woseijitunimitasitekurerukankyo-yahitonosfu-go-o\"zyo-shitsusekai\"toyobu",
-            "zibunnoyokkyu-woseijitunimitasitekurerukankyo-yahitonosfu-go-o\"jo-situsekai\"toyobu",
-            "zibunnoyokkyu-woseijitunimitasitekurerukankyo-yahitonosfu-go-o\"jo-sitsusekai\"toyobu",
-            "zibunnoyokkyu-woseijitunimitasitekurerukankyo-yahitonosfu-go-o\"jo-shitusekai\"toyobu",
-            "zibunnoyokkyu-woseijitunimitasitekurerukankyo-yahitonosfu-go-o\"jo-shitsusekai\"toyobu",
-            "zibunnoyokkyu-woseijitunimitashitekurerukankyo-yahitonosyu-go-wo\"zyo-situsekai\"toyobu",
-            "zibunnoyokkyu-woseijitunimitashitekurerukankyo-yahitonosyu-go-wo\"zyo-sitsusekai\"toyobu",
-            "zibunnoyokkyu-woseijitunimitashitekurerukankyo-yahitonosyu-go-wo\"zyo-shitusekai\"toyobu",
-            "zibunnoyokkyu-woseijitunimitashitekurerukankyo-yahitonosyu-go-wo\"zyo-shitsusekai\"toyobu",
-            "zibunnoyokkyu-woseijitunimitashitekurerukankyo-yahitonosyu-go-wo\"jo-situsekai\"toyobu",
-            "zibunnoyokkyu-woseijitunimitashitekurerukankyo-yahitonosyu-go-wo\"jo-sitsusekai\"toyobu",
-            "zibunnoyokkyu-woseijitunimitashitekurerukankyo-yahitonosyu-go-wo\"jo-shitusekai\"toyobu",
-            "zibunnoyokkyu-woseijitunimitashitekurerukankyo-yahitonosyu-go-wo\"jo-shitsusekai\"toyobu",
-            "zibunnoyokkyu-woseijitunimitashitekurerukankyo-yahitonosyu-go-o\"zyo-situsekai\"toyobu",
-            "zibunnoyokkyu-woseijitunimitashitekurerukankyo-yahitonosyu-go-o\"zyo-sitsusekai\"toyobu",
-            "zibunnoyokkyu-woseijitunimitashitekurerukankyo-yahitonosyu-go-o\"zyo-shitusekai\"toyobu",
-            "zibunnoyokkyu-woseijitunimitashitekurerukankyo-yahitonosyu-go-o\"zyo-shitsusekai\"toyobu",
-            "zibunnoyokkyu-woseijitunimitashitekurerukankyo-yahitonosyu-go-o\"jo-situsekai\"toyobu",
-            "zibunnoyokkyu-woseijitunimitashitekurerukankyo-yahitonosyu-go-o\"jo-sitsusekai\"toyobu",
-            "zibunnoyokkyu-woseijitunimitashitekurerukankyo-yahitonosyu-go-o\"jo-shitusekai\"toyobu",
-            "zibunnoyokkyu-woseijitunimitashitekurerukankyo-yahitonosyu-go-o\"jo-shitsusekai\"toyobu",
-            "zibunnoyokkyu-woseijitunimitashitekurerukankyo-yahitonoshu-go-wo\"zyo-situsekai\"toyobu",
-            "zibunnoyokkyu-woseijitunimitashitekurerukankyo-yahitonoshu-go-wo\"zyo-sitsusekai\"toyobu",
-            "zibunnoyokkyu-woseijitunimitashitekurerukankyo-yahitonoshu-go-wo\"zyo-shitusekai\"toyobu",
-            "zibunnoyokkyu-woseijitunimitashitekurerukankyo-yahitonoshu-go-wo\"zyo-shitsusekai\"toyobu",
-            "zibunnoyokkyu-woseijitunimitashitekurerukankyo-yahitonoshu-go-wo\"jo-situsekai\"toyobu",
-            "zibunnoyokkyu-woseijitunimitashitekurerukankyo-yahitonoshu-go-wo\"jo-sitsusekai\"toyobu",
-            "zibunnoyokkyu-woseijitunimitashitekurerukankyo-yahitonoshu-go-wo\"jo-shitusekai\"toyobu",
-            "zibunnoyokkyu-woseijitunimitashitekurerukankyo-yahitonoshu-go-wo\"jo-shitsusekai\"toyobu",
-            "zibunnoyokkyu-woseijitunimitashitekurerukankyo-yahitonoshu-go-o\"zyo-situsekai\"toyobu",
-            "zibunnoyokkyu-woseijitunimitashitekurerukankyo-yahitonoshu-go-o\"zyo-sitsusekai\"toyobu",
-            "zibunnoyokkyu-woseijitunimitashitekurerukankyo-yahitonoshu-go-o\"zyo-shitusekai\"toyobu",
-            "zibunnoyokkyu-woseijitunimitashitekurerukankyo-yahitonoshu-go-o\"zyo-shitsusekai\"toyobu",
-            "zibunnoyokkyu-woseijitunimitashitekurerukankyo-yahitonoshu-go-o\"jo-situsekai\"toyobu",
-            "zibunnoyokkyu-woseijitunimitashitekurerukankyo-yahitonoshu-go-o\"jo-sitsusekai\"toyobu",
-            "zibunnoyokkyu-woseijitunimitashitekurerukankyo-yahitonoshu-go-o\"jo-shitusekai\"toyobu",
-            "zibunnoyokkyu-woseijitunimitashitekurerukankyo-yahitonoshu-go-o\"jo-shitsusekai\"toyobu",
-            "zibunnoyokkyu-woseijitunimitashitekurerukankyo-yahitonosfu-go-wo\"zyo-situsekai\"toyobu",
-            "zibunnoyokkyu-woseijitunimitashitekurerukankyo-yahitonosfu-go-wo\"zyo-sitsusekai\"toyobu",
-            "zibunnoyokkyu-woseijitunimitashitekurerukankyo-yahitonosfu-go-wo\"zyo-shitusekai\"toyobu",
-            "zibunnoyokkyu-woseijitunimitashitekurerukankyo-yahitonosfu-go-wo\"zyo-shitsusekai\"toyobu",
-            "zibunnoyokkyu-woseijitunimitashitekurerukankyo-yahitonosfu-go-wo\"jo-situsekai\"toyobu",
-            "zibunnoyokkyu-woseijitunimitashitekurerukankyo-yahitonosfu-go-wo\"jo-sitsusekai\"toyobu",
-            "zibunnoyokkyu-woseijitunimitashitekurerukankyo-yahitonosfu-go-wo\"jo-shitusekai\"toyobu",
-            "zibunnoyokkyu-woseijitunimitashitekurerukankyo-yahitonosfu-go-wo\"jo-shitsusekai\"toyobu",
-            "zibunnoyokkyu-woseijitunimitashitekurerukankyo-yahitonosfu-go-o\"zyo-situsekai\"toyobu",
-            "zibunnoyokkyu-woseijitunimitashitekurerukankyo-yahitonosfu-go-o\"zyo-sitsusekai\"toyobu",
-            "zibunnoyokkyu-woseijitunimitashitekurerukankyo-yahitonosfu-go-o\"zyo-shitusekai\"toyobu",
-            "zibunnoyokkyu-woseijitunimitashitekurerukankyo-yahitonosfu-go-o\"zyo-shitsusekai\"toyobu",
-            "zibunnoyokkyu-woseijitunimitashitekurerukankyo-yahitonosfu-go-o\"jo-situsekai\"toyobu",
-            "zibunnoyokkyu-woseijitunimitashitekurerukankyo-yahitonosfu-go-o\"jo-sitsusekai\"toyobu",
-            "zibunnoyokkyu-woseijitunimitashitekurerukankyo-yahitonosfu-go-o\"jo-shitusekai\"toyobu",
-            "zibunnoyokkyu-woseijitunimitashitekurerukankyo-yahitonosfu-go-o\"jo-shitsusekai\"toyobu",
-            "zibunnoyokkyu-woseijitsunimitasitekurerukankyo-yahitonosyu-go-wo\"zyo-situsekai\"toyobu",
-            "zibunnoyokkyu-woseijitsunimitasitekurerukankyo-yahitonosyu-go-wo\"zyo-sitsusekai\"toyobu",
-            "zibunnoyokkyu-woseijitsunimitasitekurerukankyo-yahitonosyu-go-wo\"zyo-shitusekai\"toyobu",
-            "zibunnoyokkyu-woseijitsunimitasitekurerukankyo-yahitonosyu-go-wo\"zyo-shitsusekai\"toyobu",
-            "zibunnoyokkyu-woseijitsunimitasitekurerukankyo-yahitonosyu-go-wo\"jo-situsekai\"toyobu",
-            "zibunnoyokkyu-woseijitsunimitasitekurerukankyo-yahitonosyu-go-wo\"jo-sitsusekai\"toyobu",
-            "zibunnoyokkyu-woseijitsunimitasitekurerukankyo-yahitonosyu-go-wo\"jo-shitusekai\"toyobu",
-            "zibunnoyokkyu-woseijitsunimitasitekurerukankyo-yahitonosyu-go-wo\"jo-shitsusekai\"toyobu",
-            "zibunnoyokkyu-woseijitsunimitasitekurerukankyo-yahitonosyu-go-o\"zyo-situsekai\"toyobu",
-            "zibunnoyokkyu-woseijitsunimitasitekurerukankyo-yahitonosyu-go-o\"zyo-sitsusekai\"toyobu",
-            "zibunnoyokkyu-woseijitsunimitasitekurerukankyo-yahitonosyu-go-o\"zyo-shitusekai\"toyobu",
-            "zibunnoyokkyu-woseijitsunimitasitekurerukankyo-yahitonosyu-go-o\"zyo-shitsusekai\"toyobu",
-            "zibunnoyokkyu-woseijitsunimitasitekurerukankyo-yahitonosyu-go-o\"jo-situsekai\"toyobu",
-            "zibunnoyokkyu-woseijitsunimitasitekurerukankyo-yahitonosyu-go-o\"jo-sitsusekai\"toyobu",
-            "zibunnoyokkyu-woseijitsunimitasitekurerukankyo-yahitonosyu-go-o\"jo-shitusekai\"toyobu",
-            "zibunnoyokkyu-woseijitsunimitasitekurerukankyo-yahitonosyu-go-o\"jo-shitsusekai\"toyobu",
-            "zibunnoyokkyu-woseijitsunimitasitekurerukankyo-yahitonoshu-go-wo\"zyo-situsekai\"toyobu",
-            "zibunnoyokkyu-woseijitsunimitasitekurerukankyo-yahitonoshu-go-wo\"zyo-sitsusekai\"toyobu",
-            "zibunnoyokkyu-woseijitsunimitasitekurerukankyo-yahitonoshu-go-wo\"zyo-shitusekai\"toyobu",
-            "zibunnoyokkyu-woseijitsunimitasitekurerukankyo-yahitonoshu-go-wo\"zyo-shitsusekai\"toyobu",
-            "zibunnoyokkyu-woseijitsunimitasitekurerukankyo-yahitonoshu-go-wo\"jo-situsekai\"toyobu",
-            "zibunnoyokkyu-woseijitsunimitasitekurerukankyo-yahitonoshu-go-wo\"jo-sitsusekai\"toyobu",
-            "zibunnoyokkyu-woseijitsunimitasitekurerukankyo-yahitonoshu-go-wo\"jo-shitusekai\"toyobu",
-            "zibunnoyokkyu-woseijitsunimitasitekurerukankyo-yahitonoshu-go-wo\"jo-shitsusekai\"toyobu",
-            "zibunnoyokkyu-woseijitsunimitasitekurerukankyo-yahitonoshu-go-o\"zyo-situsekai\"toyobu",
-            "zibunnoyokkyu-woseijitsunimitasitekurerukankyo-yahitonoshu-go-o\"zyo-sitsusekai\"toyobu",
-            "zibunnoyokkyu-woseijitsunimitasitekurerukankyo-yahitonoshu-go-o\"zyo-shitusekai\"toyobu",
-            "zibunnoyokkyu-woseijitsunimitasitekurerukankyo-yahitonoshu-go-o\"zyo-shitsusekai\"toyobu",
-            "zibunnoyokkyu-woseijitsunimitasitekurerukankyo-yahitonoshu-go-o\"jo-situsekai\"toyobu",
-            "zibunnoyokkyu-woseijitsunimitasitekurerukankyo-yahitonoshu-go-o\"jo-sitsusekai\"toyobu",
-            "zibunnoyokkyu-woseijitsunimitasitekurerukankyo-yahitonoshu-go-o\"jo-shitusekai\"toyobu",
-            "zibunnoyokkyu-woseijitsunimitasitekurerukankyo-yahitonoshu-go-o\"jo-shitsusekai\"toyobu",
-            "zibunnoyokkyu-woseijitsunimitasitekurerukankyo-yahitonosfu-go-wo\"zyo-situsekai\"toyobu",
-            "zibunnoyokkyu-woseijitsunimitasitekurerukankyo-yahitonosfu-go-wo\"zyo-sitsusekai\"toyobu",
-            "zibunnoyokkyu-woseijitsunimitasitekurerukankyo-yahitonosfu-go-wo\"zyo-shitusekai\"toyobu",
-            "zibunnoyokkyu-woseijitsunimitasitekurerukankyo-yahitonosfu-go-wo\"zyo-shitsusekai\"toyobu",
-            "zibunnoyokkyu-woseijitsunimitasitekurerukankyo-yahitonosfu-go-wo\"jo-situsekai\"toyobu",
-            "zibunnoyokkyu-woseijitsunimitasitekurerukankyo-yahitonosfu-go-wo\"jo-sitsusekai\"toyobu",
-            "zibunnoyokkyu-woseijitsunimitasitekurerukankyo-yahitonosfu-go-wo\"jo-shitusekai\"toyobu",
-            "zibunnoyokkyu-woseijitsunimitasitekurerukankyo-yahitonosfu-go-wo\"jo-shitsusekai\"toyobu",
-            "zibunnoyokkyu-woseijitsunimitasitekurerukankyo-yahitonosfu-go-o\"zyo-situsekai\"toyobu",
-            "zibunnoyokkyu-woseijitsunimitasitekurerukankyo-yahitonosfu-go-o\"zyo-sitsusekai\"toyobu",
-            "zibunnoyokkyu-woseijitsunimitasitekurerukankyo-yahitonosfu-go-o\"zyo-shitusekai\"toyobu",
-            "zibunnoyokkyu-woseijitsunimitasitekurerukankyo-yahitonosfu-go-o\"zyo-shitsusekai\"toyobu",
-            "zibunnoyokkyu-woseijitsunimitasitekurerukankyo-yahitonosfu-go-o\"jo-situsekai\"toyobu",
-            "zibunnoyokkyu-woseijitsunimitasitekurerukankyo-yahitonosfu-go-o\"jo-sitsusekai\"toyobu",
-            "zibunnoyokkyu-woseijitsunimitasitekurerukankyo-yahitonosfu-go-o\"jo-shitusekai\"toyobu",
-            "zibunnoyokkyu-woseijitsunimitasitekurerukankyo-yahitonosfu-go-o\"jo-shitsusekai\"toyobu",
-            "zibunnoyokkyu-woseijitsunimitashitekurerukankyo-yahitonosyu-go-wo\"zyo-situsekai\"toyobu",
-            "zibunnoyokkyu-woseijitsunimitashitekurerukankyo-yahitonosyu-go-wo\"zyo-sitsusekai\"toyobu",
-            "zibunnoyokkyu-woseijitsunimitashitekurerukankyo-yahitonosyu-go-wo\"zyo-shitusekai\"toyobu",
-            "zibunnoyokkyu-woseijitsunimitashitekurerukankyo-yahitonosyu-go-wo\"zyo-shitsusekai\"toyobu",
-            "zibunnoyokkyu-woseijitsunimitashitekurerukankyo-yahitonosyu-go-wo\"jo-situsekai\"toyobu",
-            "zibunnoyokkyu-woseijitsunimitashitekurerukankyo-yahitonosyu-go-wo\"jo-sitsusekai\"toyobu",
-            "zibunnoyokkyu-woseijitsunimitashitekurerukankyo-yahitonosyu-go-wo\"jo-shitusekai\"toyobu",
-            "zibunnoyokkyu-woseijitsunimitashitekurerukankyo-yahitonosyu-go-wo\"jo-shitsusekai\"toyobu",
-            "zibunnoyokkyu-woseijitsunimitashitekurerukankyo-yahitonosyu-go-o\"zyo-situsekai\"toyobu",
-            "zibunnoyokkyu-woseijitsunimitashitekurerukankyo-yahitonosyu-go-o\"zyo-sitsusekai\"toyobu",
-            "zibunnoyokkyu-woseijitsunimitashitekurerukankyo-yahitonosyu-go-o\"zyo-shitusekai\"toyobu",
-            "zibunnoyokkyu-woseijitsunimitashitekurerukankyo-yahitonosyu-go-o\"zyo-shitsusekai\"toyobu",
-            "zibunnoyokkyu-woseijitsunimitashitekurerukankyo-yahitonosyu-go-o\"jo-situsekai\"toyobu",
-            "zibunnoyokkyu-woseijitsunimitashitekurerukankyo-yahitonosyu-go-o\"jo-sitsusekai\"toyobu",
-            "zibunnoyokkyu-woseijitsunimitashitekurerukankyo-yahitonosyu-go-o\"jo-shitusekai\"toyobu",
-            "zibunnoyokkyu-woseijitsunimitashitekurerukankyo-yahitonosyu-go-o\"jo-shitsusekai\"toyobu",
-            "zibunnoyokkyu-woseijitsunimitashitekurerukankyo-yahitonoshu-go-wo\"zyo-situsekai\"toyobu",
-            "zibunnoyokkyu-woseijitsunimitashitekurerukankyo-yahitonoshu-go-wo\"zyo-sitsusekai\"toyobu",
-            "zibunnoyokkyu-woseijitsunimitashitekurerukankyo-yahitonoshu-go-wo\"zyo-shitusekai\"toyobu",
-            "zibunnoyokkyu-woseijitsunimitashitekurerukankyo-yahitonoshu-go-wo\"zyo-shitsusekai\"toyobu",
-            "zibunnoyokkyu-woseijitsunimitashitekurerukankyo-yahitonoshu-go-wo\"jo-situsekai\"toyobu",
-            "zibunnoyokkyu-woseijitsunimitashitekurerukankyo-yahitonoshu-go-wo\"jo-sitsusekai\"toyobu",
-            "zibunnoyokkyu-woseijitsunimitashitekurerukankyo-yahitonoshu-go-wo\"jo-shitusekai\"toyobu",
-            "zibunnoyokkyu-woseijitsunimitashitekurerukankyo-yahitonoshu-go-wo\"jo-shitsusekai\"toyobu",
-            "zibunnoyokkyu-woseijitsunimitashitekurerukankyo-yahitonoshu-go-o\"zyo-situsekai\"toyobu",
-            "zibunnoyokkyu-woseijitsunimitashitekurerukankyo-yahitonoshu-go-o\"zyo-sitsusekai\"toyobu",
-            "zibunnoyokkyu-woseijitsunimitashitekurerukankyo-yahitonoshu-go-o\"zyo-shitusekai\"toyobu",
-            "zibunnoyokkyu-woseijitsunimitashitekurerukankyo-yahitonoshu-go-o\"zyo-shitsusekai\"toyobu",
-            "zibunnoyokkyu-woseijitsunimitashitekurerukankyo-yahitonoshu-go-o\"jo-situsekai\"toyobu",
-            "zibunnoyokkyu-woseijitsunimitashitekurerukankyo-yahitonoshu-go-o\"jo-sitsusekai\"toyobu",
-            "zibunnoyokkyu-woseijitsunimitashitekurerukankyo-yahitonoshu-go-o\"jo-shitusekai\"toyobu",
-            "zibunnoyokkyu-woseijitsunimitashitekurerukankyo-yahitonoshu-go-o\"jo-shitsusekai\"toyobu",
-            "zibunnoyokkyu-woseijitsunimitashitekurerukankyo-yahitonosfu-go-wo\"zyo-situsekai\"toyobu",
-            "zibunnoyokkyu-woseijitsunimitashitekurerukankyo-yahitonosfu-go-wo\"zyo-sitsusekai\"toyobu",
-            "zibunnoyokkyu-woseijitsunimitashitekurerukankyo-yahitonosfu-go-wo\"zyo-shitusekai\"toyobu",
-            "zibunnoyokkyu-woseijitsunimitashitekurerukankyo-yahitonosfu-go-wo\"zyo-shitsusekai\"toyobu",
-            "zibunnoyokkyu-woseijitsunimitashitekurerukankyo-yahitonosfu-go-wo\"jo-situsekai\"toyobu",
-            "zibunnoyokkyu-woseijitsunimitashitekurerukankyo-yahitonosfu-go-wo\"jo-sitsusekai\"toyobu",
-            "zibunnoyokkyu-woseijitsunimitashitekurerukankyo-yahitonosfu-go-wo\"jo-shitusekai\"toyobu",
-            "zibunnoyokkyu-woseijitsunimitashitekurerukankyo-yahitonosfu-go-wo\"jo-shitsusekai\"toyobu",
-            "zibunnoyokkyu-woseijitsunimitashitekurerukankyo-yahitonosfu-go-o\"zyo-situsekai\"toyobu",
-            "zibunnoyokkyu-woseijitsunimitashitekurerukankyo-yahitonosfu-go-o\"zyo-sitsusekai\"toyobu",
-            "zibunnoyokkyu-woseijitsunimitashitekurerukankyo-yahitonosfu-go-o\"zyo-shitusekai\"toyobu",
-            "zibunnoyokkyu-woseijitsunimitashitekurerukankyo-yahitonosfu-go-o\"zyo-shitsusekai\"toyobu",
-            "zibunnoyokkyu-woseijitsunimitashitekurerukankyo-yahitonosfu-go-o\"jo-situsekai\"toyobu",
-            "zibunnoyokkyu-woseijitsunimitashitekurerukankyo-yahitonosfu-go-o\"jo-sitsusekai\"toyobu",
-            "zibunnoyokkyu-woseijitsunimitashitekurerukankyo-yahitonosfu-go-o\"jo-shitusekai\"toyobu",
-            "zibunnoyokkyu-woseijitsunimitashitekurerukankyo-yahitonosfu-go-o\"jo-shitsusekai\"toyobu",
-            "zibunnoyokkyu-oseizitunimitasitekurerukankyo-yahitonosyu-go-wo\"zyo-situsekai\"toyobu",
-            "zibunnoyokkyu-oseizitunimitasitekurerukankyo-yahitonosyu-go-wo\"zyo-sitsusekai\"toyobu",
-            "zibunnoyokkyu-oseizitunimitasitekurerukankyo-yahitonosyu-go-wo\"zyo-shitusekai\"toyobu",
-            "zibunnoyokkyu-oseizitunimitasitekurerukankyo-yahitonosyu-go-wo\"zyo-shitsusekai\"toyobu",
-            "zibunnoyokkyu-oseizitunimitasitekurerukankyo-yahitonosyu-go-wo\"jo-situsekai\"toyobu",
-            "zibunnoyokkyu-oseizitunimitasitekurerukankyo-yahitonosyu-go-wo\"jo-sitsusekai\"toyobu",
-            "zibunnoyokkyu-oseizitunimitasitekurerukankyo-yahitonosyu-go-wo\"jo-shitusekai\"toyobu",
-            "zibunnoyokkyu-oseizitunimitasitekurerukankyo-yahitonosyu-go-wo\"jo-shitsusekai\"toyobu",
-            "zibunnoyokkyu-oseizitunimitasitekurerukankyo-yahitonosyu-go-o\"zyo-situsekai\"toyobu",
-            "zibunnoyokkyu-oseizitunimitasitekurerukankyo-yahitonosyu-go-o\"zyo-sitsusekai\"toyobu",
-            "zibunnoyokkyu-oseizitunimitasitekurerukankyo-yahitonosyu-go-o\"zyo-shitusekai\"toyobu",
-            "zibunnoyokkyu-oseizitunimitasitekurerukankyo-yahitonosyu-go-o\"zyo-shitsusekai\"toyobu",
-            "zibunnoyokkyu-oseizitunimitasitekurerukankyo-yahitonosyu-go-o\"jo-situsekai\"toyobu",
-            "zibunnoyokkyu-oseizitunimitasitekurerukankyo-yahitonosyu-go-o\"jo-sitsusekai\"toyobu",
-            "zibunnoyokkyu-oseizitunimitasitekurerukankyo-yahitonosyu-go-o\"jo-shitusekai\"toyobu",
-            "zibunnoyokkyu-oseizitunimitasitekurerukankyo-yahitonosyu-go-o\"jo-shitsusekai\"toyobu",
-            "zibunnoyokkyu-oseizitunimitasitekurerukankyo-yahitonoshu-go-wo\"zyo-situsekai\"toyobu",
-            "zibunnoyokkyu-oseizitunimitasitekurerukankyo-yahitonoshu-go-wo\"zyo-sitsusekai\"toyobu",
-            "zibunnoyokkyu-oseizitunimitasitekurerukankyo-yahitonoshu-go-wo\"zyo-shitusekai\"toyobu",
-            "zibunnoyokkyu-oseizitunimitasitekurerukankyo-yahitonoshu-go-wo\"zyo-shitsusekai\"toyobu",
-            "zibunnoyokkyu-oseizitunimitasitekurerukankyo-yahitonoshu-go-wo\"jo-situsekai\"toyobu",
-            "zibunnoyokkyu-oseizitunimitasitekurerukankyo-yahitonoshu-go-wo\"jo-sitsusekai\"toyobu",
-            "zibunnoyokkyu-oseizitunimitasitekurerukankyo-yahitonoshu-go-wo\"jo-shitusekai\"toyobu",
-            "zibunnoyokkyu-oseizitunimitasitekurerukankyo-yahitonoshu-go-wo\"jo-shitsusekai\"toyobu",
-            "zibunnoyokkyu-oseizitunimitasitekurerukankyo-yahitonoshu-go-o\"zyo-situsekai\"toyobu",
-            "zibunnoyokkyu-oseizitunimitasitekurerukankyo-yahitonoshu-go-o\"zyo-sitsusekai\"toyobu",
-            "zibunnoyokkyu-oseizitunimitasitekurerukankyo-yahitonoshu-go-o\"zyo-shitusekai\"toyobu",
-            "zibunnoyokkyu-oseizitunimitasitekurerukankyo-yahitonoshu-go-o\"zyo-shitsusekai\"toyobu",
-            "zibunnoyokkyu-oseizitunimitasitekurerukankyo-yahitonoshu-go-o\"jo-situsekai\"toyobu",
-            "zibunnoyokkyu-oseizitunimitasitekurerukankyo-yahitonoshu-go-o\"jo-sitsusekai\"toyobu",
-            "zibunnoyokkyu-oseizitunimitasitekurerukankyo-yahitonoshu-go-o\"jo-shitusekai\"toyobu",
-            "zibunnoyokkyu-oseizitunimitasitekurerukankyo-yahitonoshu-go-o\"jo-shitsusekai\"toyobu",
-            "zibunnoyokkyu-oseizitunimitasitekurerukankyo-yahitonosfu-go-wo\"zyo-situsekai\"toyobu",
-            "zibunnoyokkyu-oseizitunimitasitekurerukankyo-yahitonosfu-go-wo\"zyo-sitsusekai\"toyobu",
-            "zibunnoyokkyu-oseizitunimitasitekurerukankyo-yahitonosfu-go-wo\"zyo-shitusekai\"toyobu",
-            "zibunnoyokkyu-oseizitunimitasitekurerukankyo-yahitonosfu-go-wo\"zyo-shitsusekai\"toyobu",
-            "zibunnoyokkyu-oseizitunimitasitekurerukankyo-yahitonosfu-go-wo\"jo-situsekai\"toyobu",
-            "zibunnoyokkyu-oseizitunimitasitekurerukankyo-yahitonosfu-go-wo\"jo-sitsusekai\"toyobu",
-            "zibunnoyokkyu-oseizitunimitasitekurerukankyo-yahitonosfu-go-wo\"jo-shitusekai\"toyobu",
-            "zibunnoyokkyu-oseizitunimitasitekurerukankyo-yahitonosfu-go-wo\"jo-shitsusekai\"toyobu",
-            "zibunnoyokkyu-oseizitunimitasitekurerukankyo-yahitonosfu-go-o\"zyo-situsekai\"toyobu",
-            "zibunnoyokkyu-oseizitunimitasitekurerukankyo-yahitonosfu-go-o\"zyo-sitsusekai\"toyobu",
-            "zibunnoyokkyu-oseizitunimitasitekurerukankyo-yahitonosfu-go-o\"zyo-shitusekai\"toyobu",
-            "zibunnoyokkyu-oseizitunimitasitekurerukankyo-yahitonosfu-go-o\"zyo-shitsusekai\"toyobu",
-            "zibunnoyokkyu-oseizitunimitasitekurerukankyo-yahitonosfu-go-o\"jo-situsekai\"toyobu",
-            "zibunnoyokkyu-oseizitunimitasitekurerukankyo-yahitonosfu-go-o\"jo-sitsusekai\"toyobu",
-            "zibunnoyokkyu-oseizitunimitasitekurerukankyo-yahitonosfu-go-o\"jo-shitusekai\"toyobu",
-            "zibunnoyokkyu-oseizitunimitasitekurerukankyo-yahitonosfu-go-o\"jo-shitsusekai\"toyobu",
-            "zibunnoyokkyu-oseizitunimitashitekurerukankyo-yahitonosyu-go-wo\"zyo-situsekai\"toyobu",
-            "zibunnoyokkyu-oseizitunimitashitekurerukankyo-yahitonosyu-go-wo\"zyo-sitsusekai\"toyobu",
-            "zibunnoyokkyu-oseizitunimitashitekurerukankyo-yahitonosyu-go-wo\"zyo-shitusekai\"toyobu",
-            "zibunnoyokkyu-oseizitunimitashitekurerukankyo-yahitonosyu-go-wo\"zyo-shitsusekai\"toyobu",
-            "zibunnoyokkyu-oseizitunimitashitekurerukankyo-yahitonosyu-go-wo\"jo-situsekai\"toyobu",
-            "zibunnoyokkyu-oseizitunimitashitekurerukankyo-yahitonosyu-go-wo\"jo-sitsusekai\"toyobu",
-            "zibunnoyokkyu-oseizitunimitashitekurerukankyo-yahitonosyu-go-wo\"jo-shitusekai\"toyobu",
-            "zibunnoyokkyu-oseizitunimitashitekurerukankyo-yahitonosyu-go-wo\"jo-shitsusekai\"toyobu",
-            "zibunnoyokkyu-oseizitunimitashitekurerukankyo-yahitonosyu-go-o\"zyo-situsekai\"toyobu",
-            "zibunnoyokkyu-oseizitunimitashitekurerukankyo-yahitonosyu-go-o\"zyo-sitsusekai\"toyobu",
-            "zibunnoyokkyu-oseizitunimitashitekurerukankyo-yahitonosyu-go-o\"zyo-shitusekai\"toyobu",
-            "zibunnoyokkyu-oseizitunimitashitekurerukankyo-yahitonosyu-go-o\"zyo-shitsusekai\"toyobu",
-            "zibunnoyokkyu-oseizitunimitashitekurerukankyo-yahitonosyu-go-o\"jo-situsekai\"toyobu",
-            "zibunnoyokkyu-oseizitunimitashitekurerukankyo-yahitonosyu-go-o\"jo-sitsusekai\"toyobu",
-            "zibunnoyokkyu-oseizitunimitashitekurerukankyo-yahitonosyu-go-o\"jo-shitusekai\"toyobu",
-            "zibunnoyokkyu-oseizitunimitashitekurerukankyo-yahitonosyu-go-o\"jo-shitsusekai\"toyobu",
-            "zibunnoyokkyu-oseizitunimitashitekurerukankyo-yahitonoshu-go-wo\"zyo-situsekai\"toyobu",
-            "zibunnoyokkyu-oseizitunimitashitekurerukankyo-yahitonoshu-go-wo\"zyo-sitsusekai\"toyobu",
-            "zibunnoyokkyu-oseizitunimitashitekurerukankyo-yahitonoshu-go-wo\"zyo-shitusekai\"toyobu",
-            "zibunnoyokkyu-oseizitunimitashitekurerukankyo-yahitonoshu-go-wo\"zyo-shitsusekai\"toyobu",
-            "zibunnoyokkyu-oseizitunimitashitekurerukankyo-yahitonoshu-go-wo\"jo-situsekai\"toyobu",
-            "zibunnoyokkyu-oseizitunimitashitekurerukankyo-yahitonoshu-go-wo\"jo-sitsusekai\"toyobu",
-            "zibunnoyokkyu-oseizitunimitashitekurerukankyo-yahitonoshu-go-wo\"jo-shitusekai\"toyobu",
-            "zibunnoyokkyu-oseizitunimitashitekurerukankyo-yahitonoshu-go-wo\"jo-shitsusekai\"toyobu",
-            "zibunnoyokkyu-oseizitunimitashitekurerukankyo-yahitonoshu-go-o\"zyo-situsekai\"toyobu",
-            "zibunnoyokkyu-oseizitunimitashitekurerukankyo-yahitonoshu-go-o\"zyo-sitsusekai\"toyobu",
-            "zibunnoyokkyu-oseizitunimitashitekurerukankyo-yahitonoshu-go-o\"zyo-shitusekai\"toyobu",
-            "zibunnoyokkyu-oseizitunimitashitekurerukankyo-yahitonoshu-go-o\"zyo-shitsusekai\"toyobu",
-            "zibunnoyokkyu-oseizitunimitashitekurerukankyo-yahitonoshu-go-o\"jo-situsekai\"toyobu",
-            "zibunnoyokkyu-oseizitunimitashitekurerukankyo-yahitonoshu-go-o\"jo-sitsusekai\"toyobu",
-            "zibunnoyokkyu-oseizitunimitashitekurerukankyo-yahitonoshu-go-o\"jo-shitusekai\"toyobu",
-            "zibunnoyokkyu-oseizitunimitashitekurerukankyo-yahitonoshu-go-o\"jo-shitsusekai\"toyobu",
-            "zibunnoyokkyu-oseizitunimitashitekurerukankyo-yahitonosfu-go-wo\"zyo-situsekai\"toyobu",
-            "zibunnoyokkyu-oseizitunimitashitekurerukankyo-yahitonosfu-go-wo\"zyo-sitsusekai\"toyobu",
-            "zibunnoyokkyu-oseizitunimitashitekurerukankyo-yahitonosfu-go-wo\"zyo-shitusekai\"toyobu",
-            "zibunnoyokkyu-oseizitunimitashitekurerukankyo-yahitonosfu-go-wo\"zyo-shitsusekai\"toyobu",
-            "zibunnoyokkyu-oseizitunimitashitekurerukankyo-yahitonosfu-go-wo\"jo-situsekai\"toyobu",
-            "zibunnoyokkyu-oseizitunimitashitekurerukankyo-yahitonosfu-go-wo\"jo-sitsusekai\"toyobu",
-            "zibunnoyokkyu-oseizitunimitashitekurerukankyo-yahitonosfu-go-wo\"jo-shitusekai\"toyobu",
-            "zibunnoyokkyu-oseizitunimitashitekurerukankyo-yahitonosfu-go-wo\"jo-shitsusekai\"toyobu",
-            "zibunnoyokkyu-oseizitunimitashitekurerukankyo-yahitonosfu-go-o\"zyo-situsekai\"toyobu",
-            "zibunnoyokkyu-oseizitunimitashitekurerukankyo-yahitonosfu-go-o\"zyo-sitsusekai\"toyobu",
-            "zibunnoyokkyu-oseizitunimitashitekurerukankyo-yahitonosfu-go-o\"zyo-shitusekai\"toyobu",
-            "zibunnoyokkyu-oseizitunimitashitekurerukankyo-yahitonosfu-go-o\"zyo-shitsusekai\"toyobu",
-            "zibunnoyokkyu-oseizitunimitashitekurerukankyo-yahitonosfu-go-o\"jo-situsekai\"toyobu",
-            "zibunnoyokkyu-oseizitunimitashitekurerukankyo-yahitonosfu-go-o\"jo-sitsusekai\"toyobu",
-            "zibunnoyokkyu-oseizitunimitashitekurerukankyo-yahitonosfu-go-o\"jo-shitusekai\"toyobu",
-            "zibunnoyokkyu-oseizitunimitashitekurerukankyo-yahitonosfu-go-o\"jo-shitsusekai\"toyobu",
-            "zibunnoyokkyu-oseizitsunimitasitekurerukankyo-yahitonosyu-go-wo\"zyo-situsekai\"toyobu",
-            "zibunnoyokkyu-oseizitsunimitasitekurerukankyo-yahitonosyu-go-wo\"zyo-sitsusekai\"toyobu",
-            "zibunnoyokkyu-oseizitsunimitasitekurerukankyo-yahitonosyu-go-wo\"zyo-shitusekai\"toyobu",
-            "zibunnoyokkyu-oseizitsunimitasitekurerukankyo-yahitonosyu-go-wo\"zyo-shitsusekai\"toyobu",
-            "zibunnoyokkyu-oseizitsunimitasitekurerukankyo-yahitonosyu-go-wo\"jo-situsekai\"toyobu",
-            "zibunnoyokkyu-oseizitsunimitasitekurerukankyo-yahitonosyu-go-wo\"jo-sitsusekai\"toyobu",
-            "zibunnoyokkyu-oseizitsunimitasitekurerukankyo-yahitonosyu-go-wo\"jo-shitusekai\"toyobu",
-            "zibunnoyokkyu-oseizitsunimitasitekurerukankyo-yahitonosyu-go-wo\"jo-shitsusekai\"toyobu",
-            "zibunnoyokkyu-oseizitsunimitasitekurerukankyo-yahitonosyu-go-o\"zyo-situsekai\"toyobu",
-            "zibunnoyokkyu-oseizitsunimitasitekurerukankyo-yahitonosyu-go-o\"zyo-sitsusekai\"toyobu",
-            "zibunnoyokkyu-oseizitsunimitasitekurerukankyo-yahitonosyu-go-o\"zyo-shitusekai\"toyobu",
-            "zibunnoyokkyu-oseizitsunimitasitekurerukankyo-yahitonosyu-go-o\"zyo-shitsusekai\"toyobu",
-            "zibunnoyokkyu-oseizitsunimitasitekurerukankyo-yahitonosyu-go-o\"jo-situsekai\"toyobu",
-            "zibunnoyokkyu-oseizitsunimitasitekurerukankyo-yahitonosyu-go-o\"jo-sitsusekai\"toyobu",
-            "zibunnoyokkyu-oseizitsunimitasitekurerukankyo-yahitonosyu-go-o\"jo-shitusekai\"toyobu",
-            "zibunnoyokkyu-oseizitsunimitasitekurerukankyo-yahitonosyu-go-o\"jo-shitsusekai\"toyobu",
-            "zibunnoyokkyu-oseizitsunimitasitekurerukankyo-yahitonoshu-go-wo\"zyo-situsekai\"toyobu",
-            "zibunnoyokkyu-oseizitsunimitasitekurerukankyo-yahitonoshu-go-wo\"zyo-sitsusekai\"toyobu",
-            "zibunnoyokkyu-oseizitsunimitasitekurerukankyo-yahitonoshu-go-wo\"zyo-shitusekai\"toyobu",
-            "zibunnoyokkyu-oseizitsunimitasitekurerukankyo-yahitonoshu-go-wo\"zyo-shitsusekai\"toyobu",
-            "zibunnoyokkyu-oseizitsunimitasitekurerukankyo-yahitonoshu-go-wo\"jo-situsekai\"toyobu",
-            "zibunnoyokkyu-oseizitsunimitasitekurerukankyo-yahitonoshu-go-wo\"jo-sitsusekai\"toyobu",
-            "zibunnoyokkyu-oseizitsunimitasitekurerukankyo-yahitonoshu-go-wo\"jo-shitusekai\"toyobu",
-            "zibunnoyokkyu-oseizitsunimitasitekurerukankyo-yahitonoshu-go-wo\"jo-shitsusekai\"toyobu",
-            "zibunnoyokkyu-oseizitsunimitasitekurerukankyo-yahitonoshu-go-o\"zyo-situsekai\"toyobu",
-            "zibunnoyokkyu-oseizitsunimitasitekurerukankyo-yahitonoshu-go-o\"zyo-sitsusekai\"toyobu",
-            "zibunnoyokkyu-oseizitsunimitasitekurerukankyo-yahitonoshu-go-o\"zyo-shitusekai\"toyobu",
-            "zibunnoyokkyu-oseizitsunimitasitekurerukankyo-yahitonoshu-go-o\"zyo-shitsusekai\"toyobu",
-            "zibunnoyokkyu-oseizitsunimitasitekurerukankyo-yahitonoshu-go-o\"jo-situsekai\"toyobu",
-            "zibunnoyokkyu-oseizitsunimitasitekurerukankyo-yahitonoshu-go-o\"jo-sitsusekai\"toyobu",
-            "zibunnoyokkyu-oseizitsunimitasitekurerukankyo-yahitonoshu-go-o\"jo-shitusekai\"toyobu",
-            "zibunnoyokkyu-oseizitsunimitasitekurerukankyo-yahitonoshu-go-o\"jo-shitsusekai\"toyobu",
-            "zibunnoyokkyu-oseizitsunimitasitekurerukankyo-yahitonosfu-go-wo\"zyo-situsekai\"toyobu",
-            "zibunnoyokkyu-oseizitsunimitasitekurerukankyo-yahitonosfu-go-wo\"zyo-sitsusekai\"toyobu",
-            "zibunnoyokkyu-oseizitsunimitasitekurerukankyo-yahitonosfu-go-wo\"zyo-shitusekai\"toyobu",
-            "zibunnoyokkyu-oseizitsunimitasitekurerukankyo-yahitonosfu-go-wo\"zyo-shitsusekai\"toyobu",
-            "zibunnoyokkyu-oseizitsunimitasitekurerukankyo-yahitonosfu-go-wo\"jo-situsekai\"toyobu",
-            "zibunnoyokkyu-oseizitsunimitasitekurerukankyo-yahitonosfu-go-wo\"jo-sitsusekai\"toyobu",
-            "zibunnoyokkyu-oseizitsunimitasitekurerukankyo-yahitonosfu-go-wo\"jo-shitusekai\"toyobu",
-            "zibunnoyokkyu-oseizitsunimitasitekurerukankyo-yahitonosfu-go-wo\"jo-shitsusekai\"toyobu",
-            "zibunnoyokkyu-oseizitsunimitasitekurerukankyo-yahitonosfu-go-o\"zyo-situsekai\"toyobu",
-            "zibunnoyokkyu-oseizitsunimitasitekurerukankyo-yahitonosfu-go-o\"zyo-sitsusekai\"toyobu",
-            "zibunnoyokkyu-oseizitsunimitasitekurerukankyo-yahitonosfu-go-o\"zyo-shitusekai\"toyobu",
-            "zibunnoyokkyu-oseizitsunimitasitekurerukankyo-yahitonosfu-go-o\"zyo-shitsusekai\"toyobu",
-            "zibunnoyokkyu-oseizitsunimitasitekurerukankyo-yahitonosfu-go-o\"jo-situsekai\"toyobu",
-            "zibunnoyokkyu-oseizitsunimitasitekurerukankyo-yahitonosfu-go-o\"jo-sitsusekai\"toyobu",
-            "zibunnoyokkyu-oseizitsunimitasitekurerukankyo-yahitonosfu-go-o\"jo-shitusekai\"toyobu",
-            "zibunnoyokkyu-oseizitsunimitasitekurerukankyo-yahitonosfu-go-o\"jo-shitsusekai\"toyobu",
-            "zibunnoyokkyu-oseizitsunimitashitekurerukankyo-yahitonosyu-go-wo\"zyo-situsekai\"toyobu",
-            "zibunnoyokkyu-oseizitsunimitashitekurerukankyo-yahitonosyu-go-wo\"zyo-sitsusekai\"toyobu",
-            "zibunnoyokkyu-oseizitsunimitashitekurerukankyo-yahitonosyu-go-wo\"zyo-shitusekai\"toyobu",
-            "zibunnoyokkyu-oseizitsunimitashitekurerukankyo-yahitonosyu-go-wo\"zyo-shitsusekai\"toyobu",
-            "zibunnoyokkyu-oseizitsunimitashitekurerukankyo-yahitonosyu-go-wo\"jo-situsekai\"toyobu",
-            "zibunnoyokkyu-oseizitsunimitashitekurerukankyo-yahitonosyu-go-wo\"jo-sitsusekai\"toyobu",
-            "zibunnoyokkyu-oseizitsunimitashitekurerukankyo-yahitonosyu-go-wo\"jo-shitusekai\"toyobu",
-            "zibunnoyokkyu-oseizitsunimitashitekurerukankyo-yahitonosyu-go-wo\"jo-shitsusekai\"toyobu",
-            "zibunnoyokkyu-oseizitsunimitashitekurerukankyo-yahitonosyu-go-o\"zyo-situsekai\"toyobu",
-            "zibunnoyokkyu-oseizitsunimitashitekurerukankyo-yahitonosyu-go-o\"zyo-sitsusekai\"toyobu",
-            "zibunnoyokkyu-oseizitsunimitashitekurerukankyo-yahitonosyu-go-o\"zyo-shitusekai\"toyobu",
-            "zibunnoyokkyu-oseizitsunimitashitekurerukankyo-yahitonosyu-go-o\"zyo-shitsusekai\"toyobu",
-            "zibunnoyokkyu-oseizitsunimitashitekurerukankyo-yahitonosyu-go-o\"jo-situsekai\"toyobu",
-            "zibunnoyokkyu-oseizitsunimitashitekurerukankyo-yahitonosyu-go-o\"jo-sitsusekai\"toyobu",
-            "zibunnoyokkyu-oseizitsunimitashitekurerukankyo-yahitonosyu-go-o\"jo-shitusekai\"toyobu",
-            "zibunnoyokkyu-oseizitsunimitashitekurerukankyo-yahitonosyu-go-o\"jo-shitsusekai\"toyobu",
-            "zibunnoyokkyu-oseizitsunimitashitekurerukankyo-yahitonoshu-go-wo\"zyo-situsekai\"toyobu",
-            "zibunnoyokkyu-oseizitsunimitashitekurerukankyo-yahitonoshu-go-wo\"zyo-sitsusekai\"toyobu",
-            "zibunnoyokkyu-oseizitsunimitashitekurerukankyo-yahitonoshu-go-wo\"zyo-shitusekai\"toyobu",
-            "zibunnoyokkyu-oseizitsunimitashitekurerukankyo-yahitonoshu-go-wo\"zyo-shitsusekai\"toyobu",
-            "zibunnoyokkyu-oseizitsunimitashitekurerukankyo-yahitonoshu-go-wo\"jo-situsekai\"toyobu",
-            "zibunnoyokkyu-oseizitsunimitashitekurerukankyo-yahitonoshu-go-wo\"jo-sitsusekai\"toyobu",
-            "zibunnoyokkyu-oseizitsunimitashitekurerukankyo-yahitonoshu-go-wo\"jo-shitusekai\"toyobu",
-            "zibunnoyokkyu-oseizitsunimitashitekurerukankyo-yahitonoshu-go-wo\"jo-shitsusekai\"toyobu",
-            "zibunnoyokkyu-oseizitsunimitashitekurerukankyo-yahitonoshu-go-o\"zyo-situsekai\"toyobu",
-            "zibunnoyokkyu-oseizitsunimitashitekurerukankyo-yahitonoshu-go-o\"zyo-sitsusekai\"toyobu",
-            "zibunnoyokkyu-oseizitsunimitashitekurerukankyo-yahitonoshu-go-o\"zyo-shitusekai\"toyobu",
-            "zibunnoyokkyu-oseizitsunimitashitekurerukankyo-yahitonoshu-go-o\"zyo-shitsusekai\"toyobu",
-            "zibunnoyokkyu-oseizitsunimitashitekurerukankyo-yahitonoshu-go-o\"jo-situsekai\"toyobu",
-            "zibunnoyokkyu-oseizitsunimitashitekurerukankyo-yahitonoshu-go-o\"jo-sitsusekai\"toyobu",
-            "zibunnoyokkyu-oseizitsunimitashitekurerukankyo-yahitonoshu-go-o\"jo-shitusekai\"toyobu",
-            "zibunnoyokkyu-oseizitsunimitashitekurerukankyo-yahitonoshu-go-o\"jo-shitsusekai\"toyobu",
-            "zibunnoyokkyu-oseizitsunimitashitekurerukankyo-yahitonosfu-go-wo\"zyo-situsekai\"toyobu",
-            "zibunnoyokkyu-oseizitsunimitashitekurerukankyo-yahitonosfu-go-wo\"zyo-sitsusekai\"toyobu",
-            "zibunnoyokkyu-oseizitsunimitashitekurerukankyo-yahitonosfu-go-wo\"zyo-shitusekai\"toyobu",
-            "zibunnoyokkyu-oseizitsunimitashitekurerukankyo-yahitonosfu-go-wo\"zyo-shitsusekai\"toyobu",
-            "zibunnoyokkyu-oseizitsunimitashitekurerukankyo-yahitonosfu-go-wo\"jo-situsekai\"toyobu",
-            "zibunnoyokkyu-oseizitsunimitashitekurerukankyo-yahitonosfu-go-wo\"jo-sitsusekai\"toyobu",
-            "zibunnoyokkyu-oseizitsunimitashitekurerukankyo-yahitonosfu-go-wo\"jo-shitusekai\"toyobu",
-            "zibunnoyokkyu-oseizitsunimitashitekurerukankyo-yahitonosfu-go-wo\"jo-shitsusekai\"toyobu",
-            "zibunnoyokkyu-oseizitsunimitashitekurerukankyo-yahitonosfu-go-o\"zyo-situsekai\"toyobu",
-            "zibunnoyokkyu-oseizitsunimitashitekurerukankyo-yahitonosfu-go-o\"zyo-sitsusekai\"toyobu",
-            "zibunnoyokkyu-oseizitsunimitashitekurerukankyo-yahitonosfu-go-o\"zyo-shitusekai\"toyobu",
-            "zibunnoyokkyu-oseizitsunimitashitekurerukankyo-yahitonosfu-go-o\"zyo-shitsusekai\"toyobu",
-            "zibunnoyokkyu-oseizitsunimitashitekurerukankyo-yahitonosfu-go-o\"jo-situsekai\"toyobu",
-            "zibunnoyokkyu-oseizitsunimitashitekurerukankyo-yahitonosfu-go-o\"jo-sitsusekai\"toyobu",
-            "zibunnoyokkyu-oseizitsunimitashitekurerukankyo-yahitonosfu-go-o\"jo-shitusekai\"toyobu",
-            "zibunnoyokkyu-oseizitsunimitashitekurerukankyo-yahitonosfu-go-o\"jo-shitsusekai\"toyobu",
-            "zibunnoyokkyu-oseijitunimitasitekurerukankyo-yahitonosyu-go-wo\"zyo-situsekai\"toyobu",
-            "zibunnoyokkyu-oseijitunimitasitekurerukankyo-yahitonosyu-go-wo\"zyo-sitsusekai\"toyobu",
-            "zibunnoyokkyu-oseijitunimitasitekurerukankyo-yahitonosyu-go-wo\"zyo-shitusekai\"toyobu",
-            "zibunnoyokkyu-oseijitunimitasitekurerukankyo-yahitonosyu-go-wo\"zyo-shitsusekai\"toyobu",
-            "zibunnoyokkyu-oseijitunimitasitekurerukankyo-yahitonosyu-go-wo\"jo-situsekai\"toyobu",
-            "zibunnoyokkyu-oseijitunimitasitekurerukankyo-yahitonosyu-go-wo\"jo-sitsusekai\"toyobu",
-            "zibunnoyokkyu-oseijitunimitasitekurerukankyo-yahitonosyu-go-wo\"jo-shitusekai\"toyobu",
-            "zibunnoyokkyu-oseijitunimitasitekurerukankyo-yahitonosyu-go-wo\"jo-shitsusekai\"toyobu",
-            "zibunnoyokkyu-oseijitunimitasitekurerukankyo-yahitonosyu-go-o\"zyo-situsekai\"toyobu",
-            "zibunnoyokkyu-oseijitunimitasitekurerukankyo-yahitonosyu-go-o\"zyo-sitsusekai\"toyobu",
-            "zibunnoyokkyu-oseijitunimitasitekurerukankyo-yahitonosyu-go-o\"zyo-shitusekai\"toyobu",
-            "zibunnoyokkyu-oseijitunimitasitekurerukankyo-yahitonosyu-go-o\"zyo-shitsusekai\"toyobu",
-            "zibunnoyokkyu-oseijitunimitasitekurerukankyo-yahitonosyu-go-o\"jo-situsekai\"toyobu",
-            "zibunnoyokkyu-oseijitunimitasitekurerukankyo-yahitonosyu-go-o\"jo-sitsusekai\"toyobu",
-            "zibunnoyokkyu-oseijitunimitasitekurerukankyo-yahitonosyu-go-o\"jo-shitusekai\"toyobu",
-            "zibunnoyokkyu-oseijitunimitasitekurerukankyo-yahitonosyu-go-o\"jo-shitsusekai\"toyobu",
-            "zibunnoyokkyu-oseijitunimitasitekurerukankyo-yahitonoshu-go-wo\"zyo-situsekai\"toyobu",
-            "zibunnoyokkyu-oseijitunimitasitekurerukankyo-yahitonoshu-go-wo\"zyo-sitsusekai\"toyobu",
-            "zibunnoyokkyu-oseijitunimitasitekurerukankyo-yahitonoshu-go-wo\"zyo-shitusekai\"toyobu",
-            "zibunnoyokkyu-oseijitunimitasitekurerukankyo-yahitonoshu-go-wo\"zyo-shitsusekai\"toyobu",
-            "zibunnoyokkyu-oseijitunimitasitekurerukankyo-yahitonoshu-go-wo\"jo-situsekai\"toyobu",
-            "zibunnoyokkyu-oseijitunimitasitekurerukankyo-yahitonoshu-go-wo\"jo-sitsusekai\"toyobu",
-            "zibunnoyokkyu-oseijitunimitasitekurerukankyo-yahitonoshu-go-wo\"jo-shitusekai\"toyobu",
-            "zibunnoyokkyu-oseijitunimitasitekurerukankyo-yahitonoshu-go-wo\"jo-shitsusekai\"toyobu",
-            "zibunnoyokkyu-oseijitunimitasitekurerukankyo-yahitonoshu-go-o\"zyo-situsekai\"toyobu",
-            "zibunnoyokkyu-oseijitunimitasitekurerukankyo-yahitonoshu-go-o\"zyo-sitsusekai\"toyobu",
-            "zibunnoyokkyu-oseijitunimitasitekurerukankyo-yahitonoshu-go-o\"zyo-shitusekai\"toyobu",
-            "zibunnoyokkyu-oseijitunimitasitekurerukankyo-yahitonoshu-go-o\"zyo-shitsusekai\"toyobu",
-            "zibunnoyokkyu-oseijitunimitasitekurerukankyo-yahitonoshu-go-o\"jo-situsekai\"toyobu",
-            "zibunnoyokkyu-oseijitunimitasitekurerukankyo-yahitonoshu-go-o\"jo-sitsusekai\"toyobu",
-            "zibunnoyokkyu-oseijitunimitasitekurerukankyo-yahitonoshu-go-o\"jo-shitusekai\"toyobu",
-            "zibunnoyokkyu-oseijitunimitasitekurerukankyo-yahitonoshu-go-o\"jo-shitsusekai\"toyobu",
-            "zibunnoyokkyu-oseijitunimitasitekurerukankyo-yahitonosfu-go-wo\"zyo-situsekai\"toyobu",
-            "zibunnoyokkyu-oseijitunimitasitekurerukankyo-yahitonosfu-go-wo\"zyo-sitsusekai\"toyobu",
-            "zibunnoyokkyu-oseijitunimitasitekurerukankyo-yahitonosfu-go-wo\"zyo-shitusekai\"toyobu",
-            "zibunnoyokkyu-oseijitunimitasitekurerukankyo-yahitonosfu-go-wo\"zyo-shitsusekai\"toyobu",
-            "zibunnoyokkyu-oseijitunimitasitekurerukankyo-yahitonosfu-go-wo\"jo-situsekai\"toyobu",
-            "zibunnoyokkyu-oseijitunimitasitekurerukankyo-yahitonosfu-go-wo\"jo-sitsusekai\"toyobu",
-            "zibunnoyokkyu-oseijitunimitasitekurerukankyo-yahitonosfu-go-wo\"jo-shitusekai\"toyobu",
-            "zibunnoyokkyu-oseijitunimitasitekurerukankyo-yahitonosfu-go-wo\"jo-shitsusekai\"toyobu",
-            "zibunnoyokkyu-oseijitunimitasitekurerukankyo-yahitonosfu-go-o\"zyo-situsekai\"toyobu",
-            "zibunnoyokkyu-oseijitunimitasitekurerukankyo-yahitonosfu-go-o\"zyo-sitsusekai\"toyobu",
-            "zibunnoyokkyu-oseijitunimitasitekurerukankyo-yahitonosfu-go-o\"zyo-shitusekai\"toyobu",
-            "zibunnoyokkyu-oseijitunimitasitekurerukankyo-yahitonosfu-go-o\"zyo-shitsusekai\"toyobu",
-            "zibunnoyokkyu-oseijitunimitasitekurerukankyo-yahitonosfu-go-o\"jo-situsekai\"toyobu",
-            "zibunnoyokkyu-oseijitunimitasitekurerukankyo-yahitonosfu-go-o\"jo-sitsusekai\"toyobu",
-            "zibunnoyokkyu-oseijitunimitasitekurerukankyo-yahitonosfu-go-o\"jo-shitusekai\"toyobu",
-            "zibunnoyokkyu-oseijitunimitasitekurerukankyo-yahitonosfu-go-o\"jo-shitsusekai\"toyobu",
-            "zibunnoyokkyu-oseijitunimitashitekurerukankyo-yahitonosyu-go-wo\"zyo-situsekai\"toyobu",
-            "zibunnoyokkyu-oseijitunimitashitekurerukankyo-yahitonosyu-go-wo\"zyo-sitsusekai\"toyobu",
-            "zibunnoyokkyu-oseijitunimitashitekurerukankyo-yahitonosyu-go-wo\"zyo-shitusekai\"toyobu",
-            "zibunnoyokkyu-oseijitunimitashitekurerukankyo-yahitonosyu-go-wo\"zyo-shitsusekai\"toyobu",
-            "zibunnoyokkyu-oseijitunimitashitekurerukankyo-yahitonosyu-go-wo\"jo-situsekai\"toyobu",
-            "zibunnoyokkyu-oseijitunimitashitekurerukankyo-yahitonosyu-go-wo\"jo-sitsusekai\"toyobu",
-            "zibunnoyokkyu-oseijitunimitashitekurerukankyo-yahitonosyu-go-wo\"jo-shitusekai\"toyobu",
-            "zibunnoyokkyu-oseijitunimitashitekurerukankyo-yahitonosyu-go-wo\"jo-shitsusekai\"toyobu",
-            "zibunnoyokkyu-oseijitunimitashitekurerukankyo-yahitonosyu-go-o\"zyo-situsekai\"toyobu",
-            "zibunnoyokkyu-oseijitunimitashitekurerukankyo-yahitonosyu-go-o\"zyo-sitsusekai\"toyobu",
-            "zibunnoyokkyu-oseijitunimitashitekurerukankyo-yahitonosyu-go-o\"zyo-shitusekai\"toyobu",
-            "zibunnoyokkyu-oseijitunimitashitekurerukankyo-yahitonosyu-go-o\"zyo-shitsusekai\"toyobu",
-            "zibunnoyokkyu-oseijitunimitashitekurerukankyo-yahitonosyu-go-o\"jo-situsekai\"toyobu",
-            "zibunnoyokkyu-oseijitunimitashitekurerukankyo-yahitonosyu-go-o\"jo-sitsusekai\"toyobu",
-            "zibunnoyokkyu-oseijitunimitashitekurerukankyo-yahitonosyu-go-o\"jo-shitusekai\"toyobu",
-            "zibunnoyokkyu-oseijitunimitashitekurerukankyo-yahitonosyu-go-o\"jo-shitsusekai\"toyobu",
-            "zibunnoyokkyu-oseijitunimitashitekurerukankyo-yahitonoshu-go-wo\"zyo-situsekai\"toyobu",
-            "zibunnoyokkyu-oseijitunimitashitekurerukankyo-yahitonoshu-go-wo\"zyo-sitsusekai\"toyobu",
-            "zibunnoyokkyu-oseijitunimitashitekurerukankyo-yahitonoshu-go-wo\"zyo-shitusekai\"toyobu",
-            "zibunnoyokkyu-oseijitunimitashitekurerukankyo-yahitonoshu-go-wo\"zyo-shitsusekai\"toyobu",
-            "zibunnoyokkyu-oseijitunimitashitekurerukankyo-yahitonoshu-go-wo\"jo-situsekai\"toyobu",
-            "zibunnoyokkyu-oseijitunimitashitekurerukankyo-yahitonoshu-go-wo\"jo-sitsusekai\"toyobu",
-            "zibunnoyokkyu-oseijitunimitashitekurerukankyo-yahitonoshu-go-wo\"jo-shitusekai\"toyobu",
-            "zibunnoyokkyu-oseijitunimitashitekurerukankyo-yahitonoshu-go-wo\"jo-shitsusekai\"toyobu",
-            "zibunnoyokkyu-oseijitunimitashitekurerukankyo-yahitonoshu-go-o\"zyo-situsekai\"toyobu",
-            "zibunnoyokkyu-oseijitunimitashitekurerukankyo-yahitonoshu-go-o\"zyo-sitsusekai\"toyobu",
-            "zibunnoyokkyu-oseijitunimitashitekurerukankyo-yahitonoshu-go-o\"zyo-shitusekai\"toyobu",
-            "zibunnoyokkyu-oseijitunimitashitekurerukankyo-yahitonoshu-go-o\"zyo-shitsusekai\"toyobu",
-            "zibunnoyokkyu-oseijitunimitashitekurerukankyo-yahitonoshu-go-o\"jo-situsekai\"toyobu",
-            "zibunnoyokkyu-oseijitunimitashitekurerukankyo-yahitonoshu-go-o\"jo-sitsusekai\"toyobu",
-            "zibunnoyokkyu-oseijitunimitashitekurerukankyo-yahitonoshu-go-o\"jo-shitusekai\"toyobu",
-            "zibunnoyokkyu-oseijitunimitashitekurerukankyo-yahitonoshu-go-o\"jo-shitsusekai\"toyobu",
-            "zibunnoyokkyu-oseijitunimitashitekurerukankyo-yahitonosfu-go-wo\"zyo-situsekai\"toyobu",
-            "zibunnoyokkyu-oseijitunimitashitekurerukankyo-yahitonosfu-go-wo\"zyo-sitsusekai\"toyobu",
-            "zibunnoyokkyu-oseijitunimitashitekurerukankyo-yahitonosfu-go-wo\"zyo-shitusekai\"toyobu",
-            "zibunnoyokkyu-oseijitunimitashitekurerukankyo-yahitonosfu-go-wo\"zyo-shitsusekai\"toyobu",
-            "zibunnoyokkyu-oseijitunimitashitekurerukankyo-yahitonosfu-go-wo\"jo-situsekai\"toyobu",
-            "zibunnoyokkyu-oseijitunimitashitekurerukankyo-yahitonosfu-go-wo\"jo-sitsusekai\"toyobu",
-            "zibunnoyokkyu-oseijitunimitashitekurerukankyo-yahitonosfu-go-wo\"jo-shitusekai\"toyobu",
-            "zibunnoyokkyu-oseijitunimitashitekurerukankyo-yahitonosfu-go-wo\"jo-shitsusekai\"toyobu",
-            "zibunnoyokkyu-oseijitunimitashitekurerukankyo-yahitonosfu-go-o\"zyo-situsekai\"toyobu",
-            "zibunnoyokkyu-oseijitunimitashitekurerukankyo-yahitonosfu-go-o\"zyo-sitsusekai\"toyobu",
-            "zibunnoyokkyu-oseijitunimitashitekurerukankyo-yahitonosfu-go-o\"zyo-shitusekai\"toyobu",
-            "zibunnoyokkyu-oseijitunimitashitekurerukankyo-yahitonosfu-go-o\"zyo-shitsusekai\"toyobu",
-            "zibunnoyokkyu-oseijitunimitashitekurerukankyo-yahitonosfu-go-o\"jo-situsekai\"toyobu",
-            "zibunnoyokkyu-oseijitunimitashitekurerukankyo-yahitonosfu-go-o\"jo-sitsusekai\"toyobu",
-            "zibunnoyokkyu-oseijitunimitashitekurerukankyo-yahitonosfu-go-o\"jo-shitusekai\"toyobu",
-            "zibunnoyokkyu-oseijitunimitashitekurerukankyo-yahitonosfu-go-o\"jo-shitsusekai\"toyobu",
-            "zibunnoyokkyu-oseijitsunimitasitekurerukankyo-yahitonosyu-go-wo\"zyo-situsekai\"toyobu",
-            "zibunnoyokkyu-oseijitsunimitasitekurerukankyo-yahitonosyu-go-wo\"zyo-sitsusekai\"toyobu",
-            "zibunnoyokkyu-oseijitsunimitasitekurerukankyo-yahitonosyu-go-wo\"zyo-shitusekai\"toyobu",
-            "zibunnoyokkyu-oseijitsunimitasitekurerukankyo-yahitonosyu-go-wo\"zyo-shitsusekai\"toyobu",
-            "zibunnoyokkyu-oseijitsunimitasitekurerukankyo-yahitonosyu-go-wo\"jo-situsekai\"toyobu",
-            "zibunnoyokkyu-oseijitsunimitasitekurerukankyo-yahitonosyu-go-wo\"jo-sitsusekai\"toyobu",
-            "zibunnoyokkyu-oseijitsunimitasitekurerukankyo-yahitonosyu-go-wo\"jo-shitusekai\"toyobu",
-            "zibunnoyokkyu-oseijitsunimitasitekurerukankyo-yahitonosyu-go-wo\"jo-shitsusekai\"toyobu",
-            "zibunnoyokkyu-oseijitsunimitasitekurerukankyo-yahitonosyu-go-o\"zyo-situsekai\"toyobu",
-            "zibunnoyokkyu-oseijitsunimitasitekurerukankyo-yahitonosyu-go-o\"zyo-sitsusekai\"toyobu",
-            "zibunnoyokkyu-oseijitsunimitasitekurerukankyo-yahitonosyu-go-o\"zyo-shitusekai\"toyobu",
-            "zibunnoyokkyu-oseijitsunimitasitekurerukankyo-yahitonosyu-go-o\"zyo-shitsusekai\"toyobu",
-            "zibunnoyokkyu-oseijitsunimitasitekurerukankyo-yahitonosyu-go-o\"jo-situsekai\"toyobu",
-            "zibunnoyokkyu-oseijitsunimitasitekurerukankyo-yahitonosyu-go-o\"jo-sitsusekai\"toyobu",
-            "zibunnoyokkyu-oseijitsunimitasitekurerukankyo-yahitonosyu-go-o\"jo-shitusekai\"toyobu",
-            "zibunnoyokkyu-oseijitsunimitasitekurerukankyo-yahitonosyu-go-o\"jo-shitsusekai\"toyobu",
-            "zibunnoyokkyu-oseijitsunimitasitekurerukankyo-yahitonoshu-go-wo\"zyo-situsekai\"toyobu",
-            "zibunnoyokkyu-oseijitsunimitasitekurerukankyo-yahitonoshu-go-wo\"zyo-sitsusekai\"toyobu",
-            "zibunnoyokkyu-oseijitsunimitasitekurerukankyo-yahitonoshu-go-wo\"zyo-shitusekai\"toyobu",
-            "zibunnoyokkyu-oseijitsunimitasitekurerukankyo-yahitonoshu-go-wo\"zyo-shitsusekai\"toyobu",
-            "zibunnoyokkyu-oseijitsunimitasitekurerukankyo-yahitonoshu-go-wo\"jo-situsekai\"toyobu",
-            "zibunnoyokkyu-oseijitsunimitasitekurerukankyo-yahitonoshu-go-wo\"jo-sitsusekai\"toyobu",
-            "zibunnoyokkyu-oseijitsunimitasitekurerukankyo-yahitonoshu-go-wo\"jo-shitusekai\"toyobu",
-            "zibunnoyokkyu-oseijitsunimitasitekurerukankyo-yahitonoshu-go-wo\"jo-shitsusekai\"toyobu",
-            "zibunnoyokkyu-oseijitsunimitasitekurerukankyo-yahitonoshu-go-o\"zyo-situsekai\"toyobu",
-            "zibunnoyokkyu-oseijitsunimitasitekurerukankyo-yahitonoshu-go-o\"zyo-sitsusekai\"toyobu",
-            "zibunnoyokkyu-oseijitsunimitasitekurerukankyo-yahitonoshu-go-o\"zyo-shitusekai\"toyobu",
-            "zibunnoyokkyu-oseijitsunimitasitekurerukankyo-yahitonoshu-go-o\"zyo-shitsusekai\"toyobu",
-            "zibunnoyokkyu-oseijitsunimitasitekurerukankyo-yahitonoshu-go-o\"jo-situsekai\"toyobu",
-            "zibunnoyokkyu-oseijitsunimitasitekurerukankyo-yahitonoshu-go-o\"jo-sitsusekai\"toyobu",
-            "zibunnoyokkyu-oseijitsunimitasitekurerukankyo-yahitonoshu-go-o\"jo-shitusekai\"toyobu",
-            "zibunnoyokkyu-oseijitsunimitasitekurerukankyo-yahitonoshu-go-o\"jo-shitsusekai\"toyobu",
-            "zibunnoyokkyu-oseijitsunimitasitekurerukankyo-yahitonosfu-go-wo\"zyo-situsekai\"toyobu",
-            "zibunnoyokkyu-oseijitsunimitasitekurerukankyo-yahitonosfu-go-wo\"zyo-sitsusekai\"toyobu",
-            "zibunnoyokkyu-oseijitsunimitasitekurerukankyo-yahitonosfu-go-wo\"zyo-shitusekai\"toyobu",
-            "zibunnoyokkyu-oseijitsunimitasitekurerukankyo-yahitonosfu-go-wo\"zyo-shitsusekai\"toyobu",
-            "zibunnoyokkyu-oseijitsunimitasitekurerukankyo-yahitonosfu-go-wo\"jo-situsekai\"toyobu",
-            "zibunnoyokkyu-oseijitsunimitasitekurerukankyo-yahitonosfu-go-wo\"jo-sitsusekai\"toyobu",
-            "zibunnoyokkyu-oseijitsunimitasitekurerukankyo-yahitonosfu-go-wo\"jo-shitusekai\"toyobu",
-            "zibunnoyokkyu-oseijitsunimitasitekurerukankyo-yahitonosfu-go-wo\"jo-shitsusekai\"toyobu",
-            "zibunnoyokkyu-oseijitsunimitasitekurerukankyo-yahitonosfu-go-o\"zyo-situsekai\"toyobu",
-            "zibunnoyokkyu-oseijitsunimitasitekurerukankyo-yahitonosfu-go-o\"zyo-sitsusekai\"toyobu",
-            "zibunnoyokkyu-oseijitsunimitasitekurerukankyo-yahitonosfu-go-o\"zyo-shitusekai\"toyobu",
-            "zibunnoyokkyu-oseijitsunimitasitekurerukankyo-yahitonosfu-go-o\"zyo-shitsusekai\"toyobu",
-            "zibunnoyokkyu-oseijitsunimitasitekurerukankyo-yahitonosfu-go-o\"jo-situsekai\"toyobu",
-            "zibunnoyokkyu-oseijitsunimitasitekurerukankyo-yahitonosfu-go-o\"jo-sitsusekai\"toyobu",
-            "zibunnoyokkyu-oseijitsunimitasitekurerukankyo-yahitonosfu-go-o\"jo-shitusekai\"toyobu",
-            "zibunnoyokkyu-oseijitsunimitasitekurerukankyo-yahitonosfu-go-o\"jo-shitsusekai\"toyobu",
-            "zibunnoyokkyu-oseijitsunimitashitekurerukankyo-yahitonosyu-go-wo\"zyo-situsekai\"toyobu",
-            "zibunnoyokkyu-oseijitsunimitashitekurerukankyo-yahitonosyu-go-wo\"zyo-sitsusekai\"toyobu",
-            "zibunnoyokkyu-oseijitsunimitashitekurerukankyo-yahitonosyu-go-wo\"zyo-shitusekai\"toyobu",
-            "zibunnoyokkyu-oseijitsunimitashitekurerukankyo-yahitonosyu-go-wo\"zyo-shitsusekai\"toyobu",
-            "zibunnoyokkyu-oseijitsunimitashitekurerukankyo-yahitonosyu-go-wo\"jo-situsekai\"toyobu",
-            "zibunnoyokkyu-oseijitsunimitashitekurerukankyo-yahitonosyu-go-wo\"jo-sitsusekai\"toyobu",
-            "zibunnoyokkyu-oseijitsunimitashitekurerukankyo-yahitonosyu-go-wo\"jo-shitusekai\"toyobu",
-            "zibunnoyokkyu-oseijitsunimitashitekurerukankyo-yahitonosyu-go-wo\"jo-shitsusekai\"toyobu",
-            "zibunnoyokkyu-oseijitsunimitashitekurerukankyo-yahitonosyu-go-o\"zyo-situsekai\"toyobu",
-            "zibunnoyokkyu-oseijitsunimitashitekurerukankyo-yahitonosyu-go-o\"zyo-sitsusekai\"toyobu",
-            "zibunnoyokkyu-oseijitsunimitashitekurerukankyo-yahitonosyu-go-o\"zyo-shitusekai\"toyobu",
-            "zibunnoyokkyu-oseijitsunimitashitekurerukankyo-yahitonosyu-go-o\"zyo-shitsusekai\"toyobu",
-            "zibunnoyokkyu-oseijitsunimitashitekurerukankyo-yahitonosyu-go-o\"jo-situsekai\"toyobu",
-            "zibunnoyokkyu-oseijitsunimitashitekurerukankyo-yahitonosyu-go-o\"jo-sitsusekai\"toyobu",
-            "zibunnoyokkyu-oseijitsunimitashitekurerukankyo-yahitonosyu-go-o\"jo-shitusekai\"toyobu",
-            "zibunnoyokkyu-oseijitsunimitashitekurerukankyo-yahitonosyu-go-o\"jo-shitsusekai\"toyobu",
-            "zibunnoyokkyu-oseijitsunimitashitekurerukankyo-yahitonoshu-go-wo\"zyo-situsekai\"toyobu",
-            "zibunnoyokkyu-oseijitsunimitashitekurerukankyo-yahitonoshu-go-wo\"zyo-sitsusekai\"toyobu",
-            "zibunnoyokkyu-oseijitsunimitashitekurerukankyo-yahitonoshu-go-wo\"zyo-shitusekai\"toyobu",
-            "zibunnoyokkyu-oseijitsunimitashitekurerukankyo-yahitonoshu-go-wo\"zyo-shitsusekai\"toyobu",
-            "zibunnoyokkyu-oseijitsunimitashitekurerukankyo-yahitonoshu-go-wo\"jo-situsekai\"toyobu",
-            "zibunnoyokkyu-oseijitsunimitashitekurerukankyo-yahitonoshu-go-wo\"jo-sitsusekai\"toyobu",
-            "zibunnoyokkyu-oseijitsunimitashitekurerukankyo-yahitonoshu-go-wo\"jo-shitusekai\"toyobu",
-            "zibunnoyokkyu-oseijitsunimitashitekurerukankyo-yahitonoshu-go-wo\"jo-shitsusekai\"toyobu",
-            "zibunnoyokkyu-oseijitsunimitashitekurerukankyo-yahitonoshu-go-o\"zyo-situsekai\"toyobu",
-            "zibunnoyokkyu-oseijitsunimitashitekurerukankyo-yahitonoshu-go-o\"zyo-sitsusekai\"toyobu",
-            "zibunnoyokkyu-oseijitsunimitashitekurerukankyo-yahitonoshu-go-o\"zyo-shitusekai\"toyobu",
-            "zibunnoyokkyu-oseijitsunimitashitekurerukankyo-yahitonoshu-go-o\"zyo-shitsusekai\"toyobu",
-            "zibunnoyokkyu-oseijitsunimitashitekurerukankyo-yahitonoshu-go-o\"jo-situsekai\"toyobu",
-            "zibunnoyokkyu-oseijitsunimitashitekurerukankyo-yahitonoshu-go-o\"jo-sitsusekai\"toyobu",
-            "zibunnoyokkyu-oseijitsunimitashitekurerukankyo-yahitonoshu-go-o\"jo-shitusekai\"toyobu",
-            "zibunnoyokkyu-oseijitsunimitashitekurerukankyo-yahitonoshu-go-o\"jo-shitsusekai\"toyobu",
-            "zibunnoyokkyu-oseijitsunimitashitekurerukankyo-yahitonosfu-go-wo\"zyo-situsekai\"toyobu",
-            "zibunnoyokkyu-oseijitsunimitashitekurerukankyo-yahitonosfu-go-wo\"zyo-sitsusekai\"toyobu",
-            "zibunnoyokkyu-oseijitsunimitashitekurerukankyo-yahitonosfu-go-wo\"zyo-shitusekai\"toyobu",
-            "zibunnoyokkyu-oseijitsunimitashitekurerukankyo-yahitonosfu-go-wo\"zyo-shitsusekai\"toyobu",
-            "zibunnoyokkyu-oseijitsunimitashitekurerukankyo-yahitonosfu-go-wo\"jo-situsekai\"toyobu",
-            "zibunnoyokkyu-oseijitsunimitashitekurerukankyo-yahitonosfu-go-wo\"jo-sitsusekai\"toyobu",
-            "zibunnoyokkyu-oseijitsunimitashitekurerukankyo-yahitonosfu-go-wo\"jo-shitusekai\"toyobu",
-            "zibunnoyokkyu-oseijitsunimitashitekurerukankyo-yahitonosfu-go-wo\"jo-shitsusekai\"toyobu",
-            "zibunnoyokkyu-oseijitsunimitashitekurerukankyo-yahitonosfu-go-o\"zyo-situsekai\"toyobu",
-            "zibunnoyokkyu-oseijitsunimitashitekurerukankyo-yahitonosfu-go-o\"zyo-sitsusekai\"toyobu",
-            "zibunnoyokkyu-oseijitsunimitashitekurerukankyo-yahitonosfu-go-o\"zyo-shitusekai\"toyobu",
-            "zibunnoyokkyu-oseijitsunimitashitekurerukankyo-yahitonosfu-go-o\"zyo-shitsusekai\"toyobu",
-            "zibunnoyokkyu-oseijitsunimitashitekurerukankyo-yahitonosfu-go-o\"jo-situsekai\"toyobu",
-            "zibunnoyokkyu-oseijitsunimitashitekurerukankyo-yahitonosfu-go-o\"jo-sitsusekai\"toyobu",
-            "zibunnoyokkyu-oseijitsunimitashitekurerukankyo-yahitonosfu-go-o\"jo-shitusekai\"toyobu",
-            "zibunnoyokkyu-oseijitsunimitashitekurerukankyo-yahitonosfu-go-o\"jo-shitsusekai\"toyobu",
-            "jibunnoyokkyu-woseizitunimitasitekurerukankyo-yahitonosyu-go-wo\"zyo-situsekai\"toyobu",
-            "jibunnoyokkyu-woseizitunimitasitekurerukankyo-yahitonosyu-go-wo\"zyo-sitsusekai\"toyobu",
-            "jibunnoyokkyu-woseizitunimitasitekurerukankyo-yahitonosyu-go-wo\"zyo-shitusekai\"toyobu",
-            "jibunnoyokkyu-woseizitunimitasitekurerukankyo-yahitonosyu-go-wo\"zyo-shitsusekai\"toyobu",
-            "jibunnoyokkyu-woseizitunimitasitekurerukankyo-yahitonosyu-go-wo\"jo-situsekai\"toyobu",
-            "jibunnoyokkyu-woseizitunimitasitekurerukankyo-yahitonosyu-go-wo\"jo-sitsusekai\"toyobu",
-            "jibunnoyokkyu-woseizitunimitasitekurerukankyo-yahitonosyu-go-wo\"jo-shitusekai\"toyobu",
-            "jibunnoyokkyu-woseizitunimitasitekurerukankyo-yahitonosyu-go-wo\"jo-shitsusekai\"toyobu",
-            "jibunnoyokkyu-woseizitunimitasitekurerukankyo-yahitonosyu-go-o\"zyo-situsekai\"toyobu",
-            "jibunnoyokkyu-woseizitunimitasitekurerukankyo-yahitonosyu-go-o\"zyo-sitsusekai\"toyobu",
-            "jibunnoyokkyu-woseizitunimitasitekurerukankyo-yahitonosyu-go-o\"zyo-shitusekai\"toyobu",
-            "jibunnoyokkyu-woseizitunimitasitekurerukankyo-yahitonosyu-go-o\"zyo-shitsusekai\"toyobu",
-            "jibunnoyokkyu-woseizitunimitasitekurerukankyo-yahitonosyu-go-o\"jo-situsekai\"toyobu",
-            "jibunnoyokkyu-woseizitunimitasitekurerukankyo-yahitonosyu-go-o\"jo-sitsusekai\"toyobu",
-            "jibunnoyokkyu-woseizitunimitasitekurerukankyo-yahitonosyu-go-o\"jo-shitusekai\"toyobu",
-            "jibunnoyokkyu-woseizitunimitasitekurerukankyo-yahitonosyu-go-o\"jo-shitsusekai\"toyobu",
-            "jibunnoyokkyu-woseizitunimitasitekurerukankyo-yahitonoshu-go-wo\"zyo-situsekai\"toyobu",
-            "jibunnoyokkyu-woseizitunimitasitekurerukankyo-yahitonoshu-go-wo\"zyo-sitsusekai\"toyobu",
-            "jibunnoyokkyu-woseizitunimitasitekurerukankyo-yahitonoshu-go-wo\"zyo-shitusekai\"toyobu",
-            "jibunnoyokkyu-woseizitunimitasitekurerukankyo-yahitonoshu-go-wo\"zyo-shitsusekai\"toyobu",
-            "jibunnoyokkyu-woseizitunimitasitekurerukankyo-yahitonoshu-go-wo\"jo-situsekai\"toyobu",
-            "jibunnoyokkyu-woseizitunimitasitekurerukankyo-yahitonoshu-go-wo\"jo-sitsusekai\"toyobu",
-            "jibunnoyokkyu-woseizitunimitasitekurerukankyo-yahitonoshu-go-wo\"jo-shitusekai\"toyobu",
-            "jibunnoyokkyu-woseizitunimitasitekurerukankyo-yahitonoshu-go-wo\"jo-shitsusekai\"toyobu",
-            "jibunnoyokkyu-woseizitunimitasitekurerukankyo-yahitonoshu-go-o\"zyo-situsekai\"toyobu",
-            "jibunnoyokkyu-woseizitunimitasitekurerukankyo-yahitonoshu-go-o\"zyo-sitsusekai\"toyobu",
-            "jibunnoyokkyu-woseizitunimitasitekurerukankyo-yahitonoshu-go-o\"zyo-shitusekai\"toyobu",
-            "jibunnoyokkyu-woseizitunimitasitekurerukankyo-yahitonoshu-go-o\"zyo-shitsusekai\"toyobu",
-            "jibunnoyokkyu-woseizitunimitasitekurerukankyo-yahitonoshu-go-o\"jo-situsekai\"toyobu",
-            "jibunnoyokkyu-woseizitunimitasitekurerukankyo-yahitonoshu-go-o\"jo-sitsusekai\"toyobu",
-            "jibunnoyokkyu-woseizitunimitasitekurerukankyo-yahitonoshu-go-o\"jo-shitusekai\"toyobu",
-            "jibunnoyokkyu-woseizitunimitasitekurerukankyo-yahitonoshu-go-o\"jo-shitsusekai\"toyobu",
-            "jibunnoyokkyu-woseizitunimitasitekurerukankyo-yahitonosfu-go-wo\"zyo-situsekai\"toyobu",
-            "jibunnoyokkyu-woseizitunimitasitekurerukankyo-yahitonosfu-go-wo\"zyo-sitsusekai\"toyobu",
-            "jibunnoyokkyu-woseizitunimitasitekurerukankyo-yahitonosfu-go-wo\"zyo-shitusekai\"toyobu",
-            "jibunnoyokkyu-woseizitunimitasitekurerukankyo-yahitonosfu-go-wo\"zyo-shitsusekai\"toyobu",
-            "jibunnoyokkyu-woseizitunimitasitekurerukankyo-yahitonosfu-go-wo\"jo-situsekai\"toyobu",
-            "jibunnoyokkyu-woseizitunimitasitekurerukankyo-yahitonosfu-go-wo\"jo-sitsusekai\"toyobu",
-            "jibunnoyokkyu-woseizitunimitasitekurerukankyo-yahitonosfu-go-wo\"jo-shitusekai\"toyobu",
-            "jibunnoyokkyu-woseizitunimitasitekurerukankyo-yahitonosfu-go-wo\"jo-shitsusekai\"toyobu",
-            "jibunnoyokkyu-woseizitunimitasitekurerukankyo-yahitonosfu-go-o\"zyo-situsekai\"toyobu",
-            "jibunnoyokkyu-woseizitunimitasitekurerukankyo-yahitonosfu-go-o\"zyo-sitsusekai\"toyobu",
-            "jibunnoyokkyu-woseizitunimitasitekurerukankyo-yahitonosfu-go-o\"zyo-shitusekai\"toyobu",
-            "jibunnoyokkyu-woseizitunimitasitekurerukankyo-yahitonosfu-go-o\"zyo-shitsusekai\"toyobu",
-            "jibunnoyokkyu-woseizitunimitasitekurerukankyo-yahitonosfu-go-o\"jo-situsekai\"toyobu",
-            "jibunnoyokkyu-woseizitunimitasitekurerukankyo-yahitonosfu-go-o\"jo-sitsusekai\"toyobu",
-            "jibunnoyokkyu-woseizitunimitasitekurerukankyo-yahitonosfu-go-o\"jo-shitusekai\"toyobu",
-            "jibunnoyokkyu-woseizitunimitasitekurerukankyo-yahitonosfu-go-o\"jo-shitsusekai\"toyobu",
-            "jibunnoyokkyu-woseizitunimitashitekurerukankyo-yahitonosyu-go-wo\"zyo-situsekai\"toyobu",
-            "jibunnoyokkyu-woseizitunimitashitekurerukankyo-yahitonosyu-go-wo\"zyo-sitsusekai\"toyobu",
-            "jibunnoyokkyu-woseizitunimitashitekurerukankyo-yahitonosyu-go-wo\"zyo-shitusekai\"toyobu",
-            "jibunnoyokkyu-woseizitunimitashitekurerukankyo-yahitonosyu-go-wo\"zyo-shitsusekai\"toyobu",
-            "jibunnoyokkyu-woseizitunimitashitekurerukankyo-yahitonosyu-go-wo\"jo-situsekai\"toyobu",
-            "jibunnoyokkyu-woseizitunimitashitekurerukankyo-yahitonosyu-go-wo\"jo-sitsusekai\"toyobu",
-            "jibunnoyokkyu-woseizitunimitashitekurerukankyo-yahitonosyu-go-wo\"jo-shitusekai\"toyobu",
-            "jibunnoyokkyu-woseizitunimitashitekurerukankyo-yahitonosyu-go-wo\"jo-shitsusekai\"toyobu",
-            "jibunnoyokkyu-woseizitunimitashitekurerukankyo-yahitonosyu-go-o\"zyo-situsekai\"toyobu",
-            "jibunnoyokkyu-woseizitunimitashitekurerukankyo-yahitonosyu-go-o\"zyo-sitsusekai\"toyobu",
-            "jibunnoyokkyu-woseizitunimitashitekurerukankyo-yahitonosyu-go-o\"zyo-shitusekai\"toyobu",
-            "jibunnoyokkyu-woseizitunimitashitekurerukankyo-yahitonosyu-go-o\"zyo-shitsusekai\"toyobu",
-            "jibunnoyokkyu-woseizitunimitashitekurerukankyo-yahitonosyu-go-o\"jo-situsekai\"toyobu",
-            "jibunnoyokkyu-woseizitunimitashitekurerukankyo-yahitonosyu-go-o\"jo-sitsusekai\"toyobu",
-            "jibunnoyokkyu-woseizitunimitashitekurerukankyo-yahitonosyu-go-o\"jo-shitusekai\"toyobu",
-            "jibunnoyokkyu-woseizitunimitashitekurerukankyo-yahitonosyu-go-o\"jo-shitsusekai\"toyobu",
-            "jibunnoyokkyu-woseizitunimitashitekurerukankyo-yahitonoshu-go-wo\"zyo-situsekai\"toyobu",
-            "jibunnoyokkyu-woseizitunimitashitekurerukankyo-yahitonoshu-go-wo\"zyo-sitsusekai\"toyobu",
-            "jibunnoyokkyu-woseizitunimitashitekurerukankyo-yahitonoshu-go-wo\"zyo-shitusekai\"toyobu",
-            "jibunnoyokkyu-woseizitunimitashitekurerukankyo-yahitonoshu-go-wo\"zyo-shitsusekai\"toyobu",
-            "jibunnoyokkyu-woseizitunimitashitekurerukankyo-yahitonoshu-go-wo\"jo-situsekai\"toyobu",
-            "jibunnoyokkyu-woseizitunimitashitekurerukankyo-yahitonoshu-go-wo\"jo-sitsusekai\"toyobu",
-            "jibunnoyokkyu-woseizitunimitashitekurerukankyo-yahitonoshu-go-wo\"jo-shitusekai\"toyobu",
-            "jibunnoyokkyu-woseizitunimitashitekurerukankyo-yahitonoshu-go-wo\"jo-shitsusekai\"toyobu",
-            "jibunnoyokkyu-woseizitunimitashitekurerukankyo-yahitonoshu-go-o\"zyo-situsekai\"toyobu",
-            "jibunnoyokkyu-woseizitunimitashitekurerukankyo-yahitonoshu-go-o\"zyo-sitsusekai\"toyobu",
-            "jibunnoyokkyu-woseizitunimitashitekurerukankyo-yahitonoshu-go-o\"zyo-shitusekai\"toyobu",
-            "jibunnoyokkyu-woseizitunimitashitekurerukankyo-yahitonoshu-go-o\"zyo-shitsusekai\"toyobu",
-            "jibunnoyokkyu-woseizitunimitashitekurerukankyo-yahitonoshu-go-o\"jo-situsekai\"toyobu",
-            "jibunnoyokkyu-woseizitunimitashitekurerukankyo-yahitonoshu-go-o\"jo-sitsusekai\"toyobu",
-            "jibunnoyokkyu-woseizitunimitashitekurerukankyo-yahitonoshu-go-o\"jo-shitusekai\"toyobu",
-            "jibunnoyokkyu-woseizitunimitashitekurerukankyo-yahitonoshu-go-o\"jo-shitsusekai\"toyobu",
-            "jibunnoyokkyu-woseizitunimitashitekurerukankyo-yahitonosfu-go-wo\"zyo-situsekai\"toyobu",
-            "jibunnoyokkyu-woseizitunimitashitekurerukankyo-yahitonosfu-go-wo\"zyo-sitsusekai\"toyobu",
-            "jibunnoyokkyu-woseizitunimitashitekurerukankyo-yahitonosfu-go-wo\"zyo-shitusekai\"toyobu",
-            "jibunnoyokkyu-woseizitunimitashitekurerukankyo-yahitonosfu-go-wo\"zyo-shitsusekai\"toyobu",
-            "jibunnoyokkyu-woseizitunimitashitekurerukankyo-yahitonosfu-go-wo\"jo-situsekai\"toyobu",
-            "jibunnoyokkyu-woseizitunimitashitekurerukankyo-yahitonosfu-go-wo\"jo-sitsusekai\"toyobu",
-            "jibunnoyokkyu-woseizitunimitashitekurerukankyo-yahitonosfu-go-wo\"jo-shitusekai\"toyobu",
-            "jibunnoyokkyu-woseizitunimitashitekurerukankyo-yahitonosfu-go-wo\"jo-shitsusekai\"toyobu",
-            "jibunnoyokkyu-woseizitunimitashitekurerukankyo-yahitonosfu-go-o\"zyo-situsekai\"toyobu",
-            "jibunnoyokkyu-woseizitunimitashitekurerukankyo-yahitonosfu-go-o\"zyo-sitsusekai\"toyobu",
-            "jibunnoyokkyu-woseizitunimitashitekurerukankyo-yahitonosfu-go-o\"zyo-shitusekai\"toyobu",
-            "jibunnoyokkyu-woseizitunimitashitekurerukankyo-yahitonosfu-go-o\"zyo-shitsusekai\"toyobu",
-            "jibunnoyokkyu-woseizitunimitashitekurerukankyo-yahitonosfu-go-o\"jo-situsekai\"toyobu",
-            "jibunnoyokkyu-woseizitunimitashitekurerukankyo-yahitonosfu-go-o\"jo-sitsusekai\"toyobu",
-            "jibunnoyokkyu-woseizitunimitashitekurerukankyo-yahitonosfu-go-o\"jo-shitusekai\"toyobu",
-            "jibunnoyokkyu-woseizitunimitashitekurerukankyo-yahitonosfu-go-o\"jo-shitsusekai\"toyobu",
-            "jibunnoyokkyu-woseizitsunimitasitekurerukankyo-yahitonosyu-go-wo\"zyo-situsekai\"toyobu",
-            "jibunnoyokkyu-woseizitsunimitasitekurerukankyo-yahitonosyu-go-wo\"zyo-sitsusekai\"toyobu",
-            "jibunnoyokkyu-woseizitsunimitasitekurerukankyo-yahitonosyu-go-wo\"zyo-shitusekai\"toyobu",
-            "jibunnoyokkyu-woseizitsunimitasitekurerukankyo-yahitonosyu-go-wo\"zyo-shitsusekai\"toyobu",
-            "jibunnoyokkyu-woseizitsunimitasitekurerukankyo-yahitonosyu-go-wo\"jo-situsekai\"toyobu",
-            "jibunnoyokkyu-woseizitsunimitasitekurerukankyo-yahitonosyu-go-wo\"jo-sitsusekai\"toyobu",
-            "jibunnoyokkyu-woseizitsunimitasitekurerukankyo-yahitonosyu-go-wo\"jo-shitusekai\"toyobu",
-            "jibunnoyokkyu-woseizitsunimitasitekurerukankyo-yahitonosyu-go-wo\"jo-shitsusekai\"toyobu",
-            "jibunnoyokkyu-woseizitsunimitasitekurerukankyo-yahitonosyu-go-o\"zyo-situsekai\"toyobu",
-            "jibunnoyokkyu-woseizitsunimitasitekurerukankyo-yahitonosyu-go-o\"zyo-sitsusekai\"toyobu",
-            "jibunnoyokkyu-woseizitsunimitasitekurerukankyo-yahitonosyu-go-o\"zyo-shitusekai\"toyobu",
-            "jibunnoyokkyu-woseizitsunimitasitekurerukankyo-yahitonosyu-go-o\"zyo-shitsusekai\"toyobu",
-            "jibunnoyokkyu-woseizitsunimitasitekurerukankyo-yahitonosyu-go-o\"jo-situsekai\"toyobu",
-            "jibunnoyokkyu-woseizitsunimitasitekurerukankyo-yahitonosyu-go-o\"jo-sitsusekai\"toyobu",
-            "jibunnoyokkyu-woseizitsunimitasitekurerukankyo-yahitonosyu-go-o\"jo-shitusekai\"toyobu",
-            "jibunnoyokkyu-woseizitsunimitasitekurerukankyo-yahitonosyu-go-o\"jo-shitsusekai\"toyobu",
-            "jibunnoyokkyu-woseizitsunimitasitekurerukankyo-yahitonoshu-go-wo\"zyo-situsekai\"toyobu",
-            "jibunnoyokkyu-woseizitsunimitasitekurerukankyo-yahitonoshu-go-wo\"zyo-sitsusekai\"toyobu",
-            "jibunnoyokkyu-woseizitsunimitasitekurerukankyo-yahitonoshu-go-wo\"zyo-shitusekai\"toyobu",
-            "jibunnoyokkyu-woseizitsunimitasitekurerukankyo-yahitonoshu-go-wo\"zyo-shitsusekai\"toyobu",
-            "jibunnoyokkyu-woseizitsunimitasitekurerukankyo-yahitonoshu-go-wo\"jo-situsekai\"toyobu",
-            "jibunnoyokkyu-woseizitsunimitasitekurerukankyo-yahitonoshu-go-wo\"jo-sitsusekai\"toyobu",
-            "jibunnoyokkyu-woseizitsunimitasitekurerukankyo-yahitonoshu-go-wo\"jo-shitusekai\"toyobu",
-            "jibunnoyokkyu-woseizitsunimitasitekurerukankyo-yahitonoshu-go-wo\"jo-shitsusekai\"toyobu",
-            "jibunnoyokkyu-woseizitsunimitasitekurerukankyo-yahitonoshu-go-o\"zyo-situsekai\"toyobu",
-            "jibunnoyokkyu-woseizitsunimitasitekurerukankyo-yahitonoshu-go-o\"zyo-sitsusekai\"toyobu",
-            "jibunnoyokkyu-woseizitsunimitasitekurerukankyo-yahitonoshu-go-o\"zyo-shitusekai\"toyobu",
-            "jibunnoyokkyu-woseizitsunimitasitekurerukankyo-yahitonoshu-go-o\"zyo-shitsusekai\"toyobu",
-            "jibunnoyokkyu-woseizitsunimitasitekurerukankyo-yahitonoshu-go-o\"jo-situsekai\"toyobu",
-            "jibunnoyokkyu-woseizitsunimitasitekurerukankyo-yahitonoshu-go-o\"jo-sitsusekai\"toyobu",
-            "jibunnoyokkyu-woseizitsunimitasitekurerukankyo-yahitonoshu-go-o\"jo-shitusekai\"toyobu",
-            "jibunnoyokkyu-woseizitsunimitasitekurerukankyo-yahitonoshu-go-o\"jo-shitsusekai\"toyobu",
-            "jibunnoyokkyu-woseizitsunimitasitekurerukankyo-yahitonosfu-go-wo\"zyo-situsekai\"toyobu",
-            "jibunnoyokkyu-woseizitsunimitasitekurerukankyo-yahitonosfu-go-wo\"zyo-sitsusekai\"toyobu",
-            "jibunnoyokkyu-woseizitsunimitasitekurerukankyo-yahitonosfu-go-wo\"zyo-shitusekai\"toyobu",
-            "jibunnoyokkyu-woseizitsunimitasitekurerukankyo-yahitonosfu-go-wo\"zyo-shitsusekai\"toyobu",
-            "jibunnoyokkyu-woseizitsunimitasitekurerukankyo-yahitonosfu-go-wo\"jo-situsekai\"toyobu",
-            "jibunnoyokkyu-woseizitsunimitasitekurerukankyo-yahitonosfu-go-wo\"jo-sitsusekai\"toyobu",
-            "jibunnoyokkyu-woseizitsunimitasitekurerukankyo-yahitonosfu-go-wo\"jo-shitusekai\"toyobu",
-            "jibunnoyokkyu-woseizitsunimitasitekurerukankyo-yahitonosfu-go-wo\"jo-shitsusekai\"toyobu",
-            "jibunnoyokkyu-woseizitsunimitasitekurerukankyo-yahitonosfu-go-o\"zyo-situsekai\"toyobu",
-            "jibunnoyokkyu-woseizitsunimitasitekurerukankyo-yahitonosfu-go-o\"zyo-sitsusekai\"toyobu",
-            "jibunnoyokkyu-woseizitsunimitasitekurerukankyo-yahitonosfu-go-o\"zyo-shitusekai\"toyobu",
-            "jibunnoyokkyu-woseizitsunimitasitekurerukankyo-yahitonosfu-go-o\"zyo-shitsusekai\"toyobu",
-            "jibunnoyokkyu-woseizitsunimitasitekurerukankyo-yahitonosfu-go-o\"jo-situsekai\"toyobu",
-            "jibunnoyokkyu-woseizitsunimitasitekurerukankyo-yahitonosfu-go-o\"jo-sitsusekai\"toyobu",
-            "jibunnoyokkyu-woseizitsunimitasitekurerukankyo-yahitonosfu-go-o\"jo-shitusekai\"toyobu",
-            "jibunnoyokkyu-woseizitsunimitasitekurerukankyo-yahitonosfu-go-o\"jo-shitsusekai\"toyobu",
-            "jibunnoyokkyu-woseizitsunimitashitekurerukankyo-yahitonosyu-go-wo\"zyo-situsekai\"toyobu",
-            "jibunnoyokkyu-woseizitsunimitashitekurerukankyo-yahitonosyu-go-wo\"zyo-sitsusekai\"toyobu",
-            "jibunnoyokkyu-woseizitsunimitashitekurerukankyo-yahitonosyu-go-wo\"zyo-shitusekai\"toyobu",
-            "jibunnoyokkyu-woseizitsunimitashitekurerukankyo-yahitonosyu-go-wo\"zyo-shitsusekai\"toyobu",
-            "jibunnoyokkyu-woseizitsunimitashitekurerukankyo-yahitonosyu-go-wo\"jo-situsekai\"toyobu",
-            "jibunnoyokkyu-woseizitsunimitashitekurerukankyo-yahitonosyu-go-wo\"jo-sitsusekai\"toyobu",
-            "jibunnoyokkyu-woseizitsunimitashitekurerukankyo-yahitonosyu-go-wo\"jo-shitusekai\"toyobu",
-            "jibunnoyokkyu-woseizitsunimitashitekurerukankyo-yahitonosyu-go-wo\"jo-shitsusekai\"toyobu",
-            "jibunnoyokkyu-woseizitsunimitashitekurerukankyo-yahitonosyu-go-o\"zyo-situsekai\"toyobu",
-            "jibunnoyokkyu-woseizitsunimitashitekurerukankyo-yahitonosyu-go-o\"zyo-sitsusekai\"toyobu",
-            "jibunnoyokkyu-woseizitsunimitashitekurerukankyo-yahitonosyu-go-o\"zyo-shitusekai\"toyobu",
-            "jibunnoyokkyu-woseizitsunimitashitekurerukankyo-yahitonosyu-go-o\"zyo-shitsusekai\"toyobu",
-            "jibunnoyokkyu-woseizitsunimitashitekurerukankyo-yahitonosyu-go-o\"jo-situsekai\"toyobu",
-            "jibunnoyokkyu-woseizitsunimitashitekurerukankyo-yahitonosyu-go-o\"jo-sitsusekai\"toyobu",
-            "jibunnoyokkyu-woseizitsunimitashitekurerukankyo-yahitonosyu-go-o\"jo-shitusekai\"toyobu",
-            "jibunnoyokkyu-woseizitsunimitashitekurerukankyo-yahitonosyu-go-o\"jo-shitsusekai\"toyobu",
-            "jibunnoyokkyu-woseizitsunimitashitekurerukankyo-yahitonoshu-go-wo\"zyo-situsekai\"toyobu",
-            "jibunnoyokkyu-woseizitsunimitashitekurerukankyo-yahitonoshu-go-wo\"zyo-sitsusekai\"toyobu",
-            "jibunnoyokkyu-woseizitsunimitashitekurerukankyo-yahitonoshu-go-wo\"zyo-shitusekai\"toyobu",
-            "jibunnoyokkyu-woseizitsunimitashitekurerukankyo-yahitonoshu-go-wo\"zyo-shitsusekai\"toyobu",
-            "jibunnoyokkyu-woseizitsunimitashitekurerukankyo-yahitonoshu-go-wo\"jo-situsekai\"toyobu",
-            "jibunnoyokkyu-woseizitsunimitashitekurerukankyo-yahitonoshu-go-wo\"jo-sitsusekai\"toyobu",
-            "jibunnoyokkyu-woseizitsunimitashitekurerukankyo-yahitonoshu-go-wo\"jo-shitusekai\"toyobu",
-            "jibunnoyokkyu-woseizitsunimitashitekurerukankyo-yahitonoshu-go-wo\"jo-shitsusekai\"toyobu",
-            "jibunnoyokkyu-woseizitsunimitashitekurerukankyo-yahitonoshu-go-o\"zyo-situsekai\"toyobu",
-            "jibunnoyokkyu-woseizitsunimitashitekurerukankyo-yahitonoshu-go-o\"zyo-sitsusekai\"toyobu",
-            "jibunnoyokkyu-woseizitsunimitashitekurerukankyo-yahitonoshu-go-o\"zyo-shitusekai\"toyobu",
-            "jibunnoyokkyu-woseizitsunimitashitekurerukankyo-yahitonoshu-go-o\"zyo-shitsusekai\"toyobu",
-            "jibunnoyokkyu-woseizitsunimitashitekurerukankyo-yahitonoshu-go-o\"jo-situsekai\"toyobu",
-            "jibunnoyokkyu-woseizitsunimitashitekurerukankyo-yahitonoshu-go-o\"jo-sitsusekai\"toyobu",
-            "jibunnoyokkyu-woseizitsunimitashitekurerukankyo-yahitonoshu-go-o\"jo-shitusekai\"toyobu",
-            "jibunnoyokkyu-woseizitsunimitashitekurerukankyo-yahitonoshu-go-o\"jo-shitsusekai\"toyobu",
-            "jibunnoyokkyu-woseizitsunimitashitekurerukankyo-yahitonosfu-go-wo\"zyo-situsekai\"toyobu",
-            "jibunnoyokkyu-woseizitsunimitashitekurerukankyo-yahitonosfu-go-wo\"zyo-sitsusekai\"toyobu",
-            "jibunnoyokkyu-woseizitsunimitashitekurerukankyo-yahitonosfu-go-wo\"zyo-shitusekai\"toyobu",
-            "jibunnoyokkyu-woseizitsunimitashitekurerukankyo-yahitonosfu-go-wo\"zyo-shitsusekai\"toyobu",
-            "jibunnoyokkyu-woseizitsunimitashitekurerukankyo-yahitonosfu-go-wo\"jo-situsekai\"toyobu",
-            "jibunnoyokkyu-woseizitsunimitashitekurerukankyo-yahitonosfu-go-wo\"jo-sitsusekai\"toyobu",
-            "jibunnoyokkyu-woseizitsunimitashitekurerukankyo-yahitonosfu-go-wo\"jo-shitusekai\"toyobu",
-            "jibunnoyokkyu-woseizitsunimitashitekurerukankyo-yahitonosfu-go-wo\"jo-shitsusekai\"toyobu",
-            "jibunnoyokkyu-woseizitsunimitashitekurerukankyo-yahitonosfu-go-o\"zyo-situsekai\"toyobu",
-            "jibunnoyokkyu-woseizitsunimitashitekurerukankyo-yahitonosfu-go-o\"zyo-sitsusekai\"toyobu",
-            "jibunnoyokkyu-woseizitsunimitashitekurerukankyo-yahitonosfu-go-o\"zyo-shitusekai\"toyobu",
-            "jibunnoyokkyu-woseizitsunimitashitekurerukankyo-yahitonosfu-go-o\"zyo-shitsusekai\"toyobu",
-            "jibunnoyokkyu-woseizitsunimitashitekurerukankyo-yahitonosfu-go-o\"jo-situsekai\"toyobu",
-            "jibunnoyokkyu-woseizitsunimitashitekurerukankyo-yahitonosfu-go-o\"jo-sitsusekai\"toyobu",
-            "jibunnoyokkyu-woseizitsunimitashitekurerukankyo-yahitonosfu-go-o\"jo-shitusekai\"toyobu",
-            "jibunnoyokkyu-woseizitsunimitashitekurerukankyo-yahitonosfu-go-o\"jo-shitsusekai\"toyobu",
-            "jibunnoyokkyu-woseijitunimitasitekurerukankyo-yahitonosyu-go-wo\"zyo-situsekai\"toyobu",
-            "jibunnoyokkyu-woseijitunimitasitekurerukankyo-yahitonosyu-go-wo\"zyo-sitsusekai\"toyobu",
-            "jibunnoyokkyu-woseijitunimitasitekurerukankyo-yahitonosyu-go-wo\"zyo-shitusekai\"toyobu",
-            "jibunnoyokkyu-woseijitunimitasitekurerukankyo-yahitonosyu-go-wo\"zyo-shitsusekai\"toyobu",
-            "jibunnoyokkyu-woseijitunimitasitekurerukankyo-yahitonosyu-go-wo\"jo-situsekai\"toyobu",
-            "jibunnoyokkyu-woseijitunimitasitekurerukankyo-yahitonosyu-go-wo\"jo-sitsusekai\"toyobu",
-            "jibunnoyokkyu-woseijitunimitasitekurerukankyo-yahitonosyu-go-wo\"jo-shitusekai\"toyobu",
-            "jibunnoyokkyu-woseijitunimitasitekurerukankyo-yahitonosyu-go-wo\"jo-shitsusekai\"toyobu",
-            "jibunnoyokkyu-woseijitunimitasitekurerukankyo-yahitonosyu-go-o\"zyo-situsekai\"toyobu",
-            "jibunnoyokkyu-woseijitunimitasitekurerukankyo-yahitonosyu-go-o\"zyo-sitsusekai\"toyobu",
-            "jibunnoyokkyu-woseijitunimitasitekurerukankyo-yahitonosyu-go-o\"zyo-shitusekai\"toyobu",
-            "jibunnoyokkyu-woseijitunimitasitekurerukankyo-yahitonosyu-go-o\"zyo-shitsusekai\"toyobu",
-            "jibunnoyokkyu-woseijitunimitasitekurerukankyo-yahitonosyu-go-o\"jo-situsekai\"toyobu",
-            "jibunnoyokkyu-woseijitunimitasitekurerukankyo-yahitonosyu-go-o\"jo-sitsusekai\"toyobu",
-            "jibunnoyokkyu-woseijitunimitasitekurerukankyo-yahitonosyu-go-o\"jo-shitusekai\"toyobu",
-            "jibunnoyokkyu-woseijitunimitasitekurerukankyo-yahitonosyu-go-o\"jo-shitsusekai\"toyobu",
-            "jibunnoyokkyu-woseijitunimitasitekurerukankyo-yahitonoshu-go-wo\"zyo-situsekai\"toyobu",
-            "jibunnoyokkyu-woseijitunimitasitekurerukankyo-yahitonoshu-go-wo\"zyo-sitsusekai\"toyobu",
-            "jibunnoyokkyu-woseijitunimitasitekurerukankyo-yahitonoshu-go-wo\"zyo-shitusekai\"toyobu",
-            "jibunnoyokkyu-woseijitunimitasitekurerukankyo-yahitonoshu-go-wo\"zyo-shitsusekai\"toyobu",
-            "jibunnoyokkyu-woseijitunimitasitekurerukankyo-yahitonoshu-go-wo\"jo-situsekai\"toyobu",
-            "jibunnoyokkyu-woseijitunimitasitekurerukankyo-yahitonoshu-go-wo\"jo-sitsusekai\"toyobu",
-            "jibunnoyokkyu-woseijitunimitasitekurerukankyo-yahitonoshu-go-wo\"jo-shitusekai\"toyobu",
-            "jibunnoyokkyu-woseijitunimitasitekurerukankyo-yahitonoshu-go-wo\"jo-shitsusekai\"toyobu",
-            "jibunnoyokkyu-woseijitunimitasitekurerukankyo-yahitonoshu-go-o\"zyo-situsekai\"toyobu",
-            "jibunnoyokkyu-woseijitunimitasitekurerukankyo-yahitonoshu-go-o\"zyo-sitsusekai\"toyobu",
-            "jibunnoyokkyu-woseijitunimitasitekurerukankyo-yahitonoshu-go-o\"zyo-shitusekai\"toyobu",
-            "jibunnoyokkyu-woseijitunimitasitekurerukankyo-yahitonoshu-go-o\"zyo-shitsusekai\"toyobu",
-            "jibunnoyokkyu-woseijitunimitasitekurerukankyo-yahitonoshu-go-o\"jo-situsekai\"toyobu",
-            "jibunnoyokkyu-woseijitunimitasitekurerukankyo-yahitonoshu-go-o\"jo-sitsusekai\"toyobu",
-            "jibunnoyokkyu-woseijitunimitasitekurerukankyo-yahitonoshu-go-o\"jo-shitusekai\"toyobu",
-            "jibunnoyokkyu-woseijitunimitasitekurerukankyo-yahitonoshu-go-o\"jo-shitsusekai\"toyobu",
-            "jibunnoyokkyu-woseijitunimitasitekurerukankyo-yahitonosfu-go-wo\"zyo-situsekai\"toyobu",
-            "jibunnoyokkyu-woseijitunimitasitekurerukankyo-yahitonosfu-go-wo\"zyo-sitsusekai\"toyobu",
-            "jibunnoyokkyu-woseijitunimitasitekurerukankyo-yahitonosfu-go-wo\"zyo-shitusekai\"toyobu",
-            "jibunnoyokkyu-woseijitunimitasitekurerukankyo-yahitonosfu-go-wo\"zyo-shitsusekai\"toyobu",
-            "jibunnoyokkyu-woseijitunimitasitekurerukankyo-yahitonosfu-go-wo\"jo-situsekai\"toyobu",
-            "jibunnoyokkyu-woseijitunimitasitekurerukankyo-yahitonosfu-go-wo\"jo-sitsusekai\"toyobu",
-            "jibunnoyokkyu-woseijitunimitasitekurerukankyo-yahitonosfu-go-wo\"jo-shitusekai\"toyobu",
-            "jibunnoyokkyu-woseijitunimitasitekurerukankyo-yahitonosfu-go-wo\"jo-shitsusekai\"toyobu",
-            "jibunnoyokkyu-woseijitunimitasitekurerukankyo-yahitonosfu-go-o\"zyo-situsekai\"toyobu",
-            "jibunnoyokkyu-woseijitunimitasitekurerukankyo-yahitonosfu-go-o\"zyo-sitsusekai\"toyobu",
-            "jibunnoyokkyu-woseijitunimitasitekurerukankyo-yahitonosfu-go-o\"zyo-shitusekai\"toyobu",
-            "jibunnoyokkyu-woseijitunimitasitekurerukankyo-yahitonosfu-go-o\"zyo-shitsusekai\"toyobu",
-            "jibunnoyokkyu-woseijitunimitasitekurerukankyo-yahitonosfu-go-o\"jo-situsekai\"toyobu",
-            "jibunnoyokkyu-woseijitunimitasitekurerukankyo-yahitonosfu-go-o\"jo-sitsusekai\"toyobu",
-            "jibunnoyokkyu-woseijitunimitasitekurerukankyo-yahitonosfu-go-o\"jo-shitusekai\"toyobu",
-            "jibunnoyokkyu-woseijitunimitasitekurerukankyo-yahitonosfu-go-o\"jo-shitsusekai\"toyobu",
-            "jibunnoyokkyu-woseijitunimitashitekurerukankyo-yahitonosyu-go-wo\"zyo-situsekai\"toyobu",
-            "jibunnoyokkyu-woseijitunimitashitekurerukankyo-yahitonosyu-go-wo\"zyo-sitsusekai\"toyobu",
-            "jibunnoyokkyu-woseijitunimitashitekurerukankyo-yahitonosyu-go-wo\"zyo-shitusekai\"toyobu",
-            "jibunnoyokkyu-woseijitunimitashitekurerukankyo-yahitonosyu-go-wo\"zyo-shitsusekai\"toyobu",
-            "jibunnoyokkyu-woseijitunimitashitekurerukankyo-yahitonosyu-go-wo\"jo-situsekai\"toyobu",
-            "jibunnoyokkyu-woseijitunimitashitekurerukankyo-yahitonosyu-go-wo\"jo-sitsusekai\"toyobu",
-            "jibunnoyokkyu-woseijitunimitashitekurerukankyo-yahitonosyu-go-wo\"jo-shitusekai\"toyobu",
-            "jibunnoyokkyu-woseijitunimitashitekurerukankyo-yahitonosyu-go-wo\"jo-shitsusekai\"toyobu",
-            "jibunnoyokkyu-woseijitunimitashitekurerukankyo-yahitonosyu-go-o\"zyo-situsekai\"toyobu",
-            "jibunnoyokkyu-woseijitunimitashitekurerukankyo-yahitonosyu-go-o\"zyo-sitsusekai\"toyobu",
-            "jibunnoyokkyu-woseijitunimitashitekurerukankyo-yahitonosyu-go-o\"zyo-shitusekai\"toyobu",
-            "jibunnoyokkyu-woseijitunimitashitekurerukankyo-yahitonosyu-go-o\"zyo-shitsusekai\"toyobu",
-            "jibunnoyokkyu-woseijitunimitashitekurerukankyo-yahitonosyu-go-o\"jo-situsekai\"toyobu",
-            "jibunnoyokkyu-woseijitunimitashitekurerukankyo-yahitonosyu-go-o\"jo-sitsusekai\"toyobu",
-            "jibunnoyokkyu-woseijitunimitashitekurerukankyo-yahitonosyu-go-o\"jo-shitusekai\"toyobu",
-            "jibunnoyokkyu-woseijitunimitashitekurerukankyo-yahitonosyu-go-o\"jo-shitsusekai\"toyobu",
-            "jibunnoyokkyu-woseijitunimitashitekurerukankyo-yahitonoshu-go-wo\"zyo-situsekai\"toyobu",
-            "jibunnoyokkyu-woseijitunimitashitekurerukankyo-yahitonoshu-go-wo\"zyo-sitsusekai\"toyobu",
-            "jibunnoyokkyu-woseijitunimitashitekurerukankyo-yahitonoshu-go-wo\"zyo-shitusekai\"toyobu",
-            "jibunnoyokkyu-woseijitunimitashitekurerukankyo-yahitonoshu-go-wo\"zyo-shitsusekai\"toyobu",
-            "jibunnoyokkyu-woseijitunimitashitekurerukankyo-yahitonoshu-go-wo\"jo-situsekai\"toyobu",
-            "jibunnoyokkyu-woseijitunimitashitekurerukankyo-yahitonoshu-go-wo\"jo-sitsusekai\"toyobu",
-            "jibunnoyokkyu-woseijitunimitashitekurerukankyo-yahitonoshu-go-wo\"jo-shitusekai\"toyobu",
-            "jibunnoyokkyu-woseijitunimitashitekurerukankyo-yahitonoshu-go-wo\"jo-shitsusekai\"toyobu",
-            "jibunnoyokkyu-woseijitunimitashitekurerukankyo-yahitonoshu-go-o\"zyo-situsekai\"toyobu",
-            "jibunnoyokkyu-woseijitunimitashitekurerukankyo-yahitonoshu-go-o\"zyo-sitsusekai\"toyobu",
-            "jibunnoyokkyu-woseijitunimitashitekurerukankyo-yahitonoshu-go-o\"zyo-shitusekai\"toyobu",
-            "jibunnoyokkyu-woseijitunimitashitekurerukankyo-yahitonoshu-go-o\"zyo-shitsusekai\"toyobu",
-            "jibunnoyokkyu-woseijitunimitashitekurerukankyo-yahitonoshu-go-o\"jo-situsekai\"toyobu",
-            "jibunnoyokkyu-woseijitunimitashitekurerukankyo-yahitonoshu-go-o\"jo-sitsusekai\"toyobu",
-            "jibunnoyokkyu-woseijitunimitashitekurerukankyo-yahitonoshu-go-o\"jo-shitusekai\"toyobu",
-            "jibunnoyokkyu-woseijitunimitashitekurerukankyo-yahitonoshu-go-o\"jo-shitsusekai\"toyobu",
-            "jibunnoyokkyu-woseijitunimitashitekurerukankyo-yahitonosfu-go-wo\"zyo-situsekai\"toyobu",
-            "jibunnoyokkyu-woseijitunimitashitekurerukankyo-yahitonosfu-go-wo\"zyo-sitsusekai\"toyobu",
-            "jibunnoyokkyu-woseijitunimitashitekurerukankyo-yahitonosfu-go-wo\"zyo-shitusekai\"toyobu",
-            "jibunnoyokkyu-woseijitunimitashitekurerukankyo-yahitonosfu-go-wo\"zyo-shitsusekai\"toyobu",
-            "jibunnoyokkyu-woseijitunimitashitekurerukankyo-yahitonosfu-go-wo\"jo-situsekai\"toyobu",
-            "jibunnoyokkyu-woseijitunimitashitekurerukankyo-yahitonosfu-go-wo\"jo-sitsusekai\"toyobu",
-            "jibunnoyokkyu-woseijitunimitashitekurerukankyo-yahitonosfu-go-wo\"jo-shitusekai\"toyobu",
-            "jibunnoyokkyu-woseijitunimitashitekurerukankyo-yahitonosfu-go-wo\"jo-shitsusekai\"toyobu",
-            "jibunnoyokkyu-woseijitunimitashitekurerukankyo-yahitonosfu-go-o\"zyo-situsekai\"toyobu",
-            "jibunnoyokkyu-woseijitunimitashitekurerukankyo-yahitonosfu-go-o\"zyo-sitsusekai\"toyobu",
-            "jibunnoyokkyu-woseijitunimitashitekurerukankyo-yahitonosfu-go-o\"zyo-shitusekai\"toyobu",
-            "jibunnoyokkyu-woseijitunimitashitekurerukankyo-yahitonosfu-go-o\"zyo-shitsusekai\"toyobu",
-            "jibunnoyokkyu-woseijitunimitashitekurerukankyo-yahitonosfu-go-o\"jo-situsekai\"toyobu",
-            "jibunnoyokkyu-woseijitunimitashitekurerukankyo-yahitonosfu-go-o\"jo-sitsusekai\"toyobu",
-            "jibunnoyokkyu-woseijitunimitashitekurerukankyo-yahitonosfu-go-o\"jo-shitusekai\"toyobu",
-            "jibunnoyokkyu-woseijitunimitashitekurerukankyo-yahitonosfu-go-o\"jo-shitsusekai\"toyobu",
-            "jibunnoyokkyu-woseijitsunimitasitekurerukankyo-yahitonosyu-go-wo\"zyo-situsekai\"toyobu",
-            "jibunnoyokkyu-woseijitsunimitasitekurerukankyo-yahitonosyu-go-wo\"zyo-sitsusekai\"toyobu",
-            "jibunnoyokkyu-woseijitsunimitasitekurerukankyo-yahitonosyu-go-wo\"zyo-shitusekai\"toyobu",
-            "jibunnoyokkyu-woseijitsunimitasitekurerukankyo-yahitonosyu-go-wo\"zyo-shitsusekai\"toyobu",
-            "jibunnoyokkyu-woseijitsunimitasitekurerukankyo-yahitonosyu-go-wo\"jo-situsekai\"toyobu",
-            "jibunnoyokkyu-woseijitsunimitasitekurerukankyo-yahitonosyu-go-wo\"jo-sitsusekai\"toyobu",
-            "jibunnoyokkyu-woseijitsunimitasitekurerukankyo-yahitonosyu-go-wo\"jo-shitusekai\"toyobu",
-            "jibunnoyokkyu-woseijitsunimitasitekurerukankyo-yahitonosyu-go-wo\"jo-shitsusekai\"toyobu",
-            "jibunnoyokkyu-woseijitsunimitasitekurerukankyo-yahitonosyu-go-o\"zyo-situsekai\"toyobu",
-            "jibunnoyokkyu-woseijitsunimitasitekurerukankyo-yahitonosyu-go-o\"zyo-sitsusekai\"toyobu",
-            "jibunnoyokkyu-woseijitsunimitasitekurerukankyo-yahitonosyu-go-o\"zyo-shitusekai\"toyobu",
-            "jibunnoyokkyu-woseijitsunimitasitekurerukankyo-yahitonosyu-go-o\"zyo-shitsusekai\"toyobu",
-            "jibunnoyokkyu-woseijitsunimitasitekurerukankyo-yahitonosyu-go-o\"jo-situsekai\"toyobu",
-            "jibunnoyokkyu-woseijitsunimitasitekurerukankyo-yahitonosyu-go-o\"jo-sitsusekai\"toyobu",
-            "jibunnoyokkyu-woseijitsunimitasitekurerukankyo-yahitonosyu-go-o\"jo-shitusekai\"toyobu",
-            "jibunnoyokkyu-woseijitsunimitasitekurerukankyo-yahitonosyu-go-o\"jo-shitsusekai\"toyobu",
-            "jibunnoyokkyu-woseijitsunimitasitekurerukankyo-yahitonoshu-go-wo\"zyo-situsekai\"toyobu",
-            "jibunnoyokkyu-woseijitsunimitasitekurerukankyo-yahitonoshu-go-wo\"zyo-sitsusekai\"toyobu",
-            "jibunnoyokkyu-woseijitsunimitasitekurerukankyo-yahitonoshu-go-wo\"zyo-shitusekai\"toyobu",
-            "jibunnoyokkyu-woseijitsunimitasitekurerukankyo-yahitonoshu-go-wo\"zyo-shitsusekai\"toyobu",
-            "jibunnoyokkyu-woseijitsunimitasitekurerukankyo-yahitonoshu-go-wo\"jo-situsekai\"toyobu",
-            "jibunnoyokkyu-woseijitsunimitasitekurerukankyo-yahitonoshu-go-wo\"jo-sitsusekai\"toyobu",
-            "jibunnoyokkyu-woseijitsunimitasitekurerukankyo-yahitonoshu-go-wo\"jo-shitusekai\"toyobu",
-            "jibunnoyokkyu-woseijitsunimitasitekurerukankyo-yahitonoshu-go-wo\"jo-shitsusekai\"toyobu",
-            "jibunnoyokkyu-woseijitsunimitasitekurerukankyo-yahitonoshu-go-o\"zyo-situsekai\"toyobu",
-            "jibunnoyokkyu-woseijitsunimitasitekurerukankyo-yahitonoshu-go-o\"zyo-sitsusekai\"toyobu",
-            "jibunnoyokkyu-woseijitsunimitasitekurerukankyo-yahitonoshu-go-o\"zyo-shitusekai\"toyobu",
-            "jibunnoyokkyu-woseijitsunimitasitekurerukankyo-yahitonoshu-go-o\"zyo-shitsusekai\"toyobu",
-            "jibunnoyokkyu-woseijitsunimitasitekurerukankyo-yahitonoshu-go-o\"jo-situsekai\"toyobu",
-            "jibunnoyokkyu-woseijitsunimitasitekurerukankyo-yahitonoshu-go-o\"jo-sitsusekai\"toyobu",
-            "jibunnoyokkyu-woseijitsunimitasitekurerukankyo-yahitonoshu-go-o\"jo-shitusekai\"toyobu",
-            "jibunnoyokkyu-woseijitsunimitasitekurerukankyo-yahitonoshu-go-o\"jo-shitsusekai\"toyobu",
-            "jibunnoyokkyu-woseijitsunimitasitekurerukankyo-yahitonosfu-go-wo\"zyo-situsekai\"toyobu",
-            "jibunnoyokkyu-woseijitsunimitasitekurerukankyo-yahitonosfu-go-wo\"zyo-sitsusekai\"toyobu",
-            "jibunnoyokkyu-woseijitsunimitasitekurerukankyo-yahitonosfu-go-wo\"zyo-shitusekai\"toyobu",
-            "jibunnoyokkyu-woseijitsunimitasitekurerukankyo-yahitonosfu-go-wo\"zyo-shitsusekai\"toyobu",
-            "jibunnoyokkyu-woseijitsunimitasitekurerukankyo-yahitonosfu-go-wo\"jo-situsekai\"toyobu",
-            "jibunnoyokkyu-woseijitsunimitasitekurerukankyo-yahitonosfu-go-wo\"jo-sitsusekai\"toyobu",
-            "jibunnoyokkyu-woseijitsunimitasitekurerukankyo-yahitonosfu-go-wo\"jo-shitusekai\"toyobu",
-            "jibunnoyokkyu-woseijitsunimitasitekurerukankyo-yahitonosfu-go-wo\"jo-shitsusekai\"toyobu",
-            "jibunnoyokkyu-woseijitsunimitasitekurerukankyo-yahitonosfu-go-o\"zyo-situsekai\"toyobu",
-            "jibunnoyokkyu-woseijitsunimitasitekurerukankyo-yahitonosfu-go-o\"zyo-sitsusekai\"toyobu",
-            "jibunnoyokkyu-woseijitsunimitasitekurerukankyo-yahitonosfu-go-o\"zyo-shitusekai\"toyobu",
-            "jibunnoyokkyu-woseijitsunimitasitekurerukankyo-yahitonosfu-go-o\"zyo-shitsusekai\"toyobu",
-            "jibunnoyokkyu-woseijitsunimitasitekurerukankyo-yahitonosfu-go-o\"jo-situsekai\"toyobu",
-            "jibunnoyokkyu-woseijitsunimitasitekurerukankyo-yahitonosfu-go-o\"jo-sitsusekai\"toyobu",
-            "jibunnoyokkyu-woseijitsunimitasitekurerukankyo-yahitonosfu-go-o\"jo-shitusekai\"toyobu",
-            "jibunnoyokkyu-woseijitsunimitasitekurerukankyo-yahitonosfu-go-o\"jo-shitsusekai\"toyobu",
-            "jibunnoyokkyu-woseijitsunimitashitekurerukankyo-yahitonosyu-go-wo\"zyo-situsekai\"toyobu",
-            "jibunnoyokkyu-woseijitsunimitashitekurerukankyo-yahitonosyu-go-wo\"zyo-sitsusekai\"toyobu",
-            "jibunnoyokkyu-woseijitsunimitashitekurerukankyo-yahitonosyu-go-wo\"zyo-shitusekai\"toyobu",
-            "jibunnoyokkyu-woseijitsunimitashitekurerukankyo-yahitonosyu-go-wo\"zyo-shitsusekai\"toyobu",
-            "jibunnoyokkyu-woseijitsunimitashitekurerukankyo-yahitonosyu-go-wo\"jo-situsekai\"toyobu",
-            "jibunnoyokkyu-woseijitsunimitashitekurerukankyo-yahitonosyu-go-wo\"jo-sitsusekai\"toyobu",
-            "jibunnoyokkyu-woseijitsunimitashitekurerukankyo-yahitonosyu-go-wo\"jo-shitusekai\"toyobu",
-            "jibunnoyokkyu-woseijitsunimitashitekurerukankyo-yahitonosyu-go-wo\"jo-shitsusekai\"toyobu",
-            "jibunnoyokkyu-woseijitsunimitashitekurerukankyo-yahitonosyu-go-o\"zyo-situsekai\"toyobu",
-            "jibunnoyokkyu-woseijitsunimitashitekurerukankyo-yahitonosyu-go-o\"zyo-sitsusekai\"toyobu",
-            "jibunnoyokkyu-woseijitsunimitashitekurerukankyo-yahitonosyu-go-o\"zyo-shitusekai\"toyobu",
-            "jibunnoyokkyu-woseijitsunimitashitekurerukankyo-yahitonosyu-go-o\"zyo-shitsusekai\"toyobu",
-            "jibunnoyokkyu-woseijitsunimitashitekurerukankyo-yahitonosyu-go-o\"jo-situsekai\"toyobu",
-            "jibunnoyokkyu-woseijitsunimitashitekurerukankyo-yahitonosyu-go-o\"jo-sitsusekai\"toyobu",
-            "jibunnoyokkyu-woseijitsunimitashitekurerukankyo-yahitonosyu-go-o\"jo-shitusekai\"toyobu",
-            "jibunnoyokkyu-woseijitsunimitashitekurerukankyo-yahitonosyu-go-o\"jo-shitsusekai\"toyobu",
-            "jibunnoyokkyu-woseijitsunimitashitekurerukankyo-yahitonoshu-go-wo\"zyo-situsekai\"toyobu",
-            "jibunnoyokkyu-woseijitsunimitashitekurerukankyo-yahitonoshu-go-wo\"zyo-sitsusekai\"toyobu",
-            "jibunnoyokkyu-woseijitsunimitashitekurerukankyo-yahitonoshu-go-wo\"zyo-shitusekai\"toyobu",
-            "jibunnoyokkyu-woseijitsunimitashitekurerukankyo-yahitonoshu-go-wo\"zyo-shitsusekai\"toyobu",
-            "jibunnoyokkyu-woseijitsunimitashitekurerukankyo-yahitonoshu-go-wo\"jo-situsekai\"toyobu",
-            "jibunnoyokkyu-woseijitsunimitashitekurerukankyo-yahitonoshu-go-wo\"jo-sitsusekai\"toyobu",
-            "jibunnoyokkyu-woseijitsunimitashitekurerukankyo-yahitonoshu-go-wo\"jo-shitusekai\"toyobu",
-            "jibunnoyokkyu-woseijitsunimitashitekurerukankyo-yahitonoshu-go-wo\"jo-shitsusekai\"toyobu",
-            "jibunnoyokkyu-woseijitsunimitashitekurerukankyo-yahitonoshu-go-o\"zyo-situsekai\"toyobu",
-            "jibunnoyokkyu-woseijitsunimitashitekurerukankyo-yahitonoshu-go-o\"zyo-sitsusekai\"toyobu",
-            "jibunnoyokkyu-woseijitsunimitashitekurerukankyo-yahitonoshu-go-o\"zyo-shitusekai\"toyobu",
-            "jibunnoyokkyu-woseijitsunimitashitekurerukankyo-yahitonoshu-go-o\"zyo-shitsusekai\"toyobu",
-            "jibunnoyokkyu-woseijitsunimitashitekurerukankyo-yahitonoshu-go-o\"jo-situsekai\"toyobu",
-            "jibunnoyokkyu-woseijitsunimitashitekurerukankyo-yahitonoshu-go-o\"jo-sitsusekai\"toyobu",
-            "jibunnoyokkyu-woseijitsunimitashitekurerukankyo-yahitonoshu-go-o\"jo-shitusekai\"toyobu",
-            "jibunnoyokkyu-woseijitsunimitashitekurerukankyo-yahitonoshu-go-o\"jo-shitsusekai\"toyobu",
-            "jibunnoyokkyu-woseijitsunimitashitekurerukankyo-yahitonosfu-go-wo\"zyo-situsekai\"toyobu",
-            "jibunnoyokkyu-woseijitsunimitashitekurerukankyo-yahitonosfu-go-wo\"zyo-sitsusekai\"toyobu",
-            "jibunnoyokkyu-woseijitsunimitashitekurerukankyo-yahitonosfu-go-wo\"zyo-shitusekai\"toyobu",
-            "jibunnoyokkyu-woseijitsunimitashitekurerukankyo-yahitonosfu-go-wo\"zyo-shitsusekai\"toyobu",
-            "jibunnoyokkyu-woseijitsunimitashitekurerukankyo-yahitonosfu-go-wo\"jo-situsekai\"toyobu",
-            "jibunnoyokkyu-woseijitsunimitashitekurerukankyo-yahitonosfu-go-wo\"jo-sitsusekai\"toyobu",
-            "jibunnoyokkyu-woseijitsunimitashitekurerukankyo-yahitonosfu-go-wo\"jo-shitusekai\"toyobu",
-            "jibunnoyokkyu-woseijitsunimitashitekurerukankyo-yahitonosfu-go-wo\"jo-shitsusekai\"toyobu",
-            "jibunnoyokkyu-woseijitsunimitashitekurerukankyo-yahitonosfu-go-o\"zyo-situsekai\"toyobu",
-            "jibunnoyokkyu-woseijitsunimitashitekurerukankyo-yahitonosfu-go-o\"zyo-sitsusekai\"toyobu",
-            "jibunnoyokkyu-woseijitsunimitashitekurerukankyo-yahitonosfu-go-o\"zyo-shitusekai\"toyobu",
-            "jibunnoyokkyu-woseijitsunimitashitekurerukankyo-yahitonosfu-go-o\"zyo-shitsusekai\"toyobu",
-            "jibunnoyokkyu-woseijitsunimitashitekurerukankyo-yahitonosfu-go-o\"jo-situsekai\"toyobu",
-            "jibunnoyokkyu-woseijitsunimitashitekurerukankyo-yahitonosfu-go-o\"jo-sitsusekai\"toyobu",
-            "jibunnoyokkyu-woseijitsunimitashitekurerukankyo-yahitonosfu-go-o\"jo-shitusekai\"toyobu",
-            "jibunnoyokkyu-woseijitsunimitashitekurerukankyo-yahitonosfu-go-o\"jo-shitsusekai\"toyobu",
-            "jibunnoyokkyu-oseizitunimitasitekurerukankyo-yahitonosyu-go-wo\"zyo-situsekai\"toyobu",
-            "jibunnoyokkyu-oseizitunimitasitekurerukankyo-yahitonosyu-go-wo\"zyo-sitsusekai\"toyobu",
-            "jibunnoyokkyu-oseizitunimitasitekurerukankyo-yahitonosyu-go-wo\"zyo-shitusekai\"toyobu",
-            "jibunnoyokkyu-oseizitunimitasitekurerukankyo-yahitonosyu-go-wo\"zyo-shitsusekai\"toyobu",
-            "jibunnoyokkyu-oseizitunimitasitekurerukankyo-yahitonosyu-go-wo\"jo-situsekai\"toyobu",
-            "jibunnoyokkyu-oseizitunimitasitekurerukankyo-yahitonosyu-go-wo\"jo-sitsusekai\"toyobu",
-            "jibunnoyokkyu-oseizitunimitasitekurerukankyo-yahitonosyu-go-wo\"jo-shitusekai\"toyobu",
-            "jibunnoyokkyu-oseizitunimitasitekurerukankyo-yahitonosyu-go-wo\"jo-shitsusekai\"toyobu",
-            "jibunnoyokkyu-oseizitunimitasitekurerukankyo-yahitonosyu-go-o\"zyo-situsekai\"toyobu",
-            "jibunnoyokkyu-oseizitunimitasitekurerukankyo-yahitonosyu-go-o\"zyo-sitsusekai\"toyobu",
-            "jibunnoyokkyu-oseizitunimitasitekurerukankyo-yahitonosyu-go-o\"zyo-shitusekai\"toyobu",
-            "jibunnoyokkyu-oseizitunimitasitekurerukankyo-yahitonosyu-go-o\"zyo-shitsusekai\"toyobu",
-            "jibunnoyokkyu-oseizitunimitasitekurerukankyo-yahitonosyu-go-o\"jo-situsekai\"toyobu",
-            "jibunnoyokkyu-oseizitunimitasitekurerukankyo-yahitonosyu-go-o\"jo-sitsusekai\"toyobu",
-            "jibunnoyokkyu-oseizitunimitasitekurerukankyo-yahitonosyu-go-o\"jo-shitusekai\"toyobu",
-            "jibunnoyokkyu-oseizitunimitasitekurerukankyo-yahitonosyu-go-o\"jo-shitsusekai\"toyobu",
-            "jibunnoyokkyu-oseizitunimitasitekurerukankyo-yahitonoshu-go-wo\"zyo-situsekai\"toyobu",
-            "jibunnoyokkyu-oseizitunimitasitekurerukankyo-yahitonoshu-go-wo\"zyo-sitsusekai\"toyobu",
-            "jibunnoyokkyu-oseizitunimitasitekurerukankyo-yahitonoshu-go-wo\"zyo-shitusekai\"toyobu",
-            "jibunnoyokkyu-oseizitunimitasitekurerukankyo-yahitonoshu-go-wo\"zyo-shitsusekai\"toyobu",
-            "jibunnoyokkyu-oseizitunimitasitekurerukankyo-yahitonoshu-go-wo\"jo-situsekai\"toyobu",
-            "jibunnoyokkyu-oseizitunimitasitekurerukankyo-yahitonoshu-go-wo\"jo-sitsusekai\"toyobu",
-            "jibunnoyokkyu-oseizitunimitasitekurerukankyo-yahitonoshu-go-wo\"jo-shitusekai\"toyobu",
-            "jibunnoyokkyu-oseizitunimitasitekurerukankyo-yahitonoshu-go-wo\"jo-shitsusekai\"toyobu",
-            "jibunnoyokkyu-oseizitunimitasitekurerukankyo-yahitonoshu-go-o\"zyo-situsekai\"toyobu",
-            "jibunnoyokkyu-oseizitunimitasitekurerukankyo-yahitonoshu-go-o\"zyo-sitsusekai\"toyobu",
-            "jibunnoyokkyu-oseizitunimitasitekurerukankyo-yahitonoshu-go-o\"zyo-shitusekai\"toyobu",
-            "jibunnoyokkyu-oseizitunimitasitekurerukankyo-yahitonoshu-go-o\"zyo-shitsusekai\"toyobu",
-            "jibunnoyokkyu-oseizitunimitasitekurerukankyo-yahitonoshu-go-o\"jo-situsekai\"toyobu",
-            "jibunnoyokkyu-oseizitunimitasitekurerukankyo-yahitonoshu-go-o\"jo-sitsusekai\"toyobu",
-            "jibunnoyokkyu-oseizitunimitasitekurerukankyo-yahitonoshu-go-o\"jo-shitusekai\"toyobu",
-            "jibunnoyokkyu-oseizitunimitasitekurerukankyo-yahitonoshu-go-o\"jo-shitsusekai\"toyobu",
-            "jibunnoyokkyu-oseizitunimitasitekurerukankyo-yahitonosfu-go-wo\"zyo-situsekai\"toyobu",
-            "jibunnoyokkyu-oseizitunimitasitekurerukankyo-yahitonosfu-go-wo\"zyo-sitsusekai\"toyobu",
-            "jibunnoyokkyu-oseizitunimitasitekurerukankyo-yahitonosfu-go-wo\"zyo-shitusekai\"toyobu",
-            "jibunnoyokkyu-oseizitunimitasitekurerukankyo-yahitonosfu-go-wo\"zyo-shitsusekai\"toyobu",
-            "jibunnoyokkyu-oseizitunimitasitekurerukankyo-yahitonosfu-go-wo\"jo-situsekai\"toyobu",
-            "jibunnoyokkyu-oseizitunimitasitekurerukankyo-yahitonosfu-go-wo\"jo-sitsusekai\"toyobu",
-            "jibunnoyokkyu-oseizitunimitasitekurerukankyo-yahitonosfu-go-wo\"jo-shitusekai\"toyobu",
-            "jibunnoyokkyu-oseizitunimitasitekurerukankyo-yahitonosfu-go-wo\"jo-shitsusekai\"toyobu",
-            "jibunnoyokkyu-oseizitunimitasitekurerukankyo-yahitonosfu-go-o\"zyo-situsekai\"toyobu",
-            "jibunnoyokkyu-oseizitunimitasitekurerukankyo-yahitonosfu-go-o\"zyo-sitsusekai\"toyobu",
-            "jibunnoyokkyu-oseizitunimitasitekurerukankyo-yahitonosfu-go-o\"zyo-shitusekai\"toyobu",
-            "jibunnoyokkyu-oseizitunimitasitekurerukankyo-yahitonosfu-go-o\"zyo-shitsusekai\"toyobu",
-            "jibunnoyokkyu-oseizitunimitasitekurerukankyo-yahitonosfu-go-o\"jo-situsekai\"toyobu",
-            "jibunnoyokkyu-oseizitunimitasitekurerukankyo-yahitonosfu-go-o\"jo-sitsusekai\"toyobu",
-            "jibunnoyokkyu-oseizitunimitasitekurerukankyo-yahitonosfu-go-o\"jo-shitusekai\"toyobu",
-            "jibunnoyokkyu-oseizitunimitasitekurerukankyo-yahitonosfu-go-o\"jo-shitsusekai\"toyobu",
-            "jibunnoyokkyu-oseizitunimitashitekurerukankyo-yahitonosyu-go-wo\"zyo-situsekai\"toyobu",
-            "jibunnoyokkyu-oseizitunimitashitekurerukankyo-yahitonosyu-go-wo\"zyo-sitsusekai\"toyobu",
-            "jibunnoyokkyu-oseizitunimitashitekurerukankyo-yahitonosyu-go-wo\"zyo-shitusekai\"toyobu",
-            "jibunnoyokkyu-oseizitunimitashitekurerukankyo-yahitonosyu-go-wo\"zyo-shitsusekai\"toyobu",
-            "jibunnoyokkyu-oseizitunimitashitekurerukankyo-yahitonosyu-go-wo\"jo-situsekai\"toyobu",
-            "jibunnoyokkyu-oseizitunimitashitekurerukankyo-yahitonosyu-go-wo\"jo-sitsusekai\"toyobu",
-            "jibunnoyokkyu-oseizitunimitashitekurerukankyo-yahitonosyu-go-wo\"jo-shitusekai\"toyobu",
-            "jibunnoyokkyu-oseizitunimitashitekurerukankyo-yahitonosyu-go-wo\"jo-shitsusekai\"toyobu",
-            "jibunnoyokkyu-oseizitunimitashitekurerukankyo-yahitonosyu-go-o\"zyo-situsekai\"toyobu",
-            "jibunnoyokkyu-oseizitunimitashitekurerukankyo-yahitonosyu-go-o\"zyo-sitsusekai\"toyobu",
-            "jibunnoyokkyu-oseizitunimitashitekurerukankyo-yahitonosyu-go-o\"zyo-shitusekai\"toyobu",
-            "jibunnoyokkyu-oseizitunimitashitekurerukankyo-yahitonosyu-go-o\"zyo-shitsusekai\"toyobu",
-            "jibunnoyokkyu-oseizitunimitashitekurerukankyo-yahitonosyu-go-o\"jo-situsekai\"toyobu",
-            "jibunnoyokkyu-oseizitunimitashitekurerukankyo-yahitonosyu-go-o\"jo-sitsusekai\"toyobu",
-            "jibunnoyokkyu-oseizitunimitashitekurerukankyo-yahitonosyu-go-o\"jo-shitusekai\"toyobu",
-            "jibunnoyokkyu-oseizitunimitashitekurerukankyo-yahitonosyu-go-o\"jo-shitsusekai\"toyobu",
-            "jibunnoyokkyu-oseizitunimitashitekurerukankyo-yahitonoshu-go-wo\"zyo-situsekai\"toyobu",
-            "jibunnoyokkyu-oseizitunimitashitekurerukankyo-yahitonoshu-go-wo\"zyo-sitsusekai\"toyobu",
-            "jibunnoyokkyu-oseizitunimitashitekurerukankyo-yahitonoshu-go-wo\"zyo-shitusekai\"toyobu",
-            "jibunnoyokkyu-oseizitunimitashitekurerukankyo-yahitonoshu-go-wo\"zyo-shitsusekai\"toyobu",
-            "jibunnoyokkyu-oseizitunimitashitekurerukankyo-yahitonoshu-go-wo\"jo-situsekai\"toyobu",
-            "jibunnoyokkyu-oseizitunimitashitekurerukankyo-yahitonoshu-go-wo\"jo-sitsusekai\"toyobu",
-            "jibunnoyokkyu-oseizitunimitashitekurerukankyo-yahitonoshu-go-wo\"jo-shitusekai\"toyobu",
-            "jibunnoyokkyu-oseizitunimitashitekurerukankyo-yahitonoshu-go-wo\"jo-shitsusekai\"toyobu",
-            "jibunnoyokkyu-oseizitunimitashitekurerukankyo-yahitonoshu-go-o\"zyo-situsekai\"toyobu",
-            "jibunnoyokkyu-oseizitunimitashitekurerukankyo-yahitonoshu-go-o\"zyo-sitsusekai\"toyobu",
-            "jibunnoyokkyu-oseizitunimitashitekurerukankyo-yahitonoshu-go-o\"zyo-shitusekai\"toyobu",
-            "jibunnoyokkyu-oseizitunimitashitekurerukankyo-yahitonoshu-go-o\"zyo-shitsusekai\"toyobu",
-            "jibunnoyokkyu-oseizitunimitashitekurerukankyo-yahitonoshu-go-o\"jo-situsekai\"toyobu",
-            "jibunnoyokkyu-oseizitunimitashitekurerukankyo-yahitonoshu-go-o\"jo-sitsusekai\"toyobu",
-            "jibunnoyokkyu-oseizitunimitashitekurerukankyo-yahitonoshu-go-o\"jo-shitusekai\"toyobu",
-            "jibunnoyokkyu-oseizitunimitashitekurerukankyo-yahitonoshu-go-o\"jo-shitsusekai\"toyobu",
-            "jibunnoyokkyu-oseizitunimitashitekurerukankyo-yahitonosfu-go-wo\"zyo-situsekai\"toyobu",
-            "jibunnoyokkyu-oseizitunimitashitekurerukankyo-yahitonosfu-go-wo\"zyo-sitsusekai\"toyobu",
-            "jibunnoyokkyu-oseizitunimitashitekurerukankyo-yahitonosfu-go-wo\"zyo-shitusekai\"toyobu",
-            "jibunnoyokkyu-oseizitunimitashitekurerukankyo-yahitonosfu-go-wo\"zyo-shitsusekai\"toyobu",
-            "jibunnoyokkyu-oseizitunimitashitekurerukankyo-yahitonosfu-go-wo\"jo-situsekai\"toyobu",
-            "jibunnoyokkyu-oseizitunimitashitekurerukankyo-yahitonosfu-go-wo\"jo-sitsusekai\"toyobu",
-            "jibunnoyokkyu-oseizitunimitashitekurerukankyo-yahitonosfu-go-wo\"jo-shitusekai\"toyobu",
-            "jibunnoyokkyu-oseizitunimitashitekurerukankyo-yahitonosfu-go-wo\"jo-shitsusekai\"toyobu",
-            "jibunnoyokkyu-oseizitunimitashitekurerukankyo-yahitonosfu-go-o\"zyo-situsekai\"toyobu",
-            "jibunnoyokkyu-oseizitunimitashitekurerukankyo-yahitonosfu-go-o\"zyo-sitsusekai\"toyobu",
-            "jibunnoyokkyu-oseizitunimitashitekurerukankyo-yahitonosfu-go-o\"zyo-shitusekai\"toyobu",
-            "jibunnoyokkyu-oseizitunimitashitekurerukankyo-yahitonosfu-go-o\"zyo-shitsusekai\"toyobu",
-            "jibunnoyokkyu-oseizitunimitashitekurerukankyo-yahitonosfu-go-o\"jo-situsekai\"toyobu",
-            "jibunnoyokkyu-oseizitunimitashitekurerukankyo-yahitonosfu-go-o\"jo-sitsusekai\"toyobu",
-            "jibunnoyokkyu-oseizitunimitashitekurerukankyo-yahitonosfu-go-o\"jo-shitusekai\"toyobu",
-            "jibunnoyokkyu-oseizitunimitashitekurerukankyo-yahitonosfu-go-o\"jo-shitsusekai\"toyobu",
-            "jibunnoyokkyu-oseizitsunimitasitekurerukankyo-yahitonosyu-go-wo\"zyo-situsekai\"toyobu",
-            "jibunnoyokkyu-oseizitsunimitasitekurerukankyo-yahitonosyu-go-wo\"zyo-sitsusekai\"toyobu",
-            "jibunnoyokkyu-oseizitsunimitasitekurerukankyo-yahitonosyu-go-wo\"zyo-shitusekai\"toyobu",
-            "jibunnoyokkyu-oseizitsunimitasitekurerukankyo-yahitonosyu-go-wo\"zyo-shitsusekai\"toyobu",
-            "jibunnoyokkyu-oseizitsunimitasitekurerukankyo-yahitonosyu-go-wo\"jo-situsekai\"toyobu",
-            "jibunnoyokkyu-oseizitsunimitasitekurerukankyo-yahitonosyu-go-wo\"jo-sitsusekai\"toyobu",
-            "jibunnoyokkyu-oseizitsunimitasitekurerukankyo-yahitonosyu-go-wo\"jo-shitusekai\"toyobu",
-            "jibunnoyokkyu-oseizitsunimitasitekurerukankyo-yahitonosyu-go-wo\"jo-shitsusekai\"toyobu",
-            "jibunnoyokkyu-oseizitsunimitasitekurerukankyo-yahitonosyu-go-o\"zyo-situsekai\"toyobu",
-            "jibunnoyokkyu-oseizitsunimitasitekurerukankyo-yahitonosyu-go-o\"zyo-sitsusekai\"toyobu",
-            "jibunnoyokkyu-oseizitsunimitasitekurerukankyo-yahitonosyu-go-o\"zyo-shitusekai\"toyobu",
-            "jibunnoyokkyu-oseizitsunimitasitekurerukankyo-yahitonosyu-go-o\"zyo-shitsusekai\"toyobu",
-            "jibunnoyokkyu-oseizitsunimitasitekurerukankyo-yahitonosyu-go-o\"jo-situsekai\"toyobu",
-            "jibunnoyokkyu-oseizitsunimitasitekurerukankyo-yahitonosyu-go-o\"jo-sitsusekai\"toyobu",
-            "jibunnoyokkyu-oseizitsunimitasitekurerukankyo-yahitonosyu-go-o\"jo-shitusekai\"toyobu",
-            "jibunnoyokkyu-oseizitsunimitasitekurerukankyo-yahitonosyu-go-o\"jo-shitsusekai\"toyobu",
-            "jibunnoyokkyu-oseizitsunimitasitekurerukankyo-yahitonoshu-go-wo\"zyo-situsekai\"toyobu",
-            "jibunnoyokkyu-oseizitsunimitasitekurerukankyo-yahitonoshu-go-wo\"zyo-sitsusekai\"toyobu",
-            "jibunnoyokkyu-oseizitsunimitasitekurerukankyo-yahitonoshu-go-wo\"zyo-shitusekai\"toyobu",
-            "jibunnoyokkyu-oseizitsunimitasitekurerukankyo-yahitonoshu-go-wo\"zyo-shitsusekai\"toyobu",
-            "jibunnoyokkyu-oseizitsunimitasitekurerukankyo-yahitonoshu-go-wo\"jo-situsekai\"toyobu",
-            "jibunnoyokkyu-oseizitsunimitasitekurerukankyo-yahitonoshu-go-wo\"jo-sitsusekai\"toyobu",
-            "jibunnoyokkyu-oseizitsunimitasitekurerukankyo-yahitonoshu-go-wo\"jo-shitusekai\"toyobu",
-            "jibunnoyokkyu-oseizitsunimitasitekurerukankyo-yahitonoshu-go-wo\"jo-shitsusekai\"toyobu",
-            "jibunnoyokkyu-oseizitsunimitasitekurerukankyo-yahitonoshu-go-o\"zyo-situsekai\"toyobu",
-            "jibunnoyokkyu-oseizitsunimitasitekurerukankyo-yahitonoshu-go-o\"zyo-sitsusekai\"toyobu",
-            "jibunnoyokkyu-oseizitsunimitasitekurerukankyo-yahitonoshu-go-o\"zyo-shitusekai\"toyobu",
-            "jibunnoyokkyu-oseizitsunimitasitekurerukankyo-yahitonoshu-go-o\"zyo-shitsusekai\"toyobu",
-            "jibunnoyokkyu-oseizitsunimitasitekurerukankyo-yahitonoshu-go-o\"jo-situsekai\"toyobu",
-            "jibunnoyokkyu-oseizitsunimitasitekurerukankyo-yahitonoshu-go-o\"jo-sitsusekai\"toyobu",
-            "jibunnoyokkyu-oseizitsunimitasitekurerukankyo-yahitonoshu-go-o\"jo-shitusekai\"toyobu",
-            "jibunnoyokkyu-oseizitsunimitasitekurerukankyo-yahitonoshu-go-o\"jo-shitsusekai\"toyobu",
-            "jibunnoyokkyu-oseizitsunimitasitekurerukankyo-yahitonosfu-go-wo\"zyo-situsekai\"toyobu",
-            "jibunnoyokkyu-oseizitsunimitasitekurerukankyo-yahitonosfu-go-wo\"zyo-sitsusekai\"toyobu",
-            "jibunnoyokkyu-oseizitsunimitasitekurerukankyo-yahitonosfu-go-wo\"zyo-shitusekai\"toyobu",
-            "jibunnoyokkyu-oseizitsunimitasitekurerukankyo-yahitonosfu-go-wo\"zyo-shitsusekai\"toyobu",
-            "jibunnoyokkyu-oseizitsunimitasitekurerukankyo-yahitonosfu-go-wo\"jo-situsekai\"toyobu",
-            "jibunnoyokkyu-oseizitsunimitasitekurerukankyo-yahitonosfu-go-wo\"jo-sitsusekai\"toyobu",
-            "jibunnoyokkyu-oseizitsunimitasitekurerukankyo-yahitonosfu-go-wo\"jo-shitusekai\"toyobu",
-            "jibunnoyokkyu-oseizitsunimitasitekurerukankyo-yahitonosfu-go-wo\"jo-shitsusekai\"toyobu",
-            "jibunnoyokkyu-oseizitsunimitasitekurerukankyo-yahitonosfu-go-o\"zyo-situsekai\"toyobu",
-            "jibunnoyokkyu-oseizitsunimitasitekurerukankyo-yahitonosfu-go-o\"zyo-sitsusekai\"toyobu",
-            "jibunnoyokkyu-oseizitsunimitasitekurerukankyo-yahitonosfu-go-o\"zyo-shitusekai\"toyobu",
-            "jibunnoyokkyu-oseizitsunimitasitekurerukankyo-yahitonosfu-go-o\"zyo-shitsusekai\"toyobu",
-            "jibunnoyokkyu-oseizitsunimitasitekurerukankyo-yahitonosfu-go-o\"jo-situsekai\"toyobu",
-            "jibunnoyokkyu-oseizitsunimitasitekurerukankyo-yahitonosfu-go-o\"jo-sitsusekai\"toyobu",
-            "jibunnoyokkyu-oseizitsunimitasitekurerukankyo-yahitonosfu-go-o\"jo-shitusekai\"toyobu",
-            "jibunnoyokkyu-oseizitsunimitasitekurerukankyo-yahitonosfu-go-o\"jo-shitsusekai\"toyobu",
-            "jibunnoyokkyu-oseizitsunimitashitekurerukankyo-yahitonosyu-go-wo\"zyo-situsekai\"toyobu",
-            "jibunnoyokkyu-oseizitsunimitashitekurerukankyo-yahitonosyu-go-wo\"zyo-sitsusekai\"toyobu",
-            "jibunnoyokkyu-oseizitsunimitashitekurerukankyo-yahitonosyu-go-wo\"zyo-shitusekai\"toyobu",
-            "jibunnoyokkyu-oseizitsunimitashitekurerukankyo-yahitonosyu-go-wo\"zyo-shitsusekai\"toyobu",
-            "jibunnoyokkyu-oseizitsunimitashitekurerukankyo-yahitonosyu-go-wo\"jo-situsekai\"toyobu",
-            "jibunnoyokkyu-oseizitsunimitashitekurerukankyo-yahitonosyu-go-wo\"jo-sitsusekai\"toyobu",
-            "jibunnoyokkyu-oseizitsunimitashitekurerukankyo-yahitonosyu-go-wo\"jo-shitusekai\"toyobu",
-            "jibunnoyokkyu-oseizitsunimitashitekurerukankyo-yahitonosyu-go-wo\"jo-shitsusekai\"toyobu",
-            "jibunnoyokkyu-oseizitsunimitashitekurerukankyo-yahitonosyu-go-o\"zyo-situsekai\"toyobu",
-            "jibunnoyokkyu-oseizitsunimitashitekurerukankyo-yahitonosyu-go-o\"zyo-sitsusekai\"toyobu",
-            "jibunnoyokkyu-oseizitsunimitashitekurerukankyo-yahitonosyu-go-o\"zyo-shitusekai\"toyobu",
-            "jibunnoyokkyu-oseizitsunimitashitekurerukankyo-yahitonosyu-go-o\"zyo-shitsusekai\"toyobu",
-            "jibunnoyokkyu-oseizitsunimitashitekurerukankyo-yahitonosyu-go-o\"jo-situsekai\"toyobu",
-            "jibunnoyokkyu-oseizitsunimitashitekurerukankyo-yahitonosyu-go-o\"jo-sitsusekai\"toyobu",
-            "jibunnoyokkyu-oseizitsunimitashitekurerukankyo-yahitonosyu-go-o\"jo-shitusekai\"toyobu",
-            "jibunnoyokkyu-oseizitsunimitashitekurerukankyo-yahitonosyu-go-o\"jo-shitsusekai\"toyobu",
-            "jibunnoyokkyu-oseizitsunimitashitekurerukankyo-yahitonoshu-go-wo\"zyo-situsekai\"toyobu",
-            "jibunnoyokkyu-oseizitsunimitashitekurerukankyo-yahitonoshu-go-wo\"zyo-sitsusekai\"toyobu",
-            "jibunnoyokkyu-oseizitsunimitashitekurerukankyo-yahitonoshu-go-wo\"zyo-shitusekai\"toyobu",
-            "jibunnoyokkyu-oseizitsunimitashitekurerukankyo-yahitonoshu-go-wo\"zyo-shitsusekai\"toyobu",
-            "jibunnoyokkyu-oseizitsunimitashitekurerukankyo-yahitonoshu-go-wo\"jo-situsekai\"toyobu",
-            "jibunnoyokkyu-oseizitsunimitashitekurerukankyo-yahitonoshu-go-wo\"jo-sitsusekai\"toyobu",
-            "jibunnoyokkyu-oseizitsunimitashitekurerukankyo-yahitonoshu-go-wo\"jo-shitusekai\"toyobu",
-            "jibunnoyokkyu-oseizitsunimitashitekurerukankyo-yahitonoshu-go-wo\"jo-shitsusekai\"toyobu",
-            "jibunnoyokkyu-oseizitsunimitashitekurerukankyo-yahitonoshu-go-o\"zyo-situsekai\"toyobu",
-            "jibunnoyokkyu-oseizitsunimitashitekurerukankyo-yahitonoshu-go-o\"zyo-sitsusekai\"toyobu",
-            "jibunnoyokkyu-oseizitsunimitashitekurerukankyo-yahitonoshu-go-o\"zyo-shitusekai\"toyobu",
-            "jibunnoyokkyu-oseizitsunimitashitekurerukankyo-yahitonoshu-go-o\"zyo-shitsusekai\"toyobu",
-            "jibunnoyokkyu-oseizitsunimitashitekurerukankyo-yahitonoshu-go-o\"jo-situsekai\"toyobu",
-            "jibunnoyokkyu-oseizitsunimitashitekurerukankyo-yahitonoshu-go-o\"jo-sitsusekai\"toyobu",
-            "jibunnoyokkyu-oseizitsunimitashitekurerukankyo-yahitonoshu-go-o\"jo-shitusekai\"toyobu",
-            "jibunnoyokkyu-oseizitsunimitashitekurerukankyo-yahitonoshu-go-o\"jo-shitsusekai\"toyobu",
-            "jibunnoyokkyu-oseizitsunimitashitekurerukankyo-yahitonosfu-go-wo\"zyo-situsekai\"toyobu",
-            "jibunnoyokkyu-oseizitsunimitashitekurerukankyo-yahitonosfu-go-wo\"zyo-sitsusekai\"toyobu",
-            "jibunnoyokkyu-oseizitsunimitashitekurerukankyo-yahitonosfu-go-wo\"zyo-shitusekai\"toyobu",
-            "jibunnoyokkyu-oseizitsunimitashitekurerukankyo-yahitonosfu-go-wo\"zyo-shitsusekai\"toyobu",
-            "jibunnoyokkyu-oseizitsunimitashitekurerukankyo-yahitonosfu-go-wo\"jo-situsekai\"toyobu",
-            "jibunnoyokkyu-oseizitsunimitashitekurerukankyo-yahitonosfu-go-wo\"jo-sitsusekai\"toyobu",
-            "jibunnoyokkyu-oseizitsunimitashitekurerukankyo-yahitonosfu-go-wo\"jo-shitusekai\"toyobu",
-            "jibunnoyokkyu-oseizitsunimitashitekurerukankyo-yahitonosfu-go-wo\"jo-shitsusekai\"toyobu",
-            "jibunnoyokkyu-oseizitsunimitashitekurerukankyo-yahitonosfu-go-o\"zyo-situsekai\"toyobu",
-            "jibunnoyokkyu-oseizitsunimitashitekurerukankyo-yahitonosfu-go-o\"zyo-sitsusekai\"toyobu",
-            "jibunnoyokkyu-oseizitsunimitashitekurerukankyo-yahitonosfu-go-o\"zyo-shitusekai\"toyobu",
-            "jibunnoyokkyu-oseizitsunimitashitekurerukankyo-yahitonosfu-go-o\"zyo-shitsusekai\"toyobu",
-            "jibunnoyokkyu-oseizitsunimitashitekurerukankyo-yahitonosfu-go-o\"jo-situsekai\"toyobu",
-            "jibunnoyokkyu-oseizitsunimitashitekurerukankyo-yahitonosfu-go-o\"jo-sitsusekai\"toyobu",
-            "jibunnoyokkyu-oseizitsunimitashitekurerukankyo-yahitonosfu-go-o\"jo-shitusekai\"toyobu",
-            "jibunnoyokkyu-oseizitsunimitashitekurerukankyo-yahitonosfu-go-o\"jo-shitsusekai\"toyobu",
-            "jibunnoyokkyu-oseijitunimitasitekurerukankyo-yahitonosyu-go-wo\"zyo-situsekai\"toyobu",
-            "jibunnoyokkyu-oseijitunimitasitekurerukankyo-yahitonosyu-go-wo\"zyo-sitsusekai\"toyobu",
-            "jibunnoyokkyu-oseijitunimitasitekurerukankyo-yahitonosyu-go-wo\"zyo-shitusekai\"toyobu",
-            "jibunnoyokkyu-oseijitunimitasitekurerukankyo-yahitonosyu-go-wo\"zyo-shitsusekai\"toyobu",
-            "jibunnoyokkyu-oseijitunimitasitekurerukankyo-yahitonosyu-go-wo\"jo-situsekai\"toyobu",
-            "jibunnoyokkyu-oseijitunimitasitekurerukankyo-yahitonosyu-go-wo\"jo-sitsusekai\"toyobu",
-            "jibunnoyokkyu-oseijitunimitasitekurerukankyo-yahitonosyu-go-wo\"jo-shitusekai\"toyobu",
-            "jibunnoyokkyu-oseijitunimitasitekurerukankyo-yahitonosyu-go-wo\"jo-shitsusekai\"toyobu",
-            "jibunnoyokkyu-oseijitunimitasitekurerukankyo-yahitonosyu-go-o\"zyo-situsekai\"toyobu",
-            "jibunnoyokkyu-oseijitunimitasitekurerukankyo-yahitonosyu-go-o\"zyo-sitsusekai\"toyobu",
-            "jibunnoyokkyu-oseijitunimitasitekurerukankyo-yahitonosyu-go-o\"zyo-shitusekai\"toyobu",
-            "jibunnoyokkyu-oseijitunimitasitekurerukankyo-yahitonosyu-go-o\"zyo-shitsusekai\"toyobu",
-            "jibunnoyokkyu-oseijitunimitasitekurerukankyo-yahitonosyu-go-o\"jo-situsekai\"toyobu",
-            "jibunnoyokkyu-oseijitunimitasitekurerukankyo-yahitonosyu-go-o\"jo-sitsusekai\"toyobu",
-            "jibunnoyokkyu-oseijitunimitasitekurerukankyo-yahitonosyu-go-o\"jo-shitusekai\"toyobu",
-            "jibunnoyokkyu-oseijitunimitasitekurerukankyo-yahitonosyu-go-o\"jo-shitsusekai\"toyobu",
-            "jibunnoyokkyu-oseijitunimitasitekurerukankyo-yahitonoshu-go-wo\"zyo-situsekai\"toyobu",
-            "jibunnoyokkyu-oseijitunimitasitekurerukankyo-yahitonoshu-go-wo\"zyo-sitsusekai\"toyobu",
-            "jibunnoyokkyu-oseijitunimitasitekurerukankyo-yahitonoshu-go-wo\"zyo-shitusekai\"toyobu",
-            "jibunnoyokkyu-oseijitunimitasitekurerukankyo-yahitonoshu-go-wo\"zyo-shitsusekai\"toyobu",
-            "jibunnoyokkyu-oseijitunimitasitekurerukankyo-yahitonoshu-go-wo\"jo-situsekai\"toyobu",
-            "jibunnoyokkyu-oseijitunimitasitekurerukankyo-yahitonoshu-go-wo\"jo-sitsusekai\"toyobu",
-            "jibunnoyokkyu-oseijitunimitasitekurerukankyo-yahitonoshu-go-wo\"jo-shitusekai\"toyobu",
-            "jibunnoyokkyu-oseijitunimitasitekurerukankyo-yahitonoshu-go-wo\"jo-shitsusekai\"toyobu",
-            "jibunnoyokkyu-oseijitunimitasitekurerukankyo-yahitonoshu-go-o\"zyo-situsekai\"toyobu",
-            "jibunnoyokkyu-oseijitunimitasitekurerukankyo-yahitonoshu-go-o\"zyo-sitsusekai\"toyobu",
-            "jibunnoyokkyu-oseijitunimitasitekurerukankyo-yahitonoshu-go-o\"zyo-shitusekai\"toyobu",
-            "jibunnoyokkyu-oseijitunimitasitekurerukankyo-yahitonoshu-go-o\"zyo-shitsusekai\"toyobu",
-            "jibunnoyokkyu-oseijitunimitasitekurerukankyo-yahitonoshu-go-o\"jo-situsekai\"toyobu",
-            "jibunnoyokkyu-oseijitunimitasitekurerukankyo-yahitonoshu-go-o\"jo-sitsusekai\"toyobu",
-            "jibunnoyokkyu-oseijitunimitasitekurerukankyo-yahitonoshu-go-o\"jo-shitusekai\"toyobu",
-            "jibunnoyokkyu-oseijitunimitasitekurerukankyo-yahitonoshu-go-o\"jo-shitsusekai\"toyobu",
-            "jibunnoyokkyu-oseijitunimitasitekurerukankyo-yahitonosfu-go-wo\"zyo-situsekai\"toyobu",
-            "jibunnoyokkyu-oseijitunimitasitekurerukankyo-yahitonosfu-go-wo\"zyo-sitsusekai\"toyobu",
-            "jibunnoyokkyu-oseijitunimitasitekurerukankyo-yahitonosfu-go-wo\"zyo-shitusekai\"toyobu",
-            "jibunnoyokkyu-oseijitunimitasitekurerukankyo-yahitonosfu-go-wo\"zyo-shitsusekai\"toyobu",
-            "jibunnoyokkyu-oseijitunimitasitekurerukankyo-yahitonosfu-go-wo\"jo-situsekai\"toyobu",
-            "jibunnoyokkyu-oseijitunimitasitekurerukankyo-yahitonosfu-go-wo\"jo-sitsusekai\"toyobu",
-            "jibunnoyokkyu-oseijitunimitasitekurerukankyo-yahitonosfu-go-wo\"jo-shitusekai\"toyobu",
-            "jibunnoyokkyu-oseijitunimitasitekurerukankyo-yahitonosfu-go-wo\"jo-shitsusekai\"toyobu",
-            "jibunnoyokkyu-oseijitunimitasitekurerukankyo-yahitonosfu-go-o\"zyo-situsekai\"toyobu",
-            "jibunnoyokkyu-oseijitunimitasitekurerukankyo-yahitonosfu-go-o\"zyo-sitsusekai\"toyobu",
-            "jibunnoyokkyu-oseijitunimitasitekurerukankyo-yahitonosfu-go-o\"zyo-shitusekai\"toyobu",
-            "jibunnoyokkyu-oseijitunimitasitekurerukankyo-yahitonosfu-go-o\"zyo-shitsusekai\"toyobu",
-            "jibunnoyokkyu-oseijitunimitasitekurerukankyo-yahitonosfu-go-o\"jo-situsekai\"toyobu",
-            "jibunnoyokkyu-oseijitunimitasitekurerukankyo-yahitonosfu-go-o\"jo-sitsusekai\"toyobu",
-            "jibunnoyokkyu-oseijitunimitasitekurerukankyo-yahitonosfu-go-o\"jo-shitusekai\"toyobu",
-            "jibunnoyokkyu-oseijitunimitasitekurerukankyo-yahitonosfu-go-o\"jo-shitsusekai\"toyobu",
-            "jibunnoyokkyu-oseijitunimitashitekurerukankyo-yahitonosyu-go-wo\"zyo-situsekai\"toyobu",
-            "jibunnoyokkyu-oseijitunimitashitekurerukankyo-yahitonosyu-go-wo\"zyo-sitsusekai\"toyobu",
-            "jibunnoyokkyu-oseijitunimitashitekurerukankyo-yahitonosyu-go-wo\"zyo-shitusekai\"toyobu",
-            "jibunnoyokkyu-oseijitunimitashitekurerukankyo-yahitonosyu-go-wo\"zyo-shitsusekai\"toyobu",
-            "jibunnoyokkyu-oseijitunimitashitekurerukankyo-yahitonosyu-go-wo\"jo-situsekai\"toyobu",
-            "jibunnoyokkyu-oseijitunimitashitekurerukankyo-yahitonosyu-go-wo\"jo-sitsusekai\"toyobu",
-            "jibunnoyokkyu-oseijitunimitashitekurerukankyo-yahitonosyu-go-wo\"jo-shitusekai\"toyobu",
-            "jibunnoyokkyu-oseijitunimitashitekurerukankyo-yahitonosyu-go-wo\"jo-shitsusekai\"toyobu",
-            "jibunnoyokkyu-oseijitunimitashitekurerukankyo-yahitonosyu-go-o\"zyo-situsekai\"toyobu",
-            "jibunnoyokkyu-oseijitunimitashitekurerukankyo-yahitonosyu-go-o\"zyo-sitsusekai\"toyobu",
-            "jibunnoyokkyu-oseijitunimitashitekurerukankyo-yahitonosyu-go-o\"zyo-shitusekai\"toyobu",
-            "jibunnoyokkyu-oseijitunimitashitekurerukankyo-yahitonosyu-go-o\"zyo-shitsusekai\"toyobu",
-            "jibunnoyokkyu-oseijitunimitashitekurerukankyo-yahitonosyu-go-o\"jo-situsekai\"toyobu",
-            "jibunnoyokkyu-oseijitunimitashitekurerukankyo-yahitonosyu-go-o\"jo-sitsusekai\"toyobu",
-            "jibunnoyokkyu-oseijitunimitashitekurerukankyo-yahitonosyu-go-o\"jo-shitusekai\"toyobu",
-            "jibunnoyokkyu-oseijitunimitashitekurerukankyo-yahitonosyu-go-o\"jo-shitsusekai\"toyobu",
-            "jibunnoyokkyu-oseijitunimitashitekurerukankyo-yahitonoshu-go-wo\"zyo-situsekai\"toyobu",
-            "jibunnoyokkyu-oseijitunimitashitekurerukankyo-yahitonoshu-go-wo\"zyo-sitsusekai\"toyobu",
-            "jibunnoyokkyu-oseijitunimitashitekurerukankyo-yahitonoshu-go-wo\"zyo-shitusekai\"toyobu",
-            "jibunnoyokkyu-oseijitunimitashitekurerukankyo-yahitonoshu-go-wo\"zyo-shitsusekai\"toyobu",
-            "jibunnoyokkyu-oseijitunimitashitekurerukankyo-yahitonoshu-go-wo\"jo-situsekai\"toyobu",
-            "jibunnoyokkyu-oseijitunimitashitekurerukankyo-yahitonoshu-go-wo\"jo-sitsusekai\"toyobu",
-            "jibunnoyokkyu-oseijitunimitashitekurerukankyo-yahitonoshu-go-wo\"jo-shitusekai\"toyobu",
-            "jibunnoyokkyu-oseijitunimitashitekurerukankyo-yahitonoshu-go-wo\"jo-shitsusekai\"toyobu",
-            "jibunnoyokkyu-oseijitunimitashitekurerukankyo-yahitonoshu-go-o\"zyo-situsekai\"toyobu",
-            "jibunnoyokkyu-oseijitunimitashitekurerukankyo-yahitonoshu-go-o\"zyo-sitsusekai\"toyobu",
-            "jibunnoyokkyu-oseijitunimitashitekurerukankyo-yahitonoshu-go-o\"zyo-shitusekai\"toyobu",
-            "jibunnoyokkyu-oseijitunimitashitekurerukankyo-yahitonoshu-go-o\"zyo-shitsusekai\"toyobu",
-            "jibunnoyokkyu-oseijitunimitashitekurerukankyo-yahitonoshu-go-o\"jo-situsekai\"toyobu",
-            "jibunnoyokkyu-oseijitunimitashitekurerukankyo-yahitonoshu-go-o\"jo-sitsusekai\"toyobu",
-            "jibunnoyokkyu-oseijitunimitashitekurerukankyo-yahitonoshu-go-o\"jo-shitusekai\"toyobu",
-            "jibunnoyokkyu-oseijitunimitashitekurerukankyo-yahitonoshu-go-o\"jo-shitsusekai\"toyobu",
-            "jibunnoyokkyu-oseijitunimitashitekurerukankyo-yahitonosfu-go-wo\"zyo-situsekai\"toyobu",
-            "jibunnoyokkyu-oseijitunimitashitekurerukankyo-yahitonosfu-go-wo\"zyo-sitsusekai\"toyobu",
-            "jibunnoyokkyu-oseijitunimitashitekurerukankyo-yahitonosfu-go-wo\"zyo-shitusekai\"toyobu",
-            "jibunnoyokkyu-oseijitunimitashitekurerukankyo-yahitonosfu-go-wo\"zyo-shitsusekai\"toyobu",
-            "jibunnoyokkyu-oseijitunimitashitekurerukankyo-yahitonosfu-go-wo\"jo-situsekai\"toyobu",
-            "jibunnoyokkyu-oseijitunimitashitekurerukankyo-yahitonosfu-go-wo\"jo-sitsusekai\"toyobu",
-            "jibunnoyokkyu-oseijitunimitashitekurerukankyo-yahitonosfu-go-wo\"jo-shitusekai\"toyobu",
-            "jibunnoyokkyu-oseijitunimitashitekurerukankyo-yahitonosfu-go-wo\"jo-shitsusekai\"toyobu",
-            "jibunnoyokkyu-oseijitunimitashitekurerukankyo-yahitonosfu-go-o\"zyo-situsekai\"toyobu",
-            "jibunnoyokkyu-oseijitunimitashitekurerukankyo-yahitonosfu-go-o\"zyo-sitsusekai\"toyobu",
-            "jibunnoyokkyu-oseijitunimitashitekurerukankyo-yahitonosfu-go-o\"zyo-shitusekai\"toyobu",
-            "jibunnoyokkyu-oseijitunimitashitekurerukankyo-yahitonosfu-go-o\"zyo-shitsusekai\"toyobu",
-            "jibunnoyokkyu-oseijitunimitashitekurerukankyo-yahitonosfu-go-o\"jo-situsekai\"toyobu",
-            "jibunnoyokkyu-oseijitunimitashitekurerukankyo-yahitonosfu-go-o\"jo-sitsusekai\"toyobu",
-            "jibunnoyokkyu-oseijitunimitashitekurerukankyo-yahitonosfu-go-o\"jo-shitusekai\"toyobu",
-            "jibunnoyokkyu-oseijitunimitashitekurerukankyo-yahitonosfu-go-o\"jo-shitsusekai\"toyobu",
-            "jibunnoyokkyu-oseijitsunimitasitekurerukankyo-yahitonosyu-go-wo\"zyo-situsekai\"toyobu",
-            "jibunnoyokkyu-oseijitsunimitasitekurerukankyo-yahitonosyu-go-wo\"zyo-sitsusekai\"toyobu",
-            "jibunnoyokkyu-oseijitsunimitasitekurerukankyo-yahitonosyu-go-wo\"zyo-shitusekai\"toyobu",
-            "jibunnoyokkyu-oseijitsunimitasitekurerukankyo-yahitonosyu-go-wo\"zyo-shitsusekai\"toyobu",
-            "jibunnoyokkyu-oseijitsunimitasitekurerukankyo-yahitonosyu-go-wo\"jo-situsekai\"toyobu",
-            "jibunnoyokkyu-oseijitsunimitasitekurerukankyo-yahitonosyu-go-wo\"jo-sitsusekai\"toyobu",
-            "jibunnoyokkyu-oseijitsunimitasitekurerukankyo-yahitonosyu-go-wo\"jo-shitusekai\"toyobu",
-            "jibunnoyokkyu-oseijitsunimitasitekurerukankyo-yahitonosyu-go-wo\"jo-shitsusekai\"toyobu",
-            "jibunnoyokkyu-oseijitsunimitasitekurerukankyo-yahitonosyu-go-o\"zyo-situsekai\"toyobu",
-            "jibunnoyokkyu-oseijitsunimitasitekurerukankyo-yahitonosyu-go-o\"zyo-sitsusekai\"toyobu",
-            "jibunnoyokkyu-oseijitsunimitasitekurerukankyo-yahitonosyu-go-o\"zyo-shitusekai\"toyobu",
-            "jibunnoyokkyu-oseijitsunimitasitekurerukankyo-yahitonosyu-go-o\"zyo-shitsusekai\"toyobu",
-            "jibunnoyokkyu-oseijitsunimitasitekurerukankyo-yahitonosyu-go-o\"jo-situsekai\"toyobu",
-            "jibunnoyokkyu-oseijitsunimitasitekurerukankyo-yahitonosyu-go-o\"jo-sitsusekai\"toyobu",
-            "jibunnoyokkyu-oseijitsunimitasitekurerukankyo-yahitonosyu-go-o\"jo-shitusekai\"toyobu",
-            "jibunnoyokkyu-oseijitsunimitasitekurerukankyo-yahitonosyu-go-o\"jo-shitsusekai\"toyobu",
-            "jibunnoyokkyu-oseijitsunimitasitekurerukankyo-yahitonoshu-go-wo\"zyo-situsekai\"toyobu",
-            "jibunnoyokkyu-oseijitsunimitasitekurerukankyo-yahitonoshu-go-wo\"zyo-sitsusekai\"toyobu",
-            "jibunnoyokkyu-oseijitsunimitasitekurerukankyo-yahitonoshu-go-wo\"zyo-shitusekai\"toyobu",
-            "jibunnoyokkyu-oseijitsunimitasitekurerukankyo-yahitonoshu-go-wo\"zyo-shitsusekai\"toyobu",
-            "jibunnoyokkyu-oseijitsunimitasitekurerukankyo-yahitonoshu-go-wo\"jo-situsekai\"toyobu",
-            "jibunnoyokkyu-oseijitsunimitasitekurerukankyo-yahitonoshu-go-wo\"jo-sitsusekai\"toyobu",
-            "jibunnoyokkyu-oseijitsunimitasitekurerukankyo-yahitonoshu-go-wo\"jo-shitusekai\"toyobu",
-            "jibunnoyokkyu-oseijitsunimitasitekurerukankyo-yahitonoshu-go-wo\"jo-shitsusekai\"toyobu",
-            "jibunnoyokkyu-oseijitsunimitasitekurerukankyo-yahitonoshu-go-o\"zyo-situsekai\"toyobu",
-            "jibunnoyokkyu-oseijitsunimitasitekurerukankyo-yahitonoshu-go-o\"zyo-sitsusekai\"toyobu",
-            "jibunnoyokkyu-oseijitsunimitasitekurerukankyo-yahitonoshu-go-o\"zyo-shitusekai\"toyobu",
-            "jibunnoyokkyu-oseijitsunimitasitekurerukankyo-yahitonoshu-go-o\"zyo-shitsusekai\"toyobu",
-            "jibunnoyokkyu-oseijitsunimitasitekurerukankyo-yahitonoshu-go-o\"jo-situsekai\"toyobu",
-            "jibunnoyokkyu-oseijitsunimitasitekurerukankyo-yahitonoshu-go-o\"jo-sitsusekai\"toyobu",
-            "jibunnoyokkyu-oseijitsunimitasitekurerukankyo-yahitonoshu-go-o\"jo-shitusekai\"toyobu",
-            "jibunnoyokkyu-oseijitsunimitasitekurerukankyo-yahitonoshu-go-o\"jo-shitsusekai\"toyobu",
-            "jibunnoyokkyu-oseijitsunimitasitekurerukankyo-yahitonosfu-go-wo\"zyo-situsekai\"toyobu",
-            "jibunnoyokkyu-oseijitsunimitasitekurerukankyo-yahitonosfu-go-wo\"zyo-sitsusekai\"toyobu",
-            "jibunnoyokkyu-oseijitsunimitasitekurerukankyo-yahitonosfu-go-wo\"zyo-shitusekai\"toyobu",
-            "jibunnoyokkyu-oseijitsunimitasitekurerukankyo-yahitonosfu-go-wo\"zyo-shitsusekai\"toyobu",
-            "jibunnoyokkyu-oseijitsunimitasitekurerukankyo-yahitonosfu-go-wo\"jo-situsekai\"toyobu",
-            "jibunnoyokkyu-oseijitsunimitasitekurerukankyo-yahitonosfu-go-wo\"jo-sitsusekai\"toyobu",
-            "jibunnoyokkyu-oseijitsunimitasitekurerukankyo-yahitonosfu-go-wo\"jo-shitusekai\"toyobu",
-            "jibunnoyokkyu-oseijitsunimitasitekurerukankyo-yahitonosfu-go-wo\"jo-shitsusekai\"toyobu",
-            "jibunnoyokkyu-oseijitsunimitasitekurerukankyo-yahitonosfu-go-o\"zyo-situsekai\"toyobu",
-            "jibunnoyokkyu-oseijitsunimitasitekurerukankyo-yahitonosfu-go-o\"zyo-sitsusekai\"toyobu",
-            "jibunnoyokkyu-oseijitsunimitasitekurerukankyo-yahitonosfu-go-o\"zyo-shitusekai\"toyobu",
-            "jibunnoyokkyu-oseijitsunimitasitekurerukankyo-yahitonosfu-go-o\"zyo-shitsusekai\"toyobu",
-            "jibunnoyokkyu-oseijitsunimitasitekurerukankyo-yahitonosfu-go-o\"jo-situsekai\"toyobu",
-            "jibunnoyokkyu-oseijitsunimitasitekurerukankyo-yahitonosfu-go-o\"jo-sitsusekai\"toyobu",
-            "jibunnoyokkyu-oseijitsunimitasitekurerukankyo-yahitonosfu-go-o\"jo-shitusekai\"toyobu",
-            "jibunnoyokkyu-oseijitsunimitasitekurerukankyo-yahitonosfu-go-o\"jo-shitsusekai\"toyobu",
-            "jibunnoyokkyu-oseijitsunimitashitekurerukankyo-yahitonosyu-go-wo\"zyo-situsekai\"toyobu",
-            "jibunnoyokkyu-oseijitsunimitashitekurerukankyo-yahitonosyu-go-wo\"zyo-sitsusekai\"toyobu",
-            "jibunnoyokkyu-oseijitsunimitashitekurerukankyo-yahitonosyu-go-wo\"zyo-shitusekai\"toyobu",
-            "jibunnoyokkyu-oseijitsunimitashitekurerukankyo-yahitonosyu-go-wo\"zyo-shitsusekai\"toyobu",
-            "jibunnoyokkyu-oseijitsunimitashitekurerukankyo-yahitonosyu-go-wo\"jo-situsekai\"toyobu",
-            "jibunnoyokkyu-oseijitsunimitashitekurerukankyo-yahitonosyu-go-wo\"jo-sitsusekai\"toyobu",
-            "jibunnoyokkyu-oseijitsunimitashitekurerukankyo-yahitonosyu-go-wo\"jo-shitusekai\"toyobu",
-            "jibunnoyokkyu-oseijitsunimitashitekurerukankyo-yahitonosyu-go-wo\"jo-shitsusekai\"toyobu",
-            "jibunnoyokkyu-oseijitsunimitashitekurerukankyo-yahitonosyu-go-o\"zyo-situsekai\"toyobu",
-            "jibunnoyokkyu-oseijitsunimitashitekurerukankyo-yahitonosyu-go-o\"zyo-sitsusekai\"toyobu",
-            "jibunnoyokkyu-oseijitsunimitashitekurerukankyo-yahitonosyu-go-o\"zyo-shitusekai\"toyobu",
-            "jibunnoyokkyu-oseijitsunimitashitekurerukankyo-yahitonosyu-go-o\"zyo-shitsusekai\"toyobu",
-            "jibunnoyokkyu-oseijitsunimitashitekurerukankyo-yahitonosyu-go-o\"jo-situsekai\"toyobu",
-            "jibunnoyokkyu-oseijitsunimitashitekurerukankyo-yahitonosyu-go-o\"jo-sitsusekai\"toyobu",
-            "jibunnoyokkyu-oseijitsunimitashitekurerukankyo-yahitonosyu-go-o\"jo-shitusekai\"toyobu",
-            "jibunnoyokkyu-oseijitsunimitashitekurerukankyo-yahitonosyu-go-o\"jo-shitsusekai\"toyobu",
-            "jibunnoyokkyu-oseijitsunimitashitekurerukankyo-yahitonoshu-go-wo\"zyo-situsekai\"toyobu",
-            "jibunnoyokkyu-oseijitsunimitashitekurerukankyo-yahitonoshu-go-wo\"zyo-sitsusekai\"toyobu",
-            "jibunnoyokkyu-oseijitsunimitashitekurerukankyo-yahitonoshu-go-wo\"zyo-shitusekai\"toyobu",
-            "jibunnoyokkyu-oseijitsunimitashitekurerukankyo-yahitonoshu-go-wo\"zyo-shitsusekai\"toyobu",
-            "jibunnoyokkyu-oseijitsunimitashitekurerukankyo-yahitonoshu-go-wo\"jo-situsekai\"toyobu",
-            "jibunnoyokkyu-oseijitsunimitashitekurerukankyo-yahitonoshu-go-wo\"jo-sitsusekai\"toyobu",
-            "jibunnoyokkyu-oseijitsunimitashitekurerukankyo-yahitonoshu-go-wo\"jo-shitusekai\"toyobu",
-            "jibunnoyokkyu-oseijitsunimitashitekurerukankyo-yahitonoshu-go-wo\"jo-shitsusekai\"toyobu",
-            "jibunnoyokkyu-oseijitsunimitashitekurerukankyo-yahitonoshu-go-o\"zyo-situsekai\"toyobu",
-            "jibunnoyokkyu-oseijitsunimitashitekurerukankyo-yahitonoshu-go-o\"zyo-sitsusekai\"toyobu",
-            "jibunnoyokkyu-oseijitsunimitashitekurerukankyo-yahitonoshu-go-o\"zyo-shitusekai\"toyobu",
-            "jibunnoyokkyu-oseijitsunimitashitekurerukankyo-yahitonoshu-go-o\"zyo-shitsusekai\"toyobu",
-            "jibunnoyokkyu-oseijitsunimitashitekurerukankyo-yahitonoshu-go-o\"jo-situsekai\"toyobu",
-            "jibunnoyokkyu-oseijitsunimitashitekurerukankyo-yahitonoshu-go-o\"jo-sitsusekai\"toyobu",
-            "jibunnoyokkyu-oseijitsunimitashitekurerukankyo-yahitonoshu-go-o\"jo-shitusekai\"toyobu",
-            "jibunnoyokkyu-oseijitsunimitashitekurerukankyo-yahitonosfu-go-wo\"zyo-situsekai\"toyobu",
-            "jibunnoyokkyu-oseijitsunimitashitekurerukankyo-yahitonosfu-go-wo\"zyo-sitsusekai\"toyobu",
-            "jibunnoyokkyu-oseijitsunimitashitekurerukankyo-yahitonosfu-go-wo\"zyo-shitusekai\"toyobu",
-            "jibunnoyokkyu-oseijitsunimitashitekurerukankyo-yahitonosfu-go-wo\"zyo-shitsusekai\"toyobu",
-            "jibunnoyokkyu-oseijitsunimitashitekurerukankyo-yahitonosfu-go-wo\"jo-situsekai\"toyobu",
-            "jibunnoyokkyu-oseijitsunimitashitekurerukankyo-yahitonosfu-go-wo\"jo-sitsusekai\"toyobu",
-            "jibunnoyokkyu-oseijitsunimitashitekurerukankyo-yahitonosfu-go-wo\"jo-shitusekai\"toyobu",
-            "jibunnoyokkyu-oseijitsunimitashitekurerukankyo-yahitonosfu-go-wo\"jo-shitsusekai\"toyobu",
-            "jibunnoyokkyu-oseijitsunimitashitekurerukankyo-yahitonosfu-go-o\"zyo-situsekai\"toyobu",
-            "jibunnoyokkyu-oseijitsunimitashitekurerukankyo-yahitonosfu-go-o\"zyo-sitsusekai\"toyobu",
-            "jibunnoyokkyu-oseijitsunimitashitekurerukankyo-yahitonosfu-go-o\"zyo-shitusekai\"toyobu",
-            "jibunnoyokkyu-oseijitsunimitashitekurerukankyo-yahitonosfu-go-o\"zyo-shitsusekai\"toyobu",
-            "jibunnoyokkyu-oseijitsunimitashitekurerukankyo-yahitonosfu-go-o\"jo-situsekai\"toyobu",
-            "jibunnoyokkyu-oseijitsunimitashitekurerukankyo-yahitonosfu-go-o\"jo-sitsusekai\"toyobu",
-            "jibunnoyokkyu-oseijitsunimitashitekurerukankyo-yahitonosfu-go-o\"jo-shitusekai\"toyobu",
-            "jibunnoyokkyu-oseijitsunimitashitekurerukankyo-yahitonosfu-go-o\"jo-shitsusekai\"toyobu",
-            "jibunnoyokkyu-oseijitsunimitashitekurerukankyo-yahitonoshu-go-o\"jo-shitsusekai\"toyobu",
-            "jibunnoyokkyuuoseijitsunimitashitekurerukankyouyahitonoshuugouo\"joushitsusekai\"toyobu",
-            "jibunnoyokkyuuoseijitsunimitashitekurerukankyouyahitonosfuugouo\"joushitsusekai\"toyobu",
-            "jibunnoyokkyuuoseijitsunimitashitekurerukankyouyahitonosfuugouo\"joushitusekai\"toyobu",
-            "jibunnoyokkyuuoseijitsunimitashitekurerukankyouyahitonosfuugouo\"jousitsusekai\"toyobu",
-            "jibunnoyokkyuuoseijitsunimitashitekurerukankyouyahitonosfuugouo\"jousitusekai\"toyobu",
-            "jibunnoyokkyuuoseijitsunimitashitekurerukankyouyahitonosfuugouo\"zyoushitsusekai\"toyobu",
-            "jibunnoyokkyuuoseijitsunimitashitekurerukankyouyahitonosfuugouo\"zyoushitusekai\"toyobu",
-            "jibunnoyokkyuuoseijitsunimitashitekurerukankyouyahitonosfuugouo\"zyousitsusekai\"toyobu",
-            "jibunnoyokkyuuoseijitsunimitashitekurerukankyouyahitonosfuugouo\"zyousitusekai\"toyobu",
-            "jibunnoyokkyuuoseijitsunimitashitekurerukankyouyahitonosfuugouwo\"joushitsusekai\"toyobu",
-            "jibunnoyokkyuuoseijitsunimitashitekurerukankyouyahitonosfuugouwo\"joushitusekai\"toyobu",
-            "jibunnoyokkyuuoseijitsunimitashitekurerukankyouyahitonosfuugouwo\"jousitsusekai\"toyobu",
-            "jibunnoyokkyuuoseijitsunimitashitekurerukankyouyahitonosfuugouwo\"jousitusekai\"toyobu",
-            "jibunnoyokkyuuoseijitsunimitashitekurerukankyouyahitonosfuugouwo\"zyoushitsusekai\"toyobu",
-            "jibunnoyokkyuuoseijitsunimitashitekurerukankyouyahitonosfuugouwo\"zyoushitusekai\"toyobu",
-            "jibunnoyokkyuuoseijitsunimitashitekurerukankyouyahitonosfuugouwo\"zyousitsusekai\"toyobu",
-            "jibunnoyokkyuuoseijitsunimitashitekurerukankyouyahitonosfuugouwo\"zyousitusekai\"toyobu",
-            "jibunnoyokkyuuoseijitsunimitashitekurerukankyouyahitonoshuugouo\"joushitusekai\"toyobu",
-            "jibunnoyokkyuuoseijitsunimitashitekurerukankyouyahitonoshuugouo\"jousitsusekai\"toyobu",
-            "jibunnoyokkyuuoseijitsunimitashitekurerukankyouyahitonoshuugouo\"jousitusekai\"toyobu",
-            "jibunnoyokkyuuoseijitsunimitashitekurerukankyouyahitonoshuugouo\"zyoushitsusekai\"toyobu",
-            "jibunnoyokkyuuoseijitsunimitashitekurerukankyouyahitonoshuugouo\"zyoushitusekai\"toyobu",
-            "jibunnoyokkyuuoseijitsunimitashitekurerukankyouyahitonoshuugouo\"zyousitsusekai\"toyobu",
-            "jibunnoyokkyuuoseijitsunimitashitekurerukankyouyahitonoshuugouo\"zyousitusekai\"toyobu",
-            "jibunnoyokkyuuoseijitsunimitashitekurerukankyouyahitonoshuugouwo\"joushitsusekai\"toyobu",
-            "jibunnoyokkyuuoseijitsunimitashitekurerukankyouyahitonoshuugouwo\"joushitusekai\"toyobu",
-            "jibunnoyokkyuuoseijitsunimitashitekurerukankyouyahitonoshuugouwo\"jousitsusekai\"toyobu",
-            "jibunnoyokkyuuoseijitsunimitashitekurerukankyouyahitonoshuugouwo\"jousitusekai\"toyobu",
-            "jibunnoyokkyuuoseijitsunimitashitekurerukankyouyahitonoshuugouwo\"zyoushitsusekai\"toyobu",
-            "jibunnoyokkyuuoseijitsunimitashitekurerukankyouyahitonoshuugouwo\"zyoushitusekai\"toyobu",
-            "jibunnoyokkyuuoseijitsunimitashitekurerukankyouyahitonoshuugouwo\"zyousitsusekai\"toyobu",
-            "jibunnoyokkyuuoseijitsunimitashitekurerukankyouyahitonoshuugouwo\"zyousitusekai\"toyobu",
-            "jibunnoyokkyuuoseijitsunimitashitekurerukankyouyahitonosyuugouo\"joushitsusekai\"toyobu",
-            "jibunnoyokkyuuoseijitsunimitashitekurerukankyouyahitonosyuugouo\"joushitusekai\"toyobu",
-            "jibunnoyokkyuuoseijitsunimitashitekurerukankyouyahitonosyuugouo\"jousitsusekai\"toyobu",
-            "jibunnoyokkyuuoseijitsunimitashitekurerukankyouyahitonosyuugouo\"jousitusekai\"toyobu",
-            "jibunnoyokkyuuoseijitsunimitashitekurerukankyouyahitonosyuugouo\"zyoushitsusekai\"toyobu",
-            "jibunnoyokkyuuoseijitsunimitashitekurerukankyouyahitonosyuugouo\"zyoushitusekai\"toyobu",
-            "jibunnoyokkyuuoseijitsunimitashitekurerukankyouyahitonosyuugouo\"zyousitsusekai\"toyobu",
-            "jibunnoyokkyuuoseijitsunimitashitekurerukankyouyahitonosyuugouo\"zyousitusekai\"toyobu",
-            "jibunnoyokkyuuoseijitsunimitashitekurerukankyouyahitonosyuugouwo\"joushitsusekai\"toyobu",
-            "jibunnoyokkyuuoseijitsunimitashitekurerukankyouyahitonosyuugouwo\"joushitusekai\"toyobu",
-            "jibunnoyokkyuuoseijitsunimitashitekurerukankyouyahitonosyuugouwo\"jousitsusekai\"toyobu",
-            "jibunnoyokkyuuoseijitsunimitashitekurerukankyouyahitonosyuugouwo\"jousitusekai\"toyobu",
-            "jibunnoyokkyuuoseijitsunimitashitekurerukankyouyahitonosyuugouwo\"zyoushitsusekai\"toyobu",
-            "jibunnoyokkyuuoseijitsunimitashitekurerukankyouyahitonosyuugouwo\"zyoushitusekai\"toyobu",
-            "jibunnoyokkyuuoseijitsunimitashitekurerukankyouyahitonosyuugouwo\"zyousitsusekai\"toyobu",
-            "jibunnoyokkyuuoseijitsunimitashitekurerukankyouyahitonosyuugouwo\"zyousitusekai\"toyobu",
-            "jibunnoyokkyuuoseijitsunimitasitekurerukankyouyahitonosfuugouo\"joushitsusekai\"toyobu",
-            "jibunnoyokkyuuoseijitsunimitasitekurerukankyouyahitonosfuugouo\"joushitusekai\"toyobu",
-            "jibunnoyokkyuuoseijitsunimitasitekurerukankyouyahitonosfuugouo\"jousitsusekai\"toyobu",
-            "jibunnoyokkyuuoseijitsunimitasitekurerukankyouyahitonosfuugouo\"jousitusekai\"toyobu",
-            "jibunnoyokkyuuoseijitsunimitasitekurerukankyouyahitonosfuugouo\"zyoushitsusekai\"toyobu",
-            "jibunnoyokkyuuoseijitsunimitasitekurerukankyouyahitonosfuugouo\"zyoushitusekai\"toyobu",
-            "jibunnoyokkyuuoseijitsunimitasitekurerukankyouyahitonosfuugouo\"zyousitsusekai\"toyobu",
-            "jibunnoyokkyuuoseijitsunimitasitekurerukankyouyahitonosfuugouo\"zyousitusekai\"toyobu",
-            "jibunnoyokkyuuoseijitsunimitasitekurerukankyouyahitonosfuugouwo\"joushitsusekai\"toyobu",
-            "jibunnoyokkyuuoseijitsunimitasitekurerukankyouyahitonosfuugouwo\"joushitusekai\"toyobu",
-            "jibunnoyokkyuuoseijitsunimitasitekurerukankyouyahitonosfuugouwo\"jousitsusekai\"toyobu",
-            "jibunnoyokkyuuoseijitsunimitasitekurerukankyouyahitonosfuugouwo\"jousitusekai\"toyobu",
-            "jibunnoyokkyuuoseijitsunimitasitekurerukankyouyahitonosfuugouwo\"zyoushitsusekai\"toyobu",
-            "jibunnoyokkyuuoseijitsunimitasitekurerukankyouyahitonosfuugouwo\"zyoushitusekai\"toyobu",
-            "jibunnoyokkyuuoseijitsunimitasitekurerukankyouyahitonosfuugouwo\"zyousitsusekai\"toyobu",
-            "jibunnoyokkyuuoseijitsunimitasitekurerukankyouyahitonosfuugouwo\"zyousitusekai\"toyobu",
-            "jibunnoyokkyuuoseijitsunimitasitekurerukankyouyahitonoshuugouo\"joushitsusekai\"toyobu",
-            "jibunnoyokkyuuoseijitsunimitasitekurerukankyouyahitonoshuugouo\"joushitusekai\"toyobu",
-            "jibunnoyokkyuuoseijitsunimitasitekurerukankyouyahitonoshuugouo\"jousitsusekai\"toyobu",
-            "jibunnoyokkyuuoseijitsunimitasitekurerukankyouyahitonoshuugouo\"jousitusekai\"toyobu",
-            "jibunnoyokkyuuoseijitsunimitasitekurerukankyouyahitonoshuugouo\"zyoushitsusekai\"toyobu",
-            "jibunnoyokkyuuoseijitsunimitasitekurerukankyouyahitonoshuugouo\"zyoushitusekai\"toyobu",
-            "jibunnoyokkyuuoseijitsunimitasitekurerukankyouyahitonoshuugouo\"zyousitsusekai\"toyobu",
-            "jibunnoyokkyuuoseijitsunimitasitekurerukankyouyahitonoshuugouo\"zyousitusekai\"toyobu",
-            "jibunnoyokkyuuoseijitsunimitasitekurerukankyouyahitonoshuugouwo\"joushitsusekai\"toyobu",
-            "jibunnoyokkyuuoseijitsunimitasitekurerukankyouyahitonoshuugouwo\"joushitusekai\"toyobu",
-            "jibunnoyokkyuuoseijitsunimitasitekurerukankyouyahitonoshuugouwo\"jousitsusekai\"toyobu",
-            "jibunnoyokkyuuoseijitsunimitasitekurerukankyouyahitonoshuugouwo\"jousitusekai\"toyobu",
-            "jibunnoyokkyuuoseijitsunimitasitekurerukankyouyahitonoshuugouwo\"zyoushitsusekai\"toyobu",
-            "jibunnoyokkyuuoseijitsunimitasitekurerukankyouyahitonoshuugouwo\"zyoushitusekai\"toyobu",
-            "jibunnoyokkyuuoseijitsunimitasitekurerukankyouyahitonoshuugouwo\"zyousitsusekai\"toyobu",
-            "jibunnoyokkyuuoseijitsunimitasitekurerukankyouyahitonoshuugouwo\"zyousitusekai\"toyobu",
-            "jibunnoyokkyuuoseijitsunimitasitekurerukankyouyahitonosyuugouo\"joushitsusekai\"toyobu",
-            "jibunnoyokkyuuoseijitsunimitasitekurerukankyouyahitonosyuugouo\"joushitusekai\"toyobu",
-            "jibunnoyokkyuuoseijitsunimitasitekurerukankyouyahitonosyuugouo\"jousitsusekai\"toyobu",
-            "jibunnoyokkyuuoseijitsunimitasitekurerukankyouyahitonosyuugouo\"jousitusekai\"toyobu",
-            "jibunnoyokkyuuoseijitsunimitasitekurerukankyouyahitonosyuugouo\"zyoushitsusekai\"toyobu",
-            "jibunnoyokkyuuoseijitsunimitasitekurerukankyouyahitonosyuugouo\"zyoushitusekai\"toyobu",
-            "jibunnoyokkyuuoseijitsunimitasitekurerukankyouyahitonosyuugouo\"zyousitsusekai\"toyobu",
-            "jibunnoyokkyuuoseijitsunimitasitekurerukankyouyahitonosyuugouo\"zyousitusekai\"toyobu",
-            "jibunnoyokkyuuoseijitsunimitasitekurerukankyouyahitonosyuugouwo\"joushitsusekai\"toyobu",
-            "jibunnoyokkyuuoseijitsunimitasitekurerukankyouyahitonosyuugouwo\"joushitusekai\"toyobu",
-            "jibunnoyokkyuuoseijitsunimitasitekurerukankyouyahitonosyuugouwo\"jousitsusekai\"toyobu",
-            "jibunnoyokkyuuoseijitsunimitasitekurerukankyouyahitonosyuugouwo\"jousitusekai\"toyobu",
-            "jibunnoyokkyuuoseijitsunimitasitekurerukankyouyahitonosyuugouwo\"zyoushitsusekai\"toyobu",
-            "jibunnoyokkyuuoseijitsunimitasitekurerukankyouyahitonosyuugouwo\"zyoushitusekai\"toyobu",
-            "jibunnoyokkyuuoseijitsunimitasitekurerukankyouyahitonosyuugouwo\"zyousitsusekai\"toyobu",
-            "jibunnoyokkyuuoseijitsunimitasitekurerukankyouyahitonosyuugouwo\"zyousitusekai\"toyobu",
-            "jibunnoyokkyuuoseijitunimitashitekurerukankyouyahitonosfuugouo\"joushitsusekai\"toyobu",
-            "jibunnoyokkyuuoseijitunimitashitekurerukankyouyahitonosfuugouo\"joushitusekai\"toyobu",
-            "jibunnoyokkyuuoseijitunimitashitekurerukankyouyahitonosfuugouo\"jousitsusekai\"toyobu",
-            "jibunnoyokkyuuoseijitunimitashitekurerukankyouyahitonosfuugouo\"jousitusekai\"toyobu",
-            "jibunnoyokkyuuoseijitunimitashitekurerukankyouyahitonosfuugouo\"zyoushitsusekai\"toyobu",
-            "jibunnoyokkyuuoseijitunimitashitekurerukankyouyahitonosfuugouo\"zyoushitusekai\"toyobu",
-            "jibunnoyokkyuuoseijitunimitashitekurerukankyouyahitonosfuugouo\"zyousitsusekai\"toyobu",
-            "jibunnoyokkyuuoseijitunimitashitekurerukankyouyahitonosfuugouo\"zyousitusekai\"toyobu",
-            "jibunnoyokkyuuoseijitunimitashitekurerukankyouyahitonosfuugouwo\"joushitsusekai\"toyobu",
-            "jibunnoyokkyuuoseijitunimitashitekurerukankyouyahitonosfuugouwo\"joushitusekai\"toyobu",
-            "jibunnoyokkyuuoseijitunimitashitekurerukankyouyahitonosfuugouwo\"jousitsusekai\"toyobu",
-            "jibunnoyokkyuuoseijitunimitashitekurerukankyouyahitonosfuugouwo\"jousitusekai\"toyobu",
-            "jibunnoyokkyuuoseijitunimitashitekurerukankyouyahitonosfuugouwo\"zyoushitsusekai\"toyobu",
-            "jibunnoyokkyuuoseijitunimitashitekurerukankyouyahitonosfuugouwo\"zyoushitusekai\"toyobu",
-            "jibunnoyokkyuuoseijitunimitashitekurerukankyouyahitonosfuugouwo\"zyousitsusekai\"toyobu",
-            "jibunnoyokkyuuoseijitunimitashitekurerukankyouyahitonosfuugouwo\"zyousitusekai\"toyobu",
-            "jibunnoyokkyuuoseijitunimitashitekurerukankyouyahitonoshuugouo\"joushitsusekai\"toyobu",
-            "jibunnoyokkyuuoseijitunimitashitekurerukankyouyahitonoshuugouo\"joushitusekai\"toyobu",
-            "jibunnoyokkyuuoseijitunimitashitekurerukankyouyahitonoshuugouo\"jousitsusekai\"toyobu",
-            "jibunnoyokkyuuoseijitunimitashitekurerukankyouyahitonoshuugouo\"jousitusekai\"toyobu",
-            "jibunnoyokkyuuoseijitunimitashitekurerukankyouyahitonoshuugouo\"zyoushitsusekai\"toyobu",
-            "jibunnoyokkyuuoseijitunimitashitekurerukankyouyahitonoshuugouo\"zyoushitusekai\"toyobu",
-            "jibunnoyokkyuuoseijitunimitashitekurerukankyouyahitonoshuugouo\"zyousitsusekai\"toyobu",
-            "jibunnoyokkyuuoseijitunimitashitekurerukankyouyahitonoshuugouo\"zyousitusekai\"toyobu",
-            "jibunnoyokkyuuoseijitunimitashitekurerukankyouyahitonoshuugouwo\"joushitsusekai\"toyobu",
-            "jibunnoyokkyuuoseijitunimitashitekurerukankyouyahitonoshuugouwo\"joushitusekai\"toyobu",
-            "jibunnoyokkyuuoseijitunimitashitekurerukankyouyahitonoshuugouwo\"jousitsusekai\"toyobu",
-            "jibunnoyokkyuuoseijitunimitashitekurerukankyouyahitonoshuugouwo\"jousitusekai\"toyobu",
-            "jibunnoyokkyuuoseijitunimitashitekurerukankyouyahitonoshuugouwo\"zyoushitsusekai\"toyobu",
-            "jibunnoyokkyuuoseijitunimitashitekurerukankyouyahitonoshuugouwo\"zyoushitusekai\"toyobu",
-            "jibunnoyokkyuuoseijitunimitashitekurerukankyouyahitonoshuugouwo\"zyousitsusekai\"toyobu",
-            "jibunnoyokkyuuoseijitunimitashitekurerukankyouyahitonoshuugouwo\"zyousitusekai\"toyobu",
-            "jibunnoyokkyuuoseijitunimitashitekurerukankyouyahitonosyuugouo\"joushitsusekai\"toyobu",
-            "jibunnoyokkyuuoseijitunimitashitekurerukankyouyahitonosyuugouo\"joushitusekai\"toyobu",
-            "jibunnoyokkyuuoseijitunimitashitekurerukankyouyahitonosyuugouo\"jousitsusekai\"toyobu",
-            "jibunnoyokkyuuoseijitunimitashitekurerukankyouyahitonosyuugouo\"jousitusekai\"toyobu",
-            "jibunnoyokkyuuoseijitunimitashitekurerukankyouyahitonosyuugouo\"zyoushitsusekai\"toyobu",
-            "jibunnoyokkyuuoseijitunimitashitekurerukankyouyahitonosyuugouo\"zyoushitusekai\"toyobu",
-            "jibunnoyokkyuuoseijitunimitashitekurerukankyouyahitonosyuugouo\"zyousitsusekai\"toyobu",
-            "jibunnoyokkyuuoseijitunimitashitekurerukankyouyahitonosyuugouo\"zyousitusekai\"toyobu",
-            "jibunnoyokkyuuoseijitunimitashitekurerukankyouyahitonosyuugouwo\"joushitsusekai\"toyobu",
-            "jibunnoyokkyuuoseijitunimitashitekurerukankyouyahitonosyuugouwo\"joushitusekai\"toyobu",
-            "jibunnoyokkyuuoseijitunimitashitekurerukankyouyahitonosyuugouwo\"jousitsusekai\"toyobu",
-            "jibunnoyokkyuuoseijitunimitashitekurerukankyouyahitonosyuugouwo\"jousitusekai\"toyobu",
-            "jibunnoyokkyuuoseijitunimitashitekurerukankyouyahitonosyuugouwo\"zyoushitsusekai\"toyobu",
-            "jibunnoyokkyuuoseijitunimitashitekurerukankyouyahitonosyuugouwo\"zyoushitusekai\"toyobu",
-            "jibunnoyokkyuuoseijitunimitashitekurerukankyouyahitonosyuugouwo\"zyousitsusekai\"toyobu",
-            "jibunnoyokkyuuoseijitunimitashitekurerukankyouyahitonosyuugouwo\"zyousitusekai\"toyobu",
-            "jibunnoyokkyuuoseijitunimitasitekurerukankyouyahitonosfuugouo\"joushitsusekai\"toyobu",
-            "jibunnoyokkyuuoseijitunimitasitekurerukankyouyahitonosfuugouo\"joushitusekai\"toyobu",
-            "jibunnoyokkyuuoseijitunimitasitekurerukankyouyahitonosfuugouo\"jousitsusekai\"toyobu",
-            "jibunnoyokkyuuoseijitunimitasitekurerukankyouyahitonosfuugouo\"jousitusekai\"toyobu",
-            "jibunnoyokkyuuoseijitunimitasitekurerukankyouyahitonosfuugouo\"zyoushitsusekai\"toyobu",
-            "jibunnoyokkyuuoseijitunimitasitekurerukankyouyahitonosfuugouo\"zyoushitusekai\"toyobu",
-            "jibunnoyokkyuuoseijitunimitasitekurerukankyouyahitonosfuugouo\"zyousitsusekai\"toyobu",
-            "jibunnoyokkyuuoseijitunimitasitekurerukankyouyahitonosfuugouo\"zyousitusekai\"toyobu",
-            "jibunnoyokkyuuoseijitunimitasitekurerukankyouyahitonosfuugouwo\"joushitsusekai\"toyobu",
-            "jibunnoyokkyuuoseijitunimitasitekurerukankyouyahitonosfuugouwo\"joushitusekai\"toyobu",
-            "jibunnoyokkyuuoseijitunimitasitekurerukankyouyahitonosfuugouwo\"jousitsusekai\"toyobu",
-            "jibunnoyokkyuuoseijitunimitasitekurerukankyouyahitonosfuugouwo\"jousitusekai\"toyobu",
-            "jibunnoyokkyuuoseijitunimitasitekurerukankyouyahitonosfuugouwo\"zyoushitsusekai\"toyobu",
-            "jibunnoyokkyuuoseijitunimitasitekurerukankyouyahitonosfuugouwo\"zyoushitusekai\"toyobu",
-            "jibunnoyokkyuuoseijitunimitasitekurerukankyouyahitonosfuugouwo\"zyousitsusekai\"toyobu",
-            "jibunnoyokkyuuoseijitunimitasitekurerukankyouyahitonosfuugouwo\"zyousitusekai\"toyobu",
-            "jibunnoyokkyuuoseijitunimitasitekurerukankyouyahitonoshuugouo\"joushitsusekai\"toyobu",
-            "jibunnoyokkyuuoseijitunimitasitekurerukankyouyahitonoshuugouo\"joushitusekai\"toyobu",
-            "jibunnoyokkyuuoseijitunimitasitekurerukankyouyahitonoshuugouo\"jousitsusekai\"toyobu",
-            "jibunnoyokkyuuoseijitunimitasitekurerukankyouyahitonoshuugouo\"jousitusekai\"toyobu",
-            "jibunnoyokkyuuoseijitunimitasitekurerukankyouyahitonoshuugouo\"zyoushitsusekai\"toyobu",
-            "jibunnoyokkyuuoseijitunimitasitekurerukankyouyahitonoshuugouo\"zyoushitusekai\"toyobu",
-            "jibunnoyokkyuuoseijitunimitasitekurerukankyouyahitonoshuugouo\"zyousitsusekai\"toyobu",
-            "jibunnoyokkyuuoseijitunimitasitekurerukankyouyahitonoshuugouo\"zyousitusekai\"toyobu",
-            "jibunnoyokkyuuoseijitunimitasitekurerukankyouyahitonoshuugouwo\"joushitsusekai\"toyobu",
-            "jibunnoyokkyuuoseijitunimitasitekurerukankyouyahitonoshuugouwo\"joushitusekai\"toyobu",
-            "jibunnoyokkyuuoseijitunimitasitekurerukankyouyahitonoshuugouwo\"jousitsusekai\"toyobu",
-            "jibunnoyokkyuuoseijitunimitasitekurerukankyouyahitonoshuugouwo\"jousitusekai\"toyobu",
-            "jibunnoyokkyuuoseijitunimitasitekurerukankyouyahitonoshuugouwo\"zyoushitsusekai\"toyobu",
-            "jibunnoyokkyuuoseijitunimitasitekurerukankyouyahitonoshuugouwo\"zyoushitusekai\"toyobu",
-            "jibunnoyokkyuuoseijitunimitasitekurerukankyouyahitonoshuugouwo\"zyousitsusekai\"toyobu",
-            "jibunnoyokkyuuoseijitunimitasitekurerukankyouyahitonoshuugouwo\"zyousitusekai\"toyobu",
-            "jibunnoyokkyuuoseijitunimitasitekurerukankyouyahitonosyuugouo\"joushitsusekai\"toyobu",
-            "jibunnoyokkyuuoseijitunimitasitekurerukankyouyahitonosyuugouo\"joushitusekai\"toyobu",
-            "jibunnoyokkyuuoseijitunimitasitekurerukankyouyahitonosyuugouo\"jousitsusekai\"toyobu",
-            "jibunnoyokkyuuoseijitunimitasitekurerukankyouyahitonosyuugouo\"jousitusekai\"toyobu",
-            "jibunnoyokkyuuoseijitunimitasitekurerukankyouyahitonosyuugouo\"zyoushitsusekai\"toyobu",
-            "jibunnoyokkyuuoseijitunimitasitekurerukankyouyahitonosyuugouo\"zyoushitusekai\"toyobu",
-            "jibunnoyokkyuuoseijitunimitasitekurerukankyouyahitonosyuugouo\"zyousitsusekai\"toyobu",
-            "jibunnoyokkyuuoseijitunimitasitekurerukankyouyahitonosyuugouo\"zyousitusekai\"toyobu",
-            "jibunnoyokkyuuoseijitunimitasitekurerukankyouyahitonosyuugouwo\"joushitsusekai\"toyobu",
-            "jibunnoyokkyuuoseijitunimitasitekurerukankyouyahitonosyuugouwo\"joushitusekai\"toyobu",
-            "jibunnoyokkyuuoseijitunimitasitekurerukankyouyahitonosyuugouwo\"jousitsusekai\"toyobu",
-            "jibunnoyokkyuuoseijitunimitasitekurerukankyouyahitonosyuugouwo\"jousitusekai\"toyobu",
-            "jibunnoyokkyuuoseijitunimitasitekurerukankyouyahitonosyuugouwo\"zyoushitsusekai\"toyobu",
-            "jibunnoyokkyuuoseijitunimitasitekurerukankyouyahitonosyuugouwo\"zyoushitusekai\"toyobu",
-            "jibunnoyokkyuuoseijitunimitasitekurerukankyouyahitonosyuugouwo\"zyousitsusekai\"toyobu",
-            "jibunnoyokkyuuoseijitunimitasitekurerukankyouyahitonosyuugouwo\"zyousitusekai\"toyobu",
-            "jibunnoyokkyuuoseizitsunimitashitekurerukankyouyahitonosfuugouo\"joushitsusekai\"toyobu",
-            "jibunnoyokkyuuoseizitsunimitashitekurerukankyouyahitonosfuugouo\"joushitusekai\"toyobu",
-            "jibunnoyokkyuuoseizitsunimitashitekurerukankyouyahitonosfuugouo\"jousitsusekai\"toyobu",
-            "jibunnoyokkyuuoseizitsunimitashitekurerukankyouyahitonosfuugouo\"jousitusekai\"toyobu",
-            "jibunnoyokkyuuoseizitsunimitashitekurerukankyouyahitonosfuugouo\"zyoushitsusekai\"toyobu",
-            "jibunnoyokkyuuoseizitsunimitashitekurerukankyouyahitonosfuugouo\"zyoushitusekai\"toyobu",
-            "jibunnoyokkyuuoseizitsunimitashitekurerukankyouyahitonosfuugouo\"zyousitsusekai\"toyobu",
-            "jibunnoyokkyuuoseizitsunimitashitekurerukankyouyahitonosfuugouo\"zyousitusekai\"toyobu",
-            "jibunnoyokkyuuoseizitsunimitashitekurerukankyouyahitonosfuugouwo\"joushitsusekai\"toyobu",
-            "jibunnoyokkyuuoseizitsunimitashitekurerukankyouyahitonosfuugouwo\"joushitusekai\"toyobu",
-            "jibunnoyokkyuuoseizitsunimitashitekurerukankyouyahitonosfuugouwo\"jousitsusekai\"toyobu",
-            "jibunnoyokkyuuoseizitsunimitashitekurerukankyouyahitonosfuugouwo\"jousitusekai\"toyobu",
-            "jibunnoyokkyuuoseizitsunimitashitekurerukankyouyahitonosfuugouwo\"zyoushitsusekai\"toyobu",
-            "jibunnoyokkyuuoseizitsunimitashitekurerukankyouyahitonosfuugouwo\"zyoushitusekai\"toyobu",
-            "jibunnoyokkyuuoseizitsunimitashitekurerukankyouyahitonosfuugouwo\"zyousitsusekai\"toyobu",
-            "jibunnoyokkyuuoseizitsunimitashitekurerukankyouyahitonosfuugouwo\"zyousitusekai\"toyobu",
-            "jibunnoyokkyuuoseizitsunimitashitekurerukankyouyahitonoshuugouo\"joushitsusekai\"toyobu",
-            "jibunnoyokkyuuoseizitsunimitashitekurerukankyouyahitonoshuugouo\"joushitusekai\"toyobu",
-            "jibunnoyokkyuuoseizitsunimitashitekurerukankyouyahitonoshuugouo\"jousitsusekai\"toyobu",
-            "jibunnoyokkyuuoseizitsunimitashitekurerukankyouyahitonoshuugouo\"jousitusekai\"toyobu",
-            "jibunnoyokkyuuoseizitsunimitashitekurerukankyouyahitonoshuugouo\"zyoushitsusekai\"toyobu",
-            "jibunnoyokkyuuoseizitsunimitashitekurerukankyouyahitonoshuugouo\"zyoushitusekai\"toyobu",
-            "jibunnoyokkyuuoseizitsunimitashitekurerukankyouyahitonoshuugouo\"zyousitsusekai\"toyobu",
-            "jibunnoyokkyuuoseizitsunimitashitekurerukankyouyahitonoshuugouo\"zyousitusekai\"toyobu",
-            "jibunnoyokkyuuoseizitsunimitashitekurerukankyouyahitonoshuugouwo\"joushitsusekai\"toyobu",
-            "jibunnoyokkyuuoseizitsunimitashitekurerukankyouyahitonoshuugouwo\"joushitusekai\"toyobu",
-            "jibunnoyokkyuuoseizitsunimitashitekurerukankyouyahitonoshuugouwo\"jousitsusekai\"toyobu",
-            "jibunnoyokkyuuoseizitsunimitashitekurerukankyouyahitonoshuugouwo\"jousitusekai\"toyobu",
-            "jibunnoyokkyuuoseizitsunimitashitekurerukankyouyahitonoshuugouwo\"zyoushitsusekai\"toyobu",
-            "jibunnoyokkyuuoseizitsunimitashitekurerukankyouyahitonoshuugouwo\"zyoushitusekai\"toyobu",
-            "jibunnoyokkyuuoseizitsunimitashitekurerukankyouyahitonoshuugouwo\"zyousitsusekai\"toyobu",
-            "jibunnoyokkyuuoseizitsunimitashitekurerukankyouyahitonoshuugouwo\"zyousitusekai\"toyobu",
-            "jibunnoyokkyuuoseizitsunimitashitekurerukankyouyahitonosyuugouo\"joushitsusekai\"toyobu",
-            "jibunnoyokkyuuoseizitsunimitashitekurerukankyouyahitonosyuugouo\"joushitusekai\"toyobu",
-            "jibunnoyokkyuuoseizitsunimitashitekurerukankyouyahitonosyuugouo\"jousitsusekai\"toyobu",
-            "jibunnoyokkyuuoseizitsunimitashitekurerukankyouyahitonosyuugouo\"jousitusekai\"toyobu",
-            "jibunnoyokkyuuoseizitsunimitashitekurerukankyouyahitonosyuugouo\"zyoushitsusekai\"toyobu",
-            "jibunnoyokkyuuoseizitsunimitashitekurerukankyouyahitonosyuugouo\"zyoushitusekai\"toyobu",
-            "jibunnoyokkyuuoseizitsunimitashitekurerukankyouyahitonosyuugouo\"zyousitsusekai\"toyobu",
-            "jibunnoyokkyuuoseizitsunimitashitekurerukankyouyahitonosyuugouo\"zyousitusekai\"toyobu",
-            "jibunnoyokkyuuoseizitsunimitashitekurerukankyouyahitonosyuugouwo\"joushitsusekai\"toyobu",
-            "jibunnoyokkyuuoseizitsunimitashitekurerukankyouyahitonosyuugouwo\"joushitusekai\"toyobu",
-            "jibunnoyokkyuuoseizitsunimitashitekurerukankyouyahitonosyuugouwo\"jousitsusekai\"toyobu",
-            "jibunnoyokkyuuoseizitsunimitashitekurerukankyouyahitonosyuugouwo\"jousitusekai\"toyobu",
-            "jibunnoyokkyuuoseizitsunimitashitekurerukankyouyahitonosyuugouwo\"zyoushitsusekai\"toyobu",
-            "jibunnoyokkyuuoseizitsunimitashitekurerukankyouyahitonosyuugouwo\"zyoushitusekai\"toyobu",
-            "jibunnoyokkyuuoseizitsunimitashitekurerukankyouyahitonosyuugouwo\"zyousitsusekai\"toyobu",
-            "jibunnoyokkyuuoseizitsunimitashitekurerukankyouyahitonosyuugouwo\"zyousitusekai\"toyobu",
-            "jibunnoyokkyuuoseizitsunimitasitekurerukankyouyahitonosfuugouo\"joushitsusekai\"toyobu",
-            "jibunnoyokkyuuoseizitsunimitasitekurerukankyouyahitonosfuugouo\"joushitusekai\"toyobu",
-            "jibunnoyokkyuuoseizitsunimitasitekurerukankyouyahitonosfuugouo\"jousitsusekai\"toyobu",
-            "jibunnoyokkyuuoseizitsunimitasitekurerukankyouyahitonosfuugouo\"jousitusekai\"toyobu",
-            "jibunnoyokkyuuoseizitsunimitasitekurerukankyouyahitonosfuugouo\"zyoushitsusekai\"toyobu",
-            "jibunnoyokkyuuoseizitsunimitasitekurerukankyouyahitonosfuugouo\"zyoushitusekai\"toyobu",
-            "jibunnoyokkyuuoseizitsunimitasitekurerukankyouyahitonosfuugouo\"zyousitsusekai\"toyobu",
-            "jibunnoyokkyuuoseizitsunimitasitekurerukankyouyahitonosfuugouo\"zyousitusekai\"toyobu",
-            "jibunnoyokkyuuoseizitsunimitasitekurerukankyouyahitonosfuugouwo\"joushitsusekai\"toyobu",
-            "jibunnoyokkyuuoseizitsunimitasitekurerukankyouyahitonosfuugouwo\"joushitusekai\"toyobu",
-            "jibunnoyokkyuuoseizitsunimitasitekurerukankyouyahitonosfuugouwo\"jousitsusekai\"toyobu",
-            "jibunnoyokkyuuoseizitsunimitasitekurerukankyouyahitonosfuugouwo\"jousitusekai\"toyobu",
-            "jibunnoyokkyuuoseizitsunimitasitekurerukankyouyahitonosfuugouwo\"zyoushitsusekai\"toyobu",
-            "jibunnoyokkyuuoseizitsunimitasitekurerukankyouyahitonosfuugouwo\"zyoushitusekai\"toyobu",
-            "jibunnoyokkyuuoseizitsunimitasitekurerukankyouyahitonosfuugouwo\"zyousitsusekai\"toyobu",
-            "jibunnoyokkyuuoseizitsunimitasitekurerukankyouyahitonosfuugouwo\"zyousitusekai\"toyobu",
-            "jibunnoyokkyuuoseizitsunimitasitekurerukankyouyahitonoshuugouo\"joushitsusekai\"toyobu",
-            "jibunnoyokkyuuoseizitsunimitasitekurerukankyouyahitonoshuugouo\"joushitusekai\"toyobu",
-            "jibunnoyokkyuuoseizitsunimitasitekurerukankyouyahitonoshuugouo\"jousitsusekai\"toyobu",
-            "jibunnoyokkyuuoseizitsunimitasitekurerukankyouyahitonoshuugouo\"jousitusekai\"toyobu",
-            "jibunnoyokkyuuoseizitsunimitasitekurerukankyouyahitonoshuugouo\"zyoushitsusekai\"toyobu",
-            "jibunnoyokkyuuoseizitsunimitasitekurerukankyouyahitonoshuugouo\"zyoushitusekai\"toyobu",
-            "jibunnoyokkyuuoseizitsunimitasitekurerukankyouyahitonoshuugouo\"zyousitsusekai\"toyobu",
-            "jibunnoyokkyuuoseizitsunimitasitekurerukankyouyahitonoshuugouo\"zyousitusekai\"toyobu",
-            "jibunnoyokkyuuoseizitsunimitasitekurerukankyouyahitonoshuugouwo\"joushitsusekai\"toyobu",
-            "jibunnoyokkyuuoseizitsunimitasitekurerukankyouyahitonoshuugouwo\"joushitusekai\"toyobu",
-            "jibunnoyokkyuuoseizitsunimitasitekurerukankyouyahitonoshuugouwo\"jousitsusekai\"toyobu",
-            "jibunnoyokkyuuoseizitsunimitasitekurerukankyouyahitonoshuugouwo\"jousitusekai\"toyobu",
-            "jibunnoyokkyuuoseizitsunimitasitekurerukankyouyahitonoshuugouwo\"zyoushitsusekai\"toyobu",
-            "jibunnoyokkyuuoseizitsunimitasitekurerukankyouyahitonoshuugouwo\"zyoushitusekai\"toyobu",
-            "jibunnoyokkyuuoseizitsunimitasitekurerukankyouyahitonoshuugouwo\"zyousitsusekai\"toyobu",
-            "jibunnoyokkyuuoseizitsunimitasitekurerukankyouyahitonoshuugouwo\"zyousitusekai\"toyobu",
-            "jibunnoyokkyuuoseizitsunimitasitekurerukankyouyahitonosyuugouo\"joushitsusekai\"toyobu",
-            "jibunnoyokkyuuoseizitsunimitasitekurerukankyouyahitonosyuugouo\"joushitusekai\"toyobu",
-            "jibunnoyokkyuuoseizitsunimitasitekurerukankyouyahitonosyuugouo\"jousitsusekai\"toyobu",
-            "jibunnoyokkyuuoseizitsunimitasitekurerukankyouyahitonosyuugouo\"jousitusekai\"toyobu",
-            "jibunnoyokkyuuoseizitsunimitasitekurerukankyouyahitonosyuugouo\"zyoushitsusekai\"toyobu",
-            "jibunnoyokkyuuoseizitsunimitasitekurerukankyouyahitonosyuugouo\"zyoushitusekai\"toyobu",
-            "jibunnoyokkyuuoseizitsunimitasitekurerukankyouyahitonosyuugouo\"zyousitsusekai\"toyobu",
-            "jibunnoyokkyuuoseizitsunimitasitekurerukankyouyahitonosyuugouo\"zyousitusekai\"toyobu",
-            "jibunnoyokkyuuoseizitsunimitasitekurerukankyouyahitonosyuugouwo\"joushitsusekai\"toyobu",
-            "jibunnoyokkyuuoseizitsunimitasitekurerukankyouyahitonosyuugouwo\"joushitusekai\"toyobu",
-            "jibunnoyokkyuuoseizitsunimitasitekurerukankyouyahitonosyuugouwo\"jousitsusekai\"toyobu",
-            "jibunnoyokkyuuoseizitsunimitasitekurerukankyouyahitonosyuugouwo\"jousitusekai\"toyobu",
-            "jibunnoyokkyuuoseizitsunimitasitekurerukankyouyahitonosyuugouwo\"zyoushitsusekai\"toyobu",
-            "jibunnoyokkyuuoseizitsunimitasitekurerukankyouyahitonosyuugouwo\"zyoushitusekai\"toyobu",
-            "jibunnoyokkyuuoseizitsunimitasitekurerukankyouyahitonosyuugouwo\"zyousitsusekai\"toyobu",
-            "jibunnoyokkyuuoseizitsunimitasitekurerukankyouyahitonosyuugouwo\"zyousitusekai\"toyobu",
-            "jibunnoyokkyuuoseizitunimitashitekurerukankyouyahitonosfuugouo\"joushitsusekai\"toyobu",
-            "jibunnoyokkyuuoseizitunimitashitekurerukankyouyahitonosfuugouo\"joushitusekai\"toyobu",
-            "jibunnoyokkyuuoseizitunimitashitekurerukankyouyahitonosfuugouo\"jousitsusekai\"toyobu",
-            "jibunnoyokkyuuoseizitunimitashitekurerukankyouyahitonosfuugouo\"jousitusekai\"toyobu",
-            "jibunnoyokkyuuoseizitunimitashitekurerukankyouyahitonosfuugouo\"zyoushitsusekai\"toyobu",
-            "jibunnoyokkyuuoseizitunimitashitekurerukankyouyahitonosfuugouo\"zyoushitusekai\"toyobu",
-            "jibunnoyokkyuuoseizitunimitashitekurerukankyouyahitonosfuugouo\"zyousitsusekai\"toyobu",
-            "jibunnoyokkyuuoseizitunimitashitekurerukankyouyahitonosfuugouo\"zyousitusekai\"toyobu",
-            "jibunnoyokkyuuoseizitunimitashitekurerukankyouyahitonosfuugouwo\"joushitsusekai\"toyobu",
-            "jibunnoyokkyuuoseizitunimitashitekurerukankyouyahitonosfuugouwo\"joushitusekai\"toyobu",
-            "jibunnoyokkyuuoseizitunimitashitekurerukankyouyahitonosfuugouwo\"jousitsusekai\"toyobu",
-            "jibunnoyokkyuuoseizitunimitashitekurerukankyouyahitonosfuugouwo\"jousitusekai\"toyobu",
-            "jibunnoyokkyuuoseizitunimitashitekurerukankyouyahitonosfuugouwo\"zyoushitsusekai\"toyobu",
-            "jibunnoyokkyuuoseizitunimitashitekurerukankyouyahitonosfuugouwo\"zyoushitusekai\"toyobu",
-            "jibunnoyokkyuuoseizitunimitashitekurerukankyouyahitonosfuugouwo\"zyousitsusekai\"toyobu",
-            "jibunnoyokkyuuoseizitunimitashitekurerukankyouyahitonosfuugouwo\"zyousitusekai\"toyobu",
-            "jibunnoyokkyuuoseizitunimitashitekurerukankyouyahitonoshuugouo\"joushitsusekai\"toyobu",
-            "jibunnoyokkyuuoseizitunimitashitekurerukankyouyahitonoshuugouo\"joushitusekai\"toyobu",
-            "jibunnoyokkyuuoseizitunimitashitekurerukankyouyahitonoshuugouo\"jousitsusekai\"toyobu",
-            "jibunnoyokkyuuoseizitunimitashitekurerukankyouyahitonoshuugouo\"jousitusekai\"toyobu",
-            "jibunnoyokkyuuoseizitunimitashitekurerukankyouyahitonoshuugouo\"zyoushitsusekai\"toyobu",
-            "jibunnoyokkyuuoseizitunimitashitekurerukankyouyahitonoshuugouo\"zyoushitusekai\"toyobu",
-            "jibunnoyokkyuuoseizitunimitashitekurerukankyouyahitonoshuugouo\"zyousitsusekai\"toyobu",
-            "jibunnoyokkyuuoseizitunimitashitekurerukankyouyahitonoshuugouo\"zyousitusekai\"toyobu",
-            "jibunnoyokkyuuoseizitunimitashitekurerukankyouyahitonoshuugouwo\"joushitsusekai\"toyobu",
-            "jibunnoyokkyuuoseizitunimitashitekurerukankyouyahitonoshuugouwo\"joushitusekai\"toyobu",
-            "jibunnoyokkyuuoseizitunimitashitekurerukankyouyahitonoshuugouwo\"jousitsusekai\"toyobu",
-            "jibunnoyokkyuuoseizitunimitashitekurerukankyouyahitonoshuugouwo\"jousitusekai\"toyobu",
-            "jibunnoyokkyuuoseizitunimitashitekurerukankyouyahitonoshuugouwo\"zyoushitsusekai\"toyobu",
-            "jibunnoyokkyuuoseizitunimitashitekurerukankyouyahitonoshuugouwo\"zyoushitusekai\"toyobu",
-            "jibunnoyokkyuuoseizitunimitashitekurerukankyouyahitonoshuugouwo\"zyousitsusekai\"toyobu",
-            "jibunnoyokkyuuoseizitunimitashitekurerukankyouyahitonoshuugouwo\"zyousitusekai\"toyobu",
-            "jibunnoyokkyuuoseizitunimitashitekurerukankyouyahitonosyuugouo\"joushitsusekai\"toyobu",
-            "jibunnoyokkyuuoseizitunimitashitekurerukankyouyahitonosyuugouo\"joushitusekai\"toyobu",
-            "jibunnoyokkyuuoseizitunimitashitekurerukankyouyahitonosyuugouo\"jousitsusekai\"toyobu",
-            "jibunnoyokkyuuoseizitunimitashitekurerukankyouyahitonosyuugouo\"jousitusekai\"toyobu",
-            "jibunnoyokkyuuoseizitunimitashitekurerukankyouyahitonosyuugouo\"zyoushitsusekai\"toyobu",
-            "jibunnoyokkyuuoseizitunimitashitekurerukankyouyahitonosyuugouo\"zyoushitusekai\"toyobu",
-            "jibunnoyokkyuuoseizitunimitashitekurerukankyouyahitonosyuugouo\"zyousitsusekai\"toyobu",
-            "jibunnoyokkyuuoseizitunimitashitekurerukankyouyahitonosyuugouo\"zyousitusekai\"toyobu",
-            "jibunnoyokkyuuoseizitunimitashitekurerukankyouyahitonosyuugouwo\"joushitsusekai\"toyobu",
-            "jibunnoyokkyuuoseizitunimitashitekurerukankyouyahitonosyuugouwo\"joushitusekai\"toyobu",
-            "jibunnoyokkyuuoseizitunimitashitekurerukankyouyahitonosyuugouwo\"jousitsusekai\"toyobu",
-            "jibunnoyokkyuuoseizitunimitashitekurerukankyouyahitonosyuugouwo\"jousitusekai\"toyobu",
-            "jibunnoyokkyuuoseizitunimitashitekurerukankyouyahitonosyuugouwo\"zyoushitsusekai\"toyobu",
-            "jibunnoyokkyuuoseizitunimitashitekurerukankyouyahitonosyuugouwo\"zyoushitusekai\"toyobu",
-            "jibunnoyokkyuuoseizitunimitashitekurerukankyouyahitonosyuugouwo\"zyousitsusekai\"toyobu",
-            "jibunnoyokkyuuoseizitunimitashitekurerukankyouyahitonosyuugouwo\"zyousitusekai\"toyobu",
-            "jibunnoyokkyuuoseizitunimitasitekurerukankyouyahitonosfuugouo\"joushitsusekai\"toyobu",
-            "jibunnoyokkyuuoseizitunimitasitekurerukankyouyahitonosfuugouo\"joushitusekai\"toyobu",
-            "jibunnoyokkyuuoseizitunimitasitekurerukankyouyahitonosfuugouo\"jousitsusekai\"toyobu",
-            "jibunnoyokkyuuoseizitunimitasitekurerukankyouyahitonosfuugouo\"jousitusekai\"toyobu",
-            "jibunnoyokkyuuoseizitunimitasitekurerukankyouyahitonosfuugouo\"zyoushitsusekai\"toyobu",
-            "jibunnoyokkyuuoseizitunimitasitekurerukankyouyahitonosfuugouo\"zyoushitusekai\"toyobu",
-            "jibunnoyokkyuuoseizitunimitasitekurerukankyouyahitonosfuugouo\"zyousitsusekai\"toyobu",
-            "jibunnoyokkyuuoseizitunimitasitekurerukankyouyahitonosfuugouo\"zyousitusekai\"toyobu",
-            "jibunnoyokkyuuoseizitunimitasitekurerukankyouyahitonosfuugouwo\"joushitsusekai\"toyobu",
-            "jibunnoyokkyuuoseizitunimitasitekurerukankyouyahitonosfuugouwo\"joushitusekai\"toyobu",
-            "jibunnoyokkyuuoseizitunimitasitekurerukankyouyahitonosfuugouwo\"jousitsusekai\"toyobu",
-            "jibunnoyokkyuuoseizitunimitasitekurerukankyouyahitonosfuugouwo\"jousitusekai\"toyobu",
-            "jibunnoyokkyuuoseizitunimitasitekurerukankyouyahitonosfuugouwo\"zyoushitsusekai\"toyobu",
-            "jibunnoyokkyuuoseizitunimitasitekurerukankyouyahitonosfuugouwo\"zyoushitusekai\"toyobu",
-            "jibunnoyokkyuuoseizitunimitasitekurerukankyouyahitonosfuugouwo\"zyousitsusekai\"toyobu",
-            "jibunnoyokkyuuoseizitunimitasitekurerukankyouyahitonosfuugouwo\"zyousitusekai\"toyobu",
-            "jibunnoyokkyuuoseizitunimitasitekurerukankyouyahitonoshuugouo\"joushitsusekai\"toyobu",
-            "jibunnoyokkyuuoseizitunimitasitekurerukankyouyahitonoshuugouo\"joushitusekai\"toyobu",
-            "jibunnoyokkyuuoseizitunimitasitekurerukankyouyahitonoshuugouo\"jousitsusekai\"toyobu",
-            "jibunnoyokkyuuoseizitunimitasitekurerukankyouyahitonoshuugouo\"jousitusekai\"toyobu",
-            "jibunnoyokkyuuoseizitunimitasitekurerukankyouyahitonoshuugouo\"zyoushitsusekai\"toyobu",
-            "jibunnoyokkyuuoseizitunimitasitekurerukankyouyahitonoshuugouo\"zyoushitusekai\"toyobu",
-            "jibunnoyokkyuuoseizitunimitasitekurerukankyouyahitonoshuugouo\"zyousitsusekai\"toyobu",
-            "jibunnoyokkyuuoseizitunimitasitekurerukankyouyahitonoshuugouo\"zyousitusekai\"toyobu",
-            "jibunnoyokkyuuoseizitunimitasitekurerukankyouyahitonoshuugouwo\"joushitsusekai\"toyobu",
-            "jibunnoyokkyuuoseizitunimitasitekurerukankyouyahitonoshuugouwo\"joushitusekai\"toyobu",
-            "jibunnoyokkyuuoseizitunimitasitekurerukankyouyahitonoshuugouwo\"jousitsusekai\"toyobu",
-            "jibunnoyokkyuuoseizitunimitasitekurerukankyouyahitonoshuugouwo\"jousitusekai\"toyobu",
-            "jibunnoyokkyuuoseizitunimitasitekurerukankyouyahitonoshuugouwo\"zyoushitsusekai\"toyobu",
-            "jibunnoyokkyuuoseizitunimitasitekurerukankyouyahitonoshuugouwo\"zyoushitusekai\"toyobu",
-            "jibunnoyokkyuuoseizitunimitasitekurerukankyouyahitonoshuugouwo\"zyousitsusekai\"toyobu",
-            "jibunnoyokkyuuoseizitunimitasitekurerukankyouyahitonoshuugouwo\"zyousitusekai\"toyobu",
-            "jibunnoyokkyuuoseizitunimitasitekurerukankyouyahitonosyuugouo\"joushitsusekai\"toyobu",
-            "jibunnoyokkyuuoseizitunimitasitekurerukankyouyahitonosyuugouo\"joushitusekai\"toyobu",
-            "jibunnoyokkyuuoseizitunimitasitekurerukankyouyahitonosyuugouo\"jousitsusekai\"toyobu",
-            "jibunnoyokkyuuoseizitunimitasitekurerukankyouyahitonosyuugouo\"jousitusekai\"toyobu",
-            "jibunnoyokkyuuoseizitunimitasitekurerukankyouyahitonosyuugouo\"zyoushitsusekai\"toyobu",
-            "jibunnoyokkyuuoseizitunimitasitekurerukankyouyahitonosyuugouo\"zyoushitusekai\"toyobu",
-            "jibunnoyokkyuuoseizitunimitasitekurerukankyouyahitonosyuugouo\"zyousitsusekai\"toyobu",
-            "jibunnoyokkyuuoseizitunimitasitekurerukankyouyahitonosyuugouo\"zyousitusekai\"toyobu",
-            "jibunnoyokkyuuoseizitunimitasitekurerukankyouyahitonosyuugouwo\"joushitsusekai\"toyobu",
-            "jibunnoyokkyuuoseizitunimitasitekurerukankyouyahitonosyuugouwo\"joushitusekai\"toyobu",
-            "jibunnoyokkyuuoseizitunimitasitekurerukankyouyahitonosyuugouwo\"jousitsusekai\"toyobu",
-            "jibunnoyokkyuuoseizitunimitasitekurerukankyouyahitonosyuugouwo\"jousitusekai\"toyobu",
-            "jibunnoyokkyuuoseizitunimitasitekurerukankyouyahitonosyuugouwo\"zyoushitsusekai\"toyobu",
-            "jibunnoyokkyuuoseizitunimitasitekurerukankyouyahitonosyuugouwo\"zyoushitusekai\"toyobu",
-            "jibunnoyokkyuuoseizitunimitasitekurerukankyouyahitonosyuugouwo\"zyousitsusekai\"toyobu",
-            "jibunnoyokkyuuoseizitunimitasitekurerukankyouyahitonosyuugouwo\"zyousitusekai\"toyobu",
-            "jibunnoyokkyuuwoseijitsunimitashitekurerukankyouyahitonosfuugouo\"joushitsusekai\"toyobu",
-            "jibunnoyokkyuuwoseijitsunimitashitekurerukankyouyahitonosfuugouo\"joushitusekai\"toyobu",
-            "jibunnoyokkyuuwoseijitsunimitashitekurerukankyouyahitonosfuugouo\"jousitsusekai\"toyobu",
-            "jibunnoyokkyuuwoseijitsunimitashitekurerukankyouyahitonosfuugouo\"jousitusekai\"toyobu",
-            "jibunnoyokkyuuwoseijitsunimitashitekurerukankyouyahitonosfuugouo\"zyoushitsusekai\"toyobu",
-            "jibunnoyokkyuuwoseijitsunimitashitekurerukankyouyahitonosfuugouo\"zyoushitusekai\"toyobu",
-            "jibunnoyokkyuuwoseijitsunimitashitekurerukankyouyahitonosfuugouo\"zyousitsusekai\"toyobu",
-            "jibunnoyokkyuuwoseijitsunimitashitekurerukankyouyahitonosfuugouo\"zyousitusekai\"toyobu",
-            "jibunnoyokkyuuwoseijitsunimitashitekurerukankyouyahitonosfuugouwo\"joushitsusekai\"toyobu",
-            "jibunnoyokkyuuwoseijitsunimitashitekurerukankyouyahitonosfuugouwo\"joushitusekai\"toyobu",
-            "jibunnoyokkyuuwoseijitsunimitashitekurerukankyouyahitonosfuugouwo\"jousitsusekai\"toyobu",
-            "jibunnoyokkyuuwoseijitsunimitashitekurerukankyouyahitonosfuugouwo\"jousitusekai\"toyobu",
-            "jibunnoyokkyuuwoseijitsunimitashitekurerukankyouyahitonosfuugouwo\"zyoushitsusekai\"toyobu",
-            "jibunnoyokkyuuwoseijitsunimitashitekurerukankyouyahitonosfuugouwo\"zyoushitusekai\"toyobu",
-            "jibunnoyokkyuuwoseijitsunimitashitekurerukankyouyahitonosfuugouwo\"zyousitsusekai\"toyobu",
-            "jibunnoyokkyuuwoseijitsunimitashitekurerukankyouyahitonosfuugouwo\"zyousitusekai\"toyobu",
-            "jibunnoyokkyuuwoseijitsunimitashitekurerukankyouyahitonoshuugouo\"joushitsusekai\"toyobu",
-            "jibunnoyokkyuuwoseijitsunimitashitekurerukankyouyahitonoshuugouo\"joushitusekai\"toyobu",
-            "jibunnoyokkyuuwoseijitsunimitashitekurerukankyouyahitonoshuugouo\"jousitsusekai\"toyobu",
-            "jibunnoyokkyuuwoseijitsunimitashitekurerukankyouyahitonoshuugouo\"jousitusekai\"toyobu",
-            "jibunnoyokkyuuwoseijitsunimitashitekurerukankyouyahitonoshuugouo\"zyoushitsusekai\"toyobu",
-            "jibunnoyokkyuuwoseijitsunimitashitekurerukankyouyahitonoshuugouo\"zyoushitusekai\"toyobu",
-            "jibunnoyokkyuuwoseijitsunimitashitekurerukankyouyahitonoshuugouo\"zyousitsusekai\"toyobu",
-            "jibunnoyokkyuuwoseijitsunimitashitekurerukankyouyahitonoshuugouo\"zyousitusekai\"toyobu",
-            "jibunnoyokkyuuwoseijitsunimitashitekurerukankyouyahitonoshuugouwo\"joushitsusekai\"toyobu",
-            "jibunnoyokkyuuwoseijitsunimitashitekurerukankyouyahitonoshuugouwo\"joushitusekai\"toyobu",
-            "jibunnoyokkyuuwoseijitsunimitashitekurerukankyouyahitonoshuugouwo\"jousitsusekai\"toyobu",
-            "jibunnoyokkyuuwoseijitsunimitashitekurerukankyouyahitonoshuugouwo\"jousitusekai\"toyobu",
-            "jibunnoyokkyuuwoseijitsunimitashitekurerukankyouyahitonoshuugouwo\"zyoushitsusekai\"toyobu",
-            "jibunnoyokkyuuwoseijitsunimitashitekurerukankyouyahitonoshuugouwo\"zyoushitusekai\"toyobu",
-            "jibunnoyokkyuuwoseijitsunimitashitekurerukankyouyahitonoshuugouwo\"zyousitsusekai\"toyobu",
-            "jibunnoyokkyuuwoseijitsunimitashitekurerukankyouyahitonoshuugouwo\"zyousitusekai\"toyobu",
-            "jibunnoyokkyuuwoseijitsunimitashitekurerukankyouyahitonosyuugouo\"joushitsusekai\"toyobu",
-            "jibunnoyokkyuuwoseijitsunimitashitekurerukankyouyahitonosyuugouo\"joushitusekai\"toyobu",
-            "jibunnoyokkyuuwoseijitsunimitashitekurerukankyouyahitonosyuugouo\"jousitsusekai\"toyobu",
-            "jibunnoyokkyuuwoseijitsunimitashitekurerukankyouyahitonosyuugouo\"jousitusekai\"toyobu",
-            "jibunnoyokkyuuwoseijitsunimitashitekurerukankyouyahitonosyuugouo\"zyoushitsusekai\"toyobu",
-            "jibunnoyokkyuuwoseijitsunimitashitekurerukankyouyahitonosyuugouo\"zyoushitusekai\"toyobu",
-            "jibunnoyokkyuuwoseijitsunimitashitekurerukankyouyahitonosyuugouo\"zyousitsusekai\"toyobu",
-            "jibunnoyokkyuuwoseijitsunimitashitekurerukankyouyahitonosyuugouo\"zyousitusekai\"toyobu",
-            "jibunnoyokkyuuwoseijitsunimitashitekurerukankyouyahitonosyuugouwo\"joushitsusekai\"toyobu",
-            "jibunnoyokkyuuwoseijitsunimitashitekurerukankyouyahitonosyuugouwo\"joushitusekai\"toyobu",
-            "jibunnoyokkyuuwoseijitsunimitashitekurerukankyouyahitonosyuugouwo\"jousitsusekai\"toyobu",
-            "jibunnoyokkyuuwoseijitsunimitashitekurerukankyouyahitonosyuugouwo\"jousitusekai\"toyobu",
-            "jibunnoyokkyuuwoseijitsunimitashitekurerukankyouyahitonosyuugouwo\"zyoushitsusekai\"toyobu",
-            "jibunnoyokkyuuwoseijitsunimitashitekurerukankyouyahitonosyuugouwo\"zyoushitusekai\"toyobu",
-            "jibunnoyokkyuuwoseijitsunimitashitekurerukankyouyahitonosyuugouwo\"zyousitsusekai\"toyobu",
-            "jibunnoyokkyuuwoseijitsunimitashitekurerukankyouyahitonosyuugouwo\"zyousitusekai\"toyobu",
-            "jibunnoyokkyuuwoseijitsunimitasitekurerukankyouyahitonosfuugouo\"joushitsusekai\"toyobu",
-            "jibunnoyokkyuuwoseijitsunimitasitekurerukankyouyahitonosfuugouo\"joushitusekai\"toyobu",
-            "jibunnoyokkyuuwoseijitsunimitasitekurerukankyouyahitonosfuugouo\"jousitsusekai\"toyobu",
-            "jibunnoyokkyuuwoseijitsunimitasitekurerukankyouyahitonosfuugouo\"jousitusekai\"toyobu",
-            "jibunnoyokkyuuwoseijitsunimitasitekurerukankyouyahitonosfuugouo\"zyoushitsusekai\"toyobu",
-            "jibunnoyokkyuuwoseijitsunimitasitekurerukankyouyahitonosfuugouo\"zyoushitusekai\"toyobu",
-            "jibunnoyokkyuuwoseijitsunimitasitekurerukankyouyahitonosfuugouo\"zyousitsusekai\"toyobu",
-            "jibunnoyokkyuuwoseijitsunimitasitekurerukankyouyahitonosfuugouo\"zyousitusekai\"toyobu",
-            "jibunnoyokkyuuwoseijitsunimitasitekurerukankyouyahitonosfuugouwo\"joushitsusekai\"toyobu",
-            "jibunnoyokkyuuwoseijitsunimitasitekurerukankyouyahitonosfuugouwo\"joushitusekai\"toyobu",
-            "jibunnoyokkyuuwoseijitsunimitasitekurerukankyouyahitonosfuugouwo\"jousitsusekai\"toyobu",
-            "jibunnoyokkyuuwoseijitsunimitasitekurerukankyouyahitonosfuugouwo\"jousitusekai\"toyobu",
-            "jibunnoyokkyuuwoseijitsunimitasitekurerukankyouyahitonosfuugouwo\"zyoushitsusekai\"toyobu",
-            "jibunnoyokkyuuwoseijitsunimitasitekurerukankyouyahitonosfuugouwo\"zyoushitusekai\"toyobu",
-            "jibunnoyokkyuuwoseijitsunimitasitekurerukankyouyahitonosfuugouwo\"zyousitsusekai\"toyobu",
-            "jibunnoyokkyuuwoseijitsunimitasitekurerukankyouyahitonosfuugouwo\"zyousitusekai\"toyobu",
-            "jibunnoyokkyuuwoseijitsunimitasitekurerukankyouyahitonoshuugouo\"joushitsusekai\"toyobu",
-            "jibunnoyokkyuuwoseijitsunimitasitekurerukankyouyahitonoshuugouo\"joushitusekai\"toyobu",
-            "jibunnoyokkyuuwoseijitsunimitasitekurerukankyouyahitonoshuugouo\"jousitsusekai\"toyobu",
-            "jibunnoyokkyuuwoseijitsunimitasitekurerukankyouyahitonoshuugouo\"jousitusekai\"toyobu",
-            "jibunnoyokkyuuwoseijitsunimitasitekurerukankyouyahitonoshuugouo\"zyoushitsusekai\"toyobu",
-            "jibunnoyokkyuuwoseijitsunimitasitekurerukankyouyahitonoshuugouo\"zyoushitusekai\"toyobu",
-            "jibunnoyokkyuuwoseijitsunimitasitekurerukankyouyahitonoshuugouo\"zyousitsusekai\"toyobu",
-            "jibunnoyokkyuuwoseijitsunimitasitekurerukankyouyahitonoshuugouo\"zyousitusekai\"toyobu",
-            "jibunnoyokkyuuwoseijitsunimitasitekurerukankyouyahitonoshuugouwo\"joushitsusekai\"toyobu",
-            "jibunnoyokkyuuwoseijitsunimitasitekurerukankyouyahitonoshuugouwo\"joushitusekai\"toyobu",
-            "jibunnoyokkyuuwoseijitsunimitasitekurerukankyouyahitonoshuugouwo\"jousitsusekai\"toyobu",
-            "jibunnoyokkyuuwoseijitsunimitasitekurerukankyouyahitonoshuugouwo\"jousitusekai\"toyobu",
-            "jibunnoyokkyuuwoseijitsunimitasitekurerukankyouyahitonoshuugouwo\"zyoushitsusekai\"toyobu",
-            "jibunnoyokkyuuwoseijitsunimitasitekurerukankyouyahitonoshuugouwo\"zyoushitusekai\"toyobu",
-            "jibunnoyokkyuuwoseijitsunimitasitekurerukankyouyahitonoshuugouwo\"zyousitsusekai\"toyobu",
-            "jibunnoyokkyuuwoseijitsunimitasitekurerukankyouyahitonoshuugouwo\"zyousitusekai\"toyobu",
-            "jibunnoyokkyuuwoseijitsunimitasitekurerukankyouyahitonosyuugouo\"joushitsusekai\"toyobu",
-            "jibunnoyokkyuuwoseijitsunimitasitekurerukankyouyahitonosyuugouo\"joushitusekai\"toyobu",
-            "jibunnoyokkyuuwoseijitsunimitasitekurerukankyouyahitonosyuugouo\"jousitsusekai\"toyobu",
-            "jibunnoyokkyuuwoseijitsunimitasitekurerukankyouyahitonosyuugouo\"jousitusekai\"toyobu",
-            "jibunnoyokkyuuwoseijitsunimitasitekurerukankyouyahitonosyuugouo\"zyoushitsusekai\"toyobu",
-            "jibunnoyokkyuuwoseijitsunimitasitekurerukankyouyahitonosyuugouo\"zyoushitusekai\"toyobu",
-            "jibunnoyokkyuuwoseijitsunimitasitekurerukankyouyahitonosyuugouo\"zyousitsusekai\"toyobu",
-            "jibunnoyokkyuuwoseijitsunimitasitekurerukankyouyahitonosyuugouo\"zyousitusekai\"toyobu",
-            "jibunnoyokkyuuwoseijitsunimitasitekurerukankyouyahitonosyuugouwo\"joushitsusekai\"toyobu",
-            "jibunnoyokkyuuwoseijitsunimitasitekurerukankyouyahitonosyuugouwo\"joushitusekai\"toyobu",
-            "jibunnoyokkyuuwoseijitsunimitasitekurerukankyouyahitonosyuugouwo\"jousitsusekai\"toyobu",
-            "jibunnoyokkyuuwoseijitsunimitasitekurerukankyouyahitonosyuugouwo\"jousitusekai\"toyobu",
-            "jibunnoyokkyuuwoseijitsunimitasitekurerukankyouyahitonosyuugouwo\"zyoushitsusekai\"toyobu",
-            "jibunnoyokkyuuwoseijitsunimitasitekurerukankyouyahitonosyuugouwo\"zyoushitusekai\"toyobu",
-            "jibunnoyokkyuuwoseijitsunimitasitekurerukankyouyahitonosyuugouwo\"zyousitsusekai\"toyobu",
-            "jibunnoyokkyuuwoseijitsunimitasitekurerukankyouyahitonosyuugouwo\"zyousitusekai\"toyobu",
-            "jibunnoyokkyuuwoseijitunimitashitekurerukankyouyahitonosfuugouo\"joushitsusekai\"toyobu",
-            "jibunnoyokkyuuwoseijitunimitashitekurerukankyouyahitonosfuugouo\"joushitusekai\"toyobu",
-            "jibunnoyokkyuuwoseijitunimitashitekurerukankyouyahitonosfuugouo\"jousitsusekai\"toyobu",
-            "jibunnoyokkyuuwoseijitunimitashitekurerukankyouyahitonosfuugouo\"jousitusekai\"toyobu",
-            "jibunnoyokkyuuwoseijitunimitashitekurerukankyouyahitonosfuugouo\"zyoushitsusekai\"toyobu",
-            "jibunnoyokkyuuwoseijitunimitashitekurerukankyouyahitonosfuugouo\"zyoushitusekai\"toyobu",
-            "jibunnoyokkyuuwoseijitunimitashitekurerukankyouyahitonosfuugouo\"zyousitsusekai\"toyobu",
-            "jibunnoyokkyuuwoseijitunimitashitekurerukankyouyahitonosfuugouo\"zyousitusekai\"toyobu",
-            "jibunnoyokkyuuwoseijitunimitashitekurerukankyouyahitonosfuugouwo\"joushitsusekai\"toyobu",
-            "jibunnoyokkyuuwoseijitunimitashitekurerukankyouyahitonosfuugouwo\"joushitusekai\"toyobu",
-            "jibunnoyokkyuuwoseijitunimitashitekurerukankyouyahitonosfuugouwo\"jousitsusekai\"toyobu",
-            "jibunnoyokkyuuwoseijitunimitashitekurerukankyouyahitonosfuugouwo\"jousitusekai\"toyobu",
-            "jibunnoyokkyuuwoseijitunimitashitekurerukankyouyahitonosfuugouwo\"zyoushitsusekai\"toyobu",
-            "jibunnoyokkyuuwoseijitunimitashitekurerukankyouyahitonosfuugouwo\"zyoushitusekai\"toyobu",
-            "jibunnoyokkyuuwoseijitunimitashitekurerukankyouyahitonosfuugouwo\"zyousitsusekai\"toyobu",
-            "jibunnoyokkyuuwoseijitunimitashitekurerukankyouyahitonosfuugouwo\"zyousitusekai\"toyobu",
-            "jibunnoyokkyuuwoseijitunimitashitekurerukankyouyahitonoshuugouo\"joushitsusekai\"toyobu",
-            "jibunnoyokkyuuwoseijitunimitashitekurerukankyouyahitonoshuugouo\"joushitusekai\"toyobu",
-            "jibunnoyokkyuuwoseijitunimitashitekurerukankyouyahitonoshuugouo\"jousitsusekai\"toyobu",
-            "jibunnoyokkyuuwoseijitunimitashitekurerukankyouyahitonoshuugouo\"jousitusekai\"toyobu",
-            "jibunnoyokkyuuwoseijitunimitashitekurerukankyouyahitonoshuugouo\"zyoushitsusekai\"toyobu",
-            "jibunnoyokkyuuwoseijitunimitashitekurerukankyouyahitonoshuugouo\"zyoushitusekai\"toyobu",
-            "jibunnoyokkyuuwoseijitunimitashitekurerukankyouyahitonoshuugouo\"zyousitsusekai\"toyobu",
-            "jibunnoyokkyuuwoseijitunimitashitekurerukankyouyahitonoshuugouo\"zyousitusekai\"toyobu",
-            "jibunnoyokkyuuwoseijitunimitashitekurerukankyouyahitonoshuugouwo\"joushitsusekai\"toyobu",
-            "jibunnoyokkyuuwoseijitunimitashitekurerukankyouyahitonoshuugouwo\"joushitusekai\"toyobu",
-            "jibunnoyokkyuuwoseijitunimitashitekurerukankyouyahitonoshuugouwo\"jousitsusekai\"toyobu",
-            "jibunnoyokkyuuwoseijitunimitashitekurerukankyouyahitonoshuugouwo\"jousitusekai\"toyobu",
-            "jibunnoyokkyuuwoseijitunimitashitekurerukankyouyahitonoshuugouwo\"zyoushitsusekai\"toyobu",
-            "jibunnoyokkyuuwoseijitunimitashitekurerukankyouyahitonoshuugouwo\"zyoushitusekai\"toyobu",
-            "jibunnoyokkyuuwoseijitunimitashitekurerukankyouyahitonoshuugouwo\"zyousitsusekai\"toyobu",
-            "jibunnoyokkyuuwoseijitunimitashitekurerukankyouyahitonoshuugouwo\"zyousitusekai\"toyobu",
-            "jibunnoyokkyuuwoseijitunimitashitekurerukankyouyahitonosyuugouo\"joushitsusekai\"toyobu",
-            "jibunnoyokkyuuwoseijitunimitashitekurerukankyouyahitonosyuugouo\"joushitusekai\"toyobu",
-            "jibunnoyokkyuuwoseijitunimitashitekurerukankyouyahitonosyuugouo\"jousitsusekai\"toyobu",
-            "jibunnoyokkyuuwoseijitunimitashitekurerukankyouyahitonosyuugouo\"jousitusekai\"toyobu",
-            "jibunnoyokkyuuwoseijitunimitashitekurerukankyouyahitonosyuugouo\"zyoushitsusekai\"toyobu",
-            "jibunnoyokkyuuwoseijitunimitashitekurerukankyouyahitonosyuugouo\"zyoushitusekai\"toyobu",
-            "jibunnoyokkyuuwoseijitunimitashitekurerukankyouyahitonosyuugouo\"zyousitsusekai\"toyobu",
-            "jibunnoyokkyuuwoseijitunimitashitekurerukankyouyahitonosyuugouo\"zyousitusekai\"toyobu",
-            "jibunnoyokkyuuwoseijitunimitashitekurerukankyouyahitonosyuugouwo\"joushitsusekai\"toyobu",
-            "jibunnoyokkyuuwoseijitunimitashitekurerukankyouyahitonosyuugouwo\"joushitusekai\"toyobu",
-            "jibunnoyokkyuuwoseijitunimitashitekurerukankyouyahitonosyuugouwo\"jousitsusekai\"toyobu",
-            "jibunnoyokkyuuwoseijitunimitashitekurerukankyouyahitonosyuugouwo\"jousitusekai\"toyobu",
-            "jibunnoyokkyuuwoseijitunimitashitekurerukankyouyahitonosyuugouwo\"zyoushitsusekai\"toyobu",
-            "jibunnoyokkyuuwoseijitunimitashitekurerukankyouyahitonosyuugouwo\"zyoushitusekai\"toyobu",
-            "jibunnoyokkyuuwoseijitunimitashitekurerukankyouyahitonosyuugouwo\"zyousitsusekai\"toyobu",
-            "jibunnoyokkyuuwoseijitunimitashitekurerukankyouyahitonosyuugouwo\"zyousitusekai\"toyobu",
-            "jibunnoyokkyuuwoseijitunimitasitekurerukankyouyahitonosfuugouo\"joushitsusekai\"toyobu",
-            "jibunnoyokkyuuwoseijitunimitasitekurerukankyouyahitonosfuugouo\"joushitusekai\"toyobu",
-            "jibunnoyokkyuuwoseijitunimitasitekurerukankyouyahitonosfuugouo\"jousitsusekai\"toyobu",
-            "jibunnoyokkyuuwoseijitunimitasitekurerukankyouyahitonosfuugouo\"jousitusekai\"toyobu",
-            "jibunnoyokkyuuwoseijitunimitasitekurerukankyouyahitonosfuugouo\"zyoushitsusekai\"toyobu",
-            "jibunnoyokkyuuwoseijitunimitasitekurerukankyouyahitonosfuugouo\"zyoushitusekai\"toyobu",
-            "jibunnoyokkyuuwoseijitunimitasitekurerukankyouyahitonosfuugouo\"zyousitsusekai\"toyobu",
-            "jibunnoyokkyuuwoseijitunimitasitekurerukankyouyahitonosfuugouo\"zyousitusekai\"toyobu",
-            "jibunnoyokkyuuwoseijitunimitasitekurerukankyouyahitonosfuugouwo\"joushitsusekai\"toyobu",
-            "jibunnoyokkyuuwoseijitunimitasitekurerukankyouyahitonosfuugouwo\"joushitusekai\"toyobu",
-            "jibunnoyokkyuuwoseijitunimitasitekurerukankyouyahitonosfuugouwo\"jousitsusekai\"toyobu",
-            "jibunnoyokkyuuwoseijitunimitasitekurerukankyouyahitonosfuugouwo\"jousitusekai\"toyobu",
-            "jibunnoyokkyuuwoseijitunimitasitekurerukankyouyahitonosfuugouwo\"zyoushitsusekai\"toyobu",
-            "jibunnoyokkyuuwoseijitunimitasitekurerukankyouyahitonosfuugouwo\"zyoushitusekai\"toyobu",
-            "jibunnoyokkyuuwoseijitunimitasitekurerukankyouyahitonosfuugouwo\"zyousitsusekai\"toyobu",
-            "jibunnoyokkyuuwoseijitunimitasitekurerukankyouyahitonosfuugouwo\"zyousitusekai\"toyobu",
-            "jibunnoyokkyuuwoseijitunimitasitekurerukankyouyahitonoshuugouo\"joushitsusekai\"toyobu",
-            "jibunnoyokkyuuwoseijitunimitasitekurerukankyouyahitonoshuugouo\"joushitusekai\"toyobu",
-            "jibunnoyokkyuuwoseijitunimitasitekurerukankyouyahitonoshuugouo\"jousitsusekai\"toyobu",
-            "jibunnoyokkyuuwoseijitunimitasitekurerukankyouyahitonoshuugouo\"jousitusekai\"toyobu",
-            "jibunnoyokkyuuwoseijitunimitasitekurerukankyouyahitonoshuugouo\"zyoushitsusekai\"toyobu",
-            "jibunnoyokkyuuwoseijitunimitasitekurerukankyouyahitonoshuugouo\"zyoushitusekai\"toyobu",
-            "jibunnoyokkyuuwoseijitunimitasitekurerukankyouyahitonoshuugouo\"zyousitsusekai\"toyobu",
-            "jibunnoyokkyuuwoseijitunimitasitekurerukankyouyahitonoshuugouo\"zyousitusekai\"toyobu",
-            "jibunnoyokkyuuwoseijitunimitasitekurerukankyouyahitonoshuugouwo\"joushitsusekai\"toyobu",
-            "jibunnoyokkyuuwoseijitunimitasitekurerukankyouyahitonoshuugouwo\"joushitusekai\"toyobu",
-            "jibunnoyokkyuuwoseijitunimitasitekurerukankyouyahitonoshuugouwo\"jousitsusekai\"toyobu",
-            "jibunnoyokkyuuwoseijitunimitasitekurerukankyouyahitonoshuugouwo\"jousitusekai\"toyobu",
-            "jibunnoyokkyuuwoseijitunimitasitekurerukankyouyahitonoshuugouwo\"zyoushitsusekai\"toyobu",
-            "jibunnoyokkyuuwoseijitunimitasitekurerukankyouyahitonoshuugouwo\"zyoushitusekai\"toyobu",
-            "jibunnoyokkyuuwoseijitunimitasitekurerukankyouyahitonoshuugouwo\"zyousitsusekai\"toyobu",
-            "jibunnoyokkyuuwoseijitunimitasitekurerukankyouyahitonoshuugouwo\"zyousitusekai\"toyobu",
-            "jibunnoyokkyuuwoseijitunimitasitekurerukankyouyahitonosyuugouo\"joushitsusekai\"toyobu",
-            "jibunnoyokkyuuwoseijitunimitasitekurerukankyouyahitonosyuugouo\"joushitusekai\"toyobu",
-            "jibunnoyokkyuuwoseijitunimitasitekurerukankyouyahitonosyuugouo\"jousitsusekai\"toyobu",
-            "jibunnoyokkyuuwoseijitunimitasitekurerukankyouyahitonosyuugouo\"jousitusekai\"toyobu",
-            "jibunnoyokkyuuwoseijitunimitasitekurerukankyouyahitonosyuugouo\"zyoushitsusekai\"toyobu",
-            "jibunnoyokkyuuwoseijitunimitasitekurerukankyouyahitonosyuugouo\"zyoushitusekai\"toyobu",
-            "jibunnoyokkyuuwoseijitunimitasitekurerukankyouyahitonosyuugouo\"zyousitsusekai\"toyobu",
-            "jibunnoyokkyuuwoseijitunimitasitekurerukankyouyahitonosyuugouo\"zyousitusekai\"toyobu",
-            "jibunnoyokkyuuwoseijitunimitasitekurerukankyouyahitonosyuugouwo\"joushitsusekai\"toyobu",
-            "jibunnoyokkyuuwoseijitunimitasitekurerukankyouyahitonosyuugouwo\"joushitusekai\"toyobu",
-            "jibunnoyokkyuuwoseijitunimitasitekurerukankyouyahitonosyuugouwo\"jousitsusekai\"toyobu",
-            "jibunnoyokkyuuwoseijitunimitasitekurerukankyouyahitonosyuugouwo\"jousitusekai\"toyobu",
-            "jibunnoyokkyuuwoseijitunimitasitekurerukankyouyahitonosyuugouwo\"zyoushitsusekai\"toyobu",
-            "jibunnoyokkyuuwoseijitunimitasitekurerukankyouyahitonosyuugouwo\"zyoushitusekai\"toyobu",
-            "jibunnoyokkyuuwoseijitunimitasitekurerukankyouyahitonosyuugouwo\"zyousitsusekai\"toyobu",
-            "jibunnoyokkyuuwoseijitunimitasitekurerukankyouyahitonosyuugouwo\"zyousitusekai\"toyobu",
-            "jibunnoyokkyuuwoseizitsunimitashitekurerukankyouyahitonosfuugouo\"joushitsusekai\"toyobu",
-            "jibunnoyokkyuuwoseizitsunimitashitekurerukankyouyahitonosfuugouo\"joushitusekai\"toyobu",
-            "jibunnoyokkyuuwoseizitsunimitashitekurerukankyouyahitonosfuugouo\"jousitsusekai\"toyobu",
-            "jibunnoyokkyuuwoseizitsunimitashitekurerukankyouyahitonosfuugouo\"jousitusekai\"toyobu",
-            "jibunnoyokkyuuwoseizitsunimitashitekurerukankyouyahitonosfuugouo\"zyoushitsusekai\"toyobu",
-            "jibunnoyokkyuuwoseizitsunimitashitekurerukankyouyahitonosfuugouo\"zyoushitusekai\"toyobu",
-            "jibunnoyokkyuuwoseizitsunimitashitekurerukankyouyahitonosfuugouo\"zyousitsusekai\"toyobu",
-            "jibunnoyokkyuuwoseizitsunimitashitekurerukankyouyahitonosfuugouo\"zyousitusekai\"toyobu",
-            "jibunnoyokkyuuwoseizitsunimitashitekurerukankyouyahitonosfuugouwo\"joushitsusekai\"toyobu",
-            "jibunnoyokkyuuwoseizitsunimitashitekurerukankyouyahitonosfuugouwo\"joushitusekai\"toyobu",
-            "jibunnoyokkyuuwoseizitsunimitashitekurerukankyouyahitonosfuugouwo\"jousitsusekai\"toyobu",
-            "jibunnoyokkyuuwoseizitsunimitashitekurerukankyouyahitonosfuugouwo\"jousitusekai\"toyobu",
-            "jibunnoyokkyuuwoseizitsunimitashitekurerukankyouyahitonosfuugouwo\"zyoushitsusekai\"toyobu",
-            "jibunnoyokkyuuwoseizitsunimitashitekurerukankyouyahitonosfuugouwo\"zyoushitusekai\"toyobu",
-            "jibunnoyokkyuuwoseizitsunimitashitekurerukankyouyahitonosfuugouwo\"zyousitsusekai\"toyobu",
-            "jibunnoyokkyuuwoseizitsunimitashitekurerukankyouyahitonosfuugouwo\"zyousitusekai\"toyobu",
-            "jibunnoyokkyuuwoseizitsunimitashitekurerukankyouyahitonoshuugouo\"joushitsusekai\"toyobu",
-            "jibunnoyokkyuuwoseizitsunimitashitekurerukankyouyahitonoshuugouo\"joushitusekai\"toyobu",
-            "jibunnoyokkyuuwoseizitsunimitashitekurerukankyouyahitonoshuugouo\"jousitsusekai\"toyobu",
-            "jibunnoyokkyuuwoseizitsunimitashitekurerukankyouyahitonoshuugouo\"jousitusekai\"toyobu",
-            "jibunnoyokkyuuwoseizitsunimitashitekurerukankyouyahitonoshuugouo\"zyoushitsusekai\"toyobu",
-            "jibunnoyokkyuuwoseizitsunimitashitekurerukankyouyahitonoshuugouo\"zyoushitusekai\"toyobu",
-            "jibunnoyokkyuuwoseizitsunimitashitekurerukankyouyahitonoshuugouo\"zyousitsusekai\"toyobu",
-            "jibunnoyokkyuuwoseizitsunimitashitekurerukankyouyahitonoshuugouo\"zyousitusekai\"toyobu",
-            "jibunnoyokkyuuwoseizitsunimitashitekurerukankyouyahitonoshuugouwo\"joushitsusekai\"toyobu",
-            "jibunnoyokkyuuwoseizitsunimitashitekurerukankyouyahitonoshuugouwo\"joushitusekai\"toyobu",
-            "jibunnoyokkyuuwoseizitsunimitashitekurerukankyouyahitonoshuugouwo\"jousitsusekai\"toyobu",
-            "jibunnoyokkyuuwoseizitsunimitashitekurerukankyouyahitonoshuugouwo\"jousitusekai\"toyobu",
-            "jibunnoyokkyuuwoseizitsunimitashitekurerukankyouyahitonoshuugouwo\"zyoushitsusekai\"toyobu",
-            "jibunnoyokkyuuwoseizitsunimitashitekurerukankyouyahitonoshuugouwo\"zyoushitusekai\"toyobu",
-            "jibunnoyokkyuuwoseizitsunimitashitekurerukankyouyahitonoshuugouwo\"zyousitsusekai\"toyobu",
-            "jibunnoyokkyuuwoseizitsunimitashitekurerukankyouyahitonoshuugouwo\"zyousitusekai\"toyobu",
-            "jibunnoyokkyuuwoseizitsunimitashitekurerukankyouyahitonosyuugouo\"joushitsusekai\"toyobu",
-            "jibunnoyokkyuuwoseizitsunimitashitekurerukankyouyahitonosyuugouo\"joushitusekai\"toyobu",
-            "jibunnoyokkyuuwoseizitsunimitashitekurerukankyouyahitonosyuugouo\"jousitsusekai\"toyobu",
-            "jibunnoyokkyuuwoseizitsunimitashitekurerukankyouyahitonosyuugouo\"jousitusekai\"toyobu",
-            "jibunnoyokkyuuwoseizitsunimitashitekurerukankyouyahitonosyuugouo\"zyoushitsusekai\"toyobu",
-            "jibunnoyokkyuuwoseizitsunimitashitekurerukankyouyahitonosyuugouo\"zyoushitusekai\"toyobu",
-            "jibunnoyokkyuuwoseizitsunimitashitekurerukankyouyahitonosyuugouo\"zyousitsusekai\"toyobu",
-            "jibunnoyokkyuuwoseizitsunimitashitekurerukankyouyahitonosyuugouo\"zyousitusekai\"toyobu",
-            "jibunnoyokkyuuwoseizitsunimitashitekurerukankyouyahitonosyuugouwo\"joushitsusekai\"toyobu",
-            "jibunnoyokkyuuwoseizitsunimitashitekurerukankyouyahitonosyuugouwo\"joushitusekai\"toyobu",
-            "jibunnoyokkyuuwoseizitsunimitashitekurerukankyouyahitonosyuugouwo\"jousitsusekai\"toyobu",
-            "jibunnoyokkyuuwoseizitsunimitashitekurerukankyouyahitonosyuugouwo\"jousitusekai\"toyobu",
-            "jibunnoyokkyuuwoseizitsunimitashitekurerukankyouyahitonosyuugouwo\"zyoushitsusekai\"toyobu",
-            "jibunnoyokkyuuwoseizitsunimitashitekurerukankyouyahitonosyuugouwo\"zyoushitusekai\"toyobu",
-            "jibunnoyokkyuuwoseizitsunimitashitekurerukankyouyahitonosyuugouwo\"zyousitsusekai\"toyobu",
-            "jibunnoyokkyuuwoseizitsunimitashitekurerukankyouyahitonosyuugouwo\"zyousitusekai\"toyobu",
-            "jibunnoyokkyuuwoseizitsunimitasitekurerukankyouyahitonosfuugouo\"joushitsusekai\"toyobu",
-            "jibunnoyokkyuuwoseizitsunimitasitekurerukankyouyahitonosfuugouo\"joushitusekai\"toyobu",
-            "jibunnoyokkyuuwoseizitsunimitasitekurerukankyouyahitonosfuugouo\"jousitsusekai\"toyobu",
-            "jibunnoyokkyuuwoseizitsunimitasitekurerukankyouyahitonosfuugouo\"jousitusekai\"toyobu",
-            "jibunnoyokkyuuwoseizitsunimitasitekurerukankyouyahitonosfuugouo\"zyoushitsusekai\"toyobu",
-            "jibunnoyokkyuuwoseizitsunimitasitekurerukankyouyahitonosfuugouo\"zyoushitusekai\"toyobu",
-            "jibunnoyokkyuuwoseizitsunimitasitekurerukankyouyahitonosfuugouo\"zyousitsusekai\"toyobu",
-            "jibunnoyokkyuuwoseizitsunimitasitekurerukankyouyahitonosfuugouo\"zyousitusekai\"toyobu",
-            "jibunnoyokkyuuwoseizitsunimitasitekurerukankyouyahitonosfuugouwo\"joushitsusekai\"toyobu",
-            "jibunnoyokkyuuwoseizitsunimitasitekurerukankyouyahitonosfuugouwo\"joushitusekai\"toyobu",
-            "jibunnoyokkyuuwoseizitsunimitasitekurerukankyouyahitonosfuugouwo\"jousitsusekai\"toyobu",
-            "jibunnoyokkyuuwoseizitsunimitasitekurerukankyouyahitonosfuugouwo\"jousitusekai\"toyobu",
-            "jibunnoyokkyuuwoseizitsunimitasitekurerukankyouyahitonosfuugouwo\"zyoushitsusekai\"toyobu",
-            "jibunnoyokkyuuwoseizitsunimitasitekurerukankyouyahitonosfuugouwo\"zyoushitusekai\"toyobu",
-            "jibunnoyokkyuuwoseizitsunimitasitekurerukankyouyahitonosfuugouwo\"zyousitsusekai\"toyobu",
-            "jibunnoyokkyuuwoseizitsunimitasitekurerukankyouyahitonosfuugouwo\"zyousitusekai\"toyobu",
-            "jibunnoyokkyuuwoseizitsunimitasitekurerukankyouyahitonoshuugouo\"joushitsusekai\"toyobu",
-            "jibunnoyokkyuuwoseizitsunimitasitekurerukankyouyahitonoshuugouo\"joushitusekai\"toyobu",
-            "jibunnoyokkyuuwoseizitsunimitasitekurerukankyouyahitonoshuugouo\"jousitsusekai\"toyobu",
-            "jibunnoyokkyuuwoseizitsunimitasitekurerukankyouyahitonoshuugouo\"jousitusekai\"toyobu",
-            "jibunnoyokkyuuwoseizitsunimitasitekurerukankyouyahitonoshuugouo\"zyoushitsusekai\"toyobu",
-            "jibunnoyokkyuuwoseizitsunimitasitekurerukankyouyahitonoshuugouo\"zyoushitusekai\"toyobu",
-            "jibunnoyokkyuuwoseizitsunimitasitekurerukankyouyahitonoshuugouo\"zyousitsusekai\"toyobu",
-            "jibunnoyokkyuuwoseizitsunimitasitekurerukankyouyahitonoshuugouo\"zyousitusekai\"toyobu",
-            "jibunnoyokkyuuwoseizitsunimitasitekurerukankyouyahitonoshuugouwo\"joushitsusekai\"toyobu",
-            "jibunnoyokkyuuwoseizitsunimitasitekurerukankyouyahitonoshuugouwo\"joushitusekai\"toyobu",
-            "jibunnoyokkyuuwoseizitsunimitasitekurerukankyouyahitonoshuugouwo\"jousitsusekai\"toyobu",
-            "jibunnoyokkyuuwoseizitsunimitasitekurerukankyouyahitonoshuugouwo\"jousitusekai\"toyobu",
-            "jibunnoyokkyuuwoseizitsunimitasitekurerukankyouyahitonoshuugouwo\"zyoushitsusekai\"toyobu",
-            "jibunnoyokkyuuwoseizitsunimitasitekurerukankyouyahitonoshuugouwo\"zyoushitusekai\"toyobu",
-            "jibunnoyokkyuuwoseizitsunimitasitekurerukankyouyahitonoshuugouwo\"zyousitsusekai\"toyobu",
-            "jibunnoyokkyuuwoseizitsunimitasitekurerukankyouyahitonoshuugouwo\"zyousitusekai\"toyobu",
-            "jibunnoyokkyuuwoseizitsunimitasitekurerukankyouyahitonosyuugouo\"joushitsusekai\"toyobu",
-            "jibunnoyokkyuuwoseizitsunimitasitekurerukankyouyahitonosyuugouo\"joushitusekai\"toyobu",
-            "jibunnoyokkyuuwoseizitsunimitasitekurerukankyouyahitonosyuugouo\"jousitsusekai\"toyobu",
-            "jibunnoyokkyuuwoseizitsunimitasitekurerukankyouyahitonosyuugouo\"jousitusekai\"toyobu",
-            "jibunnoyokkyuuwoseizitsunimitasitekurerukankyouyahitonosyuugouo\"zyoushitsusekai\"toyobu",
-            "jibunnoyokkyuuwoseizitsunimitasitekurerukankyouyahitonosyuugouo\"zyoushitusekai\"toyobu",
-            "jibunnoyokkyuuwoseizitsunimitasitekurerukankyouyahitonosyuugouo\"zyousitsusekai\"toyobu",
-            "jibunnoyokkyuuwoseizitsunimitasitekurerukankyouyahitonosyuugouo\"zyousitusekai\"toyobu",
-            "jibunnoyokkyuuwoseizitsunimitasitekurerukankyouyahitonosyuugouwo\"joushitsusekai\"toyobu",
-            "jibunnoyokkyuuwoseizitsunimitasitekurerukankyouyahitonosyuugouwo\"joushitusekai\"toyobu",
-            "jibunnoyokkyuuwoseizitsunimitasitekurerukankyouyahitonosyuugouwo\"jousitsusekai\"toyobu",
-            "jibunnoyokkyuuwoseizitsunimitasitekurerukankyouyahitonosyuugouwo\"jousitusekai\"toyobu",
-            "jibunnoyokkyuuwoseizitsunimitasitekurerukankyouyahitonosyuugouwo\"zyoushitsusekai\"toyobu",
-            "jibunnoyokkyuuwoseizitsunimitasitekurerukankyouyahitonosyuugouwo\"zyoushitusekai\"toyobu",
-            "jibunnoyokkyuuwoseizitsunimitasitekurerukankyouyahitonosyuugouwo\"zyousitsusekai\"toyobu",
-            "jibunnoyokkyuuwoseizitsunimitasitekurerukankyouyahitonosyuugouwo\"zyousitusekai\"toyobu",
-            "jibunnoyokkyuuwoseizitunimitashitekurerukankyouyahitonosfuugouo\"joushitsusekai\"toyobu",
-            "jibunnoyokkyuuwoseizitunimitashitekurerukankyouyahitonosfuugouo\"joushitusekai\"toyobu",
-            "jibunnoyokkyuuwoseizitunimitashitekurerukankyouyahitonosfuugouo\"jousitsusekai\"toyobu",
-            "jibunnoyokkyuuwoseizitunimitashitekurerukankyouyahitonosfuugouo\"jousitusekai\"toyobu",
-            "jibunnoyokkyuuwoseizitunimitashitekurerukankyouyahitonosfuugouo\"zyoushitsusekai\"toyobu",
-            "jibunnoyokkyuuwoseizitunimitashitekurerukankyouyahitonosfuugouo\"zyoushitusekai\"toyobu",
-            "jibunnoyokkyuuwoseizitunimitashitekurerukankyouyahitonosfuugouo\"zyousitsusekai\"toyobu",
-            "jibunnoyokkyuuwoseizitunimitashitekurerukankyouyahitonosfuugouo\"zyousitusekai\"toyobu",
-            "jibunnoyokkyuuwoseizitunimitashitekurerukankyouyahitonosfuugouwo\"joushitsusekai\"toyobu",
-            "jibunnoyokkyuuwoseizitunimitashitekurerukankyouyahitonosfuugouwo\"joushitusekai\"toyobu",
-            "jibunnoyokkyuuwoseizitunimitashitekurerukankyouyahitonosfuugouwo\"jousitsusekai\"toyobu",
-            "jibunnoyokkyuuwoseizitunimitashitekurerukankyouyahitonosfuugouwo\"jousitusekai\"toyobu",
-            "jibunnoyokkyuuwoseizitunimitashitekurerukankyouyahitonosfuugouwo\"zyoushitsusekai\"toyobu",
-            "jibunnoyokkyuuwoseizitunimitashitekurerukankyouyahitonosfuugouwo\"zyoushitusekai\"toyobu",
-            "jibunnoyokkyuuwoseizitunimitashitekurerukankyouyahitonosfuugouwo\"zyousitsusekai\"toyobu",
-            "jibunnoyokkyuuwoseizitunimitashitekurerukankyouyahitonosfuugouwo\"zyousitusekai\"toyobu",
-            "jibunnoyokkyuuwoseizitunimitashitekurerukankyouyahitonoshuugouo\"joushitsusekai\"toyobu",
-            "jibunnoyokkyuuwoseizitunimitashitekurerukankyouyahitonoshuugouo\"joushitusekai\"toyobu",
-            "jibunnoyokkyuuwoseizitunimitashitekurerukankyouyahitonoshuugouo\"jousitsusekai\"toyobu",
-            "jibunnoyokkyuuwoseizitunimitashitekurerukankyouyahitonoshuugouo\"jousitusekai\"toyobu",
-            "jibunnoyokkyuuwoseizitunimitashitekurerukankyouyahitonoshuugouo\"zyoushitsusekai\"toyobu",
-            "jibunnoyokkyuuwoseizitunimitashitekurerukankyouyahitonoshuugouo\"zyoushitusekai\"toyobu",
-            "jibunnoyokkyuuwoseizitunimitashitekurerukankyouyahitonoshuugouo\"zyousitsusekai\"toyobu",
-            "jibunnoyokkyuuwoseizitunimitashitekurerukankyouyahitonoshuugouo\"zyousitusekai\"toyobu",
-            "jibunnoyokkyuuwoseizitunimitashitekurerukankyouyahitonoshuugouwo\"joushitsusekai\"toyobu",
-            "jibunnoyokkyuuwoseizitunimitashitekurerukankyouyahitonoshuugouwo\"joushitusekai\"toyobu",
-            "jibunnoyokkyuuwoseizitunimitashitekurerukankyouyahitonoshuugouwo\"jousitsusekai\"toyobu",
-            "jibunnoyokkyuuwoseizitunimitashitekurerukankyouyahitonoshuugouwo\"jousitusekai\"toyobu",
-            "jibunnoyokkyuuwoseizitunimitashitekurerukankyouyahitonoshuugouwo\"zyoushitsusekai\"toyobu",
-            "jibunnoyokkyuuwoseizitunimitashitekurerukankyouyahitonoshuugouwo\"zyoushitusekai\"toyobu",
-            "jibunnoyokkyuuwoseizitunimitashitekurerukankyouyahitonoshuugouwo\"zyousitsusekai\"toyobu",
-            "jibunnoyokkyuuwoseizitunimitashitekurerukankyouyahitonoshuugouwo\"zyousitusekai\"toyobu",
-            "jibunnoyokkyuuwoseizitunimitashitekurerukankyouyahitonosyuugouo\"joushitsusekai\"toyobu",
-            "jibunnoyokkyuuwoseizitunimitashitekurerukankyouyahitonosyuugouo\"joushitusekai\"toyobu",
-            "jibunnoyokkyuuwoseizitunimitashitekurerukankyouyahitonosyuugouo\"jousitsusekai\"toyobu",
-            "jibunnoyokkyuuwoseizitunimitashitekurerukankyouyahitonosyuugouo\"jousitusekai\"toyobu",
-            "jibunnoyokkyuuwoseizitunimitashitekurerukankyouyahitonosyuugouo\"zyoushitsusekai\"toyobu",
-            "jibunnoyokkyuuwoseizitunimitashitekurerukankyouyahitonosyuugouo\"zyoushitusekai\"toyobu",
-            "jibunnoyokkyuuwoseizitunimitashitekurerukankyouyahitonosyuugouo\"zyousitsusekai\"toyobu",
-            "jibunnoyokkyuuwoseizitunimitashitekurerukankyouyahitonosyuugouo\"zyousitusekai\"toyobu",
-            "jibunnoyokkyuuwoseizitunimitashitekurerukankyouyahitonosyuugouwo\"joushitsusekai\"toyobu",
-            "jibunnoyokkyuuwoseizitunimitashitekurerukankyouyahitonosyuugouwo\"joushitusekai\"toyobu",
-            "jibunnoyokkyuuwoseizitunimitashitekurerukankyouyahitonosyuugouwo\"jousitsusekai\"toyobu",
-            "jibunnoyokkyuuwoseizitunimitashitekurerukankyouyahitonosyuugouwo\"jousitusekai\"toyobu",
-            "jibunnoyokkyuuwoseizitunimitashitekurerukankyouyahitonosyuugouwo\"zyoushitsusekai\"toyobu",
-            "jibunnoyokkyuuwoseizitunimitashitekurerukankyouyahitonosyuugouwo\"zyoushitusekai\"toyobu",
-            "jibunnoyokkyuuwoseizitunimitashitekurerukankyouyahitonosyuugouwo\"zyousitsusekai\"toyobu",
-            "jibunnoyokkyuuwoseizitunimitashitekurerukankyouyahitonosyuugouwo\"zyousitusekai\"toyobu",
-            "jibunnoyokkyuuwoseizitunimitasitekurerukankyouyahitonosfuugouo\"joushitsusekai\"toyobu",
-            "jibunnoyokkyuuwoseizitunimitasitekurerukankyouyahitonosfuugouo\"joushitusekai\"toyobu",
-            "jibunnoyokkyuuwoseizitunimitasitekurerukankyouyahitonosfuugouo\"jousitsusekai\"toyobu",
-            "jibunnoyokkyuuwoseizitunimitasitekurerukankyouyahitonosfuugouo\"jousitusekai\"toyobu",
-            "jibunnoyokkyuuwoseizitunimitasitekurerukankyouyahitonosfuugouo\"zyoushitsusekai\"toyobu",
-            "jibunnoyokkyuuwoseizitunimitasitekurerukankyouyahitonosfuugouo\"zyoushitusekai\"toyobu",
-            "jibunnoyokkyuuwoseizitunimitasitekurerukankyouyahitonosfuugouo\"zyousitsusekai\"toyobu",
-            "jibunnoyokkyuuwoseizitunimitasitekurerukankyouyahitonosfuugouo\"zyousitusekai\"toyobu",
-            "jibunnoyokkyuuwoseizitunimitasitekurerukankyouyahitonosfuugouwo\"joushitsusekai\"toyobu",
-            "jibunnoyokkyuuwoseizitunimitasitekurerukankyouyahitonosfuugouwo\"joushitusekai\"toyobu",
-            "jibunnoyokkyuuwoseizitunimitasitekurerukankyouyahitonosfuugouwo\"jousitsusekai\"toyobu",
-            "jibunnoyokkyuuwoseizitunimitasitekurerukankyouyahitonosfuugouwo\"jousitusekai\"toyobu",
-            "jibunnoyokkyuuwoseizitunimitasitekurerukankyouyahitonosfuugouwo\"zyoushitsusekai\"toyobu",
-            "jibunnoyokkyuuwoseizitunimitasitekurerukankyouyahitonosfuugouwo\"zyoushitusekai\"toyobu",
-            "jibunnoyokkyuuwoseizitunimitasitekurerukankyouyahitonosfuugouwo\"zyousitsusekai\"toyobu",
-            "jibunnoyokkyuuwoseizitunimitasitekurerukankyouyahitonosfuugouwo\"zyousitusekai\"toyobu",
-            "jibunnoyokkyuuwoseizitunimitasitekurerukankyouyahitonoshuugouo\"joushitsusekai\"toyobu",
-            "jibunnoyokkyuuwoseizitunimitasitekurerukankyouyahitonoshuugouo\"joushitusekai\"toyobu",
-            "jibunnoyokkyuuwoseizitunimitasitekurerukankyouyahitonoshuugouo\"jousitsusekai\"toyobu",
-            "jibunnoyokkyuuwoseizitunimitasitekurerukankyouyahitonoshuugouo\"jousitusekai\"toyobu",
-            "jibunnoyokkyuuwoseizitunimitasitekurerukankyouyahitonoshuugouo\"zyoushitsusekai\"toyobu",
-            "jibunnoyokkyuuwoseizitunimitasitekurerukankyouyahitonoshuugouo\"zyoushitusekai\"toyobu",
-            "jibunnoyokkyuuwoseizitunimitasitekurerukankyouyahitonoshuugouo\"zyousitsusekai\"toyobu",
-            "jibunnoyokkyuuwoseizitunimitasitekurerukankyouyahitonoshuugouo\"zyousitusekai\"toyobu",
-            "jibunnoyokkyuuwoseizitunimitasitekurerukankyouyahitonoshuugouwo\"joushitsusekai\"toyobu",
-            "jibunnoyokkyuuwoseizitunimitasitekurerukankyouyahitonoshuugouwo\"joushitusekai\"toyobu",
-            "jibunnoyokkyuuwoseizitunimitasitekurerukankyouyahitonoshuugouwo\"jousitsusekai\"toyobu",
-            "jibunnoyokkyuuwoseizitunimitasitekurerukankyouyahitonoshuugouwo\"jousitusekai\"toyobu",
-            "jibunnoyokkyuuwoseizitunimitasitekurerukankyouyahitonoshuugouwo\"zyoushitsusekai\"toyobu",
-            "jibunnoyokkyuuwoseizitunimitasitekurerukankyouyahitonoshuugouwo\"zyoushitusekai\"toyobu",
-            "jibunnoyokkyuuwoseizitunimitasitekurerukankyouyahitonoshuugouwo\"zyousitsusekai\"toyobu",
-            "jibunnoyokkyuuwoseizitunimitasitekurerukankyouyahitonoshuugouwo\"zyousitusekai\"toyobu",
-            "jibunnoyokkyuuwoseizitunimitasitekurerukankyouyahitonosyuugouo\"joushitsusekai\"toyobu",
-            "jibunnoyokkyuuwoseizitunimitasitekurerukankyouyahitonosyuugouo\"joushitusekai\"toyobu",
-            "jibunnoyokkyuuwoseizitunimitasitekurerukankyouyahitonosyuugouo\"jousitsusekai\"toyobu",
-            "jibunnoyokkyuuwoseizitunimitasitekurerukankyouyahitonosyuugouo\"jousitusekai\"toyobu",
-            "jibunnoyokkyuuwoseizitunimitasitekurerukankyouyahitonosyuugouo\"zyoushitsusekai\"toyobu",
-            "jibunnoyokkyuuwoseizitunimitasitekurerukankyouyahitonosyuugouo\"zyoushitusekai\"toyobu",
-            "jibunnoyokkyuuwoseizitunimitasitekurerukankyouyahitonosyuugouo\"zyousitsusekai\"toyobu",
-            "jibunnoyokkyuuwoseizitunimitasitekurerukankyouyahitonosyuugouo\"zyousitusekai\"toyobu",
-            "jibunnoyokkyuuwoseizitunimitasitekurerukankyouyahitonosyuugouwo\"joushitsusekai\"toyobu",
-            "jibunnoyokkyuuwoseizitunimitasitekurerukankyouyahitonosyuugouwo\"joushitusekai\"toyobu",
-            "jibunnoyokkyuuwoseizitunimitasitekurerukankyouyahitonosyuugouwo\"jousitsusekai\"toyobu",
-            "jibunnoyokkyuuwoseizitunimitasitekurerukankyouyahitonosyuugouwo\"jousitusekai\"toyobu",
-            "jibunnoyokkyuuwoseizitunimitasitekurerukankyouyahitonosyuugouwo\"zyoushitsusekai\"toyobu",
-            "jibunnoyokkyuuwoseizitunimitasitekurerukankyouyahitonosyuugouwo\"zyoushitusekai\"toyobu",
-            "jibunnoyokkyuuwoseizitunimitasitekurerukankyouyahitonosyuugouwo\"zyousitsusekai\"toyobu",
-            "jibunnoyokkyuuwoseizitunimitasitekurerukankyouyahitonosyuugouwo\"zyousitusekai\"toyobu",
-            "zibunnoyokkyuuoseijitsunimitashitekurerukankyouyahitonosfuugouo\"joushitsusekai\"toyobu",
-            "zibunnoyokkyuuoseijitsunimitashitekurerukankyouyahitonosfuugouo\"joushitusekai\"toyobu",
-            "zibunnoyokkyuuoseijitsunimitashitekurerukankyouyahitonosfuugouo\"jousitsusekai\"toyobu",
-            "zibunnoyokkyuuoseijitsunimitashitekurerukankyouyahitonosfuugouo\"jousitusekai\"toyobu",
-            "zibunnoyokkyuuoseijitsunimitashitekurerukankyouyahitonosfuugouo\"zyoushitsusekai\"toyobu",
-            "zibunnoyokkyuuoseijitsunimitashitekurerukankyouyahitonosfuugouo\"zyoushitusekai\"toyobu",
-            "zibunnoyokkyuuoseijitsunimitashitekurerukankyouyahitonosfuugouo\"zyousitsusekai\"toyobu",
-            "zibunnoyokkyuuoseijitsunimitashitekurerukankyouyahitonosfuugouo\"zyousitusekai\"toyobu",
-            "zibunnoyokkyuuoseijitsunimitashitekurerukankyouyahitonosfuugouwo\"joushitsusekai\"toyobu",
-            "zibunnoyokkyuuoseijitsunimitashitekurerukankyouyahitonosfuugouwo\"joushitusekai\"toyobu",
-            "zibunnoyokkyuuoseijitsunimitashitekurerukankyouyahitonosfuugouwo\"jousitsusekai\"toyobu",
-            "zibunnoyokkyuuoseijitsunimitashitekurerukankyouyahitonosfuugouwo\"jousitusekai\"toyobu",
-            "zibunnoyokkyuuoseijitsunimitashitekurerukankyouyahitonosfuugouwo\"zyoushitsusekai\"toyobu",
-            "zibunnoyokkyuuoseijitsunimitashitekurerukankyouyahitonosfuugouwo\"zyoushitusekai\"toyobu",
-            "zibunnoyokkyuuoseijitsunimitashitekurerukankyouyahitonosfuugouwo\"zyousitsusekai\"toyobu",
-            "zibunnoyokkyuuoseijitsunimitashitekurerukankyouyahitonosfuugouwo\"zyousitusekai\"toyobu",
-            "zibunnoyokkyuuoseijitsunimitashitekurerukankyouyahitonoshuugouo\"joushitsusekai\"toyobu",
-            "zibunnoyokkyuuoseijitsunimitashitekurerukankyouyahitonoshuugouo\"joushitusekai\"toyobu",
-            "zibunnoyokkyuuoseijitsunimitashitekurerukankyouyahitonoshuugouo\"jousitsusekai\"toyobu",
-            "zibunnoyokkyuuoseijitsunimitashitekurerukankyouyahitonoshuugouo\"jousitusekai\"toyobu",
-            "zibunnoyokkyuuoseijitsunimitashitekurerukankyouyahitonoshuugouo\"zyoushitsusekai\"toyobu",
-            "zibunnoyokkyuuoseijitsunimitashitekurerukankyouyahitonoshuugouo\"zyoushitusekai\"toyobu",
-            "zibunnoyokkyuuoseijitsunimitashitekurerukankyouyahitonoshuugouo\"zyousitsusekai\"toyobu",
-            "zibunnoyokkyuuoseijitsunimitashitekurerukankyouyahitonoshuugouo\"zyousitusekai\"toyobu",
-            "zibunnoyokkyuuoseijitsunimitashitekurerukankyouyahitonoshuugouwo\"joushitsusekai\"toyobu",
-            "zibunnoyokkyuuoseijitsunimitashitekurerukankyouyahitonoshuugouwo\"joushitusekai\"toyobu",
-            "zibunnoyokkyuuoseijitsunimitashitekurerukankyouyahitonoshuugouwo\"jousitsusekai\"toyobu",
-            "zibunnoyokkyuuoseijitsunimitashitekurerukankyouyahitonoshuugouwo\"jousitusekai\"toyobu",
-            "zibunnoyokkyuuoseijitsunimitashitekurerukankyouyahitonoshuugouwo\"zyoushitsusekai\"toyobu",
-            "zibunnoyokkyuuoseijitsunimitashitekurerukankyouyahitonoshuugouwo\"zyoushitusekai\"toyobu",
-            "zibunnoyokkyuuoseijitsunimitashitekurerukankyouyahitonoshuugouwo\"zyousitsusekai\"toyobu",
-            "zibunnoyokkyuuoseijitsunimitashitekurerukankyouyahitonoshuugouwo\"zyousitusekai\"toyobu",
-            "zibunnoyokkyuuoseijitsunimitashitekurerukankyouyahitonosyuugouo\"joushitsusekai\"toyobu",
-            "zibunnoyokkyuuoseijitsunimitashitekurerukankyouyahitonosyuugouo\"joushitusekai\"toyobu",
-            "zibunnoyokkyuuoseijitsunimitashitekurerukankyouyahitonosyuugouo\"jousitsusekai\"toyobu",
-            "zibunnoyokkyuuoseijitsunimitashitekurerukankyouyahitonosyuugouo\"jousitusekai\"toyobu",
-            "zibunnoyokkyuuoseijitsunimitashitekurerukankyouyahitonosyuugouo\"zyoushitsusekai\"toyobu",
-            "zibunnoyokkyuuoseijitsunimitashitekurerukankyouyahitonosyuugouo\"zyoushitusekai\"toyobu",
-            "zibunnoyokkyuuoseijitsunimitashitekurerukankyouyahitonosyuugouo\"zyousitsusekai\"toyobu",
-            "zibunnoyokkyuuoseijitsunimitashitekurerukankyouyahitonosyuugouo\"zyousitusekai\"toyobu",
-            "zibunnoyokkyuuoseijitsunimitashitekurerukankyouyahitonosyuugouwo\"joushitsusekai\"toyobu",
-            "zibunnoyokkyuuoseijitsunimitashitekurerukankyouyahitonosyuugouwo\"joushitusekai\"toyobu",
-            "zibunnoyokkyuuoseijitsunimitashitekurerukankyouyahitonosyuugouwo\"jousitsusekai\"toyobu",
-            "zibunnoyokkyuuoseijitsunimitashitekurerukankyouyahitonosyuugouwo\"jousitusekai\"toyobu",
-            "zibunnoyokkyuuoseijitsunimitashitekurerukankyouyahitonosyuugouwo\"zyoushitsusekai\"toyobu",
-            "zibunnoyokkyuuoseijitsunimitashitekurerukankyouyahitonosyuugouwo\"zyoushitusekai\"toyobu",
-            "zibunnoyokkyuuoseijitsunimitashitekurerukankyouyahitonosyuugouwo\"zyousitsusekai\"toyobu",
-            "zibunnoyokkyuuoseijitsunimitashitekurerukankyouyahitonosyuugouwo\"zyousitusekai\"toyobu",
-            "zibunnoyokkyuuoseijitsunimitasitekurerukankyouyahitonosfuugouo\"joushitsusekai\"toyobu",
-            "zibunnoyokkyuuoseijitsunimitasitekurerukankyouyahitonosfuugouo\"joushitusekai\"toyobu",
-            "zibunnoyokkyuuoseijitsunimitasitekurerukankyouyahitonosfuugouo\"jousitsusekai\"toyobu",
-            "zibunnoyokkyuuoseijitsunimitasitekurerukankyouyahitonosfuugouo\"jousitusekai\"toyobu",
-            "zibunnoyokkyuuoseijitsunimitasitekurerukankyouyahitonosfuugouo\"zyoushitsusekai\"toyobu",
-            "zibunnoyokkyuuoseijitsunimitasitekurerukankyouyahitonosfuugouo\"zyoushitusekai\"toyobu",
-            "zibunnoyokkyuuoseijitsunimitasitekurerukankyouyahitonosfuugouo\"zyousitsusekai\"toyobu",
-            "zibunnoyokkyuuoseijitsunimitasitekurerukankyouyahitonosfuugouo\"zyousitusekai\"toyobu",
-            "zibunnoyokkyuuoseijitsunimitasitekurerukankyouyahitonosfuugouwo\"joushitsusekai\"toyobu",
-            "zibunnoyokkyuuoseijitsunimitasitekurerukankyouyahitonosfuugouwo\"joushitusekai\"toyobu",
-            "zibunnoyokkyuuoseijitsunimitasitekurerukankyouyahitonosfuugouwo\"jousitsusekai\"toyobu",
-            "zibunnoyokkyuuoseijitsunimitasitekurerukankyouyahitonosfuugouwo\"jousitusekai\"toyobu",
-            "zibunnoyokkyuuoseijitsunimitasitekurerukankyouyahitonosfuugouwo\"zyoushitsusekai\"toyobu",
-            "zibunnoyokkyuuoseijitsunimitasitekurerukankyouyahitonosfuugouwo\"zyoushitusekai\"toyobu",
-            "zibunnoyokkyuuoseijitsunimitasitekurerukankyouyahitonosfuugouwo\"zyousitsusekai\"toyobu",
-            "zibunnoyokkyuuoseijitsunimitasitekurerukankyouyahitonosfuugouwo\"zyousitusekai\"toyobu",
-            "zibunnoyokkyuuoseijitsunimitasitekurerukankyouyahitonoshuugouo\"joushitsusekai\"toyobu",
-            "zibunnoyokkyuuoseijitsunimitasitekurerukankyouyahitonoshuugouo\"joushitusekai\"toyobu",
-            "zibunnoyokkyuuoseijitsunimitasitekurerukankyouyahitonoshuugouo\"jousitsusekai\"toyobu",
-            "zibunnoyokkyuuoseijitsunimitasitekurerukankyouyahitonoshuugouo\"jousitusekai\"toyobu",
-            "zibunnoyokkyuuoseijitsunimitasitekurerukankyouyahitonoshuugouo\"zyoushitsusekai\"toyobu",
-            "zibunnoyokkyuuoseijitsunimitasitekurerukankyouyahitonoshuugouo\"zyoushitusekai\"toyobu",
-            "zibunnoyokkyuuoseijitsunimitasitekurerukankyouyahitonoshuugouo\"zyousitsusekai\"toyobu",
-            "zibunnoyokkyuuoseijitsunimitasitekurerukankyouyahitonoshuugouo\"zyousitusekai\"toyobu",
-            "zibunnoyokkyuuoseijitsunimitasitekurerukankyouyahitonoshuugouwo\"joushitsusekai\"toyobu",
-            "zibunnoyokkyuuoseijitsunimitasitekurerukankyouyahitonoshuugouwo\"joushitusekai\"toyobu",
-            "zibunnoyokkyuuoseijitsunimitasitekurerukankyouyahitonoshuugouwo\"jousitsusekai\"toyobu",
-            "zibunnoyokkyuuoseijitsunimitasitekurerukankyouyahitonoshuugouwo\"jousitusekai\"toyobu",
-            "zibunnoyokkyuuoseijitsunimitasitekurerukankyouyahitonoshuugouwo\"zyoushitsusekai\"toyobu",
-            "zibunnoyokkyuuoseijitsunimitasitekurerukankyouyahitonoshuugouwo\"zyoushitusekai\"toyobu",
-            "zibunnoyokkyuuoseijitsunimitasitekurerukankyouyahitonoshuugouwo\"zyousitsusekai\"toyobu",
-            "zibunnoyokkyuuoseijitsunimitasitekurerukankyouyahitonoshuugouwo\"zyousitusekai\"toyobu",
-            "zibunnoyokkyuuoseijitsunimitasitekurerukankyouyahitonosyuugouo\"joushitsusekai\"toyobu",
-            "zibunnoyokkyuuoseijitsunimitasitekurerukankyouyahitonosyuugouo\"joushitusekai\"toyobu",
-            "zibunnoyokkyuuoseijitsunimitasitekurerukankyouyahitonosyuugouo\"jousitsusekai\"toyobu",
-            "zibunnoyokkyuuoseijitsunimitasitekurerukankyouyahitonosyuugouo\"jousitusekai\"toyobu",
-            "zibunnoyokkyuuoseijitsunimitasitekurerukankyouyahitonosyuugouo\"zyoushitsusekai\"toyobu",
-            "zibunnoyokkyuuoseijitsunimitasitekurerukankyouyahitonosyuugouo\"zyoushitusekai\"toyobu",
-            "zibunnoyokkyuuoseijitsunimitasitekurerukankyouyahitonosyuugouo\"zyousitsusekai\"toyobu",
-            "zibunnoyokkyuuoseijitsunimitasitekurerukankyouyahitonosyuugouo\"zyousitusekai\"toyobu",
-            "zibunnoyokkyuuoseijitsunimitasitekurerukankyouyahitonosyuugouwo\"joushitsusekai\"toyobu",
-            "zibunnoyokkyuuoseijitsunimitasitekurerukankyouyahitonosyuugouwo\"joushitusekai\"toyobu",
-            "zibunnoyokkyuuoseijitsunimitasitekurerukankyouyahitonosyuugouwo\"jousitsusekai\"toyobu",
-            "zibunnoyokkyuuoseijitsunimitasitekurerukankyouyahitonosyuugouwo\"jousitusekai\"toyobu",
-            "zibunnoyokkyuuoseijitsunimitasitekurerukankyouyahitonosyuugouwo\"zyoushitsusekai\"toyobu",
-            "zibunnoyokkyuuoseijitsunimitasitekurerukankyouyahitonosyuugouwo\"zyoushitusekai\"toyobu",
-            "zibunnoyokkyuuoseijitsunimitasitekurerukankyouyahitonosyuugouwo\"zyousitsusekai\"toyobu",
-            "zibunnoyokkyuuoseijitsunimitasitekurerukankyouyahitonosyuugouwo\"zyousitusekai\"toyobu",
-            "zibunnoyokkyuuoseijitunimitashitekurerukankyouyahitonosfuugouo\"joushitsusekai\"toyobu",
-            "zibunnoyokkyuuoseijitunimitashitekurerukankyouyahitonosfuugouo\"joushitusekai\"toyobu",
-            "zibunnoyokkyuuoseijitunimitashitekurerukankyouyahitonosfuugouo\"jousitsusekai\"toyobu",
-            "zibunnoyokkyuuoseijitunimitashitekurerukankyouyahitonosfuugouo\"jousitusekai\"toyobu",
-            "zibunnoyokkyuuoseijitunimitashitekurerukankyouyahitonosfuugouo\"zyoushitsusekai\"toyobu",
-            "zibunnoyokkyuuoseijitunimitashitekurerukankyouyahitonosfuugouo\"zyoushitusekai\"toyobu",
-            "zibunnoyokkyuuoseijitunimitashitekurerukankyouyahitonosfuugouo\"zyousitsusekai\"toyobu",
-            "zibunnoyokkyuuoseijitunimitashitekurerukankyouyahitonosfuugouo\"zyousitusekai\"toyobu",
-            "zibunnoyokkyuuoseijitunimitashitekurerukankyouyahitonosfuugouwo\"joushitsusekai\"toyobu",
-            "zibunnoyokkyuuoseijitunimitashitekurerukankyouyahitonosfuugouwo\"joushitusekai\"toyobu",
-            "zibunnoyokkyuuoseijitunimitashitekurerukankyouyahitonosfuugouwo\"jousitsusekai\"toyobu",
-            "zibunnoyokkyuuoseijitunimitashitekurerukankyouyahitonosfuugouwo\"jousitusekai\"toyobu",
-            "zibunnoyokkyuuoseijitunimitashitekurerukankyouyahitonosfuugouwo\"zyoushitsusekai\"toyobu",
-            "zibunnoyokkyuuoseijitunimitashitekurerukankyouyahitonosfuugouwo\"zyoushitusekai\"toyobu",
-            "zibunnoyokkyuuoseijitunimitashitekurerukankyouyahitonosfuugouwo\"zyousitsusekai\"toyobu",
-            "zibunnoyokkyuuoseijitunimitashitekurerukankyouyahitonosfuugouwo\"zyousitusekai\"toyobu",
-            "zibunnoyokkyuuoseijitunimitashitekurerukankyouyahitonoshuugouo\"joushitsusekai\"toyobu",
-            "zibunnoyokkyuuoseijitunimitashitekurerukankyouyahitonoshuugouo\"joushitusekai\"toyobu",
-            "zibunnoyokkyuuoseijitunimitashitekurerukankyouyahitonoshuugouo\"jousitsusekai\"toyobu",
-            "zibunnoyokkyuuoseijitunimitashitekurerukankyouyahitonoshuugouo\"jousitusekai\"toyobu",
-            "zibunnoyokkyuuoseijitunimitashitekurerukankyouyahitonoshuugouo\"zyoushitsusekai\"toyobu",
-            "zibunnoyokkyuuoseijitunimitashitekurerukankyouyahitonoshuugouo\"zyoushitusekai\"toyobu",
-            "zibunnoyokkyuuoseijitunimitashitekurerukankyouyahitonoshuugouo\"zyousitsusekai\"toyobu",
-            "zibunnoyokkyuuoseijitunimitashitekurerukankyouyahitonoshuugouo\"zyousitusekai\"toyobu",
-            "zibunnoyokkyuuoseijitunimitashitekurerukankyouyahitonoshuugouwo\"joushitsusekai\"toyobu",
-            "zibunnoyokkyuuoseijitunimitashitekurerukankyouyahitonoshuugouwo\"joushitusekai\"toyobu",
-            "zibunnoyokkyuuoseijitunimitashitekurerukankyouyahitonoshuugouwo\"jousitsusekai\"toyobu",
-            "zibunnoyokkyuuoseijitunimitashitekurerukankyouyahitonoshuugouwo\"jousitusekai\"toyobu",
-            "zibunnoyokkyuuoseijitunimitashitekurerukankyouyahitonoshuugouwo\"zyoushitsusekai\"toyobu",
-            "zibunnoyokkyuuoseijitunimitashitekurerukankyouyahitonoshuugouwo\"zyoushitusekai\"toyobu",
-            "zibunnoyokkyuuoseijitunimitashitekurerukankyouyahitonoshuugouwo\"zyousitsusekai\"toyobu",
-            "zibunnoyokkyuuoseijitunimitashitekurerukankyouyahitonoshuugouwo\"zyousitusekai\"toyobu",
-            "zibunnoyokkyuuoseijitunimitashitekurerukankyouyahitonosyuugouo\"joushitsusekai\"toyobu",
-            "zibunnoyokkyuuoseijitunimitashitekurerukankyouyahitonosyuugouo\"joushitusekai\"toyobu",
-            "zibunnoyokkyuuoseijitunimitashitekurerukankyouyahitonosyuugouo\"jousitsusekai\"toyobu",
-            "zibunnoyokkyuuoseijitunimitashitekurerukankyouyahitonosyuugouo\"jousitusekai\"toyobu",
-            "zibunnoyokkyuuoseijitunimitashitekurerukankyouyahitonosyuugouo\"zyoushitsusekai\"toyobu",
-            "zibunnoyokkyuuoseijitunimitashitekurerukankyouyahitonosyuugouo\"zyoushitusekai\"toyobu",
-            "zibunnoyokkyuuoseijitunimitashitekurerukankyouyahitonosyuugouo\"zyousitsusekai\"toyobu",
-            "zibunnoyokkyuuoseijitunimitashitekurerukankyouyahitonosyuugouo\"zyousitusekai\"toyobu",
-            "zibunnoyokkyuuoseijitunimitashitekurerukankyouyahitonosyuugouwo\"joushitsusekai\"toyobu",
-            "zibunnoyokkyuuoseijitunimitashitekurerukankyouyahitonosyuugouwo\"joushitusekai\"toyobu",
-            "zibunnoyokkyuuoseijitunimitashitekurerukankyouyahitonosyuugouwo\"jousitsusekai\"toyobu",
-            "zibunnoyokkyuuoseijitunimitashitekurerukankyouyahitonosyuugouwo\"jousitusekai\"toyobu",
-            "zibunnoyokkyuuoseijitunimitashitekurerukankyouyahitonosyuugouwo\"zyoushitsusekai\"toyobu",
-            "zibunnoyokkyuuoseijitunimitashitekurerukankyouyahitonosyuugouwo\"zyoushitusekai\"toyobu",
-            "zibunnoyokkyuuoseijitunimitashitekurerukankyouyahitonosyuugouwo\"zyousitsusekai\"toyobu",
-            "zibunnoyokkyuuoseijitunimitashitekurerukankyouyahitonosyuugouwo\"zyousitusekai\"toyobu",
-            "zibunnoyokkyuuoseijitunimitasitekurerukankyouyahitonosfuugouo\"joushitsusekai\"toyobu",
-            "zibunnoyokkyuuoseijitunimitasitekurerukankyouyahitonosfuugouo\"joushitusekai\"toyobu",
-            "zibunnoyokkyuuoseijitunimitasitekurerukankyouyahitonosfuugouo\"jousitsusekai\"toyobu",
-            "zibunnoyokkyuuoseijitunimitasitekurerukankyouyahitonosfuugouo\"jousitusekai\"toyobu",
-            "zibunnoyokkyuuoseijitunimitasitekurerukankyouyahitonosfuugouo\"zyoushitsusekai\"toyobu",
-            "zibunnoyokkyuuoseijitunimitasitekurerukankyouyahitonosfuugouo\"zyoushitusekai\"toyobu",
-            "zibunnoyokkyuuoseijitunimitasitekurerukankyouyahitonosfuugouo\"zyousitsusekai\"toyobu",
-            "zibunnoyokkyuuoseijitunimitasitekurerukankyouyahitonosfuugouo\"zyousitusekai\"toyobu",
-            "zibunnoyokkyuuoseijitunimitasitekurerukankyouyahitonosfuugouwo\"joushitsusekai\"toyobu",
-            "zibunnoyokkyuuoseijitunimitasitekurerukankyouyahitonosfuugouwo\"joushitusekai\"toyobu",
-            "zibunnoyokkyuuoseijitunimitasitekurerukankyouyahitonosfuugouwo\"jousitsusekai\"toyobu",
-            "zibunnoyokkyuuoseijitunimitasitekurerukankyouyahitonosfuugouwo\"jousitusekai\"toyobu",
-            "zibunnoyokkyuuoseijitunimitasitekurerukankyouyahitonosfuugouwo\"zyoushitsusekai\"toyobu",
-            "zibunnoyokkyuuoseijitunimitasitekurerukankyouyahitonosfuugouwo\"zyoushitusekai\"toyobu",
-            "zibunnoyokkyuuoseijitunimitasitekurerukankyouyahitonosfuugouwo\"zyousitsusekai\"toyobu",
-            "zibunnoyokkyuuoseijitunimitasitekurerukankyouyahitonosfuugouwo\"zyousitusekai\"toyobu",
-            "zibunnoyokkyuuoseijitunimitasitekurerukankyouyahitonoshuugouo\"joushitsusekai\"toyobu",
-            "zibunnoyokkyuuoseijitunimitasitekurerukankyouyahitonoshuugouo\"joushitusekai\"toyobu",
-            "zibunnoyokkyuuoseijitunimitasitekurerukankyouyahitonoshuugouo\"jousitsusekai\"toyobu",
-            "zibunnoyokkyuuoseijitunimitasitekurerukankyouyahitonoshuugouo\"jousitusekai\"toyobu",
-            "zibunnoyokkyuuoseijitunimitasitekurerukankyouyahitonoshuugouo\"zyoushitsusekai\"toyobu",
-            "zibunnoyokkyuuoseijitunimitasitekurerukankyouyahitonoshuugouo\"zyoushitusekai\"toyobu",
-            "zibunnoyokkyuuoseijitunimitasitekurerukankyouyahitonoshuugouo\"zyousitsusekai\"toyobu",
-            "zibunnoyokkyuuoseijitunimitasitekurerukankyouyahitonoshuugouo\"zyousitusekai\"toyobu",
-            "zibunnoyokkyuuoseijitunimitasitekurerukankyouyahitonoshuugouwo\"joushitsusekai\"toyobu",
-            "zibunnoyokkyuuoseijitunimitasitekurerukankyouyahitonoshuugouwo\"joushitusekai\"toyobu",
-            "zibunnoyokkyuuoseijitunimitasitekurerukankyouyahitonoshuugouwo\"jousitsusekai\"toyobu",
-            "zibunnoyokkyuuoseijitunimitasitekurerukankyouyahitonoshuugouwo\"jousitusekai\"toyobu",
-            "zibunnoyokkyuuoseijitunimitasitekurerukankyouyahitonoshuugouwo\"zyoushitsusekai\"toyobu",
-            "zibunnoyokkyuuoseijitunimitasitekurerukankyouyahitonoshuugouwo\"zyoushitusekai\"toyobu",
-            "zibunnoyokkyuuoseijitunimitasitekurerukankyouyahitonoshuugouwo\"zyousitsusekai\"toyobu",
-            "zibunnoyokkyuuoseijitunimitasitekurerukankyouyahitonoshuugouwo\"zyousitusekai\"toyobu",
-            "zibunnoyokkyuuoseijitunimitasitekurerukankyouyahitonosyuugouo\"joushitsusekai\"toyobu",
-            "zibunnoyokkyuuoseijitunimitasitekurerukankyouyahitonosyuugouo\"joushitusekai\"toyobu",
-            "zibunnoyokkyuuoseijitunimitasitekurerukankyouyahitonosyuugouo\"jousitsusekai\"toyobu",
-            "zibunnoyokkyuuoseijitunimitasitekurerukankyouyahitonosyuugouo\"jousitusekai\"toyobu",
-            "zibunnoyokkyuuoseijitunimitasitekurerukankyouyahitonosyuugouo\"zyoushitsusekai\"toyobu",
-            "zibunnoyokkyuuoseijitunimitasitekurerukankyouyahitonosyuugouo\"zyoushitusekai\"toyobu",
-            "zibunnoyokkyuuoseijitunimitasitekurerukankyouyahitonosyuugouo\"zyousitsusekai\"toyobu",
-            "zibunnoyokkyuuoseijitunimitasitekurerukankyouyahitonosyuugouo\"zyousitusekai\"toyobu",
-            "zibunnoyokkyuuoseijitunimitasitekurerukankyouyahitonosyuugouwo\"joushitsusekai\"toyobu",
-            "zibunnoyokkyuuoseijitunimitasitekurerukankyouyahitonosyuugouwo\"joushitusekai\"toyobu",
-            "zibunnoyokkyuuoseijitunimitasitekurerukankyouyahitonosyuugouwo\"jousitsusekai\"toyobu",
-            "zibunnoyokkyuuoseijitunimitasitekurerukankyouyahitonosyuugouwo\"jousitusekai\"toyobu",
-            "zibunnoyokkyuuoseijitunimitasitekurerukankyouyahitonosyuugouwo\"zyoushitsusekai\"toyobu",
-            "zibunnoyokkyuuoseijitunimitasitekurerukankyouyahitonosyuugouwo\"zyoushitusekai\"toyobu",
-            "zibunnoyokkyuuoseijitunimitasitekurerukankyouyahitonosyuugouwo\"zyousitsusekai\"toyobu",
-            "zibunnoyokkyuuoseijitunimitasitekurerukankyouyahitonosyuugouwo\"zyousitusekai\"toyobu",
-            "zibunnoyokkyuuoseizitsunimitashitekurerukankyouyahitonosfuugouo\"joushitsusekai\"toyobu",
-            "zibunnoyokkyuuoseizitsunimitashitekurerukankyouyahitonosfuugouo\"joushitusekai\"toyobu",
-            "zibunnoyokkyuuoseizitsunimitashitekurerukankyouyahitonosfuugouo\"jousitsusekai\"toyobu",
-            "zibunnoyokkyuuoseizitsunimitashitekurerukankyouyahitonosfuugouo\"jousitusekai\"toyobu",
-            "zibunnoyokkyuuoseizitsunimitashitekurerukankyouyahitonosfuugouo\"zyoushitsusekai\"toyobu",
-            "zibunnoyokkyuuoseizitsunimitashitekurerukankyouyahitonosfuugouo\"zyoushitusekai\"toyobu",
-            "zibunnoyokkyuuoseizitsunimitashitekurerukankyouyahitonosfuugouo\"zyousitsusekai\"toyobu",
-            "zibunnoyokkyuuoseizitsunimitashitekurerukankyouyahitonosfuugouo\"zyousitusekai\"toyobu",
-            "zibunnoyokkyuuoseizitsunimitashitekurerukankyouyahitonosfuugouwo\"joushitsusekai\"toyobu",
-            "zibunnoyokkyuuoseizitsunimitashitekurerukankyouyahitonosfuugouwo\"joushitusekai\"toyobu",
-            "zibunnoyokkyuuoseizitsunimitashitekurerukankyouyahitonosfuugouwo\"jousitsusekai\"toyobu",
-            "zibunnoyokkyuuoseizitsunimitashitekurerukankyouyahitonosfuugouwo\"jousitusekai\"toyobu",
-            "zibunnoyokkyuuoseizitsunimitashitekurerukankyouyahitonosfuugouwo\"zyoushitsusekai\"toyobu",
-            "zibunnoyokkyuuoseizitsunimitashitekurerukankyouyahitonosfuugouwo\"zyoushitusekai\"toyobu",
-            "zibunnoyokkyuuoseizitsunimitashitekurerukankyouyahitonosfuugouwo\"zyousitsusekai\"toyobu",
-            "zibunnoyokkyuuoseizitsunimitashitekurerukankyouyahitonosfuugouwo\"zyousitusekai\"toyobu",
-            "zibunnoyokkyuuoseizitsunimitashitekurerukankyouyahitonoshuugouo\"joushitsusekai\"toyobu",
-            "zibunnoyokkyuuoseizitsunimitashitekurerukankyouyahitonoshuugouo\"joushitusekai\"toyobu",
-            "zibunnoyokkyuuoseizitsunimitashitekurerukankyouyahitonoshuugouo\"jousitsusekai\"toyobu",
-            "zibunnoyokkyuuoseizitsunimitashitekurerukankyouyahitonoshuugouo\"jousitusekai\"toyobu",
-            "zibunnoyokkyuuoseizitsunimitashitekurerukankyouyahitonoshuugouo\"zyoushitsusekai\"toyobu",
-            "zibunnoyokkyuuoseizitsunimitashitekurerukankyouyahitonoshuugouo\"zyoushitusekai\"toyobu",
-            "zibunnoyokkyuuoseizitsunimitashitekurerukankyouyahitonoshuugouo\"zyousitsusekai\"toyobu",
-            "zibunnoyokkyuuoseizitsunimitashitekurerukankyouyahitonoshuugouo\"zyousitusekai\"toyobu",
-            "zibunnoyokkyuuoseizitsunimitashitekurerukankyouyahitonoshuugouwo\"joushitsusekai\"toyobu",
-            "zibunnoyokkyuuoseizitsunimitashitekurerukankyouyahitonoshuugouwo\"joushitusekai\"toyobu",
-            "zibunnoyokkyuuoseizitsunimitashitekurerukankyouyahitonoshuugouwo\"jousitsusekai\"toyobu",
-            "zibunnoyokkyuuoseizitsunimitashitekurerukankyouyahitonoshuugouwo\"jousitusekai\"toyobu",
-            "zibunnoyokkyuuoseizitsunimitashitekurerukankyouyahitonoshuugouwo\"zyoushitsusekai\"toyobu",
-            "zibunnoyokkyuuoseizitsunimitashitekurerukankyouyahitonoshuugouwo\"zyoushitusekai\"toyobu",
-            "zibunnoyokkyuuoseizitsunimitashitekurerukankyouyahitonoshuugouwo\"zyousitsusekai\"toyobu",
-            "zibunnoyokkyuuoseizitsunimitashitekurerukankyouyahitonoshuugouwo\"zyousitusekai\"toyobu",
-            "zibunnoyokkyuuoseizitsunimitashitekurerukankyouyahitonosyuugouo\"joushitsusekai\"toyobu",
-            "zibunnoyokkyuuoseizitsunimitashitekurerukankyouyahitonosyuugouo\"joushitusekai\"toyobu",
-            "zibunnoyokkyuuoseizitsunimitashitekurerukankyouyahitonosyuugouo\"jousitsusekai\"toyobu",
-            "zibunnoyokkyuuoseizitsunimitashitekurerukankyouyahitonosyuugouo\"jousitusekai\"toyobu",
-            "zibunnoyokkyuuoseizitsunimitashitekurerukankyouyahitonosyuugouo\"zyoushitsusekai\"toyobu",
-            "zibunnoyokkyuuoseizitsunimitashitekurerukankyouyahitonosyuugouo\"zyoushitusekai\"toyobu",
-            "zibunnoyokkyuuoseizitsunimitashitekurerukankyouyahitonosyuugouo\"zyousitsusekai\"toyobu",
-            "zibunnoyokkyuuoseizitsunimitashitekurerukankyouyahitonosyuugouo\"zyousitusekai\"toyobu",
-            "zibunnoyokkyuuoseizitsunimitashitekurerukankyouyahitonosyuugouwo\"joushitsusekai\"toyobu",
-            "zibunnoyokkyuuoseizitsunimitashitekurerukankyouyahitonosyuugouwo\"joushitusekai\"toyobu",
-            "zibunnoyokkyuuoseizitsunimitashitekurerukankyouyahitonosyuugouwo\"jousitsusekai\"toyobu",
-            "zibunnoyokkyuuoseizitsunimitashitekurerukankyouyahitonosyuugouwo\"jousitusekai\"toyobu",
-            "zibunnoyokkyuuoseizitsunimitashitekurerukankyouyahitonosyuugouwo\"zyoushitsusekai\"toyobu",
-            "zibunnoyokkyuuoseizitsunimitashitekurerukankyouyahitonosyuugouwo\"zyoushitusekai\"toyobu",
-            "zibunnoyokkyuuoseizitsunimitashitekurerukankyouyahitonosyuugouwo\"zyousitsusekai\"toyobu",
-            "zibunnoyokkyuuoseizitsunimitashitekurerukankyouyahitonosyuugouwo\"zyousitusekai\"toyobu",
-            "zibunnoyokkyuuoseizitsunimitasitekurerukankyouyahitonosfuugouo\"joushitsusekai\"toyobu",
-            "zibunnoyokkyuuoseizitsunimitasitekurerukankyouyahitonosfuugouo\"joushitusekai\"toyobu",
-            "zibunnoyokkyuuoseizitsunimitasitekurerukankyouyahitonosfuugouo\"jousitsusekai\"toyobu",
-            "zibunnoyokkyuuoseizitsunimitasitekurerukankyouyahitonosfuugouo\"jousitusekai\"toyobu",
-            "zibunnoyokkyuuoseizitsunimitasitekurerukankyouyahitonosfuugouo\"zyoushitsusekai\"toyobu",
-            "zibunnoyokkyuuoseizitsunimitasitekurerukankyouyahitonosfuugouo\"zyoushitusekai\"toyobu",
-            "zibunnoyokkyuuoseizitsunimitasitekurerukankyouyahitonosfuugouo\"zyousitsusekai\"toyobu",
-            "zibunnoyokkyuuoseizitsunimitasitekurerukankyouyahitonosfuugouo\"zyousitusekai\"toyobu",
-            "zibunnoyokkyuuoseizitsunimitasitekurerukankyouyahitonosfuugouwo\"joushitsusekai\"toyobu",
-            "zibunnoyokkyuuoseizitsunimitasitekurerukankyouyahitonosfuugouwo\"joushitusekai\"toyobu",
-            "zibunnoyokkyuuoseizitsunimitasitekurerukankyouyahitonosfuugouwo\"jousitsusekai\"toyobu",
-            "zibunnoyokkyuuoseizitsunimitasitekurerukankyouyahitonosfuugouwo\"jousitusekai\"toyobu",
-            "zibunnoyokkyuuoseizitsunimitasitekurerukankyouyahitonosfuugouwo\"zyoushitsusekai\"toyobu",
-            "zibunnoyokkyuuoseizitsunimitasitekurerukankyouyahitonosfuugouwo\"zyoushitusekai\"toyobu",
-            "zibunnoyokkyuuoseizitsunimitasitekurerukankyouyahitonosfuugouwo\"zyousitsusekai\"toyobu",
-            "zibunnoyokkyuuoseizitsunimitasitekurerukankyouyahitonosfuugouwo\"zyousitusekai\"toyobu",
-            "zibunnoyokkyuuoseizitsunimitasitekurerukankyouyahitonoshuugouo\"joushitsusekai\"toyobu",
-            "zibunnoyokkyuuoseizitsunimitasitekurerukankyouyahitonoshuugouo\"joushitusekai\"toyobu",
-            "zibunnoyokkyuuoseizitsunimitasitekurerukankyouyahitonoshuugouo\"jousitsusekai\"toyobu",
-            "zibunnoyokkyuuoseizitsunimitasitekurerukankyouyahitonoshuugouo\"jousitusekai\"toyobu",
-            "zibunnoyokkyuuoseizitsunimitasitekurerukankyouyahitonoshuugouo\"zyoushitsusekai\"toyobu",
-            "zibunnoyokkyuuoseizitsunimitasitekurerukankyouyahitonoshuugouo\"zyoushitusekai\"toyobu",
-            "zibunnoyokkyuuoseizitsunimitasitekurerukankyouyahitonoshuugouo\"zyousitsusekai\"toyobu",
-            "zibunnoyokkyuuoseizitsunimitasitekurerukankyouyahitonoshuugouo\"zyousitusekai\"toyobu",
-            "zibunnoyokkyuuoseizitsunimitasitekurerukankyouyahitonoshuugouwo\"joushitsusekai\"toyobu",
-            "zibunnoyokkyuuoseizitsunimitasitekurerukankyouyahitonoshuugouwo\"joushitusekai\"toyobu",
-            "zibunnoyokkyuuoseizitsunimitasitekurerukankyouyahitonoshuugouwo\"jousitsusekai\"toyobu",
-            "zibunnoyokkyuuoseizitsunimitasitekurerukankyouyahitonoshuugouwo\"jousitusekai\"toyobu",
-            "zibunnoyokkyuuoseizitsunimitasitekurerukankyouyahitonoshuugouwo\"zyoushitsusekai\"toyobu",
-            "zibunnoyokkyuuoseizitsunimitasitekurerukankyouyahitonoshuugouwo\"zyoushitusekai\"toyobu",
-            "zibunnoyokkyuuoseizitsunimitasitekurerukankyouyahitonoshuugouwo\"zyousitsusekai\"toyobu",
-            "zibunnoyokkyuuoseizitsunimitasitekurerukankyouyahitonoshuugouwo\"zyousitusekai\"toyobu",
-            "zibunnoyokkyuuoseizitsunimitasitekurerukankyouyahitonosyuugouo\"joushitsusekai\"toyobu",
-            "zibunnoyokkyuuoseizitsunimitasitekurerukankyouyahitonosyuugouo\"joushitusekai\"toyobu",
-            "zibunnoyokkyuuoseizitsunimitasitekurerukankyouyahitonosyuugouo\"jousitsusekai\"toyobu",
-            "zibunnoyokkyuuoseizitsunimitasitekurerukankyouyahitonosyuugouo\"jousitusekai\"toyobu",
-            "zibunnoyokkyuuoseizitsunimitasitekurerukankyouyahitonosyuugouo\"zyoushitsusekai\"toyobu",
-            "zibunnoyokkyuuoseizitsunimitasitekurerukankyouyahitonosyuugouo\"zyoushitusekai\"toyobu",
-            "zibunnoyokkyuuoseizitsunimitasitekurerukankyouyahitonosyuugouo\"zyousitsusekai\"toyobu",
-            "zibunnoyokkyuuoseizitsunimitasitekurerukankyouyahitonosyuugouo\"zyousitusekai\"toyobu",
-            "zibunnoyokkyuuoseizitsunimitasitekurerukankyouyahitonosyuugouwo\"joushitsusekai\"toyobu",
-            "zibunnoyokkyuuoseizitsunimitasitekurerukankyouyahitonosyuugouwo\"joushitusekai\"toyobu",
-            "zibunnoyokkyuuoseizitsunimitasitekurerukankyouyahitonosyuugouwo\"jousitsusekai\"toyobu",
-            "zibunnoyokkyuuoseizitsunimitasitekurerukankyouyahitonosyuugouwo\"jousitusekai\"toyobu",
-            "zibunnoyokkyuuoseizitsunimitasitekurerukankyouyahitonosyuugouwo\"zyoushitsusekai\"toyobu",
-            "zibunnoyokkyuuoseizitsunimitasitekurerukankyouyahitonosyuugouwo\"zyoushitusekai\"toyobu",
-            "zibunnoyokkyuuoseizitsunimitasitekurerukankyouyahitonosyuugouwo\"zyousitsusekai\"toyobu",
-            "zibunnoyokkyuuoseizitsunimitasitekurerukankyouyahitonosyuugouwo\"zyousitusekai\"toyobu",
-            "zibunnoyokkyuuoseizitunimitashitekurerukankyouyahitonosfuugouo\"joushitsusekai\"toyobu",
-            "zibunnoyokkyuuoseizitunimitashitekurerukankyouyahitonosfuugouo\"joushitusekai\"toyobu",
-            "zibunnoyokkyuuoseizitunimitashitekurerukankyouyahitonosfuugouo\"jousitsusekai\"toyobu",
-            "zibunnoyokkyuuoseizitunimitashitekurerukankyouyahitonosfuugouo\"jousitusekai\"toyobu",
-            "zibunnoyokkyuuoseizitunimitashitekurerukankyouyahitonosfuugouo\"zyoushitsusekai\"toyobu",
-            "zibunnoyokkyuuoseizitunimitashitekurerukankyouyahitonosfuugouo\"zyoushitusekai\"toyobu",
-            "zibunnoyokkyuuoseizitunimitashitekurerukankyouyahitonosfuugouo\"zyousitsusekai\"toyobu",
-            "zibunnoyokkyuuoseizitunimitashitekurerukankyouyahitonosfuugouo\"zyousitusekai\"toyobu",
-            "zibunnoyokkyuuoseizitunimitashitekurerukankyouyahitonosfuugouwo\"joushitsusekai\"toyobu",
-            "zibunnoyokkyuuoseizitunimitashitekurerukankyouyahitonosfuugouwo\"joushitusekai\"toyobu",
-            "zibunnoyokkyuuoseizitunimitashitekurerukankyouyahitonosfuugouwo\"jousitsusekai\"toyobu",
-            "zibunnoyokkyuuoseizitunimitashitekurerukankyouyahitonosfuugouwo\"jousitusekai\"toyobu",
-            "zibunnoyokkyuuoseizitunimitashitekurerukankyouyahitonosfuugouwo\"zyoushitsusekai\"toyobu",
-            "zibunnoyokkyuuoseizitunimitashitekurerukankyouyahitonosfuugouwo\"zyoushitusekai\"toyobu",
-            "zibunnoyokkyuuoseizitunimitashitekurerukankyouyahitonosfuugouwo\"zyousitsusekai\"toyobu",
-            "zibunnoyokkyuuoseizitunimitashitekurerukankyouyahitonosfuugouwo\"zyousitusekai\"toyobu",
-            "zibunnoyokkyuuoseizitunimitashitekurerukankyouyahitonoshuugouo\"joushitsusekai\"toyobu",
-            "zibunnoyokkyuuoseizitunimitashitekurerukankyouyahitonoshuugouo\"joushitusekai\"toyobu",
-            "zibunnoyokkyuuoseizitunimitashitekurerukankyouyahitonoshuugouo\"jousitsusekai\"toyobu",
-            "zibunnoyokkyuuoseizitunimitashitekurerukankyouyahitonoshuugouo\"jousitusekai\"toyobu",
-            "zibunnoyokkyuuoseizitunimitashitekurerukankyouyahitonoshuugouo\"zyoushitsusekai\"toyobu",
-            "zibunnoyokkyuuoseizitunimitashitekurerukankyouyahitonoshuugouo\"zyoushitusekai\"toyobu",
-            "zibunnoyokkyuuoseizitunimitashitekurerukankyouyahitonoshuugouo\"zyousitsusekai\"toyobu",
-            "zibunnoyokkyuuoseizitunimitashitekurerukankyouyahitonoshuugouo\"zyousitusekai\"toyobu",
-            "zibunnoyokkyuuoseizitunimitashitekurerukankyouyahitonoshuugouwo\"joushitsusekai\"toyobu",
-            "zibunnoyokkyuuoseizitunimitashitekurerukankyouyahitonoshuugouwo\"joushitusekai\"toyobu",
-            "zibunnoyokkyuuoseizitunimitashitekurerukankyouyahitonoshuugouwo\"jousitsusekai\"toyobu",
-            "zibunnoyokkyuuoseizitunimitashitekurerukankyouyahitonoshuugouwo\"jousitusekai\"toyobu",
-            "zibunnoyokkyuuoseizitunimitashitekurerukankyouyahitonoshuugouwo\"zyoushitsusekai\"toyobu",
-            "zibunnoyokkyuuoseizitunimitashitekurerukankyouyahitonoshuugouwo\"zyoushitusekai\"toyobu",
-            "zibunnoyokkyuuoseizitunimitashitekurerukankyouyahitonoshuugouwo\"zyousitsusekai\"toyobu",
-            "zibunnoyokkyuuoseizitunimitashitekurerukankyouyahitonoshuugouwo\"zyousitusekai\"toyobu",
-            "zibunnoyokkyuuoseizitunimitashitekurerukankyouyahitonosyuugouo\"joushitsusekai\"toyobu",
-            "zibunnoyokkyuuoseizitunimitashitekurerukankyouyahitonosyuugouo\"joushitusekai\"toyobu",
-            "zibunnoyokkyuuoseizitunimitashitekurerukankyouyahitonosyuugouo\"jousitsusekai\"toyobu",
-            "zibunnoyokkyuuoseizitunimitashitekurerukankyouyahitonosyuugouo\"jousitusekai\"toyobu",
-            "zibunnoyokkyuuoseizitunimitashitekurerukankyouyahitonosyuugouo\"zyoushitsusekai\"toyobu",
-            "zibunnoyokkyuuoseizitunimitashitekurerukankyouyahitonosyuugouo\"zyoushitusekai\"toyobu",
-            "zibunnoyokkyuuoseizitunimitashitekurerukankyouyahitonosyuugouo\"zyousitsusekai\"toyobu",
-            "zibunnoyokkyuuoseizitunimitashitekurerukankyouyahitonosyuugouo\"zyousitusekai\"toyobu",
-            "zibunnoyokkyuuoseizitunimitashitekurerukankyouyahitonosyuugouwo\"joushitsusekai\"toyobu",
-            "zibunnoyokkyuuoseizitunimitashitekurerukankyouyahitonosyuugouwo\"joushitusekai\"toyobu",
-            "zibunnoyokkyuuoseizitunimitashitekurerukankyouyahitonosyuugouwo\"jousitsusekai\"toyobu",
-            "zibunnoyokkyuuoseizitunimitashitekurerukankyouyahitonosyuugouwo\"jousitusekai\"toyobu",
-            "zibunnoyokkyuuoseizitunimitashitekurerukankyouyahitonosyuugouwo\"zyoushitsusekai\"toyobu",
-            "zibunnoyokkyuuoseizitunimitashitekurerukankyouyahitonosyuugouwo\"zyoushitusekai\"toyobu",
-            "zibunnoyokkyuuoseizitunimitashitekurerukankyouyahitonosyuugouwo\"zyousitsusekai\"toyobu",
-            "zibunnoyokkyuuoseizitunimitashitekurerukankyouyahitonosyuugouwo\"zyousitusekai\"toyobu",
-            "zibunnoyokkyuuoseizitunimitasitekurerukankyouyahitonosfuugouo\"joushitsusekai\"toyobu",
-            "zibunnoyokkyuuoseizitunimitasitekurerukankyouyahitonosfuugouo\"joushitusekai\"toyobu",
-            "zibunnoyokkyuuoseizitunimitasitekurerukankyouyahitonosfuugouo\"jousitsusekai\"toyobu",
-            "zibunnoyokkyuuoseizitunimitasitekurerukankyouyahitonosfuugouo\"jousitusekai\"toyobu",
-            "zibunnoyokkyuuoseizitunimitasitekurerukankyouyahitonosfuugouo\"zyoushitsusekai\"toyobu",
-            "zibunnoyokkyuuoseizitunimitasitekurerukankyouyahitonosfuugouo\"zyoushitusekai\"toyobu",
-            "zibunnoyokkyuuoseizitunimitasitekurerukankyouyahitonosfuugouo\"zyousitsusekai\"toyobu",
-            "zibunnoyokkyuuoseizitunimitasitekurerukankyouyahitonosfuugouo\"zyousitusekai\"toyobu",
-            "zibunnoyokkyuuoseizitunimitasitekurerukankyouyahitonosfuugouwo\"joushitsusekai\"toyobu",
-            "zibunnoyokkyuuoseizitunimitasitekurerukankyouyahitonosfuugouwo\"joushitusekai\"toyobu",
-            "zibunnoyokkyuuoseizitunimitasitekurerukankyouyahitonosfuugouwo\"jousitsusekai\"toyobu",
-            "zibunnoyokkyuuoseizitunimitasitekurerukankyouyahitonosfuugouwo\"jousitusekai\"toyobu",
-            "zibunnoyokkyuuoseizitunimitasitekurerukankyouyahitonosfuugouwo\"zyoushitsusekai\"toyobu",
-            "zibunnoyokkyuuoseizitunimitasitekurerukankyouyahitonosfuugouwo\"zyoushitusekai\"toyobu",
-            "zibunnoyokkyuuoseizitunimitasitekurerukankyouyahitonosfuugouwo\"zyousitsusekai\"toyobu",
-            "zibunnoyokkyuuoseizitunimitasitekurerukankyouyahitonosfuugouwo\"zyousitusekai\"toyobu",
-            "zibunnoyokkyuuoseizitunimitasitekurerukankyouyahitonoshuugouo\"joushitsusekai\"toyobu",
-            "zibunnoyokkyuuoseizitunimitasitekurerukankyouyahitonoshuugouo\"joushitusekai\"toyobu",
-            "zibunnoyokkyuuoseizitunimitasitekurerukankyouyahitonoshuugouo\"jousitsusekai\"toyobu",
-            "zibunnoyokkyuuoseizitunimitasitekurerukankyouyahitonoshuugouo\"jousitusekai\"toyobu",
-            "zibunnoyokkyuuoseizitunimitasitekurerukankyouyahitonoshuugouo\"zyoushitsusekai\"toyobu",
-            "zibunnoyokkyuuoseizitunimitasitekurerukankyouyahitonoshuugouo\"zyoushitusekai\"toyobu",
-            "zibunnoyokkyuuoseizitunimitasitekurerukankyouyahitonoshuugouo\"zyousitsusekai\"toyobu",
-            "zibunnoyokkyuuoseizitunimitasitekurerukankyouyahitonoshuugouo\"zyousitusekai\"toyobu",
-            "zibunnoyokkyuuoseizitunimitasitekurerukankyouyahitonoshuugouwo\"joushitsusekai\"toyobu",
-            "zibunnoyokkyuuoseizitunimitasitekurerukankyouyahitonoshuugouwo\"joushitusekai\"toyobu",
-            "zibunnoyokkyuuoseizitunimitasitekurerukankyouyahitonoshuugouwo\"jousitsusekai\"toyobu",
-            "zibunnoyokkyuuoseizitunimitasitekurerukankyouyahitonoshuugouwo\"jousitusekai\"toyobu",
-            "zibunnoyokkyuuoseizitunimitasitekurerukankyouyahitonoshuugouwo\"zyoushitsusekai\"toyobu",
-            "zibunnoyokkyuuoseizitunimitasitekurerukankyouyahitonoshuugouwo\"zyoushitusekai\"toyobu",
-            "zibunnoyokkyuuoseizitunimitasitekurerukankyouyahitonoshuugouwo\"zyousitsusekai\"toyobu",
-            "zibunnoyokkyuuoseizitunimitasitekurerukankyouyahitonoshuugouwo\"zyousitusekai\"toyobu",
-            "zibunnoyokkyuuoseizitunimitasitekurerukankyouyahitonosyuugouo\"joushitsusekai\"toyobu",
-            "zibunnoyokkyuuoseizitunimitasitekurerukankyouyahitonosyuugouo\"joushitusekai\"toyobu",
-            "zibunnoyokkyuuoseizitunimitasitekurerukankyouyahitonosyuugouo\"jousitsusekai\"toyobu",
-            "zibunnoyokkyuuoseizitunimitasitekurerukankyouyahitonosyuugouo\"jousitusekai\"toyobu",
-            "zibunnoyokkyuuoseizitunimitasitekurerukankyouyahitonosyuugouo\"zyoushitsusekai\"toyobu",
-            "zibunnoyokkyuuoseizitunimitasitekurerukankyouyahitonosyuugouo\"zyoushitusekai\"toyobu",
-            "zibunnoyokkyuuoseizitunimitasitekurerukankyouyahitonosyuugouo\"zyousitsusekai\"toyobu",
-            "zibunnoyokkyuuoseizitunimitasitekurerukankyouyahitonosyuugouo\"zyousitusekai\"toyobu",
-            "zibunnoyokkyuuoseizitunimitasitekurerukankyouyahitonosyuugouwo\"joushitsusekai\"toyobu",
-            "zibunnoyokkyuuoseizitunimitasitekurerukankyouyahitonosyuugouwo\"joushitusekai\"toyobu",
-            "zibunnoyokkyuuoseizitunimitasitekurerukankyouyahitonosyuugouwo\"jousitsusekai\"toyobu",
-            "zibunnoyokkyuuoseizitunimitasitekurerukankyouyahitonosyuugouwo\"jousitusekai\"toyobu",
-            "zibunnoyokkyuuoseizitunimitasitekurerukankyouyahitonosyuugouwo\"zyoushitsusekai\"toyobu",
-            "zibunnoyokkyuuoseizitunimitasitekurerukankyouyahitonosyuugouwo\"zyoushitusekai\"toyobu",
-            "zibunnoyokkyuuoseizitunimitasitekurerukankyouyahitonosyuugouwo\"zyousitsusekai\"toyobu",
-            "zibunnoyokkyuuoseizitunimitasitekurerukankyouyahitonosyuugouwo\"zyousitusekai\"toyobu",
-            "zibunnoyokkyuuwoseijitsunimitashitekurerukankyouyahitonosfuugouo\"joushitsusekai\"toyobu",
-            "zibunnoyokkyuuwoseijitsunimitashitekurerukankyouyahitonosfuugouo\"joushitusekai\"toyobu",
-            "zibunnoyokkyuuwoseijitsunimitashitekurerukankyouyahitonosfuugouo\"jousitsusekai\"toyobu",
-            "zibunnoyokkyuuwoseijitsunimitashitekurerukankyouyahitonosfuugouo\"jousitusekai\"toyobu",
-            "zibunnoyokkyuuwoseijitsunimitashitekurerukankyouyahitonosfuugouo\"zyoushitsusekai\"toyobu",
-            "zibunnoyokkyuuwoseijitsunimitashitekurerukankyouyahitonosfuugouo\"zyoushitusekai\"toyobu",
-            "zibunnoyokkyuuwoseijitsunimitashitekurerukankyouyahitonosfuugouo\"zyousitsusekai\"toyobu",
-            "zibunnoyokkyuuwoseijitsunimitashitekurerukankyouyahitonosfuugouo\"zyousitusekai\"toyobu",
-            "zibunnoyokkyuuwoseijitsunimitashitekurerukankyouyahitonosfuugouwo\"joushitsusekai\"toyobu",
-            "zibunnoyokkyuuwoseijitsunimitashitekurerukankyouyahitonosfuugouwo\"joushitusekai\"toyobu",
-            "zibunnoyokkyuuwoseijitsunimitashitekurerukankyouyahitonosfuugouwo\"jousitsusekai\"toyobu",
-            "zibunnoyokkyuuwoseijitsunimitashitekurerukankyouyahitonosfuugouwo\"jousitusekai\"toyobu",
-            "zibunnoyokkyuuwoseijitsunimitashitekurerukankyouyahitonosfuugouwo\"zyoushitsusekai\"toyobu",
-            "zibunnoyokkyuuwoseijitsunimitashitekurerukankyouyahitonosfuugouwo\"zyoushitusekai\"toyobu",
-            "zibunnoyokkyuuwoseijitsunimitashitekurerukankyouyahitonosfuugouwo\"zyousitsusekai\"toyobu",
-            "zibunnoyokkyuuwoseijitsunimitashitekurerukankyouyahitonosfuugouwo\"zyousitusekai\"toyobu",
-            "zibunnoyokkyuuwoseijitsunimitashitekurerukankyouyahitonoshuugouo\"joushitsusekai\"toyobu",
-            "zibunnoyokkyuuwoseijitsunimitashitekurerukankyouyahitonoshuugouo\"joushitusekai\"toyobu",
-            "zibunnoyokkyuuwoseijitsunimitashitekurerukankyouyahitonoshuugouo\"jousitsusekai\"toyobu",
-            "zibunnoyokkyuuwoseijitsunimitashitekurerukankyouyahitonoshuugouo\"jousitusekai\"toyobu",
-            "zibunnoyokkyuuwoseijitsunimitashitekurerukankyouyahitonoshuugouo\"zyoushitsusekai\"toyobu",
-            "zibunnoyokkyuuwoseijitsunimitashitekurerukankyouyahitonoshuugouo\"zyoushitusekai\"toyobu",
-            "zibunnoyokkyuuwoseijitsunimitashitekurerukankyouyahitonoshuugouo\"zyousitsusekai\"toyobu",
-            "zibunnoyokkyuuwoseijitsunimitashitekurerukankyouyahitonoshuugouo\"zyousitusekai\"toyobu",
-            "zibunnoyokkyuuwoseijitsunimitashitekurerukankyouyahitonoshuugouwo\"joushitsusekai\"toyobu",
-            "zibunnoyokkyuuwoseijitsunimitashitekurerukankyouyahitonoshuugouwo\"joushitusekai\"toyobu",
-            "zibunnoyokkyuuwoseijitsunimitashitekurerukankyouyahitonoshuugouwo\"jousitsusekai\"toyobu",
-            "zibunnoyokkyuuwoseijitsunimitashitekurerukankyouyahitonoshuugouwo\"jousitusekai\"toyobu",
-            "zibunnoyokkyuuwoseijitsunimitashitekurerukankyouyahitonoshuugouwo\"zyoushitsusekai\"toyobu",
-            "zibunnoyokkyuuwoseijitsunimitashitekurerukankyouyahitonoshuugouwo\"zyoushitusekai\"toyobu",
-            "zibunnoyokkyuuwoseijitsunimitashitekurerukankyouyahitonoshuugouwo\"zyousitsusekai\"toyobu",
-            "zibunnoyokkyuuwoseijitsunimitashitekurerukankyouyahitonoshuugouwo\"zyousitusekai\"toyobu",
-            "zibunnoyokkyuuwoseijitsunimitashitekurerukankyouyahitonosyuugouo\"joushitsusekai\"toyobu",
-            "zibunnoyokkyuuwoseijitsunimitashitekurerukankyouyahitonosyuugouo\"joushitusekai\"toyobu",
-            "zibunnoyokkyuuwoseijitsunimitashitekurerukankyouyahitonosyuugouo\"jousitsusekai\"toyobu",
-            "zibunnoyokkyuuwoseijitsunimitashitekurerukankyouyahitonosyuugouo\"jousitusekai\"toyobu",
-            "zibunnoyokkyuuwoseijitsunimitashitekurerukankyouyahitonosyuugouo\"zyoushitsusekai\"toyobu",
-            "zibunnoyokkyuuwoseijitsunimitashitekurerukankyouyahitonosyuugouo\"zyoushitusekai\"toyobu",
-            "zibunnoyokkyuuwoseijitsunimitashitekurerukankyouyahitonosyuugouo\"zyousitsusekai\"toyobu",
-            "zibunnoyokkyuuwoseijitsunimitashitekurerukankyouyahitonosyuugouo\"zyousitusekai\"toyobu",
-            "zibunnoyokkyuuwoseijitsunimitashitekurerukankyouyahitonosyuugouwo\"joushitsusekai\"toyobu",
-            "zibunnoyokkyuuwoseijitsunimitashitekurerukankyouyahitonosyuugouwo\"joushitusekai\"toyobu",
-            "zibunnoyokkyuuwoseijitsunimitashitekurerukankyouyahitonosyuugouwo\"jousitsusekai\"toyobu",
-            "zibunnoyokkyuuwoseijitsunimitashitekurerukankyouyahitonosyuugouwo\"jousitusekai\"toyobu",
-            "zibunnoyokkyuuwoseijitsunimitashitekurerukankyouyahitonosyuugouwo\"zyoushitsusekai\"toyobu",
-            "zibunnoyokkyuuwoseijitsunimitashitekurerukankyouyahitonosyuugouwo\"zyoushitusekai\"toyobu",
-            "zibunnoyokkyuuwoseijitsunimitashitekurerukankyouyahitonosyuugouwo\"zyousitsusekai\"toyobu",
-            "zibunnoyokkyuuwoseijitsunimitashitekurerukankyouyahitonosyuugouwo\"zyousitusekai\"toyobu",
-            "zibunnoyokkyuuwoseijitsunimitasitekurerukankyouyahitonosfuugouo\"joushitsusekai\"toyobu",
-            "zibunnoyokkyuuwoseijitsunimitasitekurerukankyouyahitonosfuugouo\"joushitusekai\"toyobu",
-            "zibunnoyokkyuuwoseijitsunimitasitekurerukankyouyahitonosfuugouo\"jousitsusekai\"toyobu",
-            "zibunnoyokkyuuwoseijitsunimitasitekurerukankyouyahitonosfuugouo\"jousitusekai\"toyobu",
-            "zibunnoyokkyuuwoseijitsunimitasitekurerukankyouyahitonosfuugouo\"zyoushitsusekai\"toyobu",
-            "zibunnoyokkyuuwoseijitsunimitasitekurerukankyouyahitonosfuugouo\"zyoushitusekai\"toyobu",
-            "zibunnoyokkyuuwoseijitsunimitasitekurerukankyouyahitonosfuugouo\"zyousitsusekai\"toyobu",
-            "zibunnoyokkyuuwoseijitsunimitasitekurerukankyouyahitonosfuugouo\"zyousitusekai\"toyobu",
-            "zibunnoyokkyuuwoseijitsunimitasitekurerukankyouyahitonosfuugouwo\"joushitsusekai\"toyobu",
-            "zibunnoyokkyuuwoseijitsunimitasitekurerukankyouyahitonosfuugouwo\"joushitusekai\"toyobu",
-            "zibunnoyokkyuuwoseijitsunimitasitekurerukankyouyahitonosfuugouwo\"jousitsusekai\"toyobu",
-            "zibunnoyokkyuuwoseijitsunimitasitekurerukankyouyahitonosfuugouwo\"jousitusekai\"toyobu",
-            "zibunnoyokkyuuwoseijitsunimitasitekurerukankyouyahitonosfuugouwo\"zyoushitsusekai\"toyobu",
-            "zibunnoyokkyuuwoseijitsunimitasitekurerukankyouyahitonosfuugouwo\"zyoushitusekai\"toyobu",
-            "zibunnoyokkyuuwoseijitsunimitasitekurerukankyouyahitonosfuugouwo\"zyousitsusekai\"toyobu",
-            "zibunnoyokkyuuwoseijitsunimitasitekurerukankyouyahitonosfuugouwo\"zyousitusekai\"toyobu",
-            "zibunnoyokkyuuwoseijitsunimitasitekurerukankyouyahitonoshuugouo\"joushitsusekai\"toyobu",
-            "zibunnoyokkyuuwoseijitsunimitasitekurerukankyouyahitonoshuugouo\"joushitusekai\"toyobu",
-            "zibunnoyokkyuuwoseijitsunimitasitekurerukankyouyahitonoshuugouo\"jousitsusekai\"toyobu",
-            "zibunnoyokkyuuwoseijitsunimitasitekurerukankyouyahitonoshuugouo\"jousitusekai\"toyobu",
-            "zibunnoyokkyuuwoseijitsunimitasitekurerukankyouyahitonoshuugouo\"zyoushitsusekai\"toyobu",
-            "zibunnoyokkyuuwoseijitsunimitasitekurerukankyouyahitonoshuugouo\"zyoushitusekai\"toyobu",
-            "zibunnoyokkyuuwoseijitsunimitasitekurerukankyouyahitonoshuugouo\"zyousitsusekai\"toyobu",
-            "zibunnoyokkyuuwoseijitsunimitasitekurerukankyouyahitonoshuugouo\"zyousitusekai\"toyobu",
-            "zibunnoyokkyuuwoseijitsunimitasitekurerukankyouyahitonoshuugouwo\"joushitsusekai\"toyobu",
-            "zibunnoyokkyuuwoseijitsunimitasitekurerukankyouyahitonoshuugouwo\"joushitusekai\"toyobu",
-            "zibunnoyokkyuuwoseijitsunimitasitekurerukankyouyahitonoshuugouwo\"jousitsusekai\"toyobu",
-            "zibunnoyokkyuuwoseijitsunimitasitekurerukankyouyahitonoshuugouwo\"jousitusekai\"toyobu",
-            "zibunnoyokkyuuwoseijitsunimitasitekurerukankyouyahitonoshuugouwo\"zyoushitsusekai\"toyobu",
-            "zibunnoyokkyuuwoseijitsunimitasitekurerukankyouyahitonoshuugouwo\"zyoushitusekai\"toyobu",
-            "zibunnoyokkyuuwoseijitsunimitasitekurerukankyouyahitonoshuugouwo\"zyousitsusekai\"toyobu",
-            "zibunnoyokkyuuwoseijitsunimitasitekurerukankyouyahitonoshuugouwo\"zyousitusekai\"toyobu",
-            "zibunnoyokkyuuwoseijitsunimitasitekurerukankyouyahitonosyuugouo\"joushitsusekai\"toyobu",
-            "zibunnoyokkyuuwoseijitsunimitasitekurerukankyouyahitonosyuugouo\"joushitusekai\"toyobu",
-            "zibunnoyokkyuuwoseijitsunimitasitekurerukankyouyahitonosyuugouo\"jousitsusekai\"toyobu",
-            "zibunnoyokkyuuwoseijitsunimitasitekurerukankyouyahitonosyuugouo\"jousitusekai\"toyobu",
-            "zibunnoyokkyuuwoseijitsunimitasitekurerukankyouyahitonosyuugouo\"zyoushitsusekai\"toyobu",
-            "zibunnoyokkyuuwoseijitsunimitasitekurerukankyouyahitonosyuugouo\"zyoushitusekai\"toyobu",
-            "zibunnoyokkyuuwoseijitsunimitasitekurerukankyouyahitonosyuugouo\"zyousitsusekai\"toyobu",
-            "zibunnoyokkyuuwoseijitsunimitasitekurerukankyouyahitonosyuugouo\"zyousitusekai\"toyobu",
-            "zibunnoyokkyuuwoseijitsunimitasitekurerukankyouyahitonosyuugouwo\"joushitsusekai\"toyobu",
-            "zibunnoyokkyuuwoseijitsunimitasitekurerukankyouyahitonosyuugouwo\"joushitusekai\"toyobu",
-            "zibunnoyokkyuuwoseijitsunimitasitekurerukankyouyahitonosyuugouwo\"jousitsusekai\"toyobu",
-            "zibunnoyokkyuuwoseijitsunimitasitekurerukankyouyahitonosyuugouwo\"jousitusekai\"toyobu",
-            "zibunnoyokkyuuwoseijitsunimitasitekurerukankyouyahitonosyuugouwo\"zyoushitsusekai\"toyobu",
-            "zibunnoyokkyuuwoseijitsunimitasitekurerukankyouyahitonosyuugouwo\"zyoushitusekai\"toyobu",
-            "zibunnoyokkyuuwoseijitsunimitasitekurerukankyouyahitonosyuugouwo\"zyousitsusekai\"toyobu",
-            "zibunnoyokkyuuwoseijitsunimitasitekurerukankyouyahitonosyuugouwo\"zyousitusekai\"toyobu",
-            "zibunnoyokkyuuwoseijitunimitashitekurerukankyouyahitonosfuugouo\"joushitsusekai\"toyobu",
-            "zibunnoyokkyuuwoseijitunimitashitekurerukankyouyahitonosfuugouo\"joushitusekai\"toyobu",
-            "zibunnoyokkyuuwoseijitunimitashitekurerukankyouyahitonosfuugouo\"jousitsusekai\"toyobu",
-            "zibunnoyokkyuuwoseijitunimitashitekurerukankyouyahitonosfuugouo\"jousitusekai\"toyobu",
-            "zibunnoyokkyuuwoseijitunimitashitekurerukankyouyahitonosfuugouo\"zyoushitsusekai\"toyobu",
-            "zibunnoyokkyuuwoseijitunimitashitekurerukankyouyahitonosfuugouo\"zyoushitusekai\"toyobu",
-            "zibunnoyokkyuuwoseijitunimitashitekurerukankyouyahitonosfuugouo\"zyousitsusekai\"toyobu",
-            "zibunnoyokkyuuwoseijitunimitashitekurerukankyouyahitonosfuugouo\"zyousitusekai\"toyobu",
-            "zibunnoyokkyuuwoseijitunimitashitekurerukankyouyahitonosfuugouwo\"joushitsusekai\"toyobu",
-            "zibunnoyokkyuuwoseijitunimitashitekurerukankyouyahitonosfuugouwo\"joushitusekai\"toyobu",
-            "zibunnoyokkyuuwoseijitunimitashitekurerukankyouyahitonosfuugouwo\"jousitsusekai\"toyobu",
-            "zibunnoyokkyuuwoseijitunimitashitekurerukankyouyahitonosfuugouwo\"jousitusekai\"toyobu",
-            "zibunnoyokkyuuwoseijitunimitashitekurerukankyouyahitonosfuugouwo\"zyoushitsusekai\"toyobu",
-            "zibunnoyokkyuuwoseijitunimitashitekurerukankyouyahitonosfuugouwo\"zyoushitusekai\"toyobu",
-            "zibunnoyokkyuuwoseijitunimitashitekurerukankyouyahitonosfuugouwo\"zyousitsusekai\"toyobu",
-            "zibunnoyokkyuuwoseijitunimitashitekurerukankyouyahitonosfuugouwo\"zyousitusekai\"toyobu",
-            "zibunnoyokkyuuwoseijitunimitashitekurerukankyouyahitonoshuugouo\"joushitsusekai\"toyobu",
-            "zibunnoyokkyuuwoseijitunimitashitekurerukankyouyahitonoshuugouo\"joushitusekai\"toyobu",
-            "zibunnoyokkyuuwoseijitunimitashitekurerukankyouyahitonoshuugouo\"jousitsusekai\"toyobu",
-            "zibunnoyokkyuuwoseijitunimitashitekurerukankyouyahitonoshuugouo\"jousitusekai\"toyobu",
-            "zibunnoyokkyuuwoseijitunimitashitekurerukankyouyahitonoshuugouo\"zyoushitsusekai\"toyobu",
-            "zibunnoyokkyuuwoseijitunimitashitekurerukankyouyahitonoshuugouo\"zyoushitusekai\"toyobu",
-            "zibunnoyokkyuuwoseijitunimitashitekurerukankyouyahitonoshuugouo\"zyousitsusekai\"toyobu",
-            "zibunnoyokkyuuwoseijitunimitashitekurerukankyouyahitonoshuugouo\"zyousitusekai\"toyobu",
-            "zibunnoyokkyuuwoseijitunimitashitekurerukankyouyahitonoshuugouwo\"joushitsusekai\"toyobu",
-            "zibunnoyokkyuuwoseijitunimitashitekurerukankyouyahitonoshuugouwo\"joushitusekai\"toyobu",
-            "zibunnoyokkyuuwoseijitunimitashitekurerukankyouyahitonoshuugouwo\"jousitsusekai\"toyobu",
-            "zibunnoyokkyuuwoseijitunimitashitekurerukankyouyahitonoshuugouwo\"jousitusekai\"toyobu",
-            "zibunnoyokkyuuwoseijitunimitashitekurerukankyouyahitonoshuugouwo\"zyoushitsusekai\"toyobu",
-            "zibunnoyokkyuuwoseijitunimitashitekurerukankyouyahitonoshuugouwo\"zyoushitusekai\"toyobu",
-            "zibunnoyokkyuuwoseijitunimitashitekurerukankyouyahitonoshuugouwo\"zyousitsusekai\"toyobu",
-            "zibunnoyokkyuuwoseijitunimitashitekurerukankyouyahitonoshuugouwo\"zyousitusekai\"toyobu",
-            "zibunnoyokkyuuwoseijitunimitashitekurerukankyouyahitonosyuugouo\"joushitsusekai\"toyobu",
-            "zibunnoyokkyuuwoseijitunimitashitekurerukankyouyahitonosyuugouo\"joushitusekai\"toyobu",
-            "zibunnoyokkyuuwoseijitunimitashitekurerukankyouyahitonosyuugouo\"jousitsusekai\"toyobu",
-            "zibunnoyokkyuuwoseijitunimitashitekurerukankyouyahitonosyuugouo\"jousitusekai\"toyobu",
-            "zibunnoyokkyuuwoseijitunimitashitekurerukankyouyahitonosyuugouo\"zyoushitsusekai\"toyobu",
-            "zibunnoyokkyuuwoseijitunimitashitekurerukankyouyahitonosyuugouo\"zyoushitusekai\"toyobu",
-            "zibunnoyokkyuuwoseijitunimitashitekurerukankyouyahitonosyuugouo\"zyousitsusekai\"toyobu",
-            "zibunnoyokkyuuwoseijitunimitashitekurerukankyouyahitonosyuugouo\"zyousitusekai\"toyobu",
-            "zibunnoyokkyuuwoseijitunimitashitekurerukankyouyahitonosyuugouwo\"joushitsusekai\"toyobu",
-            "zibunnoyokkyuuwoseijitunimitashitekurerukankyouyahitonosyuugouwo\"joushitusekai\"toyobu",
-            "zibunnoyokkyuuwoseijitunimitashitekurerukankyouyahitonosyuugouwo\"jousitsusekai\"toyobu",
-            "zibunnoyokkyuuwoseijitunimitashitekurerukankyouyahitonosyuugouwo\"jousitusekai\"toyobu",
-            "zibunnoyokkyuuwoseijitunimitashitekurerukankyouyahitonosyuugouwo\"zyoushitsusekai\"toyobu",
-            "zibunnoyokkyuuwoseijitunimitashitekurerukankyouyahitonosyuugouwo\"zyoushitusekai\"toyobu",
-            "zibunnoyokkyuuwoseijitunimitashitekurerukankyouyahitonosyuugouwo\"zyousitsusekai\"toyobu",
-            "zibunnoyokkyuuwoseijitunimitashitekurerukankyouyahitonosyuugouwo\"zyousitusekai\"toyobu",
-            "zibunnoyokkyuuwoseijitunimitasitekurerukankyouyahitonosfuugouo\"joushitsusekai\"toyobu",
-            "zibunnoyokkyuuwoseijitunimitasitekurerukankyouyahitonosfuugouo\"joushitusekai\"toyobu",
-            "zibunnoyokkyuuwoseijitunimitasitekurerukankyouyahitonosfuugouo\"jousitsusekai\"toyobu",
-            "zibunnoyokkyuuwoseijitunimitasitekurerukankyouyahitonosfuugouo\"jousitusekai\"toyobu",
-            "zibunnoyokkyuuwoseijitunimitasitekurerukankyouyahitonosfuugouo\"zyoushitsusekai\"toyobu",
-            "zibunnoyokkyuuwoseijitunimitasitekurerukankyouyahitonosfuugouo\"zyoushitusekai\"toyobu",
-            "zibunnoyokkyuuwoseijitunimitasitekurerukankyouyahitonosfuugouo\"zyousitsusekai\"toyobu",
-            "zibunnoyokkyuuwoseijitunimitasitekurerukankyouyahitonosfuugouo\"zyousitusekai\"toyobu",
-            "zibunnoyokkyuuwoseijitunimitasitekurerukankyouyahitonosfuugouwo\"joushitsusekai\"toyobu",
-            "zibunnoyokkyuuwoseijitunimitasitekurerukankyouyahitonosfuugouwo\"joushitusekai\"toyobu",
-            "zibunnoyokkyuuwoseijitunimitasitekurerukankyouyahitonosfuugouwo\"jousitsusekai\"toyobu",
-            "zibunnoyokkyuuwoseijitunimitasitekurerukankyouyahitonosfuugouwo\"jousitusekai\"toyobu",
-            "zibunnoyokkyuuwoseijitunimitasitekurerukankyouyahitonosfuugouwo\"zyoushitsusekai\"toyobu",
-            "zibunnoyokkyuuwoseijitunimitasitekurerukankyouyahitonosfuugouwo\"zyoushitusekai\"toyobu",
-            "zibunnoyokkyuuwoseijitunimitasitekurerukankyouyahitonosfuugouwo\"zyousitsusekai\"toyobu",
-            "zibunnoyokkyuuwoseijitunimitasitekurerukankyouyahitonosfuugouwo\"zyousitusekai\"toyobu",
-            "zibunnoyokkyuuwoseijitunimitasitekurerukankyouyahitonoshuugouo\"joushitsusekai\"toyobu",
-            "zibunnoyokkyuuwoseijitunimitasitekurerukankyouyahitonoshuugouo\"joushitusekai\"toyobu",
-            "zibunnoyokkyuuwoseijitunimitasitekurerukankyouyahitonoshuugouo\"jousitsusekai\"toyobu",
-            "zibunnoyokkyuuwoseijitunimitasitekurerukankyouyahitonoshuugouo\"jousitusekai\"toyobu",
-            "zibunnoyokkyuuwoseijitunimitasitekurerukankyouyahitonoshuugouo\"zyoushitsusekai\"toyobu",
-            "zibunnoyokkyuuwoseijitunimitasitekurerukankyouyahitonoshuugouo\"zyoushitusekai\"toyobu",
-            "zibunnoyokkyuuwoseijitunimitasitekurerukankyouyahitonoshuugouo\"zyousitsusekai\"toyobu",
-            "zibunnoyokkyuuwoseijitunimitasitekurerukankyouyahitonoshuugouo\"zyousitusekai\"toyobu",
-            "zibunnoyokkyuuwoseijitunimitasitekurerukankyouyahitonoshuugouwo\"joushitsusekai\"toyobu",
-            "zibunnoyokkyuuwoseijitunimitasitekurerukankyouyahitonoshuugouwo\"joushitusekai\"toyobu",
-            "zibunnoyokkyuuwoseijitunimitasitekurerukankyouyahitonoshuugouwo\"jousitsusekai\"toyobu",
-            "zibunnoyokkyuuwoseijitunimitasitekurerukankyouyahitonoshuugouwo\"jousitusekai\"toyobu",
-            "zibunnoyokkyuuwoseijitunimitasitekurerukankyouyahitonoshuugouwo\"zyoushitsusekai\"toyobu",
-            "zibunnoyokkyuuwoseijitunimitasitekurerukankyouyahitonoshuugouwo\"zyoushitusekai\"toyobu",
-            "zibunnoyokkyuuwoseijitunimitasitekurerukankyouyahitonoshuugouwo\"zyousitsusekai\"toyobu",
-            "zibunnoyokkyuuwoseijitunimitasitekurerukankyouyahitonoshuugouwo\"zyousitusekai\"toyobu",
-            "zibunnoyokkyuuwoseijitunimitasitekurerukankyouyahitonosyuugouo\"joushitsusekai\"toyobu",
-            "zibunnoyokkyuuwoseijitunimitasitekurerukankyouyahitonosyuugouo\"joushitusekai\"toyobu",
-            "zibunnoyokkyuuwoseijitunimitasitekurerukankyouyahitonosyuugouo\"jousitsusekai\"toyobu",
-            "zibunnoyokkyuuwoseijitunimitasitekurerukankyouyahitonosyuugouo\"jousitusekai\"toyobu",
-            "zibunnoyokkyuuwoseijitunimitasitekurerukankyouyahitonosyuugouo\"zyoushitsusekai\"toyobu",
-            "zibunnoyokkyuuwoseijitunimitasitekurerukankyouyahitonosyuugouo\"zyoushitusekai\"toyobu",
-            "zibunnoyokkyuuwoseijitunimitasitekurerukankyouyahitonosyuugouo\"zyousitsusekai\"toyobu",
-            "zibunnoyokkyuuwoseijitunimitasitekurerukankyouyahitonosyuugouo\"zyousitusekai\"toyobu",
-            "zibunnoyokkyuuwoseijitunimitasitekurerukankyouyahitonosyuugouwo\"joushitsusekai\"toyobu",
-            "zibunnoyokkyuuwoseijitunimitasitekurerukankyouyahitonosyuugouwo\"joushitusekai\"toyobu",
-            "zibunnoyokkyuuwoseijitunimitasitekurerukankyouyahitonosyuugouwo\"jousitsusekai\"toyobu",
-            "zibunnoyokkyuuwoseijitunimitasitekurerukankyouyahitonosyuugouwo\"jousitusekai\"toyobu",
-            "zibunnoyokkyuuwoseijitunimitasitekurerukankyouyahitonosyuugouwo\"zyoushitsusekai\"toyobu",
-            "zibunnoyokkyuuwoseijitunimitasitekurerukankyouyahitonosyuugouwo\"zyoushitusekai\"toyobu",
-            "zibunnoyokkyuuwoseijitunimitasitekurerukankyouyahitonosyuugouwo\"zyousitsusekai\"toyobu",
-            "zibunnoyokkyuuwoseijitunimitasitekurerukankyouyahitonosyuugouwo\"zyousitusekai\"toyobu",
-            "zibunnoyokkyuuwoseizitsunimitashitekurerukankyouyahitonosfuugouo\"joushitsusekai\"toyobu",
-            "zibunnoyokkyuuwoseizitsunimitashitekurerukankyouyahitonosfuugouo\"joushitusekai\"toyobu",
-            "zibunnoyokkyuuwoseizitsunimitashitekurerukankyouyahitonosfuugouo\"jousitsusekai\"toyobu",
-            "zibunnoyokkyuuwoseizitsunimitashitekurerukankyouyahitonosfuugouo\"jousitusekai\"toyobu",
-            "zibunnoyokkyuuwoseizitsunimitashitekurerukankyouyahitonosfuugouo\"zyoushitsusekai\"toyobu",
-            "zibunnoyokkyuuwoseizitsunimitashitekurerukankyouyahitonosfuugouo\"zyoushitusekai\"toyobu",
-            "zibunnoyokkyuuwoseizitsunimitashitekurerukankyouyahitonosfuugouo\"zyousitsusekai\"toyobu",
-            "zibunnoyokkyuuwoseizitsunimitashitekurerukankyouyahitonosfuugouo\"zyousitusekai\"toyobu",
-            "zibunnoyokkyuuwoseizitsunimitashitekurerukankyouyahitonosfuugouwo\"joushitsusekai\"toyobu",
-            "zibunnoyokkyuuwoseizitsunimitashitekurerukankyouyahitonosfuugouwo\"joushitusekai\"toyobu",
-            "zibunnoyokkyuuwoseizitsunimitashitekurerukankyouyahitonosfuugouwo\"jousitsusekai\"toyobu",
-            "zibunnoyokkyuuwoseizitsunimitashitekurerukankyouyahitonosfuugouwo\"jousitusekai\"toyobu",
-            "zibunnoyokkyuuwoseizitsunimitashitekurerukankyouyahitonosfuugouwo\"zyoushitsusekai\"toyobu",
-            "zibunnoyokkyuuwoseizitsunimitashitekurerukankyouyahitonosfuugouwo\"zyoushitusekai\"toyobu",
-            "zibunnoyokkyuuwoseizitsunimitashitekurerukankyouyahitonosfuugouwo\"zyousitsusekai\"toyobu",
-            "zibunnoyokkyuuwoseizitsunimitashitekurerukankyouyahitonosfuugouwo\"zyousitusekai\"toyobu",
-            "zibunnoyokkyuuwoseizitsunimitashitekurerukankyouyahitonoshuugouo\"joushitsusekai\"toyobu",
-            "zibunnoyokkyuuwoseizitsunimitashitekurerukankyouyahitonoshuugouo\"joushitusekai\"toyobu",
-            "zibunnoyokkyuuwoseizitsunimitashitekurerukankyouyahitonoshuugouo\"jousitsusekai\"toyobu",
-            "zibunnoyokkyuuwoseizitsunimitashitekurerukankyouyahitonoshuugouo\"jousitusekai\"toyobu",
-            "zibunnoyokkyuuwoseizitsunimitashitekurerukankyouyahitonoshuugouo\"zyoushitsusekai\"toyobu",
-            "zibunnoyokkyuuwoseizitsunimitashitekurerukankyouyahitonoshuugouo\"zyoushitusekai\"toyobu",
-            "zibunnoyokkyuuwoseizitsunimitashitekurerukankyouyahitonoshuugouo\"zyousitsusekai\"toyobu",
-            "zibunnoyokkyuuwoseizitsunimitashitekurerukankyouyahitonoshuugouo\"zyousitusekai\"toyobu",
-            "zibunnoyokkyuuwoseizitsunimitashitekurerukankyouyahitonoshuugouwo\"joushitsusekai\"toyobu",
-            "zibunnoyokkyuuwoseizitsunimitashitekurerukankyouyahitonoshuugouwo\"joushitusekai\"toyobu",
-            "zibunnoyokkyuuwoseizitsunimitashitekurerukankyouyahitonoshuugouwo\"jousitsusekai\"toyobu",
-            "zibunnoyokkyuuwoseizitsunimitashitekurerukankyouyahitonoshuugouwo\"jousitusekai\"toyobu",
-            "zibunnoyokkyuuwoseizitsunimitashitekurerukankyouyahitonoshuugouwo\"zyoushitsusekai\"toyobu",
-            "zibunnoyokkyuuwoseizitsunimitashitekurerukankyouyahitonoshuugouwo\"zyoushitusekai\"toyobu",
-            "zibunnoyokkyuuwoseizitsunimitashitekurerukankyouyahitonoshuugouwo\"zyousitsusekai\"toyobu",
-            "zibunnoyokkyuuwoseizitsunimitashitekurerukankyouyahitonoshuugouwo\"zyousitusekai\"toyobu",
-            "zibunnoyokkyuuwoseizitsunimitashitekurerukankyouyahitonosyuugouo\"joushitsusekai\"toyobu",
-            "zibunnoyokkyuuwoseizitsunimitashitekurerukankyouyahitonosyuugouo\"joushitusekai\"toyobu",
-            "zibunnoyokkyuuwoseizitsunimitashitekurerukankyouyahitonosyuugouo\"jousitsusekai\"toyobu",
-            "zibunnoyokkyuuwoseizitsunimitashitekurerukankyouyahitonosyuugouo\"jousitusekai\"toyobu",
-            "zibunnoyokkyuuwoseizitsunimitashitekurerukankyouyahitonosyuugouo\"zyoushitsusekai\"toyobu",
-            "zibunnoyokkyuuwoseizitsunimitashitekurerukankyouyahitonosyuugouo\"zyoushitusekai\"toyobu",
-            "zibunnoyokkyuuwoseizitsunimitashitekurerukankyouyahitonosyuugouo\"zyousitsusekai\"toyobu",
-            "zibunnoyokkyuuwoseizitsunimitashitekurerukankyouyahitonosyuugouo\"zyousitusekai\"toyobu",
-            "zibunnoyokkyuuwoseizitsunimitashitekurerukankyouyahitonosyuugouwo\"joushitsusekai\"toyobu",
-            "zibunnoyokkyuuwoseizitsunimitashitekurerukankyouyahitonosyuugouwo\"joushitusekai\"toyobu",
-            "zibunnoyokkyuuwoseizitsunimitashitekurerukankyouyahitonosyuugouwo\"jousitsusekai\"toyobu",
-            "zibunnoyokkyuuwoseizitsunimitashitekurerukankyouyahitonosyuugouwo\"jousitusekai\"toyobu",
-            "zibunnoyokkyuuwoseizitsunimitashitekurerukankyouyahitonosyuugouwo\"zyoushitsusekai\"toyobu",
-            "zibunnoyokkyuuwoseizitsunimitashitekurerukankyouyahitonosyuugouwo\"zyoushitusekai\"toyobu",
-            "zibunnoyokkyuuwoseizitsunimitashitekurerukankyouyahitonosyuugouwo\"zyousitsusekai\"toyobu",
-            "zibunnoyokkyuuwoseizitsunimitashitekurerukankyouyahitonosyuugouwo\"zyousitusekai\"toyobu",
-            "zibunnoyokkyuuwoseizitsunimitasitekurerukankyouyahitonosfuugouo\"joushitsusekai\"toyobu",
-            "zibunnoyokkyuuwoseizitsunimitasitekurerukankyouyahitonosfuugouo\"joushitusekai\"toyobu",
-            "zibunnoyokkyuuwoseizitsunimitasitekurerukankyouyahitonosfuugouo\"jousitsusekai\"toyobu",
-            "zibunnoyokkyuuwoseizitsunimitasitekurerukankyouyahitonosfuugouo\"jousitusekai\"toyobu",
-            "zibunnoyokkyuuwoseizitsunimitasitekurerukankyouyahitonosfuugouo\"zyoushitsusekai\"toyobu",
-            "zibunnoyokkyuuwoseizitsunimitasitekurerukankyouyahitonosfuugouo\"zyoushitusekai\"toyobu",
-            "zibunnoyokkyuuwoseizitsunimitasitekurerukankyouyahitonosfuugouo\"zyousitsusekai\"toyobu",
-            "zibunnoyokkyuuwoseizitsunimitasitekurerukankyouyahitonosfuugouo\"zyousitusekai\"toyobu",
-            "zibunnoyokkyuuwoseizitsunimitasitekurerukankyouyahitonosfuugouwo\"joushitsusekai\"toyobu",
-            "zibunnoyokkyuuwoseizitsunimitasitekurerukankyouyahitonosfuugouwo\"joushitusekai\"toyobu",
-            "zibunnoyokkyuuwoseizitsunimitasitekurerukankyouyahitonosfuugouwo\"jousitsusekai\"toyobu",
-            "zibunnoyokkyuuwoseizitsunimitasitekurerukankyouyahitonosfuugouwo\"jousitusekai\"toyobu",
-            "zibunnoyokkyuuwoseizitsunimitasitekurerukankyouyahitonosfuugouwo\"zyoushitsusekai\"toyobu",
-            "zibunnoyokkyuuwoseizitsunimitasitekurerukankyouyahitonosfuugouwo\"zyoushitusekai\"toyobu",
-            "zibunnoyokkyuuwoseizitsunimitasitekurerukankyouyahitonosfuugouwo\"zyousitsusekai\"toyobu",
-            "zibunnoyokkyuuwoseizitsunimitasitekurerukankyouyahitonosfuugouwo\"zyousitusekai\"toyobu",
-            "zibunnoyokkyuuwoseizitsunimitasitekurerukankyouyahitonoshuugouo\"joushitsusekai\"toyobu",
-            "zibunnoyokkyuuwoseizitsunimitasitekurerukankyouyahitonoshuugouo\"joushitusekai\"toyobu",
-            "zibunnoyokkyuuwoseizitsunimitasitekurerukankyouyahitonoshuugouo\"jousitsusekai\"toyobu",
-            "zibunnoyokkyuuwoseizitsunimitasitekurerukankyouyahitonoshuugouo\"jousitusekai\"toyobu",
-            "zibunnoyokkyuuwoseizitsunimitasitekurerukankyouyahitonoshuugouo\"zyoushitsusekai\"toyobu",
-            "zibunnoyokkyuuwoseizitsunimitasitekurerukankyouyahitonoshuugouo\"zyoushitusekai\"toyobu",
-            "zibunnoyokkyuuwoseizitsunimitasitekurerukankyouyahitonoshuugouo\"zyousitsusekai\"toyobu",
-            "zibunnoyokkyuuwoseizitsunimitasitekurerukankyouyahitonoshuugouo\"zyousitusekai\"toyobu",
-            "zibunnoyokkyuuwoseizitsunimitasitekurerukankyouyahitonoshuugouwo\"joushitsusekai\"toyobu",
-            "zibunnoyokkyuuwoseizitsunimitasitekurerukankyouyahitonoshuugouwo\"joushitusekai\"toyobu",
-            "zibunnoyokkyuuwoseizitsunimitasitekurerukankyouyahitonoshuugouwo\"jousitsusekai\"toyobu",
-            "zibunnoyokkyuuwoseizitsunimitasitekurerukankyouyahitonoshuugouwo\"jousitusekai\"toyobu",
-            "zibunnoyokkyuuwoseizitsunimitasitekurerukankyouyahitonoshuugouwo\"zyoushitsusekai\"toyobu",
-            "zibunnoyokkyuuwoseizitsunimitasitekurerukankyouyahitonoshuugouwo\"zyoushitusekai\"toyobu",
-            "zibunnoyokkyuuwoseizitsunimitasitekurerukankyouyahitonoshuugouwo\"zyousitsusekai\"toyobu",
-            "zibunnoyokkyuuwoseizitsunimitasitekurerukankyouyahitonoshuugouwo\"zyousitusekai\"toyobu",
-            "zibunnoyokkyuuwoseizitsunimitasitekurerukankyouyahitonosyuugouo\"joushitsusekai\"toyobu",
-            "zibunnoyokkyuuwoseizitsunimitasitekurerukankyouyahitonosyuugouo\"joushitusekai\"toyobu",
-            "zibunnoyokkyuuwoseizitsunimitasitekurerukankyouyahitonosyuugouo\"jousitsusekai\"toyobu",
-            "zibunnoyokkyuuwoseizitsunimitasitekurerukankyouyahitonosyuugouo\"jousitusekai\"toyobu",
-            "zibunnoyokkyuuwoseizitsunimitasitekurerukankyouyahitonosyuugouo\"zyoushitsusekai\"toyobu",
-            "zibunnoyokkyuuwoseizitsunimitasitekurerukankyouyahitonosyuugouo\"zyoushitusekai\"toyobu",
-            "zibunnoyokkyuuwoseizitsunimitasitekurerukankyouyahitonosyuugouo\"zyousitsusekai\"toyobu",
-            "zibunnoyokkyuuwoseizitsunimitasitekurerukankyouyahitonosyuugouo\"zyousitusekai\"toyobu",
-            "zibunnoyokkyuuwoseizitsunimitasitekurerukankyouyahitonosyuugouwo\"joushitsusekai\"toyobu",
-            "zibunnoyokkyuuwoseizitsunimitasitekurerukankyouyahitonosyuugouwo\"joushitusekai\"toyobu",
-            "zibunnoyokkyuuwoseizitsunimitasitekurerukankyouyahitonosyuugouwo\"jousitsusekai\"toyobu",
-            "zibunnoyokkyuuwoseizitsunimitasitekurerukankyouyahitonosyuugouwo\"jousitusekai\"toyobu",
-            "zibunnoyokkyuuwoseizitsunimitasitekurerukankyouyahitonosyuugouwo\"zyoushitsusekai\"toyobu",
-            "zibunnoyokkyuuwoseizitsunimitasitekurerukankyouyahitonosyuugouwo\"zyoushitusekai\"toyobu",
-            "zibunnoyokkyuuwoseizitsunimitasitekurerukankyouyahitonosyuugouwo\"zyousitsusekai\"toyobu",
-            "zibunnoyokkyuuwoseizitsunimitasitekurerukankyouyahitonosyuugouwo\"zyousitusekai\"toyobu",
-            "zibunnoyokkyuuwoseizitunimitashitekurerukankyouyahitonosfuugouo\"joushitsusekai\"toyobu",
-            "zibunnoyokkyuuwoseizitunimitashitekurerukankyouyahitonosfuugouo\"joushitusekai\"toyobu",
-            "zibunnoyokkyuuwoseizitunimitashitekurerukankyouyahitonosfuugouo\"jousitsusekai\"toyobu",
-            "zibunnoyokkyuuwoseizitunimitashitekurerukankyouyahitonosfuugouo\"jousitusekai\"toyobu",
-            "zibunnoyokkyuuwoseizitunimitashitekurerukankyouyahitonosfuugouo\"zyoushitsusekai\"toyobu",
-            "zibunnoyokkyuuwoseizitunimitashitekurerukankyouyahitonosfuugouo\"zyoushitusekai\"toyobu",
-            "zibunnoyokkyuuwoseizitunimitashitekurerukankyouyahitonosfuugouo\"zyousitsusekai\"toyobu",
-            "zibunnoyokkyuuwoseizitunimitashitekurerukankyouyahitonosfuugouo\"zyousitusekai\"toyobu",
-            "zibunnoyokkyuuwoseizitunimitashitekurerukankyouyahitonosfuugouwo\"joushitsusekai\"toyobu",
-            "zibunnoyokkyuuwoseizitunimitashitekurerukankyouyahitonosfuugouwo\"joushitusekai\"toyobu",
-            "zibunnoyokkyuuwoseizitunimitashitekurerukankyouyahitonosfuugouwo\"jousitsusekai\"toyobu",
-            "zibunnoyokkyuuwoseizitunimitashitekurerukankyouyahitonosfuugouwo\"jousitusekai\"toyobu",
-            "zibunnoyokkyuuwoseizitunimitashitekurerukankyouyahitonosfuugouwo\"zyoushitsusekai\"toyobu",
-            "zibunnoyokkyuuwoseizitunimitashitekurerukankyouyahitonosfuugouwo\"zyoushitusekai\"toyobu",
-            "zibunnoyokkyuuwoseizitunimitashitekurerukankyouyahitonosfuugouwo\"zyousitsusekai\"toyobu",
-            "zibunnoyokkyuuwoseizitunimitashitekurerukankyouyahitonosfuugouwo\"zyousitusekai\"toyobu",
-            "zibunnoyokkyuuwoseizitunimitashitekurerukankyouyahitonoshuugouo\"joushitsusekai\"toyobu",
-            "zibunnoyokkyuuwoseizitunimitashitekurerukankyouyahitonoshuugouo\"joushitusekai\"toyobu",
-            "zibunnoyokkyuuwoseizitunimitashitekurerukankyouyahitonoshuugouo\"jousitsusekai\"toyobu",
-            "zibunnoyokkyuuwoseizitunimitashitekurerukankyouyahitonoshuugouo\"jousitusekai\"toyobu",
-            "zibunnoyokkyuuwoseizitunimitashitekurerukankyouyahitonoshuugouo\"zyoushitsusekai\"toyobu",
-            "zibunnoyokkyuuwoseizitunimitashitekurerukankyouyahitonoshuugouo\"zyoushitusekai\"toyobu",
-            "zibunnoyokkyuuwoseizitunimitashitekurerukankyouyahitonoshuugouo\"zyousitsusekai\"toyobu",
-            "zibunnoyokkyuuwoseizitunimitashitekurerukankyouyahitonoshuugouo\"zyousitusekai\"toyobu",
-            "zibunnoyokkyuuwoseizitunimitashitekurerukankyouyahitonoshuugouwo\"joushitsusekai\"toyobu",
-            "zibunnoyokkyuuwoseizitunimitashitekurerukankyouyahitonoshuugouwo\"joushitusekai\"toyobu",
-            "zibunnoyokkyuuwoseizitunimitashitekurerukankyouyahitonoshuugouwo\"jousitsusekai\"toyobu",
-            "zibunnoyokkyuuwoseizitunimitashitekurerukankyouyahitonoshuugouwo\"jousitusekai\"toyobu",
-            "zibunnoyokkyuuwoseizitunimitashitekurerukankyouyahitonoshuugouwo\"zyoushitsusekai\"toyobu",
-            "zibunnoyokkyuuwoseizitunimitashitekurerukankyouyahitonoshuugouwo\"zyoushitusekai\"toyobu",
-            "zibunnoyokkyuuwoseizitunimitashitekurerukankyouyahitonoshuugouwo\"zyousitsusekai\"toyobu",
-            "zibunnoyokkyuuwoseizitunimitashitekurerukankyouyahitonoshuugouwo\"zyousitusekai\"toyobu",
-            "zibunnoyokkyuuwoseizitunimitashitekurerukankyouyahitonosyuugouo\"joushitsusekai\"toyobu",
-            "zibunnoyokkyuuwoseizitunimitashitekurerukankyouyahitonosyuugouo\"joushitusekai\"toyobu",
-            "zibunnoyokkyuuwoseizitunimitashitekurerukankyouyahitonosyuugouo\"jousitsusekai\"toyobu",
-            "zibunnoyokkyuuwoseizitunimitashitekurerukankyouyahitonosyuugouo\"jousitusekai\"toyobu",
-            "zibunnoyokkyuuwoseizitunimitashitekurerukankyouyahitonosyuugouo\"zyoushitsusekai\"toyobu",
-            "zibunnoyokkyuuwoseizitunimitashitekurerukankyouyahitonosyuugouo\"zyoushitusekai\"toyobu",
-            "zibunnoyokkyuuwoseizitunimitashitekurerukankyouyahitonosyuugouo\"zyousitsusekai\"toyobu",
-            "zibunnoyokkyuuwoseizitunimitashitekurerukankyouyahitonosyuugouo\"zyousitusekai\"toyobu",
-            "zibunnoyokkyuuwoseizitunimitashitekurerukankyouyahitonosyuugouwo\"joushitsusekai\"toyobu",
-            "zibunnoyokkyuuwoseizitunimitashitekurerukankyouyahitonosyuugouwo\"joushitusekai\"toyobu",
-            "zibunnoyokkyuuwoseizitunimitashitekurerukankyouyahitonosyuugouwo\"jousitsusekai\"toyobu",
-            "zibunnoyokkyuuwoseizitunimitashitekurerukankyouyahitonosyuugouwo\"jousitusekai\"toyobu",
-            "zibunnoyokkyuuwoseizitunimitashitekurerukankyouyahitonosyuugouwo\"zyoushitsusekai\"toyobu",
-            "zibunnoyokkyuuwoseizitunimitashitekurerukankyouyahitonosyuugouwo\"zyoushitusekai\"toyobu",
-            "zibunnoyokkyuuwoseizitunimitashitekurerukankyouyahitonosyuugouwo\"zyousitsusekai\"toyobu",
-            "zibunnoyokkyuuwoseizitunimitashitekurerukankyouyahitonosyuugouwo\"zyousitusekai\"toyobu",
-            "zibunnoyokkyuuwoseizitunimitasitekurerukankyouyahitonosfuugouo\"joushitsusekai\"toyobu",
-            "zibunnoyokkyuuwoseizitunimitasitekurerukankyouyahitonosfuugouo\"joushitusekai\"toyobu",
-            "zibunnoyokkyuuwoseizitunimitasitekurerukankyouyahitonosfuugouo\"jousitsusekai\"toyobu",
-            "zibunnoyokkyuuwoseizitunimitasitekurerukankyouyahitonosfuugouo\"jousitusekai\"toyobu",
-            "zibunnoyokkyuuwoseizitunimitasitekurerukankyouyahitonosfuugouo\"zyoushitsusekai\"toyobu",
-            "zibunnoyokkyuuwoseizitunimitasitekurerukankyouyahitonosfuugouo\"zyoushitusekai\"toyobu",
-            "zibunnoyokkyuuwoseizitunimitasitekurerukankyouyahitonosfuugouo\"zyousitsusekai\"toyobu",
-            "zibunnoyokkyuuwoseizitunimitasitekurerukankyouyahitonosfuugouo\"zyousitusekai\"toyobu",
-            "zibunnoyokkyuuwoseizitunimitasitekurerukankyouyahitonosfuugouwo\"joushitsusekai\"toyobu",
-            "zibunnoyokkyuuwoseizitunimitasitekurerukankyouyahitonosfuugouwo\"joushitusekai\"toyobu",
-            "zibunnoyokkyuuwoseizitunimitasitekurerukankyouyahitonosfuugouwo\"jousitsusekai\"toyobu",
-            "zibunnoyokkyuuwoseizitunimitasitekurerukankyouyahitonosfuugouwo\"jousitusekai\"toyobu",
-            "zibunnoyokkyuuwoseizitunimitasitekurerukankyouyahitonosfuugouwo\"zyoushitsusekai\"toyobu",
-            "zibunnoyokkyuuwoseizitunimitasitekurerukankyouyahitonosfuugouwo\"zyoushitusekai\"toyobu",
-            "zibunnoyokkyuuwoseizitunimitasitekurerukankyouyahitonosfuugouwo\"zyousitsusekai\"toyobu",
-            "zibunnoyokkyuuwoseizitunimitasitekurerukankyouyahitonosfuugouwo\"zyousitusekai\"toyobu",
-            "zibunnoyokkyuuwoseizitunimitasitekurerukankyouyahitonoshuugouo\"joushitsusekai\"toyobu",
-            "zibunnoyokkyuuwoseizitunimitasitekurerukankyouyahitonoshuugouo\"joushitusekai\"toyobu",
-            "zibunnoyokkyuuwoseizitunimitasitekurerukankyouyahitonoshuugouo\"jousitsusekai\"toyobu",
-            "zibunnoyokkyuuwoseizitunimitasitekurerukankyouyahitonoshuugouo\"jousitusekai\"toyobu",
-            "zibunnoyokkyuuwoseizitunimitasitekurerukankyouyahitonoshuugouo\"zyoushitsusekai\"toyobu",
-            "zibunnoyokkyuuwoseizitunimitasitekurerukankyouyahitonoshuugouo\"zyoushitusekai\"toyobu",
-            "zibunnoyokkyuuwoseizitunimitasitekurerukankyouyahitonoshuugouo\"zyousitsusekai\"toyobu",
-            "zibunnoyokkyuuwoseizitunimitasitekurerukankyouyahitonoshuugouo\"zyousitusekai\"toyobu",
-            "zibunnoyokkyuuwoseizitunimitasitekurerukankyouyahitonoshuugouwo\"joushitsusekai\"toyobu",
-            "zibunnoyokkyuuwoseizitunimitasitekurerukankyouyahitonoshuugouwo\"joushitusekai\"toyobu",
-            "zibunnoyokkyuuwoseizitunimitasitekurerukankyouyahitonoshuugouwo\"jousitsusekai\"toyobu",
-            "zibunnoyokkyuuwoseizitunimitasitekurerukankyouyahitonoshuugouwo\"jousitusekai\"toyobu",
-            "zibunnoyokkyuuwoseizitunimitasitekurerukankyouyahitonoshuugouwo\"zyoushitsusekai\"toyobu",
-            "zibunnoyokkyuuwoseizitunimitasitekurerukankyouyahitonoshuugouwo\"zyoushitusekai\"toyobu",
-            "zibunnoyokkyuuwoseizitunimitasitekurerukankyouyahitonoshuugouwo\"zyousitsusekai\"toyobu",
-            "zibunnoyokkyuuwoseizitunimitasitekurerukankyouyahitonoshuugouwo\"zyousitusekai\"toyobu",
-            "zibunnoyokkyuuwoseizitunimitasitekurerukankyouyahitonosyuugouo\"joushitsusekai\"toyobu",
-            "zibunnoyokkyuuwoseizitunimitasitekurerukankyouyahitonosyuugouo\"joushitusekai\"toyobu",
-            "zibunnoyokkyuuwoseizitunimitasitekurerukankyouyahitonosyuugouo\"jousitsusekai\"toyobu",
-            "zibunnoyokkyuuwoseizitunimitasitekurerukankyouyahitonosyuugouo\"jousitusekai\"toyobu",
-            "zibunnoyokkyuuwoseizitunimitasitekurerukankyouyahitonosyuugouo\"zyoushitsusekai\"toyobu",
-            "zibunnoyokkyuuwoseizitunimitasitekurerukankyouyahitonosyuugouo\"zyoushitusekai\"toyobu",
-            "zibunnoyokkyuuwoseizitunimitasitekurerukankyouyahitonosyuugouo\"zyousitsusekai\"toyobu",
-            "zibunnoyokkyuuwoseizitunimitasitekurerukankyouyahitonosyuugouo\"zyousitusekai\"toyobu",
-            "zibunnoyokkyuuwoseizitunimitasitekurerukankyouyahitonosyuugouwo\"joushitsusekai\"toyobu",
-            "zibunnoyokkyuuwoseizitunimitasitekurerukankyouyahitonosyuugouwo\"joushitusekai\"toyobu",
-            "zibunnoyokkyuuwoseizitunimitasitekurerukankyouyahitonosyuugouwo\"jousitsusekai\"toyobu",
-            "zibunnoyokkyuuwoseizitunimitasitekurerukankyouyahitonosyuugouwo\"jousitusekai\"toyobu",
-            "zibunnoyokkyuuwoseizitunimitasitekurerukankyouyahitonosyuugouwo\"zyoushitsusekai\"toyobu",
-            "zibunnoyokkyuuwoseizitunimitasitekurerukankyouyahitonosyuugouwo\"zyoushitusekai\"toyobu",
-            "zibunnoyokkyuuwoseizitunimitasitekurerukankyouyahitonosyuugouwo\"zyousitsusekai\"toyobu",
-            "zibunnoyokkyuuwoseizitunimitasitekurerukankyouyahitonosyuugouwo\"zyousitusekai\"toyobu"
-        ],
-        "kana": "じぶんのよっきゅうをせいじつにみたしてくれるかんきょうやひとのしゅうごうを「じょうしつせかい」とよぶ",
-        "original": "自分の欲求を誠実に満たしてくれる環境や人の集合を「上質世界」と呼ぶ"
-    },
-    {
-        "id": 9,
-        "text": "ningengayarubekisagyo-zyanaidesu",
-        "tokens": [
-            "ningengayarubekisagyo-zyanaidesu",
-            "ningengayarubekisagyo-janaidesu",
-            "ningengayarubekisagyoujanaidesu",
-            "ningengayarubekisagyouzyanaidesu"
-        ],
-        "kana": "にんげんがやるべきさぎょうじゃないです",
-        "original": "人間がやるべき作業じゃないです"
-    },
-    {
-        "id": 10,
-        "text": "kahunsyo-wataseki",
-        "tokens": [
-            "kahunsyo-wataseki",
-            "kahunsyo-hataseki",
-            "kahunsho-wataseki",
-            "kahunsho-hataseki",
-            "kafunsyo-wataseki",
-            "kafunsyo-hataseki",
-            "kafunsho-hataseki",
-            "kafunsho-wataseki",
-            "kafunshouwataseki",
-            "kafunshouhataseki",
-            "kafunsyouhataseki",
-            "kafunsyouwataseki",
-            "kahunshouhataseki",
-            "kahunshouwataseki",
-            "kahunsyouhataseki",
-            "kahunsyouwataseki"
-        ],
-        "kana": "かふんしょうはたせめ",
-        "original": "花粉症は他責"
-    },
-    {
-        "id": 11,
-        "text": "kyu-giwazinseinihituyo-",
-        "tokens": [
-            "kyu-giwazinseinihituyo-",
-            "kyu-giwazinseinihitsuyo-",
-            "kyu-giwajinseinihituyo-",
-            "kyu-gihazinseinihituyo-",
-            "kyu-gihazinseinihitsuyo-",
-            "kyu-gihajinseinihituyo-",
-            "kyu-gihajinseinihitsuyo-",
-            "kyu-giwajinseinihitsuyo-",
-            "kyuugiwajinseinihitsuyou",
-            "kyuugihajinseinihitsuyou",
-            "kyuugihajinseinihituyou",
-            "kyuugihazinseinihitsuyou",
-            "kyuugihazinseinihituyou",
-            "kyuugiwajinseinihituyou",
-            "kyuugiwazinseinihitsuyou",
-            "kyuugiwazinseinihituyou"
-        ],
-        "kana": "きゅうぎはじんせいにひつよう",
-        "original": "球技は人生に必要"
-    },
-    {
-        "id": 12,
-        "text": "ieyo-noohanawasudedemotikaeruko-ritutekinikazaritaikara",
-        "tokens": [
-            "ieyo-noohanawasudedemotikaeruko-ritutekinikazaritaikara",
-            "ieyo-noohanawasudedemotikaeruko-ritsutekinikazaritaikara",
-            "ieyo-noohanawasudedemochikaeruko-ritutekinikazaritaikara",
-            "ieyo-noohanahasudedemotikaeruko-ritutekinikazaritaikara",
-            "ieyo-noohanahasudedemotikaeruko-ritsutekinikazaritaikara",
-            "ieyo-noohanahasudedemochikaeruko-ritutekinikazaritaikara",
-            "ieyo-noohanahasudedemochikaeruko-ritsutekinikazaritaikara",
-            "ieyo-noohanawasudedemochikaeruko-ritsutekinikazaritaikara",
-            "ieyounoohanawasudedemochikaerukouritsutekinikazaritaikara",
-            "ieyounoohanahasudedemochikaerukouritsutekinikazaritaikara",
-            "ieyounoohanahasudedemochikaerukouritutekinikazaritaikara",
-            "ieyounoohanahasudedemotikaerukouritsutekinikazaritaikara",
-            "ieyounoohanahasudedemotikaerukouritutekinikazaritaikara",
-            "ieyounoohanawasudedemochikaerukouritutekinikazaritaikara",
-            "ieyounoohanawasudedemotikaerukouritsutekinikazaritaikara",
-            "ieyounoohanawasudedemotikaerukouritutekinikazaritaikara"
-        ],
-        "kana": "いえようのおはなはすででもちかえるこうりつてきにかざりたいから",
-        "original": "家用のお花は素手で持ち帰る効率的に飾りたいから"
-    },
-    {
-        "id": 13,
-        "text": "atarimaenokijunga",
-        "tokens": [
-            "atarimaenokijunga"
-        ],
-        "kana": "あたりまえのきじゅんが、すべて。",
-        "original": "当たり前の基準が、全て。"
-    },
-    {
-        "id": 14,
-        "text": "docknoo-sawayu-zyu-hudannoakasi",
-        "tokens": [
-            "docknoo-sawayu-zyu-hudannoakasi",
-            "docknoo-sawayu-zyu-hudannoakashi",
-            "docknoo-sawayu-zyu-fudannoakasi",
-            "docknoo-sawayu-zyu-fudannoakashi",
-            "docknoo-sawayu-ju-hudannoakasi",
-            "docknoo-sawayu-ju-hudannoakashi",
-            "docknoo-sawayu-ju-fudannoakasi",
-            "docknoo-sahayu-zyu-hudannoakasi",
-            "docknoo-sahayu-zyu-hudannoakashi",
-            "docknoo-sahayu-zyu-fudannoakasi",
-            "docknoo-sahayu-zyu-fudannoakashi",
-            "docknoo-sahayu-ju-hudannoakasi",
-            "docknoo-sahayu-ju-hudannoakashi",
-            "docknoo-sahayu-ju-fudannoakasi",
-            "docknoo-sahayu-ju-fudannoakashi",
-            "docknoo-sawayu-ju-fudannoakashi",
-            "docknoousawayuujuufudannoakashi",
-            "docknoousahayuujuufudannoakashi",
-            "docknoousahayuujuufudannoakasi",
-            "docknoousahayuujuuhudannoakashi",
-            "docknoousahayuujuuhudannoakasi",
-            "docknoousahayuuzyuufudannoakashi",
-            "docknoousahayuuzyuufudannoakasi",
-            "docknoousahayuuzyuuhudannoakashi",
-            "docknoousahayuuzyuuhudannoakasi",
-            "docknoousawayuujuufudannoakasi",
-            "docknoousawayuujuuhudannoakashi",
-            "docknoousawayuujuuhudannoakasi",
-            "docknoousawayuuzyuufudannoakashi",
-            "docknoousawayuuzyuufudannoakasi",
-            "docknoousawayuuzyuuhudannoakashi",
-            "docknoousawayuuzyuuhudannoakasi"
-        ],
-        "kana": "Dockのおおさはゆうじゅうふだんのあかし",
-        "original": "Dockの多さは優柔不断の証"
-    },
-    {
-        "id": 15,
-        "text": "higetokensonwachigau!",
-        "tokens": [
-            "higetokensonwachigau!",
-            "higetokensonhachigau!",
-            "higetokensonhatigau!",
-            "higetokensonwatigau!"
-        ],
-        "kana": "ひげとけんそんはちがう！",
-        "original": "卑下と謙遜は違う！"
-    },
-    {
-        "id": 16,
-        "text": "mabatakiwaissyunsikaiwo-sinaunodehiko-ritu",
-        "tokens": [
-            "mabatakiwaissyunsikaiwo-sinaunodehiko-ritu",
-            "mabatakiwaissyunsikaiwo-sinaunodehiko-ritsu",
-            "mabatakiwaissyunsikaiwo-shinaunodehiko-ritu",
-            "mabatakiwaissyunsikaiwo-shinaunodehiko-ritsu",
-            "mabatakiwaissyunsikaio-sinaunodehiko-ritu",
-            "mabatakiwaissyunsikaio-sinaunodehiko-ritsu",
-            "mabatakiwaissyunsikaio-shinaunodehiko-ritu",
-            "mabatakiwaissyunsikaio-shinaunodehiko-ritsu",
-            "mabatakiwaissyunshikaiwo-sinaunodehiko-ritu",
-            "mabatakiwaissyunshikaiwo-sinaunodehiko-ritsu",
-            "mabatakiwaissyunshikaiwo-shinaunodehiko-ritu",
-            "mabatakiwaissyunshikaiwo-shinaunodehiko-ritsu",
-            "mabatakiwaissyunshikaio-sinaunodehiko-ritu",
-            "mabatakiwaissyunshikaio-sinaunodehiko-ritsu",
-            "mabatakiwaissyunshikaio-shinaunodehiko-ritu",
-            "mabatakiwaissyunshikaio-shinaunodehiko-ritsu",
-            "mabatakiwaisshunsikaiwo-sinaunodehiko-ritu",
-            "mabatakiwaisshunsikaiwo-sinaunodehiko-ritsu",
-            "mabatakiwaisshunsikaiwo-shinaunodehiko-ritu",
-            "mabatakiwaisshunsikaiwo-shinaunodehiko-ritsu",
-            "mabatakiwaisshunsikaio-sinaunodehiko-ritu",
-            "mabatakiwaisshunsikaio-sinaunodehiko-ritsu",
-            "mabatakiwaisshunsikaio-shinaunodehiko-ritu",
-            "mabatakiwaisshunsikaio-shinaunodehiko-ritsu",
-            "mabatakiwaisshunshikaiwo-sinaunodehiko-ritu",
-            "mabatakiwaisshunshikaiwo-sinaunodehiko-ritsu",
-            "mabatakiwaisshunshikaiwo-shinaunodehiko-ritu",
-            "mabatakiwaisshunshikaiwo-shinaunodehiko-ritsu",
-            "mabatakiwaisshunshikaio-sinaunodehiko-ritu",
-            "mabatakiwaisshunshikaio-sinaunodehiko-ritsu",
-            "mabatakiwaisshunshikaio-shinaunodehiko-ritu",
-            "mabatakiwaissfunsikaiwo-sinaunodehiko-ritu",
-            "mabatakiwaissfunsikaiwo-sinaunodehiko-ritsu",
-            "mabatakiwaissfunsikaiwo-shinaunodehiko-ritu",
-            "mabatakiwaissfunsikaiwo-shinaunodehiko-ritsu",
-            "mabatakiwaissfunsikaio-sinaunodehiko-ritu",
-            "mabatakiwaissfunsikaio-sinaunodehiko-ritsu",
-            "mabatakiwaissfunsikaio-shinaunodehiko-ritu",
-            "mabatakiwaissfunsikaio-shinaunodehiko-ritsu",
-            "mabatakiwaissfunshikaiwo-sinaunodehiko-ritu",
-            "mabatakiwaissfunshikaiwo-sinaunodehiko-ritsu",
-            "mabatakiwaissfunshikaiwo-shinaunodehiko-ritu",
-            "mabatakiwaissfunshikaiwo-shinaunodehiko-ritsu",
-            "mabatakiwaissfunshikaio-sinaunodehiko-ritu",
-            "mabatakiwaissfunshikaio-sinaunodehiko-ritsu",
-            "mabatakiwaissfunshikaio-shinaunodehiko-ritu",
-            "mabatakiwaissfunshikaio-shinaunodehiko-ritsu",
-            "mabatakihaissyunsikaiwo-sinaunodehiko-ritu",
-            "mabatakihaissyunsikaiwo-sinaunodehiko-ritsu",
-            "mabatakihaissyunsikaiwo-shinaunodehiko-ritu",
-            "mabatakihaissyunsikaiwo-shinaunodehiko-ritsu",
-            "mabatakihaissyunsikaio-sinaunodehiko-ritu",
-            "mabatakihaissyunsikaio-sinaunodehiko-ritsu",
-            "mabatakihaissyunsikaio-shinaunodehiko-ritu",
-            "mabatakihaissyunsikaio-shinaunodehiko-ritsu",
-            "mabatakihaissyunshikaiwo-sinaunodehiko-ritu",
-            "mabatakihaissyunshikaiwo-sinaunodehiko-ritsu",
-            "mabatakihaissyunshikaiwo-shinaunodehiko-ritu",
-            "mabatakihaissyunshikaiwo-shinaunodehiko-ritsu",
-            "mabatakihaissyunshikaio-sinaunodehiko-ritu",
-            "mabatakihaissyunshikaio-sinaunodehiko-ritsu",
-            "mabatakihaissyunshikaio-shinaunodehiko-ritu",
-            "mabatakihaissyunshikaio-shinaunodehiko-ritsu",
-            "mabatakihaisshunsikaiwo-sinaunodehiko-ritu",
-            "mabatakihaisshunsikaiwo-sinaunodehiko-ritsu",
-            "mabatakihaisshunsikaiwo-shinaunodehiko-ritu",
-            "mabatakihaisshunsikaiwo-shinaunodehiko-ritsu",
-            "mabatakihaisshunsikaio-sinaunodehiko-ritu",
-            "mabatakihaisshunsikaio-sinaunodehiko-ritsu",
-            "mabatakihaisshunsikaio-shinaunodehiko-ritu",
-            "mabatakihaisshunsikaio-shinaunodehiko-ritsu",
-            "mabatakihaisshunshikaiwo-sinaunodehiko-ritu",
-            "mabatakihaisshunshikaiwo-sinaunodehiko-ritsu",
-            "mabatakihaisshunshikaiwo-shinaunodehiko-ritu",
-            "mabatakihaisshunshikaiwo-shinaunodehiko-ritsu",
-            "mabatakihaisshunshikaio-sinaunodehiko-ritu",
-            "mabatakihaisshunshikaio-sinaunodehiko-ritsu",
-            "mabatakihaisshunshikaio-shinaunodehiko-ritu",
-            "mabatakihaisshunshikaio-shinaunodehiko-ritsu",
-            "mabatakihaissfunsikaiwo-sinaunodehiko-ritu",
-            "mabatakihaissfunsikaiwo-sinaunodehiko-ritsu",
-            "mabatakihaissfunsikaiwo-shinaunodehiko-ritu",
-            "mabatakihaissfunsikaiwo-shinaunodehiko-ritsu",
-            "mabatakihaissfunsikaio-sinaunodehiko-ritu",
-            "mabatakihaissfunsikaio-sinaunodehiko-ritsu",
-            "mabatakihaissfunsikaio-shinaunodehiko-ritu",
-            "mabatakihaissfunsikaio-shinaunodehiko-ritsu",
-            "mabatakihaissfunshikaiwo-sinaunodehiko-ritu",
-            "mabatakihaissfunshikaiwo-sinaunodehiko-ritsu",
-            "mabatakihaissfunshikaiwo-shinaunodehiko-ritu",
-            "mabatakihaissfunshikaiwo-shinaunodehiko-ritsu",
-            "mabatakihaissfunshikaio-sinaunodehiko-ritu",
-            "mabatakihaissfunshikaio-sinaunodehiko-ritsu",
-            "mabatakihaissfunshikaio-shinaunodehiko-ritu",
-            "mabatakihaissfunshikaio-shinaunodehiko-ritsu",
-            "mabatakiwaisshunshikaio-shinaunodehiko-ritsu",
-            "mabatakiwaisshunshikaioushinaunodehikouritsu",
-            "mabatakihaissfunshikaioushinaunodehikouritsu",
-            "mabatakihaissfunshikaioushinaunodehikouritu",
-            "mabatakihaissfunshikaiousinaunodehikouritsu",
-            "mabatakihaissfunshikaiousinaunodehikouritu",
-            "mabatakihaissfunshikaiwoushinaunodehikouritsu",
-            "mabatakihaissfunshikaiwoushinaunodehikouritu",
-            "mabatakihaissfunshikaiwousinaunodehikouritsu",
-            "mabatakihaissfunshikaiwousinaunodehikouritu",
-            "mabatakihaissfunsikaioushinaunodehikouritsu",
-            "mabatakihaissfunsikaioushinaunodehikouritu",
-            "mabatakihaissfunsikaiousinaunodehikouritsu",
-            "mabatakihaissfunsikaiousinaunodehikouritu",
-            "mabatakihaissfunsikaiwoushinaunodehikouritsu",
-            "mabatakihaissfunsikaiwoushinaunodehikouritu",
-            "mabatakihaissfunsikaiwousinaunodehikouritsu",
-            "mabatakihaissfunsikaiwousinaunodehikouritu",
-            "mabatakihaisshunshikaioushinaunodehikouritsu",
-            "mabatakihaisshunshikaioushinaunodehikouritu",
-            "mabatakihaisshunshikaiousinaunodehikouritsu",
-            "mabatakihaisshunshikaiousinaunodehikouritu",
-            "mabatakihaisshunshikaiwoushinaunodehikouritsu",
-            "mabatakihaisshunshikaiwoushinaunodehikouritu",
-            "mabatakihaisshunshikaiwousinaunodehikouritsu",
-            "mabatakihaisshunshikaiwousinaunodehikouritu",
-            "mabatakihaisshunsikaioushinaunodehikouritsu",
-            "mabatakihaisshunsikaioushinaunodehikouritu",
-            "mabatakihaisshunsikaiousinaunodehikouritsu",
-            "mabatakihaisshunsikaiousinaunodehikouritu",
-            "mabatakihaisshunsikaiwoushinaunodehikouritsu",
-            "mabatakihaisshunsikaiwoushinaunodehikouritu",
-            "mabatakihaisshunsikaiwousinaunodehikouritsu",
-            "mabatakihaisshunsikaiwousinaunodehikouritu",
-            "mabatakihaissyunshikaioushinaunodehikouritsu",
-            "mabatakihaissyunshikaioushinaunodehikouritu",
-            "mabatakihaissyunshikaiousinaunodehikouritsu",
-            "mabatakihaissyunshikaiousinaunodehikouritu",
-            "mabatakihaissyunshikaiwoushinaunodehikouritsu",
-            "mabatakihaissyunshikaiwoushinaunodehikouritu",
-            "mabatakihaissyunshikaiwousinaunodehikouritsu",
-            "mabatakihaissyunshikaiwousinaunodehikouritu",
-            "mabatakihaissyunsikaioushinaunodehikouritsu",
-            "mabatakihaissyunsikaioushinaunodehikouritu",
-            "mabatakihaissyunsikaiousinaunodehikouritsu",
-            "mabatakihaissyunsikaiousinaunodehikouritu",
-            "mabatakihaissyunsikaiwoushinaunodehikouritsu",
-            "mabatakihaissyunsikaiwoushinaunodehikouritu",
-            "mabatakihaissyunsikaiwousinaunodehikouritsu",
-            "mabatakihaissyunsikaiwousinaunodehikouritu",
-            "mabatakiwaissfunshikaioushinaunodehikouritsu",
-            "mabatakiwaissfunshikaioushinaunodehikouritu",
-            "mabatakiwaissfunshikaiousinaunodehikouritsu",
-            "mabatakiwaissfunshikaiousinaunodehikouritu",
-            "mabatakiwaissfunshikaiwoushinaunodehikouritsu",
-            "mabatakiwaissfunshikaiwoushinaunodehikouritu",
-            "mabatakiwaissfunshikaiwousinaunodehikouritsu",
-            "mabatakiwaissfunshikaiwousinaunodehikouritu",
-            "mabatakiwaissfunsikaioushinaunodehikouritsu",
-            "mabatakiwaissfunsikaioushinaunodehikouritu",
-            "mabatakiwaissfunsikaiousinaunodehikouritsu",
-            "mabatakiwaissfunsikaiousinaunodehikouritu",
-            "mabatakiwaissfunsikaiwoushinaunodehikouritsu",
-            "mabatakiwaissfunsikaiwoushinaunodehikouritu",
-            "mabatakiwaissfunsikaiwousinaunodehikouritsu",
-            "mabatakiwaissfunsikaiwousinaunodehikouritu",
-            "mabatakiwaisshunshikaioushinaunodehikouritu",
-            "mabatakiwaisshunshikaiousinaunodehikouritsu",
-            "mabatakiwaisshunshikaiousinaunodehikouritu",
-            "mabatakiwaisshunshikaiwoushinaunodehikouritsu",
-            "mabatakiwaisshunshikaiwoushinaunodehikouritu",
-            "mabatakiwaisshunshikaiwousinaunodehikouritsu",
-            "mabatakiwaisshunshikaiwousinaunodehikouritu",
-            "mabatakiwaisshunsikaioushinaunodehikouritsu",
-            "mabatakiwaisshunsikaioushinaunodehikouritu",
-            "mabatakiwaisshunsikaiousinaunodehikouritsu",
-            "mabatakiwaisshunsikaiousinaunodehikouritu",
-            "mabatakiwaisshunsikaiwoushinaunodehikouritsu",
-            "mabatakiwaisshunsikaiwoushinaunodehikouritu",
-            "mabatakiwaisshunsikaiwousinaunodehikouritsu",
-            "mabatakiwaisshunsikaiwousinaunodehikouritu",
-            "mabatakiwaissyunshikaioushinaunodehikouritsu",
-            "mabatakiwaissyunshikaioushinaunodehikouritu",
-            "mabatakiwaissyunshikaiousinaunodehikouritsu",
-            "mabatakiwaissyunshikaiousinaunodehikouritu",
-            "mabatakiwaissyunshikaiwoushinaunodehikouritsu",
-            "mabatakiwaissyunshikaiwoushinaunodehikouritu",
-            "mabatakiwaissyunshikaiwousinaunodehikouritsu",
-            "mabatakiwaissyunshikaiwousinaunodehikouritu",
-            "mabatakiwaissyunsikaioushinaunodehikouritsu",
-            "mabatakiwaissyunsikaioushinaunodehikouritu",
-            "mabatakiwaissyunsikaiousinaunodehikouritsu",
-            "mabatakiwaissyunsikaiousinaunodehikouritu",
-            "mabatakiwaissyunsikaiwoushinaunodehikouritsu",
-            "mabatakiwaissyunsikaiwoushinaunodehikouritu",
-            "mabatakiwaissyunsikaiwousinaunodehikouritsu",
-            "mabatakiwaissyunsikaiwousinaunodehikouritu"
-        ],
-        "kana": "まばたきはいっしゅんしかいをうしなうのでひこうりつ",
-        "original": "瞬きは一瞬視界を失うので非効率"
-    },
-    {
-        "id": 17,
-        "text": "sorehahonto-niyokunai",
-        "tokens": [
-            "sorehahonto-niyokunai",
-            "sorewahonto-niyokunai",
-            "sorewahontouniyokunai",
-            "sorehahontouniyokunai"
-        ],
-        "kana": "それはほんとうによくない",
-        "original": "それは本当に良くない"
-    },
-    {
-        "id": 18,
-        "text": "kpihasa-buirerukoto",
-        "tokens": [
-            "kpihasa-buirerukoto",
-            "kpiwasa-buirerukoto",
-            "kpiwasaabuirerukoto",
-            "kpihasaabuirerukoto"
-        ],
-        "kana": "KPIはサーブいれること",
-        "original": "KPIはサーブ入れること"
-    },
-    {
-        "id": 19,
-        "text": "bokuwazikyu-tankadesigotositerukarane",
-        "tokens": [
-            "bokuwazikyu-tankadesigotositerukarane",
-            "bokuwazikyu-tankadesigotoshiterukarane",
-            "bokuwazikyu-tankadeshigotositerukarane",
-            "bokuwazikyu-tankadeshigotoshiterukarane",
-            "bokuwajikyu-tankadesigotositerukarane",
-            "bokuwajikyu-tankadesigotoshiterukarane",
-            "bokuwajikyu-tankadeshigotositerukarane",
-            "bokuhazikyu-tankadesigotositerukarane",
-            "bokuhazikyu-tankadesigotoshiterukarane",
-            "bokuhazikyu-tankadeshigotositerukarane",
-            "bokuhazikyu-tankadeshigotoshiterukarane",
-            "bokuhajikyu-tankadesigotositerukarane",
-            "bokuhajikyu-tankadesigotoshiterukarane",
-            "bokuhajikyu-tankadeshigotositerukarane",
-            "bokuhajikyu-tankadeshigotoshiterukarane",
-            "bokuwajikyu-tankadeshigotoshiterukarane",
-            "bokuwajikyuutankadeshigotoshiterukarane",
-            "bokuhajikyuutankadeshigotoshiterukarane",
-            "bokuhajikyuutankadeshigotositerukarane",
-            "bokuhajikyuutankadesigotoshiterukarane",
-            "bokuhajikyuutankadesigotositerukarane",
-            "bokuhazikyuutankadeshigotoshiterukarane",
-            "bokuhazikyuutankadeshigotositerukarane",
-            "bokuhazikyuutankadesigotoshiterukarane",
-            "bokuhazikyuutankadesigotositerukarane",
-            "bokuwajikyuutankadeshigotositerukarane",
-            "bokuwajikyuutankadesigotoshiterukarane",
-            "bokuwajikyuutankadesigotositerukarane",
-            "bokuwazikyuutankadeshigotoshiterukarane",
-            "bokuwazikyuutankadeshigotositerukarane",
-            "bokuwazikyuutankadesigotoshiterukarane",
-            "bokuwazikyuutankadesigotositerukarane"
-        ],
-        "kana": "ぼくはじきゅうたんかでしごとしてるからね",
-        "original": "僕は時給単価で仕事してるからね"
-    },
-    {
-        "id": 20,
-        "text": "ko-rituka100%",
-        "tokens": [
-            "ko-rituka100%",
-            "ko-ritsuka100%",
-            "kouritsuka100%",
-            "kourituka100%"
-        ],
-        "kana": "こうりつか100%",
-        "original": "効率化100%"
-    },
-    {
-        "id": 21,
-        "text": "tsuneni\"migi\"dewanaku\"hidari\"",
-        "tokens": [
-            "tsuneni\"migi\"dewanaku\"hidari\"",
-            "tsuneni\"migi\"dehanaku\"hidari\"",
-            "tuneni\"migi\"dehanaku\"hidari\"",
-            "tuneni\"migi\"dewanaku\"hidari\""
-        ],
-        "kana": "つねに「みぎ」ではなく「ひだり」",
-        "original": "常に「右」ではなく「左」"
-    },
-    {
-        "id": 22,
-        "text": "bo-ruwomottamamanisinai",
-        "tokens": [
-            "bo-ruwomottamamanisinai",
-            "bo-ruwomottamamanishinai",
-            "bo-ruomottamamanisinai",
-            "bo-ruomottamamanishinai",
-            "bouruomottamamanishinai",
-            "bouruomottamamanisinai",
-            "bouruwomottamamanishinai",
-            "bouruwomottamamanisinai"
-        ],
-        "kana": "ボールをもったままにしない",
-        "original": "ボールを持ったままにしない"
-    },
-    {
-        "id": 23,
-        "text": "nayamunooyameru.",
-        "tokens": [
-            "nayamunooyameru.",
-            "nayamunowoyameru."
-        ],
-        "kana": "なやむのをやめる。",
-        "original": "悩むのをやめる。"
-    },
-    {
-        "id": 24,
-        "text": "nayamutowa",
-        "tokens": [
-            "nayamutowa"
-        ],
-        "kana": "なやむとは、もんだいをふくざつにしていること。",
-        "original": "悩むとは、問題を複雑にしていること。"
-    },
-    {
-        "id": 25,
-        "text": "nayamunodewanaku",
-        "tokens": [
-            "nayamunodewanaku"
-        ],
-        "kana": "なやむのではなく、かんがえる。もんだいをかいけつにする。",
-        "original": "悩むのではなく、考える。問題を解決にする。"
-    },
-    {
-        "id": 26,
-        "text": "mizukarakikaiotsukuridashi",
-        "tokens": [
-            "mizukarakikaiotsukuridashi"
-        ],
-        "kana": "みずからきかいをつくりだし、きかいによってみずからをかえよ",
-        "original": "自ら機会を作り出し、機会によって自らを変えよ"
-    },
-    {
-        "id": 27,
-        "text": "zikanwahonto-nidaizidearu",
-        "tokens": [
-            "zikanwahonto-nidaizidearu",
-            "zikanwahonto-nidaijidearu",
-            "zikanhahonto-nidaizidearu",
-            "zikanhahonto-nidaijidearu",
-            "jikanwahonto-nidaizidearu",
-            "jikanhahonto-nidaizidearu",
-            "jikanhahonto-nidaijidearu",
-            "jikanwahonto-nidaijidearu",
-            "jikanwahontounidaijidearu",
-            "jikanhahontounidaijidearu",
-            "jikanhahontounidaizidearu",
-            "jikanwahontounidaizidearu",
-            "zikanhahontounidaijidearu",
-            "zikanhahontounidaizidearu",
-            "zikanwahontounidaijidearu",
-            "zikanwahontounidaizidearu"
-        ],
-        "kana": "じかんはほんとうにだいじである",
-        "original": "時間は本当に大事である"
-    },
-    {
-        "id": 28,
-        "text": "nokorizinseiwayu-gentoyu-kotowodaizenteinioitatokinozibunnoimanozikannotukaikatawaminaositaho-gai-.",
-        "tokens": [
-            "nokorizinseiwayu-gentoyu-kotowodaizenteinioitatokinozibunnoimanozikannotukaikatawaminaositaho-gai-.",
-            "nokorizinseiwayu-gentoyu-kotowodaizenteinioitatokinozibunnoimanozikannotukaikatawaminaoshitaho-gai-.",
-            "nokorizinseiwayu-gentoyu-kotowodaizenteinioitatokinozibunnoimanozikannotukaikatahaminaositaho-gai-.",
-            "nokorizinseiwayu-gentoyu-kotowodaizenteinioitatokinozibunnoimanozikannotukaikatahaminaoshitaho-gai-.",
-            "nokorizinseiwayu-gentoyu-kotowodaizenteinioitatokinozibunnoimanozikannotsukaikatawaminaositaho-gai-.",
-            "nokorizinseiwayu-gentoyu-kotowodaizenteinioitatokinozibunnoimanozikannotsukaikatawaminaoshitaho-gai-.",
-            "nokorizinseiwayu-gentoyu-kotowodaizenteinioitatokinozibunnoimanozikannotsukaikatahaminaositaho-gai-.",
-            "nokorizinseiwayu-gentoyu-kotowodaizenteinioitatokinozibunnoimanozikannotsukaikatahaminaoshitaho-gai-.",
-            "nokorizinseiwayu-gentoyu-kotowodaizenteinioitatokinozibunnoimanojikannotukaikatawaminaositaho-gai-.",
-            "nokorizinseiwayu-gentoyu-kotowodaizenteinioitatokinozibunnoimanojikannotukaikatawaminaoshitaho-gai-.",
-            "nokorizinseiwayu-gentoyu-kotowodaizenteinioitatokinozibunnoimanojikannotukaikatahaminaositaho-gai-.",
-            "nokorizinseiwayu-gentoyu-kotowodaizenteinioitatokinozibunnoimanojikannotukaikatahaminaoshitaho-gai-.",
-            "nokorizinseiwayu-gentoyu-kotowodaizenteinioitatokinozibunnoimanojikannotsukaikatawaminaositaho-gai-.",
-            "nokorizinseiwayu-gentoyu-kotowodaizenteinioitatokinozibunnoimanojikannotsukaikatawaminaoshitaho-gai-.",
-            "nokorizinseiwayu-gentoyu-kotowodaizenteinioitatokinozibunnoimanojikannotsukaikatahaminaositaho-gai-.",
-            "nokorizinseiwayu-gentoyu-kotowodaizenteinioitatokinozibunnoimanojikannotsukaikatahaminaoshitaho-gai-.",
-            "nokorizinseiwayu-gentoyu-kotowodaizenteinioitatokinojibunnoimanozikannotukaikatawaminaositaho-gai-.",
-            "nokorizinseiwayu-gentoyu-kotowodaizenteinioitatokinojibunnoimanozikannotukaikatawaminaoshitaho-gai-.",
-            "nokorizinseiwayu-gentoyu-kotowodaizenteinioitatokinojibunnoimanozikannotukaikatahaminaositaho-gai-.",
-            "nokorizinseiwayu-gentoyu-kotowodaizenteinioitatokinojibunnoimanozikannotukaikatahaminaoshitaho-gai-.",
-            "nokorizinseiwayu-gentoyu-kotowodaizenteinioitatokinojibunnoimanozikannotsukaikatawaminaositaho-gai-.",
-            "nokorizinseiwayu-gentoyu-kotowodaizenteinioitatokinojibunnoimanozikannotsukaikatawaminaoshitaho-gai-.",
-            "nokorizinseiwayu-gentoyu-kotowodaizenteinioitatokinojibunnoimanozikannotsukaikatahaminaositaho-gai-.",
-            "nokorizinseiwayu-gentoyu-kotowodaizenteinioitatokinojibunnoimanozikannotsukaikatahaminaoshitaho-gai-.",
-            "nokorizinseiwayu-gentoyu-kotowodaizenteinioitatokinojibunnoimanojikannotukaikatawaminaositaho-gai-.",
-            "nokorizinseiwayu-gentoyu-kotowodaizenteinioitatokinojibunnoimanojikannotukaikatawaminaoshitaho-gai-.",
-            "nokorizinseiwayu-gentoyu-kotowodaizenteinioitatokinojibunnoimanojikannotukaikatahaminaositaho-gai-.",
-            "nokorizinseiwayu-gentoyu-kotowodaizenteinioitatokinojibunnoimanojikannotukaikatahaminaoshitaho-gai-.",
-            "nokorizinseiwayu-gentoyu-kotowodaizenteinioitatokinojibunnoimanojikannotsukaikatawaminaositaho-gai-.",
-            "nokorizinseiwayu-gentoyu-kotowodaizenteinioitatokinojibunnoimanojikannotsukaikatawaminaoshitaho-gai-.",
-            "nokorizinseiwayu-gentoyu-kotowodaizenteinioitatokinojibunnoimanojikannotsukaikatahaminaositaho-gai-.",
-            "nokorizinseiwayu-gentoyu-kotowodaizenteinioitatokinojibunnoimanojikannotsukaikatahaminaoshitaho-gai-.",
-            "nokorizinseiwayu-gentoyu-kotoodaizenteinioitatokinozibunnoimanozikannotukaikatawaminaositaho-gai-.",
-            "nokorizinseiwayu-gentoyu-kotoodaizenteinioitatokinozibunnoimanozikannotukaikatawaminaoshitaho-gai-.",
-            "nokorizinseiwayu-gentoyu-kotoodaizenteinioitatokinozibunnoimanozikannotukaikatahaminaositaho-gai-.",
-            "nokorizinseiwayu-gentoyu-kotoodaizenteinioitatokinozibunnoimanozikannotukaikatahaminaoshitaho-gai-.",
-            "nokorizinseiwayu-gentoyu-kotoodaizenteinioitatokinozibunnoimanozikannotsukaikatawaminaositaho-gai-.",
-            "nokorizinseiwayu-gentoyu-kotoodaizenteinioitatokinozibunnoimanozikannotsukaikatawaminaoshitaho-gai-.",
-            "nokorizinseiwayu-gentoyu-kotoodaizenteinioitatokinozibunnoimanozikannotsukaikatahaminaositaho-gai-.",
-            "nokorizinseiwayu-gentoyu-kotoodaizenteinioitatokinozibunnoimanozikannotsukaikatahaminaoshitaho-gai-.",
-            "nokorizinseiwayu-gentoyu-kotoodaizenteinioitatokinozibunnoimanojikannotukaikatawaminaositaho-gai-.",
-            "nokorizinseiwayu-gentoyu-kotoodaizenteinioitatokinozibunnoimanojikannotukaikatawaminaoshitaho-gai-.",
-            "nokorizinseiwayu-gentoyu-kotoodaizenteinioitatokinozibunnoimanojikannotukaikatahaminaositaho-gai-.",
-            "nokorizinseiwayu-gentoyu-kotoodaizenteinioitatokinozibunnoimanojikannotukaikatahaminaoshitaho-gai-.",
-            "nokorizinseiwayu-gentoyu-kotoodaizenteinioitatokinozibunnoimanojikannotsukaikatawaminaositaho-gai-.",
-            "nokorizinseiwayu-gentoyu-kotoodaizenteinioitatokinozibunnoimanojikannotsukaikatawaminaoshitaho-gai-.",
-            "nokorizinseiwayu-gentoyu-kotoodaizenteinioitatokinozibunnoimanojikannotsukaikatahaminaositaho-gai-.",
-            "nokorizinseiwayu-gentoyu-kotoodaizenteinioitatokinozibunnoimanojikannotsukaikatahaminaoshitaho-gai-.",
-            "nokorizinseiwayu-gentoyu-kotoodaizenteinioitatokinojibunnoimanozikannotukaikatawaminaositaho-gai-.",
-            "nokorizinseiwayu-gentoyu-kotoodaizenteinioitatokinojibunnoimanozikannotukaikatawaminaoshitaho-gai-.",
-            "nokorizinseiwayu-gentoyu-kotoodaizenteinioitatokinojibunnoimanozikannotukaikatahaminaositaho-gai-.",
-            "nokorizinseiwayu-gentoyu-kotoodaizenteinioitatokinojibunnoimanozikannotukaikatahaminaoshitaho-gai-.",
-            "nokorizinseiwayu-gentoyu-kotoodaizenteinioitatokinojibunnoimanozikannotsukaikatawaminaositaho-gai-.",
-            "nokorizinseiwayu-gentoyu-kotoodaizenteinioitatokinojibunnoimanozikannotsukaikatawaminaoshitaho-gai-.",
-            "nokorizinseiwayu-gentoyu-kotoodaizenteinioitatokinojibunnoimanozikannotsukaikatahaminaositaho-gai-.",
-            "nokorizinseiwayu-gentoyu-kotoodaizenteinioitatokinojibunnoimanozikannotsukaikatahaminaoshitaho-gai-.",
-            "nokorizinseiwayu-gentoyu-kotoodaizenteinioitatokinojibunnoimanojikannotukaikatawaminaositaho-gai-.",
-            "nokorizinseiwayu-gentoyu-kotoodaizenteinioitatokinojibunnoimanojikannotukaikatawaminaoshitaho-gai-.",
-            "nokorizinseiwayu-gentoyu-kotoodaizenteinioitatokinojibunnoimanojikannotukaikatahaminaositaho-gai-.",
-            "nokorizinseiwayu-gentoyu-kotoodaizenteinioitatokinojibunnoimanojikannotukaikatahaminaoshitaho-gai-.",
-            "nokorizinseiwayu-gentoyu-kotoodaizenteinioitatokinojibunnoimanojikannotsukaikatawaminaositaho-gai-.",
-            "nokorizinseiwayu-gentoyu-kotoodaizenteinioitatokinojibunnoimanojikannotsukaikatawaminaoshitaho-gai-.",
-            "nokorizinseiwayu-gentoyu-kotoodaizenteinioitatokinojibunnoimanojikannotsukaikatahaminaositaho-gai-.",
-            "nokorizinseiwayu-gentoyu-kotoodaizenteinioitatokinojibunnoimanojikannotsukaikatahaminaoshitaho-gai-.",
-            "nokorizinseihayu-gentoyu-kotowodaizenteinioitatokinozibunnoimanozikannotukaikatawaminaositaho-gai-.",
-            "nokorizinseihayu-gentoyu-kotowodaizenteinioitatokinozibunnoimanozikannotukaikatawaminaoshitaho-gai-.",
-            "nokorizinseihayu-gentoyu-kotowodaizenteinioitatokinozibunnoimanozikannotukaikatahaminaositaho-gai-.",
-            "nokorizinseihayu-gentoyu-kotowodaizenteinioitatokinozibunnoimanozikannotukaikatahaminaoshitaho-gai-.",
-            "nokorizinseihayu-gentoyu-kotowodaizenteinioitatokinozibunnoimanozikannotsukaikatawaminaositaho-gai-.",
-            "nokorizinseihayu-gentoyu-kotowodaizenteinioitatokinozibunnoimanozikannotsukaikatawaminaoshitaho-gai-.",
-            "nokorizinseihayu-gentoyu-kotowodaizenteinioitatokinozibunnoimanozikannotsukaikatahaminaositaho-gai-.",
-            "nokorizinseihayu-gentoyu-kotowodaizenteinioitatokinozibunnoimanozikannotsukaikatahaminaoshitaho-gai-.",
-            "nokorizinseihayu-gentoyu-kotowodaizenteinioitatokinozibunnoimanojikannotukaikatawaminaositaho-gai-.",
-            "nokorizinseihayu-gentoyu-kotowodaizenteinioitatokinozibunnoimanojikannotukaikatawaminaoshitaho-gai-.",
-            "nokorizinseihayu-gentoyu-kotowodaizenteinioitatokinozibunnoimanojikannotukaikatahaminaositaho-gai-.",
-            "nokorizinseihayu-gentoyu-kotowodaizenteinioitatokinozibunnoimanojikannotukaikatahaminaoshitaho-gai-.",
-            "nokorizinseihayu-gentoyu-kotowodaizenteinioitatokinozibunnoimanojikannotsukaikatawaminaositaho-gai-.",
-            "nokorizinseihayu-gentoyu-kotowodaizenteinioitatokinozibunnoimanojikannotsukaikatawaminaoshitaho-gai-.",
-            "nokorizinseihayu-gentoyu-kotowodaizenteinioitatokinozibunnoimanojikannotsukaikatahaminaositaho-gai-.",
-            "nokorizinseihayu-gentoyu-kotowodaizenteinioitatokinozibunnoimanojikannotsukaikatahaminaoshitaho-gai-.",
-            "nokorizinseihayu-gentoyu-kotowodaizenteinioitatokinojibunnoimanozikannotukaikatawaminaositaho-gai-.",
-            "nokorizinseihayu-gentoyu-kotowodaizenteinioitatokinojibunnoimanozikannotukaikatawaminaoshitaho-gai-.",
-            "nokorizinseihayu-gentoyu-kotowodaizenteinioitatokinojibunnoimanozikannotukaikatahaminaositaho-gai-.",
-            "nokorizinseihayu-gentoyu-kotowodaizenteinioitatokinojibunnoimanozikannotukaikatahaminaoshitaho-gai-.",
-            "nokorizinseihayu-gentoyu-kotowodaizenteinioitatokinojibunnoimanozikannotsukaikatawaminaositaho-gai-.",
-            "nokorizinseihayu-gentoyu-kotowodaizenteinioitatokinojibunnoimanozikannotsukaikatawaminaoshitaho-gai-.",
-            "nokorizinseihayu-gentoyu-kotowodaizenteinioitatokinojibunnoimanozikannotsukaikatahaminaositaho-gai-.",
-            "nokorizinseihayu-gentoyu-kotowodaizenteinioitatokinojibunnoimanozikannotsukaikatahaminaoshitaho-gai-.",
-            "nokorizinseihayu-gentoyu-kotowodaizenteinioitatokinojibunnoimanojikannotukaikatawaminaositaho-gai-.",
-            "nokorizinseihayu-gentoyu-kotowodaizenteinioitatokinojibunnoimanojikannotukaikatawaminaoshitaho-gai-.",
-            "nokorizinseihayu-gentoyu-kotowodaizenteinioitatokinojibunnoimanojikannotukaikatahaminaositaho-gai-.",
-            "nokorizinseihayu-gentoyu-kotowodaizenteinioitatokinojibunnoimanojikannotukaikatahaminaoshitaho-gai-.",
-            "nokorizinseihayu-gentoyu-kotowodaizenteinioitatokinojibunnoimanojikannotsukaikatawaminaositaho-gai-.",
-            "nokorizinseihayu-gentoyu-kotowodaizenteinioitatokinojibunnoimanojikannotsukaikatawaminaoshitaho-gai-.",
-            "nokorizinseihayu-gentoyu-kotowodaizenteinioitatokinojibunnoimanojikannotsukaikatahaminaositaho-gai-.",
-            "nokorizinseihayu-gentoyu-kotowodaizenteinioitatokinojibunnoimanojikannotsukaikatahaminaoshitaho-gai-.",
-            "nokorizinseihayu-gentoyu-kotoodaizenteinioitatokinozibunnoimanozikannotukaikatawaminaositaho-gai-.",
-            "nokorizinseihayu-gentoyu-kotoodaizenteinioitatokinozibunnoimanozikannotukaikatawaminaoshitaho-gai-.",
-            "nokorizinseihayu-gentoyu-kotoodaizenteinioitatokinozibunnoimanozikannotukaikatahaminaositaho-gai-.",
-            "nokorizinseihayu-gentoyu-kotoodaizenteinioitatokinozibunnoimanozikannotukaikatahaminaoshitaho-gai-.",
-            "nokorizinseihayu-gentoyu-kotoodaizenteinioitatokinozibunnoimanozikannotsukaikatawaminaositaho-gai-.",
-            "nokorizinseihayu-gentoyu-kotoodaizenteinioitatokinozibunnoimanozikannotsukaikatawaminaoshitaho-gai-.",
-            "nokorizinseihayu-gentoyu-kotoodaizenteinioitatokinozibunnoimanozikannotsukaikatahaminaositaho-gai-.",
-            "nokorizinseihayu-gentoyu-kotoodaizenteinioitatokinozibunnoimanozikannotsukaikatahaminaoshitaho-gai-.",
-            "nokorizinseihayu-gentoyu-kotoodaizenteinioitatokinozibunnoimanojikannotukaikatawaminaositaho-gai-.",
-            "nokorizinseihayu-gentoyu-kotoodaizenteinioitatokinozibunnoimanojikannotukaikatawaminaoshitaho-gai-.",
-            "nokorizinseihayu-gentoyu-kotoodaizenteinioitatokinozibunnoimanojikannotukaikatahaminaositaho-gai-.",
-            "nokorizinseihayu-gentoyu-kotoodaizenteinioitatokinozibunnoimanojikannotukaikatahaminaoshitaho-gai-.",
-            "nokorizinseihayu-gentoyu-kotoodaizenteinioitatokinozibunnoimanojikannotsukaikatawaminaositaho-gai-.",
-            "nokorizinseihayu-gentoyu-kotoodaizenteinioitatokinozibunnoimanojikannotsukaikatawaminaoshitaho-gai-.",
-            "nokorizinseihayu-gentoyu-kotoodaizenteinioitatokinozibunnoimanojikannotsukaikatahaminaositaho-gai-.",
-            "nokorizinseihayu-gentoyu-kotoodaizenteinioitatokinozibunnoimanojikannotsukaikatahaminaoshitaho-gai-.",
-            "nokorizinseihayu-gentoyu-kotoodaizenteinioitatokinojibunnoimanozikannotukaikatawaminaositaho-gai-.",
-            "nokorizinseihayu-gentoyu-kotoodaizenteinioitatokinojibunnoimanozikannotukaikatawaminaoshitaho-gai-.",
-            "nokorizinseihayu-gentoyu-kotoodaizenteinioitatokinojibunnoimanozikannotukaikatahaminaositaho-gai-.",
-            "nokorizinseihayu-gentoyu-kotoodaizenteinioitatokinojibunnoimanozikannotukaikatahaminaoshitaho-gai-.",
-            "nokorizinseihayu-gentoyu-kotoodaizenteinioitatokinojibunnoimanozikannotsukaikatawaminaositaho-gai-.",
-            "nokorizinseihayu-gentoyu-kotoodaizenteinioitatokinojibunnoimanozikannotsukaikatawaminaoshitaho-gai-.",
-            "nokorizinseihayu-gentoyu-kotoodaizenteinioitatokinojibunnoimanozikannotsukaikatahaminaositaho-gai-.",
-            "nokorizinseihayu-gentoyu-kotoodaizenteinioitatokinojibunnoimanozikannotsukaikatahaminaoshitaho-gai-.",
-            "nokorizinseihayu-gentoyu-kotoodaizenteinioitatokinojibunnoimanojikannotukaikatawaminaositaho-gai-.",
-            "nokorizinseihayu-gentoyu-kotoodaizenteinioitatokinojibunnoimanojikannotukaikatawaminaoshitaho-gai-.",
-            "nokorizinseihayu-gentoyu-kotoodaizenteinioitatokinojibunnoimanojikannotukaikatahaminaositaho-gai-.",
-            "nokorizinseihayu-gentoyu-kotoodaizenteinioitatokinojibunnoimanojikannotukaikatahaminaoshitaho-gai-.",
-            "nokorizinseihayu-gentoyu-kotoodaizenteinioitatokinojibunnoimanojikannotsukaikatawaminaositaho-gai-.",
-            "nokorizinseihayu-gentoyu-kotoodaizenteinioitatokinojibunnoimanojikannotsukaikatawaminaoshitaho-gai-.",
-            "nokorizinseihayu-gentoyu-kotoodaizenteinioitatokinojibunnoimanojikannotsukaikatahaminaositaho-gai-.",
-            "nokorizinseihayu-gentoyu-kotoodaizenteinioitatokinojibunnoimanojikannotsukaikatahaminaoshitaho-gai-.",
-            "nokorijinseiwayu-gentoyu-kotowodaizenteinioitatokinozibunnoimanozikannotukaikatawaminaositaho-gai-.",
-            "nokorijinseiwayu-gentoyu-kotowodaizenteinioitatokinozibunnoimanozikannotukaikatawaminaoshitaho-gai-.",
-            "nokorijinseiwayu-gentoyu-kotowodaizenteinioitatokinozibunnoimanozikannotukaikatahaminaositaho-gai-.",
-            "nokorijinseiwayu-gentoyu-kotowodaizenteinioitatokinozibunnoimanozikannotukaikatahaminaoshitaho-gai-.",
-            "nokorijinseiwayu-gentoyu-kotowodaizenteinioitatokinozibunnoimanozikannotsukaikatawaminaositaho-gai-.",
-            "nokorijinseiwayu-gentoyu-kotowodaizenteinioitatokinozibunnoimanozikannotsukaikatawaminaoshitaho-gai-.",
-            "nokorijinseiwayu-gentoyu-kotowodaizenteinioitatokinozibunnoimanozikannotsukaikatahaminaositaho-gai-.",
-            "nokorijinseiwayu-gentoyu-kotowodaizenteinioitatokinozibunnoimanozikannotsukaikatahaminaoshitaho-gai-.",
-            "nokorijinseiwayu-gentoyu-kotowodaizenteinioitatokinozibunnoimanojikannotukaikatawaminaositaho-gai-.",
-            "nokorijinseiwayu-gentoyu-kotowodaizenteinioitatokinozibunnoimanojikannotukaikatawaminaoshitaho-gai-.",
-            "nokorijinseiwayu-gentoyu-kotowodaizenteinioitatokinozibunnoimanojikannotukaikatahaminaositaho-gai-.",
-            "nokorijinseiwayu-gentoyu-kotowodaizenteinioitatokinozibunnoimanojikannotukaikatahaminaoshitaho-gai-.",
-            "nokorijinseiwayu-gentoyu-kotowodaizenteinioitatokinozibunnoimanojikannotsukaikatawaminaositaho-gai-.",
-            "nokorijinseiwayu-gentoyu-kotowodaizenteinioitatokinozibunnoimanojikannotsukaikatawaminaoshitaho-gai-.",
-            "nokorijinseiwayu-gentoyu-kotowodaizenteinioitatokinozibunnoimanojikannotsukaikatahaminaositaho-gai-.",
-            "nokorijinseiwayu-gentoyu-kotowodaizenteinioitatokinozibunnoimanojikannotsukaikatahaminaoshitaho-gai-.",
-            "nokorijinseiwayu-gentoyu-kotowodaizenteinioitatokinojibunnoimanozikannotukaikatawaminaositaho-gai-.",
-            "nokorijinseiwayu-gentoyu-kotowodaizenteinioitatokinojibunnoimanozikannotukaikatawaminaoshitaho-gai-.",
-            "nokorijinseiwayu-gentoyu-kotowodaizenteinioitatokinojibunnoimanozikannotukaikatahaminaositaho-gai-.",
-            "nokorijinseiwayu-gentoyu-kotowodaizenteinioitatokinojibunnoimanozikannotukaikatahaminaoshitaho-gai-.",
-            "nokorijinseiwayu-gentoyu-kotowodaizenteinioitatokinojibunnoimanozikannotsukaikatawaminaositaho-gai-.",
-            "nokorijinseiwayu-gentoyu-kotowodaizenteinioitatokinojibunnoimanozikannotsukaikatawaminaoshitaho-gai-.",
-            "nokorijinseiwayu-gentoyu-kotowodaizenteinioitatokinojibunnoimanozikannotsukaikatahaminaositaho-gai-.",
-            "nokorijinseiwayu-gentoyu-kotowodaizenteinioitatokinojibunnoimanozikannotsukaikatahaminaoshitaho-gai-.",
-            "nokorijinseiwayu-gentoyu-kotowodaizenteinioitatokinojibunnoimanojikannotukaikatawaminaositaho-gai-.",
-            "nokorijinseiwayu-gentoyu-kotowodaizenteinioitatokinojibunnoimanojikannotukaikatawaminaoshitaho-gai-.",
-            "nokorijinseiwayu-gentoyu-kotowodaizenteinioitatokinojibunnoimanojikannotukaikatahaminaositaho-gai-.",
-            "nokorijinseiwayu-gentoyu-kotowodaizenteinioitatokinojibunnoimanojikannotukaikatahaminaoshitaho-gai-.",
-            "nokorijinseiwayu-gentoyu-kotowodaizenteinioitatokinojibunnoimanojikannotsukaikatawaminaositaho-gai-.",
-            "nokorijinseiwayu-gentoyu-kotowodaizenteinioitatokinojibunnoimanojikannotsukaikatawaminaoshitaho-gai-.",
-            "nokorijinseiwayu-gentoyu-kotowodaizenteinioitatokinojibunnoimanojikannotsukaikatahaminaositaho-gai-.",
-            "nokorijinseiwayu-gentoyu-kotowodaizenteinioitatokinojibunnoimanojikannotsukaikatahaminaoshitaho-gai-.",
-            "nokorijinseiwayu-gentoyu-kotoodaizenteinioitatokinozibunnoimanozikannotukaikatawaminaositaho-gai-.",
-            "nokorijinseiwayu-gentoyu-kotoodaizenteinioitatokinozibunnoimanozikannotukaikatawaminaoshitaho-gai-.",
-            "nokorijinseiwayu-gentoyu-kotoodaizenteinioitatokinozibunnoimanozikannotukaikatahaminaositaho-gai-.",
-            "nokorijinseiwayu-gentoyu-kotoodaizenteinioitatokinozibunnoimanozikannotukaikatahaminaoshitaho-gai-.",
-            "nokorijinseiwayu-gentoyu-kotoodaizenteinioitatokinozibunnoimanozikannotsukaikatawaminaositaho-gai-.",
-            "nokorijinseiwayu-gentoyu-kotoodaizenteinioitatokinozibunnoimanozikannotsukaikatawaminaoshitaho-gai-.",
-            "nokorijinseiwayu-gentoyu-kotoodaizenteinioitatokinozibunnoimanozikannotsukaikatahaminaositaho-gai-.",
-            "nokorijinseiwayu-gentoyu-kotoodaizenteinioitatokinozibunnoimanozikannotsukaikatahaminaoshitaho-gai-.",
-            "nokorijinseiwayu-gentoyu-kotoodaizenteinioitatokinozibunnoimanojikannotukaikatawaminaositaho-gai-.",
-            "nokorijinseiwayu-gentoyu-kotoodaizenteinioitatokinozibunnoimanojikannotukaikatawaminaoshitaho-gai-.",
-            "nokorijinseiwayu-gentoyu-kotoodaizenteinioitatokinozibunnoimanojikannotukaikatahaminaositaho-gai-.",
-            "nokorijinseiwayu-gentoyu-kotoodaizenteinioitatokinozibunnoimanojikannotukaikatahaminaoshitaho-gai-.",
-            "nokorijinseiwayu-gentoyu-kotoodaizenteinioitatokinozibunnoimanojikannotsukaikatawaminaositaho-gai-.",
-            "nokorijinseiwayu-gentoyu-kotoodaizenteinioitatokinozibunnoimanojikannotsukaikatawaminaoshitaho-gai-.",
-            "nokorijinseiwayu-gentoyu-kotoodaizenteinioitatokinozibunnoimanojikannotsukaikatahaminaositaho-gai-.",
-            "nokorijinseiwayu-gentoyu-kotoodaizenteinioitatokinozibunnoimanojikannotsukaikatahaminaoshitaho-gai-.",
-            "nokorijinseiwayu-gentoyu-kotoodaizenteinioitatokinojibunnoimanozikannotukaikatawaminaositaho-gai-.",
-            "nokorijinseiwayu-gentoyu-kotoodaizenteinioitatokinojibunnoimanozikannotukaikatawaminaoshitaho-gai-.",
-            "nokorijinseiwayu-gentoyu-kotoodaizenteinioitatokinojibunnoimanozikannotukaikatahaminaositaho-gai-.",
-            "nokorijinseiwayu-gentoyu-kotoodaizenteinioitatokinojibunnoimanozikannotukaikatahaminaoshitaho-gai-.",
-            "nokorijinseiwayu-gentoyu-kotoodaizenteinioitatokinojibunnoimanozikannotsukaikatawaminaositaho-gai-.",
-            "nokorijinseiwayu-gentoyu-kotoodaizenteinioitatokinojibunnoimanozikannotsukaikatawaminaoshitaho-gai-.",
-            "nokorijinseiwayu-gentoyu-kotoodaizenteinioitatokinojibunnoimanozikannotsukaikatahaminaositaho-gai-.",
-            "nokorijinseiwayu-gentoyu-kotoodaizenteinioitatokinojibunnoimanozikannotsukaikatahaminaoshitaho-gai-.",
-            "nokorijinseiwayu-gentoyu-kotoodaizenteinioitatokinojibunnoimanojikannotukaikatawaminaositaho-gai-.",
-            "nokorijinseiwayu-gentoyu-kotoodaizenteinioitatokinojibunnoimanojikannotukaikatawaminaoshitaho-gai-.",
-            "nokorijinseiwayu-gentoyu-kotoodaizenteinioitatokinojibunnoimanojikannotukaikatahaminaositaho-gai-.",
-            "nokorijinseiwayu-gentoyu-kotoodaizenteinioitatokinojibunnoimanojikannotukaikatahaminaoshitaho-gai-.",
-            "nokorijinseiwayu-gentoyu-kotoodaizenteinioitatokinojibunnoimanojikannotsukaikatawaminaositaho-gai-.",
-            "nokorijinseiwayu-gentoyu-kotoodaizenteinioitatokinojibunnoimanojikannotsukaikatahaminaositaho-gai-.",
-            "nokorijinseiwayu-gentoyu-kotoodaizenteinioitatokinojibunnoimanojikannotsukaikatahaminaoshitaho-gai-.",
-            "nokorijinseihayu-gentoyu-kotowodaizenteinioitatokinozibunnoimanozikannotukaikatawaminaositaho-gai-.",
-            "nokorijinseihayu-gentoyu-kotowodaizenteinioitatokinozibunnoimanozikannotukaikatawaminaoshitaho-gai-.",
-            "nokorijinseihayu-gentoyu-kotowodaizenteinioitatokinozibunnoimanozikannotukaikatahaminaositaho-gai-.",
-            "nokorijinseihayu-gentoyu-kotowodaizenteinioitatokinozibunnoimanozikannotukaikatahaminaoshitaho-gai-.",
-            "nokorijinseihayu-gentoyu-kotowodaizenteinioitatokinozibunnoimanozikannotsukaikatawaminaositaho-gai-.",
-            "nokorijinseihayu-gentoyu-kotowodaizenteinioitatokinozibunnoimanozikannotsukaikatawaminaoshitaho-gai-.",
-            "nokorijinseihayu-gentoyu-kotowodaizenteinioitatokinozibunnoimanozikannotsukaikatahaminaositaho-gai-.",
-            "nokorijinseihayu-gentoyu-kotowodaizenteinioitatokinozibunnoimanozikannotsukaikatahaminaoshitaho-gai-.",
-            "nokorijinseihayu-gentoyu-kotowodaizenteinioitatokinozibunnoimanojikannotukaikatawaminaositaho-gai-.",
-            "nokorijinseihayu-gentoyu-kotowodaizenteinioitatokinozibunnoimanojikannotukaikatawaminaoshitaho-gai-.",
-            "nokorijinseihayu-gentoyu-kotowodaizenteinioitatokinozibunnoimanojikannotukaikatahaminaositaho-gai-.",
-            "nokorijinseihayu-gentoyu-kotowodaizenteinioitatokinozibunnoimanojikannotukaikatahaminaoshitaho-gai-.",
-            "nokorijinseihayu-gentoyu-kotowodaizenteinioitatokinozibunnoimanojikannotsukaikatawaminaositaho-gai-.",
-            "nokorijinseihayu-gentoyu-kotowodaizenteinioitatokinozibunnoimanojikannotsukaikatawaminaoshitaho-gai-.",
-            "nokorijinseihayu-gentoyu-kotowodaizenteinioitatokinozibunnoimanojikannotsukaikatahaminaositaho-gai-.",
-            "nokorijinseihayu-gentoyu-kotowodaizenteinioitatokinozibunnoimanojikannotsukaikatahaminaoshitaho-gai-.",
-            "nokorijinseihayu-gentoyu-kotowodaizenteinioitatokinojibunnoimanozikannotukaikatawaminaositaho-gai-.",
-            "nokorijinseihayu-gentoyu-kotowodaizenteinioitatokinojibunnoimanozikannotukaikatawaminaoshitaho-gai-.",
-            "nokorijinseihayu-gentoyu-kotowodaizenteinioitatokinojibunnoimanozikannotukaikatahaminaositaho-gai-.",
-            "nokorijinseihayu-gentoyu-kotowodaizenteinioitatokinojibunnoimanozikannotukaikatahaminaoshitaho-gai-.",
-            "nokorijinseihayu-gentoyu-kotowodaizenteinioitatokinojibunnoimanozikannotsukaikatawaminaositaho-gai-.",
-            "nokorijinseihayu-gentoyu-kotowodaizenteinioitatokinojibunnoimanozikannotsukaikatawaminaoshitaho-gai-.",
-            "nokorijinseihayu-gentoyu-kotowodaizenteinioitatokinojibunnoimanozikannotsukaikatahaminaositaho-gai-.",
-            "nokorijinseihayu-gentoyu-kotowodaizenteinioitatokinojibunnoimanozikannotsukaikatahaminaoshitaho-gai-.",
-            "nokorijinseihayu-gentoyu-kotowodaizenteinioitatokinojibunnoimanojikannotukaikatawaminaositaho-gai-.",
-            "nokorijinseihayu-gentoyu-kotowodaizenteinioitatokinojibunnoimanojikannotukaikatawaminaoshitaho-gai-.",
-            "nokorijinseihayu-gentoyu-kotowodaizenteinioitatokinojibunnoimanojikannotukaikatahaminaositaho-gai-.",
-            "nokorijinseihayu-gentoyu-kotowodaizenteinioitatokinojibunnoimanojikannotukaikatahaminaoshitaho-gai-.",
-            "nokorijinseihayu-gentoyu-kotowodaizenteinioitatokinojibunnoimanojikannotsukaikatawaminaositaho-gai-.",
-            "nokorijinseihayu-gentoyu-kotowodaizenteinioitatokinojibunnoimanojikannotsukaikatawaminaoshitaho-gai-.",
-            "nokorijinseihayu-gentoyu-kotowodaizenteinioitatokinojibunnoimanojikannotsukaikatahaminaositaho-gai-.",
-            "nokorijinseihayu-gentoyu-kotowodaizenteinioitatokinojibunnoimanojikannotsukaikatahaminaoshitaho-gai-.",
-            "nokorijinseihayu-gentoyu-kotoodaizenteinioitatokinozibunnoimanozikannotukaikatawaminaositaho-gai-.",
-            "nokorijinseihayu-gentoyu-kotoodaizenteinioitatokinozibunnoimanozikannotukaikatawaminaoshitaho-gai-.",
-            "nokorijinseihayu-gentoyu-kotoodaizenteinioitatokinozibunnoimanozikannotukaikatahaminaositaho-gai-.",
-            "nokorijinseihayu-gentoyu-kotoodaizenteinioitatokinozibunnoimanozikannotukaikatahaminaoshitaho-gai-.",
-            "nokorijinseihayu-gentoyu-kotoodaizenteinioitatokinozibunnoimanozikannotsukaikatawaminaositaho-gai-.",
-            "nokorijinseihayu-gentoyu-kotoodaizenteinioitatokinozibunnoimanozikannotsukaikatawaminaoshitaho-gai-.",
-            "nokorijinseihayu-gentoyu-kotoodaizenteinioitatokinozibunnoimanozikannotsukaikatahaminaositaho-gai-.",
-            "nokorijinseihayu-gentoyu-kotoodaizenteinioitatokinozibunnoimanozikannotsukaikatahaminaoshitaho-gai-.",
-            "nokorijinseihayu-gentoyu-kotoodaizenteinioitatokinozibunnoimanojikannotukaikatawaminaositaho-gai-.",
-            "nokorijinseihayu-gentoyu-kotoodaizenteinioitatokinozibunnoimanojikannotukaikatawaminaoshitaho-gai-.",
-            "nokorijinseihayu-gentoyu-kotoodaizenteinioitatokinozibunnoimanojikannotukaikatahaminaositaho-gai-.",
-            "nokorijinseihayu-gentoyu-kotoodaizenteinioitatokinozibunnoimanojikannotukaikatahaminaoshitaho-gai-.",
-            "nokorijinseihayu-gentoyu-kotoodaizenteinioitatokinozibunnoimanojikannotsukaikatawaminaositaho-gai-.",
-            "nokorijinseihayu-gentoyu-kotoodaizenteinioitatokinozibunnoimanojikannotsukaikatawaminaoshitaho-gai-.",
-            "nokorijinseihayu-gentoyu-kotoodaizenteinioitatokinozibunnoimanojikannotsukaikatahaminaositaho-gai-.",
-            "nokorijinseihayu-gentoyu-kotoodaizenteinioitatokinozibunnoimanojikannotsukaikatahaminaoshitaho-gai-.",
-            "nokorijinseihayu-gentoyu-kotoodaizenteinioitatokinojibunnoimanozikannotukaikatawaminaositaho-gai-.",
-            "nokorijinseihayu-gentoyu-kotoodaizenteinioitatokinojibunnoimanozikannotukaikatawaminaoshitaho-gai-.",
-            "nokorijinseihayu-gentoyu-kotoodaizenteinioitatokinojibunnoimanozikannotukaikatahaminaositaho-gai-.",
-            "nokorijinseihayu-gentoyu-kotoodaizenteinioitatokinojibunnoimanozikannotukaikatahaminaoshitaho-gai-.",
-            "nokorijinseihayu-gentoyu-kotoodaizenteinioitatokinojibunnoimanozikannotsukaikatawaminaositaho-gai-.",
-            "nokorijinseihayu-gentoyu-kotoodaizenteinioitatokinojibunnoimanozikannotsukaikatawaminaoshitaho-gai-.",
-            "nokorijinseihayu-gentoyu-kotoodaizenteinioitatokinojibunnoimanozikannotsukaikatahaminaositaho-gai-.",
-            "nokorijinseihayu-gentoyu-kotoodaizenteinioitatokinojibunnoimanozikannotsukaikatahaminaoshitaho-gai-.",
-            "nokorijinseihayu-gentoyu-kotoodaizenteinioitatokinojibunnoimanojikannotukaikatawaminaositaho-gai-.",
-            "nokorijinseihayu-gentoyu-kotoodaizenteinioitatokinojibunnoimanojikannotukaikatawaminaoshitaho-gai-.",
-            "nokorijinseihayu-gentoyu-kotoodaizenteinioitatokinojibunnoimanojikannotukaikatahaminaositaho-gai-.",
-            "nokorijinseihayu-gentoyu-kotoodaizenteinioitatokinojibunnoimanojikannotukaikatahaminaoshitaho-gai-.",
-            "nokorijinseihayu-gentoyu-kotoodaizenteinioitatokinojibunnoimanojikannotsukaikatawaminaositaho-gai-.",
-            "nokorijinseihayu-gentoyu-kotoodaizenteinioitatokinojibunnoimanojikannotsukaikatawaminaoshitaho-gai-.",
-            "nokorijinseihayu-gentoyu-kotoodaizenteinioitatokinojibunnoimanojikannotsukaikatahaminaositaho-gai-.",
-            "nokorijinseihayu-gentoyu-kotoodaizenteinioitatokinojibunnoimanojikannotsukaikatahaminaoshitaho-gai-.",
-            "nokorijinseiwayu-gentoyu-kotoodaizenteinioitatokinojibunnoimanojikannotsukaikatawaminaoshitaho-gai-.",
-            "nokorijinseiwayuugentoyuukotoodaizenteinioitatokinojibunnoimanojikannotsukaikatawaminaoshitahougaii.",
-            "nokorijinseihayuugentoyuukotoodaizenteinioitatokinojibunnoimanojikannotsukaikatahaminaoshitahougaii.",
-            "nokorijinseihayuugentoyuukotoodaizenteinioitatokinojibunnoimanojikannotsukaikatahaminaositahougaii.",
-            "nokorijinseihayuugentoyuukotoodaizenteinioitatokinojibunnoimanojikannotsukaikatawaminaoshitahougaii.",
-            "nokorijinseihayuugentoyuukotoodaizenteinioitatokinojibunnoimanojikannotsukaikatawaminaositahougaii.",
-            "nokorijinseihayuugentoyuukotoodaizenteinioitatokinojibunnoimanojikannotukaikatahaminaoshitahougaii.",
-            "nokorijinseihayuugentoyuukotoodaizenteinioitatokinojibunnoimanojikannotukaikatahaminaositahougaii.",
-            "nokorijinseihayuugentoyuukotoodaizenteinioitatokinojibunnoimanojikannotukaikatawaminaoshitahougaii.",
-            "nokorijinseihayuugentoyuukotoodaizenteinioitatokinojibunnoimanojikannotukaikatawaminaositahougaii.",
-            "nokorijinseihayuugentoyuukotoodaizenteinioitatokinojibunnoimanozikannotsukaikatahaminaoshitahougaii.",
-            "nokorijinseihayuugentoyuukotoodaizenteinioitatokinojibunnoimanozikannotsukaikatahaminaositahougaii.",
-            "nokorijinseihayuugentoyuukotoodaizenteinioitatokinojibunnoimanozikannotsukaikatawaminaoshitahougaii.",
-            "nokorijinseihayuugentoyuukotoodaizenteinioitatokinojibunnoimanozikannotsukaikatawaminaositahougaii.",
-            "nokorijinseihayuugentoyuukotoodaizenteinioitatokinojibunnoimanozikannotukaikatahaminaoshitahougaii.",
-            "nokorijinseihayuugentoyuukotoodaizenteinioitatokinojibunnoimanozikannotukaikatahaminaositahougaii.",
-            "nokorijinseihayuugentoyuukotoodaizenteinioitatokinojibunnoimanozikannotukaikatawaminaoshitahougaii.",
-            "nokorijinseihayuugentoyuukotoodaizenteinioitatokinojibunnoimanozikannotukaikatawaminaositahougaii.",
-            "nokorijinseihayuugentoyuukotoodaizenteinioitatokinozibunnoimanojikannotsukaikatahaminaoshitahougaii.",
-            "nokorijinseihayuugentoyuukotoodaizenteinioitatokinozibunnoimanojikannotsukaikatahaminaositahougaii.",
-            "nokorijinseihayuugentoyuukotoodaizenteinioitatokinozibunnoimanojikannotsukaikatawaminaoshitahougaii.",
-            "nokorijinseihayuugentoyuukotoodaizenteinioitatokinozibunnoimanojikannotsukaikatawaminaositahougaii.",
-            "nokorijinseihayuugentoyuukotoodaizenteinioitatokinozibunnoimanojikannotukaikatahaminaoshitahougaii.",
-            "nokorijinseihayuugentoyuukotoodaizenteinioitatokinozibunnoimanojikannotukaikatahaminaositahougaii.",
-            "nokorijinseihayuugentoyuukotoodaizenteinioitatokinozibunnoimanojikannotukaikatawaminaoshitahougaii.",
-            "nokorijinseihayuugentoyuukotoodaizenteinioitatokinozibunnoimanojikannotukaikatawaminaositahougaii.",
-            "nokorijinseihayuugentoyuukotoodaizenteinioitatokinozibunnoimanozikannotsukaikatahaminaoshitahougaii.",
-            "nokorijinseihayuugentoyuukotoodaizenteinioitatokinozibunnoimanozikannotsukaikatahaminaositahougaii.",
-            "nokorijinseihayuugentoyuukotoodaizenteinioitatokinozibunnoimanozikannotsukaikatawaminaoshitahougaii.",
-            "nokorijinseihayuugentoyuukotoodaizenteinioitatokinozibunnoimanozikannotsukaikatawaminaositahougaii.",
-            "nokorijinseihayuugentoyuukotoodaizenteinioitatokinozibunnoimanozikannotukaikatahaminaoshitahougaii.",
-            "nokorijinseihayuugentoyuukotoodaizenteinioitatokinozibunnoimanozikannotukaikatahaminaositahougaii.",
-            "nokorijinseihayuugentoyuukotoodaizenteinioitatokinozibunnoimanozikannotukaikatawaminaoshitahougaii.",
-            "nokorijinseihayuugentoyuukotoodaizenteinioitatokinozibunnoimanozikannotukaikatawaminaositahougaii.",
-            "nokorijinseihayuugentoyuukotowodaizenteinioitatokinojibunnoimanojikannotsukaikatahaminaoshitahougaii.",
-            "nokorijinseihayuugentoyuukotowodaizenteinioitatokinojibunnoimanojikannotsukaikatahaminaositahougaii.",
-            "nokorijinseihayuugentoyuukotowodaizenteinioitatokinojibunnoimanojikannotsukaikatawaminaoshitahougaii.",
-            "nokorijinseihayuugentoyuukotowodaizenteinioitatokinojibunnoimanojikannotsukaikatawaminaositahougaii.",
-            "nokorijinseihayuugentoyuukotowodaizenteinioitatokinojibunnoimanojikannotukaikatahaminaoshitahougaii.",
-            "nokorijinseihayuugentoyuukotowodaizenteinioitatokinojibunnoimanojikannotukaikatahaminaositahougaii.",
-            "nokorijinseihayuugentoyuukotowodaizenteinioitatokinojibunnoimanojikannotukaikatawaminaoshitahougaii.",
-            "nokorijinseihayuugentoyuukotowodaizenteinioitatokinojibunnoimanojikannotukaikatawaminaositahougaii.",
-            "nokorijinseihayuugentoyuukotowodaizenteinioitatokinojibunnoimanozikannotsukaikatahaminaoshitahougaii.",
-            "nokorijinseihayuugentoyuukotowodaizenteinioitatokinojibunnoimanozikannotsukaikatahaminaositahougaii.",
-            "nokorijinseihayuugentoyuukotowodaizenteinioitatokinojibunnoimanozikannotsukaikatawaminaoshitahougaii.",
-            "nokorijinseihayuugentoyuukotowodaizenteinioitatokinojibunnoimanozikannotsukaikatawaminaositahougaii.",
-            "nokorijinseihayuugentoyuukotowodaizenteinioitatokinojibunnoimanozikannotukaikatahaminaoshitahougaii.",
-            "nokorijinseihayuugentoyuukotowodaizenteinioitatokinojibunnoimanozikannotukaikatahaminaositahougaii.",
-            "nokorijinseihayuugentoyuukotowodaizenteinioitatokinojibunnoimanozikannotukaikatawaminaoshitahougaii.",
-            "nokorijinseihayuugentoyuukotowodaizenteinioitatokinojibunnoimanozikannotukaikatawaminaositahougaii.",
-            "nokorijinseihayuugentoyuukotowodaizenteinioitatokinozibunnoimanojikannotsukaikatahaminaoshitahougaii.",
-            "nokorijinseihayuugentoyuukotowodaizenteinioitatokinozibunnoimanojikannotsukaikatahaminaositahougaii.",
-            "nokorijinseihayuugentoyuukotowodaizenteinioitatokinozibunnoimanojikannotsukaikatawaminaoshitahougaii.",
-            "nokorijinseihayuugentoyuukotowodaizenteinioitatokinozibunnoimanojikannotsukaikatawaminaositahougaii.",
-            "nokorijinseihayuugentoyuukotowodaizenteinioitatokinozibunnoimanojikannotukaikatahaminaoshitahougaii.",
-            "nokorijinseihayuugentoyuukotowodaizenteinioitatokinozibunnoimanojikannotukaikatahaminaositahougaii.",
-            "nokorijinseihayuugentoyuukotowodaizenteinioitatokinozibunnoimanojikannotukaikatawaminaoshitahougaii.",
-            "nokorijinseihayuugentoyuukotowodaizenteinioitatokinozibunnoimanojikannotukaikatawaminaositahougaii.",
-            "nokorijinseihayuugentoyuukotowodaizenteinioitatokinozibunnoimanozikannotsukaikatahaminaoshitahougaii.",
-            "nokorijinseihayuugentoyuukotowodaizenteinioitatokinozibunnoimanozikannotsukaikatahaminaositahougaii.",
-            "nokorijinseihayuugentoyuukotowodaizenteinioitatokinozibunnoimanozikannotsukaikatawaminaoshitahougaii.",
-            "nokorijinseihayuugentoyuukotowodaizenteinioitatokinozibunnoimanozikannotsukaikatawaminaositahougaii.",
-            "nokorijinseihayuugentoyuukotowodaizenteinioitatokinozibunnoimanozikannotukaikatahaminaoshitahougaii.",
-            "nokorijinseihayuugentoyuukotowodaizenteinioitatokinozibunnoimanozikannotukaikatahaminaositahougaii.",
-            "nokorijinseihayuugentoyuukotowodaizenteinioitatokinozibunnoimanozikannotukaikatawaminaoshitahougaii.",
-            "nokorijinseihayuugentoyuukotowodaizenteinioitatokinozibunnoimanozikannotukaikatawaminaositahougaii.",
-            "nokorijinseiwayuugentoyuukotoodaizenteinioitatokinojibunnoimanojikannotsukaikatahaminaoshitahougaii.",
-            "nokorijinseiwayuugentoyuukotoodaizenteinioitatokinojibunnoimanojikannotsukaikatahaminaositahougaii.",
-            "nokorijinseiwayuugentoyuukotoodaizenteinioitatokinojibunnoimanojikannotsukaikatawaminaositahougaii.",
-            "nokorijinseiwayuugentoyuukotoodaizenteinioitatokinojibunnoimanojikannotukaikatahaminaoshitahougaii.",
-            "nokorijinseiwayuugentoyuukotoodaizenteinioitatokinojibunnoimanojikannotukaikatahaminaositahougaii.",
-            "nokorijinseiwayuugentoyuukotoodaizenteinioitatokinojibunnoimanojikannotukaikatawaminaoshitahougaii.",
-            "nokorijinseiwayuugentoyuukotoodaizenteinioitatokinojibunnoimanojikannotukaikatawaminaositahougaii.",
-            "nokorijinseiwayuugentoyuukotoodaizenteinioitatokinojibunnoimanozikannotsukaikatahaminaoshitahougaii.",
-            "nokorijinseiwayuugentoyuukotoodaizenteinioitatokinojibunnoimanozikannotsukaikatahaminaositahougaii.",
-            "nokorijinseiwayuugentoyuukotoodaizenteinioitatokinojibunnoimanozikannotsukaikatawaminaoshitahougaii.",
-            "nokorijinseiwayuugentoyuukotoodaizenteinioitatokinojibunnoimanozikannotsukaikatawaminaositahougaii.",
-            "nokorijinseiwayuugentoyuukotoodaizenteinioitatokinojibunnoimanozikannotukaikatahaminaoshitahougaii.",
-            "nokorijinseiwayuugentoyuukotoodaizenteinioitatokinojibunnoimanozikannotukaikatahaminaositahougaii.",
-            "nokorijinseiwayuugentoyuukotoodaizenteinioitatokinojibunnoimanozikannotukaikatawaminaoshitahougaii.",
-            "nokorijinseiwayuugentoyuukotoodaizenteinioitatokinojibunnoimanozikannotukaikatawaminaositahougaii.",
-            "nokorijinseiwayuugentoyuukotoodaizenteinioitatokinozibunnoimanojikannotsukaikatahaminaoshitahougaii.",
-            "nokorijinseiwayuugentoyuukotoodaizenteinioitatokinozibunnoimanojikannotsukaikatahaminaositahougaii.",
-            "nokorijinseiwayuugentoyuukotoodaizenteinioitatokinozibunnoimanojikannotsukaikatawaminaoshitahougaii.",
-            "nokorijinseiwayuugentoyuukotoodaizenteinioitatokinozibunnoimanojikannotsukaikatawaminaositahougaii.",
-            "nokorijinseiwayuugentoyuukotoodaizenteinioitatokinozibunnoimanojikannotukaikatahaminaoshitahougaii.",
-            "nokorijinseiwayuugentoyuukotoodaizenteinioitatokinozibunnoimanojikannotukaikatahaminaositahougaii.",
-            "nokorijinseiwayuugentoyuukotoodaizenteinioitatokinozibunnoimanojikannotukaikatawaminaoshitahougaii.",
-            "nokorijinseiwayuugentoyuukotoodaizenteinioitatokinozibunnoimanojikannotukaikatawaminaositahougaii.",
-            "nokorijinseiwayuugentoyuukotoodaizenteinioitatokinozibunnoimanozikannotsukaikatahaminaoshitahougaii.",
-            "nokorijinseiwayuugentoyuukotoodaizenteinioitatokinozibunnoimanozikannotsukaikatahaminaositahougaii.",
-            "nokorijinseiwayuugentoyuukotoodaizenteinioitatokinozibunnoimanozikannotsukaikatawaminaoshitahougaii.",
-            "nokorijinseiwayuugentoyuukotoodaizenteinioitatokinozibunnoimanozikannotsukaikatawaminaositahougaii.",
-            "nokorijinseiwayuugentoyuukotoodaizenteinioitatokinozibunnoimanozikannotukaikatahaminaoshitahougaii.",
-            "nokorijinseiwayuugentoyuukotoodaizenteinioitatokinozibunnoimanozikannotukaikatahaminaositahougaii.",
-            "nokorijinseiwayuugentoyuukotoodaizenteinioitatokinozibunnoimanozikannotukaikatawaminaoshitahougaii.",
-            "nokorijinseiwayuugentoyuukotoodaizenteinioitatokinozibunnoimanozikannotukaikatawaminaositahougaii.",
-            "nokorijinseiwayuugentoyuukotowodaizenteinioitatokinojibunnoimanojikannotsukaikatahaminaoshitahougaii.",
-            "nokorijinseiwayuugentoyuukotowodaizenteinioitatokinojibunnoimanojikannotsukaikatahaminaositahougaii.",
-            "nokorijinseiwayuugentoyuukotowodaizenteinioitatokinojibunnoimanojikannotsukaikatawaminaoshitahougaii.",
-            "nokorijinseiwayuugentoyuukotowodaizenteinioitatokinojibunnoimanojikannotsukaikatawaminaositahougaii.",
-            "nokorijinseiwayuugentoyuukotowodaizenteinioitatokinojibunnoimanojikannotukaikatahaminaoshitahougaii.",
-            "nokorijinseiwayuugentoyuukotowodaizenteinioitatokinojibunnoimanojikannotukaikatahaminaositahougaii.",
-            "nokorijinseiwayuugentoyuukotowodaizenteinioitatokinojibunnoimanojikannotukaikatawaminaoshitahougaii.",
-            "nokorijinseiwayuugentoyuukotowodaizenteinioitatokinojibunnoimanojikannotukaikatawaminaositahougaii.",
-            "nokorijinseiwayuugentoyuukotowodaizenteinioitatokinojibunnoimanozikannotsukaikatahaminaoshitahougaii.",
-            "nokorijinseiwayuugentoyuukotowodaizenteinioitatokinojibunnoimanozikannotsukaikatahaminaositahougaii.",
-            "nokorijinseiwayuugentoyuukotowodaizenteinioitatokinojibunnoimanozikannotsukaikatawaminaoshitahougaii.",
-            "nokorijinseiwayuugentoyuukotowodaizenteinioitatokinojibunnoimanozikannotsukaikatawaminaositahougaii.",
-            "nokorijinseiwayuugentoyuukotowodaizenteinioitatokinojibunnoimanozikannotukaikatahaminaoshitahougaii.",
-            "nokorijinseiwayuugentoyuukotowodaizenteinioitatokinojibunnoimanozikannotukaikatahaminaositahougaii.",
-            "nokorijinseiwayuugentoyuukotowodaizenteinioitatokinojibunnoimanozikannotukaikatawaminaoshitahougaii.",
-            "nokorijinseiwayuugentoyuukotowodaizenteinioitatokinojibunnoimanozikannotukaikatawaminaositahougaii.",
-            "nokorijinseiwayuugentoyuukotowodaizenteinioitatokinozibunnoimanojikannotsukaikatahaminaoshitahougaii.",
-            "nokorijinseiwayuugentoyuukotowodaizenteinioitatokinozibunnoimanojikannotsukaikatahaminaositahougaii.",
-            "nokorijinseiwayuugentoyuukotowodaizenteinioitatokinozibunnoimanojikannotsukaikatawaminaoshitahougaii.",
-            "nokorijinseiwayuugentoyuukotowodaizenteinioitatokinozibunnoimanojikannotsukaikatawaminaositahougaii.",
-            "nokorijinseiwayuugentoyuukotowodaizenteinioitatokinozibunnoimanojikannotukaikatahaminaoshitahougaii.",
-            "nokorijinseiwayuugentoyuukotowodaizenteinioitatokinozibunnoimanojikannotukaikatahaminaositahougaii.",
-            "nokorijinseiwayuugentoyuukotowodaizenteinioitatokinozibunnoimanojikannotukaikatawaminaoshitahougaii.",
-            "nokorijinseiwayuugentoyuukotowodaizenteinioitatokinozibunnoimanojikannotukaikatawaminaositahougaii.",
-            "nokorijinseiwayuugentoyuukotowodaizenteinioitatokinozibunnoimanozikannotsukaikatahaminaoshitahougaii.",
-            "nokorijinseiwayuugentoyuukotowodaizenteinioitatokinozibunnoimanozikannotsukaikatahaminaositahougaii.",
-            "nokorijinseiwayuugentoyuukotowodaizenteinioitatokinozibunnoimanozikannotsukaikatawaminaoshitahougaii.",
-            "nokorijinseiwayuugentoyuukotowodaizenteinioitatokinozibunnoimanozikannotsukaikatawaminaositahougaii.",
-            "nokorijinseiwayuugentoyuukotowodaizenteinioitatokinozibunnoimanozikannotukaikatahaminaoshitahougaii.",
-            "nokorijinseiwayuugentoyuukotowodaizenteinioitatokinozibunnoimanozikannotukaikatahaminaositahougaii.",
-            "nokorijinseiwayuugentoyuukotowodaizenteinioitatokinozibunnoimanozikannotukaikatawaminaoshitahougaii.",
-            "nokorijinseiwayuugentoyuukotowodaizenteinioitatokinozibunnoimanozikannotukaikatawaminaositahougaii.",
-            "nokorizinseihayuugentoyuukotoodaizenteinioitatokinojibunnoimanojikannotsukaikatahaminaoshitahougaii.",
-            "nokorizinseihayuugentoyuukotoodaizenteinioitatokinojibunnoimanojikannotsukaikatahaminaositahougaii.",
-            "nokorizinseihayuugentoyuukotoodaizenteinioitatokinojibunnoimanojikannotsukaikatawaminaoshitahougaii.",
-            "nokorizinseihayuugentoyuukotoodaizenteinioitatokinojibunnoimanojikannotsukaikatawaminaositahougaii.",
-            "nokorizinseihayuugentoyuukotoodaizenteinioitatokinojibunnoimanojikannotukaikatahaminaoshitahougaii.",
-            "nokorizinseihayuugentoyuukotoodaizenteinioitatokinojibunnoimanojikannotukaikatahaminaositahougaii.",
-            "nokorizinseihayuugentoyuukotoodaizenteinioitatokinojibunnoimanojikannotukaikatawaminaoshitahougaii.",
-            "nokorizinseihayuugentoyuukotoodaizenteinioitatokinojibunnoimanojikannotukaikatawaminaositahougaii.",
-            "nokorizinseihayuugentoyuukotoodaizenteinioitatokinojibunnoimanozikannotsukaikatahaminaoshitahougaii.",
-            "nokorizinseihayuugentoyuukotoodaizenteinioitatokinojibunnoimanozikannotsukaikatahaminaositahougaii.",
-            "nokorizinseihayuugentoyuukotoodaizenteinioitatokinojibunnoimanozikannotsukaikatawaminaoshitahougaii.",
-            "nokorizinseihayuugentoyuukotoodaizenteinioitatokinojibunnoimanozikannotsukaikatawaminaositahougaii.",
-            "nokorizinseihayuugentoyuukotoodaizenteinioitatokinojibunnoimanozikannotukaikatahaminaoshitahougaii.",
-            "nokorizinseihayuugentoyuukotoodaizenteinioitatokinojibunnoimanozikannotukaikatahaminaositahougaii.",
-            "nokorizinseihayuugentoyuukotoodaizenteinioitatokinojibunnoimanozikannotukaikatawaminaoshitahougaii.",
-            "nokorizinseihayuugentoyuukotoodaizenteinioitatokinojibunnoimanozikannotukaikatawaminaositahougaii.",
-            "nokorizinseihayuugentoyuukotoodaizenteinioitatokinozibunnoimanojikannotsukaikatahaminaoshitahougaii.",
-            "nokorizinseihayuugentoyuukotoodaizenteinioitatokinozibunnoimanojikannotsukaikatahaminaositahougaii.",
-            "nokorizinseihayuugentoyuukotoodaizenteinioitatokinozibunnoimanojikannotsukaikatawaminaoshitahougaii.",
-            "nokorizinseihayuugentoyuukotoodaizenteinioitatokinozibunnoimanojikannotsukaikatawaminaositahougaii.",
-            "nokorizinseihayuugentoyuukotoodaizenteinioitatokinozibunnoimanojikannotukaikatahaminaoshitahougaii.",
-            "nokorizinseihayuugentoyuukotoodaizenteinioitatokinozibunnoimanojikannotukaikatahaminaositahougaii.",
-            "nokorizinseihayuugentoyuukotoodaizenteinioitatokinozibunnoimanojikannotukaikatawaminaoshitahougaii.",
-            "nokorizinseihayuugentoyuukotoodaizenteinioitatokinozibunnoimanojikannotukaikatawaminaositahougaii.",
-            "nokorizinseihayuugentoyuukotoodaizenteinioitatokinozibunnoimanozikannotsukaikatahaminaoshitahougaii.",
-            "nokorizinseihayuugentoyuukotoodaizenteinioitatokinozibunnoimanozikannotsukaikatahaminaositahougaii.",
-            "nokorizinseihayuugentoyuukotoodaizenteinioitatokinozibunnoimanozikannotsukaikatawaminaoshitahougaii.",
-            "nokorizinseihayuugentoyuukotoodaizenteinioitatokinozibunnoimanozikannotsukaikatawaminaositahougaii.",
-            "nokorizinseihayuugentoyuukotoodaizenteinioitatokinozibunnoimanozikannotukaikatahaminaoshitahougaii.",
-            "nokorizinseihayuugentoyuukotoodaizenteinioitatokinozibunnoimanozikannotukaikatahaminaositahougaii.",
-            "nokorizinseihayuugentoyuukotoodaizenteinioitatokinozibunnoimanozikannotukaikatawaminaoshitahougaii.",
-            "nokorizinseihayuugentoyuukotoodaizenteinioitatokinozibunnoimanozikannotukaikatawaminaositahougaii.",
-            "nokorizinseihayuugentoyuukotowodaizenteinioitatokinojibunnoimanojikannotsukaikatahaminaoshitahougaii.",
-            "nokorizinseihayuugentoyuukotowodaizenteinioitatokinojibunnoimanojikannotsukaikatahaminaositahougaii.",
-            "nokorizinseihayuugentoyuukotowodaizenteinioitatokinojibunnoimanojikannotsukaikatawaminaoshitahougaii.",
-            "nokorizinseihayuugentoyuukotowodaizenteinioitatokinojibunnoimanojikannotsukaikatawaminaositahougaii.",
-            "nokorizinseihayuugentoyuukotowodaizenteinioitatokinojibunnoimanojikannotukaikatahaminaoshitahougaii.",
-            "nokorizinseihayuugentoyuukotowodaizenteinioitatokinojibunnoimanojikannotukaikatahaminaositahougaii.",
-            "nokorizinseihayuugentoyuukotowodaizenteinioitatokinojibunnoimanojikannotukaikatawaminaoshitahougaii.",
-            "nokorizinseihayuugentoyuukotowodaizenteinioitatokinojibunnoimanojikannotukaikatawaminaositahougaii.",
-            "nokorizinseihayuugentoyuukotowodaizenteinioitatokinojibunnoimanozikannotsukaikatahaminaoshitahougaii.",
-            "nokorizinseihayuugentoyuukotowodaizenteinioitatokinojibunnoimanozikannotsukaikatahaminaositahougaii.",
-            "nokorizinseihayuugentoyuukotowodaizenteinioitatokinojibunnoimanozikannotsukaikatawaminaoshitahougaii.",
-            "nokorizinseihayuugentoyuukotowodaizenteinioitatokinojibunnoimanozikannotsukaikatawaminaositahougaii.",
-            "nokorizinseihayuugentoyuukotowodaizenteinioitatokinojibunnoimanozikannotukaikatahaminaoshitahougaii.",
-            "nokorizinseihayuugentoyuukotowodaizenteinioitatokinojibunnoimanozikannotukaikatahaminaositahougaii.",
-            "nokorizinseihayuugentoyuukotowodaizenteinioitatokinojibunnoimanozikannotukaikatawaminaoshitahougaii.",
-            "nokorizinseihayuugentoyuukotowodaizenteinioitatokinojibunnoimanozikannotukaikatawaminaositahougaii.",
-            "nokorizinseihayuugentoyuukotowodaizenteinioitatokinozibunnoimanojikannotsukaikatahaminaoshitahougaii.",
-            "nokorizinseihayuugentoyuukotowodaizenteinioitatokinozibunnoimanojikannotsukaikatahaminaositahougaii.",
-            "nokorizinseihayuugentoyuukotowodaizenteinioitatokinozibunnoimanojikannotsukaikatawaminaoshitahougaii.",
-            "nokorizinseihayuugentoyuukotowodaizenteinioitatokinozibunnoimanojikannotsukaikatawaminaositahougaii.",
-            "nokorizinseihayuugentoyuukotowodaizenteinioitatokinozibunnoimanojikannotukaikatahaminaoshitahougaii.",
-            "nokorizinseihayuugentoyuukotowodaizenteinioitatokinozibunnoimanojikannotukaikatahaminaositahougaii.",
-            "nokorizinseihayuugentoyuukotowodaizenteinioitatokinozibunnoimanojikannotukaikatawaminaoshitahougaii.",
-            "nokorizinseihayuugentoyuukotowodaizenteinioitatokinozibunnoimanojikannotukaikatawaminaositahougaii.",
-            "nokorizinseihayuugentoyuukotowodaizenteinioitatokinozibunnoimanozikannotsukaikatahaminaoshitahougaii.",
-            "nokorizinseihayuugentoyuukotowodaizenteinioitatokinozibunnoimanozikannotsukaikatahaminaositahougaii.",
-            "nokorizinseihayuugentoyuukotowodaizenteinioitatokinozibunnoimanozikannotsukaikatawaminaoshitahougaii.",
-            "nokorizinseihayuugentoyuukotowodaizenteinioitatokinozibunnoimanozikannotsukaikatawaminaositahougaii.",
-            "nokorizinseihayuugentoyuukotowodaizenteinioitatokinozibunnoimanozikannotukaikatahaminaoshitahougaii.",
-            "nokorizinseihayuugentoyuukotowodaizenteinioitatokinozibunnoimanozikannotukaikatahaminaositahougaii.",
-            "nokorizinseihayuugentoyuukotowodaizenteinioitatokinozibunnoimanozikannotukaikatawaminaoshitahougaii.",
-            "nokorizinseihayuugentoyuukotowodaizenteinioitatokinozibunnoimanozikannotukaikatawaminaositahougaii.",
-            "nokorizinseiwayuugentoyuukotoodaizenteinioitatokinojibunnoimanojikannotsukaikatahaminaoshitahougaii.",
-            "nokorizinseiwayuugentoyuukotoodaizenteinioitatokinojibunnoimanojikannotsukaikatahaminaositahougaii.",
-            "nokorizinseiwayuugentoyuukotoodaizenteinioitatokinojibunnoimanojikannotsukaikatawaminaoshitahougaii.",
-            "nokorizinseiwayuugentoyuukotoodaizenteinioitatokinojibunnoimanojikannotsukaikatawaminaositahougaii.",
-            "nokorizinseiwayuugentoyuukotoodaizenteinioitatokinojibunnoimanojikannotukaikatahaminaoshitahougaii.",
-            "nokorizinseiwayuugentoyuukotoodaizenteinioitatokinojibunnoimanojikannotukaikatahaminaositahougaii.",
-            "nokorizinseiwayuugentoyuukotoodaizenteinioitatokinojibunnoimanojikannotukaikatawaminaoshitahougaii.",
-            "nokorizinseiwayuugentoyuukotoodaizenteinioitatokinojibunnoimanojikannotukaikatawaminaositahougaii.",
-            "nokorizinseiwayuugentoyuukotoodaizenteinioitatokinojibunnoimanozikannotsukaikatahaminaoshitahougaii.",
-            "nokorizinseiwayuugentoyuukotoodaizenteinioitatokinojibunnoimanozikannotsukaikatahaminaositahougaii.",
-            "nokorizinseiwayuugentoyuukotoodaizenteinioitatokinojibunnoimanozikannotsukaikatawaminaoshitahougaii.",
-            "nokorizinseiwayuugentoyuukotoodaizenteinioitatokinojibunnoimanozikannotsukaikatawaminaositahougaii.",
-            "nokorizinseiwayuugentoyuukotoodaizenteinioitatokinojibunnoimanozikannotukaikatahaminaoshitahougaii.",
-            "nokorizinseiwayuugentoyuukotoodaizenteinioitatokinojibunnoimanozikannotukaikatahaminaositahougaii.",
-            "nokorizinseiwayuugentoyuukotoodaizenteinioitatokinojibunnoimanozikannotukaikatawaminaoshitahougaii.",
-            "nokorizinseiwayuugentoyuukotoodaizenteinioitatokinojibunnoimanozikannotukaikatawaminaositahougaii.",
-            "nokorizinseiwayuugentoyuukotoodaizenteinioitatokinozibunnoimanojikannotsukaikatahaminaoshitahougaii.",
-            "nokorizinseiwayuugentoyuukotoodaizenteinioitatokinozibunnoimanojikannotsukaikatahaminaositahougaii.",
-            "nokorizinseiwayuugentoyuukotoodaizenteinioitatokinozibunnoimanojikannotsukaikatawaminaoshitahougaii.",
-            "nokorizinseiwayuugentoyuukotoodaizenteinioitatokinozibunnoimanojikannotsukaikatawaminaositahougaii.",
-            "nokorizinseiwayuugentoyuukotoodaizenteinioitatokinozibunnoimanojikannotukaikatahaminaoshitahougaii.",
-            "nokorizinseiwayuugentoyuukotoodaizenteinioitatokinozibunnoimanojikannotukaikatahaminaositahougaii.",
-            "nokorizinseiwayuugentoyuukotoodaizenteinioitatokinozibunnoimanojikannotukaikatawaminaoshitahougaii.",
-            "nokorizinseiwayuugentoyuukotoodaizenteinioitatokinozibunnoimanojikannotukaikatawaminaositahougaii.",
-            "nokorizinseiwayuugentoyuukotoodaizenteinioitatokinozibunnoimanozikannotsukaikatahaminaoshitahougaii.",
-            "nokorizinseiwayuugentoyuukotoodaizenteinioitatokinozibunnoimanozikannotsukaikatahaminaositahougaii.",
-            "nokorizinseiwayuugentoyuukotoodaizenteinioitatokinozibunnoimanozikannotsukaikatawaminaoshitahougaii.",
-            "nokorizinseiwayuugentoyuukotoodaizenteinioitatokinozibunnoimanozikannotsukaikatawaminaositahougaii.",
-            "nokorizinseiwayuugentoyuukotoodaizenteinioitatokinozibunnoimanozikannotukaikatahaminaoshitahougaii.",
-            "nokorizinseiwayuugentoyuukotoodaizenteinioitatokinozibunnoimanozikannotukaikatahaminaositahougaii.",
-            "nokorizinseiwayuugentoyuukotoodaizenteinioitatokinozibunnoimanozikannotukaikatawaminaoshitahougaii.",
-            "nokorizinseiwayuugentoyuukotoodaizenteinioitatokinozibunnoimanozikannotukaikatawaminaositahougaii.",
-            "nokorizinseiwayuugentoyuukotowodaizenteinioitatokinojibunnoimanojikannotsukaikatahaminaoshitahougaii.",
-            "nokorizinseiwayuugentoyuukotowodaizenteinioitatokinojibunnoimanojikannotsukaikatahaminaositahougaii.",
-            "nokorizinseiwayuugentoyuukotowodaizenteinioitatokinojibunnoimanojikannotsukaikatawaminaoshitahougaii.",
-            "nokorizinseiwayuugentoyuukotowodaizenteinioitatokinojibunnoimanojikannotsukaikatawaminaositahougaii.",
-            "nokorizinseiwayuugentoyuukotowodaizenteinioitatokinojibunnoimanojikannotukaikatahaminaoshitahougaii.",
-            "nokorizinseiwayuugentoyuukotowodaizenteinioitatokinojibunnoimanojikannotukaikatahaminaositahougaii.",
-            "nokorizinseiwayuugentoyuukotowodaizenteinioitatokinojibunnoimanojikannotukaikatawaminaoshitahougaii.",
-            "nokorizinseiwayuugentoyuukotowodaizenteinioitatokinojibunnoimanojikannotukaikatawaminaositahougaii.",
-            "nokorizinseiwayuugentoyuukotowodaizenteinioitatokinojibunnoimanozikannotsukaikatahaminaoshitahougaii.",
-            "nokorizinseiwayuugentoyuukotowodaizenteinioitatokinojibunnoimanozikannotsukaikatahaminaositahougaii.",
-            "nokorizinseiwayuugentoyuukotowodaizenteinioitatokinojibunnoimanozikannotsukaikatawaminaoshitahougaii.",
-            "nokorizinseiwayuugentoyuukotowodaizenteinioitatokinojibunnoimanozikannotsukaikatawaminaositahougaii.",
-            "nokorizinseiwayuugentoyuukotowodaizenteinioitatokinojibunnoimanozikannotukaikatahaminaoshitahougaii.",
-            "nokorizinseiwayuugentoyuukotowodaizenteinioitatokinojibunnoimanozikannotukaikatahaminaositahougaii.",
-            "nokorizinseiwayuugentoyuukotowodaizenteinioitatokinojibunnoimanozikannotukaikatawaminaoshitahougaii.",
-            "nokorizinseiwayuugentoyuukotowodaizenteinioitatokinojibunnoimanozikannotukaikatawaminaositahougaii.",
-            "nokorizinseiwayuugentoyuukotowodaizenteinioitatokinozibunnoimanojikannotsukaikatahaminaoshitahougaii.",
-            "nokorizinseiwayuugentoyuukotowodaizenteinioitatokinozibunnoimanojikannotsukaikatahaminaositahougaii.",
-            "nokorizinseiwayuugentoyuukotowodaizenteinioitatokinozibunnoimanojikannotsukaikatawaminaoshitahougaii.",
-            "nokorizinseiwayuugentoyuukotowodaizenteinioitatokinozibunnoimanojikannotsukaikatawaminaositahougaii.",
-            "nokorizinseiwayuugentoyuukotowodaizenteinioitatokinozibunnoimanojikannotukaikatahaminaoshitahougaii.",
-            "nokorizinseiwayuugentoyuukotowodaizenteinioitatokinozibunnoimanojikannotukaikatahaminaositahougaii.",
-            "nokorizinseiwayuugentoyuukotowodaizenteinioitatokinozibunnoimanojikannotukaikatawaminaoshitahougaii.",
-            "nokorizinseiwayuugentoyuukotowodaizenteinioitatokinozibunnoimanojikannotukaikatawaminaositahougaii.",
-            "nokorizinseiwayuugentoyuukotowodaizenteinioitatokinozibunnoimanozikannotsukaikatahaminaoshitahougaii.",
-            "nokorizinseiwayuugentoyuukotowodaizenteinioitatokinozibunnoimanozikannotsukaikatahaminaositahougaii.",
-            "nokorizinseiwayuugentoyuukotowodaizenteinioitatokinozibunnoimanozikannotsukaikatawaminaoshitahougaii.",
-            "nokorizinseiwayuugentoyuukotowodaizenteinioitatokinozibunnoimanozikannotsukaikatawaminaositahougaii.",
-            "nokorizinseiwayuugentoyuukotowodaizenteinioitatokinozibunnoimanozikannotukaikatahaminaoshitahougaii.",
-            "nokorizinseiwayuugentoyuukotowodaizenteinioitatokinozibunnoimanozikannotukaikatahaminaositahougaii.",
-            "nokorizinseiwayuugentoyuukotowodaizenteinioitatokinozibunnoimanozikannotukaikatawaminaoshitahougaii.",
-            "nokorizinseiwayuugentoyuukotowodaizenteinioitatokinozibunnoimanozikannotukaikatawaminaositahougaii."
-        ],
-        "kana": "のこりじんせいはゆうげんということをだいぜんていにおいたときの じぶんのいまのじかんのつかいかたはみなおしたほうがいい。",
-        "original": "残り人生は有限ということを大前提に置いたときの 自分の今の時間の使い方は見直した方がいい。"
-    },
-    {
-        "id": 29,
-        "text": "taninorisupekutodekinaihitogakiraida.",
-        "tokens": [
-            "taninorisupekutodekinaihitogakiraida.",
-            "taninworisupekutodekinaihitogakiraida."
-        ],
-        "kana": "たにんをリスペクトできないひとがきらいだ。",
-        "original": "他人をリスペクトできない人が嫌いだ。"
-    },
-    {
-        "id": 30,
-        "text": "aiteosukoshidemohairyoshiteirebasonnahatsugenoshinaidaro-",
-        "tokens": [
-            "aiteosukoshidemohairyoshiteirebasonnahatsugenoshinaidaro-",
-            "aiteosukoshidemohairyoshiteirebasonnahatsugenoshinaidarou"
-        ],
-        "kana": "あいてをすこしでもはいりょしていればそんなはつげんをしないだろう、とおもうことがふだんなんどもある。",
-        "original": "相手を少しでも配慮していればそんな発言をしないだろう、と思うことが普段何度もある。"
-    },
-    {
-        "id": 31,
-        "text": "tatoeba\"saikinisogasi-?\"todakeokuraretemokomaru.",
-        "tokens": [
-            "tatoeba\"saikinisogasi-?\"todakeokuraretemokomaru.",
-            "tatoeba\"saikinisogashi-?\"todakeokuraretemokomaru.",
-            "tatoeba\"saikinisogashii?\"todakeokuraretemokomaru.",
-            "tatoeba\"saikinisogasii?\"todakeokuraretemokomaru."
-        ],
-        "kana": "たとえば「さいきんいそがしい？」とだけおくられてもこまる。",
-        "original": "例えば「最近忙しい？」とだけ送られても困る。"
-    },
-    {
-        "id": 32,
-        "text": "isogashi-nikimatteirukeredo",
-        "tokens": [
-            "isogashi-nikimatteirukeredo",
-            "isogashiinikimatteirukeredo"
-        ],
-        "kana": "いそがしいにきまっているけれど、じじょうによってはじかんをとることもできる。",
-        "original": "忙しいに決まっているけれど、事情によっては時間を取ることもできる。"
-    },
-    {
-        "id": 33,
-        "text": "atowachikokukankei.",
-        "tokens": [
-            "atowachikokukankei.",
-            "atohachikokukankei.",
-            "atohatikokukankei.",
-            "atowatikokukankei."
-        ],
-        "kana": "あとはちこくかんけい。",
-        "original": "あとは遅刻関係。"
-    },
-    {
-        "id": 34,
-        "text": "betunizikando-rinikonakutattei-.",
-        "tokens": [
-            "betunizikando-rinikonakutattei-.",
-            "betunijikando-rinikonakutattei-.",
-            "betsunizikando-rinikonakutattei-.",
-            "betsunijikando-rinikonakutattei-.",
-            "betsunijikandourinikonakutatteii.",
-            "betsunizikandourinikonakutatteii.",
-            "betunijikandourinikonakutatteii.",
-            "betunizikandourinikonakutatteii."
-        ],
-        "kana": "べつにじかんどおりにこなくたっていい。",
-        "original": "別に時間通りに来なくたっていい。"
-    },
-    {
-        "id": 35,
-        "text": "demo",
-        "tokens": [
-            "demo"
-        ],
-        "kana": "でも、おくれるならしゃざい＋れんらくはあたりまえだとusutakuはおもう。",
-        "original": "でも、遅れるなら謝罪＋連絡は当たり前だとusutakuは思う。"
-    },
-    {
-        "id": 36,
-        "text": "enryowairanai",
-        "tokens": [
-            "enryowairanai"
-        ],
-        "kana": "えんりょはいらない、はいりょはしろ",
-        "original": "遠慮はいらない、配慮はしろ"
-    },
-    {
-        "id": 37,
-        "text": "enryoshinaikotoo",
-        "tokens": [
-            "enryoshinaikotoo"
-        ],
-        "kana": "えんりょしないことを、たにんにリスペクトをもたないこととかんちがいしているひとのおおさだ。",
-        "original": "遠慮しないことを、他人にリスペクトを持たないことと勘違いしている人の多さだ。"
-    },
-    {
-        "id": 38,
-        "text": "hunokanzyo-wotebanasuna",
-        "tokens": [
-            "hunokanzyo-wotebanasuna",
-            "hunokanzyo-otebanasuna",
-            "hunokanjo-wotebanasuna",
-            "hunokanjo-otebanasuna",
-            "funokanzyo-wotebanasuna",
-            "funokanzyo-otebanasuna",
-            "funokanjo-wotebanasuna",
-            "funokanjo-otebanasuna",
-            "funokanjouotebanasuna",
-            "funokanjouwotebanasuna",
-            "funokanzyouotebanasuna",
-            "funokanzyouwotebanasuna",
-            "hunokanjouotebanasuna",
-            "hunokanjouwotebanasuna",
-            "hunokanzyouotebanasuna",
-            "hunokanzyouwotebanasuna"
-        ],
-        "kana": "まけのかんじょうをてばなすな",
-        "original": "負の感情を手放すな"
-    },
-    {
-        "id": 39,
-        "text": "hubendanatoyu-zisyo-nikosozigyo-notanegakakusareteiru",
-        "tokens": [
-            "hubendanatoyu-zisyo-nikosozigyo-notanegakakusareteiru",
-            "hubendanatoyu-zisyo-nikosojigyo-notanegakakusareteiru",
-            "hubendanatoyu-zisho-nikosozigyo-notanegakakusareteiru",
-            "hubendanatoyu-zisho-nikosojigyo-notanegakakusareteiru",
-            "hubendanatoyu-jisyo-nikosozigyo-notanegakakusareteiru",
-            "hubendanatoyu-jisyo-nikosojigyo-notanegakakusareteiru",
-            "hubendanatoyu-jisho-nikosozigyo-notanegakakusareteiru",
-            "hubendanatoyu-jisho-nikosojigyo-notanegakakusareteiru",
-            "fubendanatoyu-zisyo-nikosozigyo-notanegakakusareteiru",
-            "fubendanatoyu-zisyo-nikosojigyo-notanegakakusareteiru",
-            "fubendanatoyu-zisho-nikosozigyo-notanegakakusareteiru",
-            "fubendanatoyu-zisho-nikosojigyo-notanegakakusareteiru",
-            "fubendanatoyu-jisyo-nikosozigyo-notanegakakusareteiru",
-            "fubendanatoyu-jisyo-nikosojigyo-notanegakakusareteiru",
-            "fubendanatoyu-jisho-nikosozigyo-notanegakakusareteiru",
-            "fubendanatoyu-jisho-nikosojigyo-notanegakakusareteiru",
-            "fubendanatoyuujishounikosojigyounotanegakakusareteiru",
-            "fubendanatoyuujishounikosozigyounotanegakakusareteiru",
-            "fubendanatoyuujisyounikosojigyounotanegakakusareteiru",
-            "fubendanatoyuujisyounikosozigyounotanegakakusareteiru",
-            "fubendanatoyuuzishounikosojigyounotanegakakusareteiru",
-            "fubendanatoyuuzishounikosozigyounotanegakakusareteiru",
-            "fubendanatoyuuzisyounikosojigyounotanegakakusareteiru",
-            "fubendanatoyuuzisyounikosozigyounotanegakakusareteiru",
-            "hubendanatoyuujishounikosojigyounotanegakakusareteiru",
-            "hubendanatoyuujishounikosozigyounotanegakakusareteiru",
-            "hubendanatoyuujisyounikosojigyounotanegakakusareteiru",
-            "hubendanatoyuujisyounikosozigyounotanegakakusareteiru",
-            "hubendanatoyuuzishounikosojigyounotanegakakusareteiru",
-            "hubendanatoyuuzishounikosozigyounotanegakakusareteiru",
-            "hubendanatoyuuzisyounikosojigyounotanegakakusareteiru",
-            "hubendanatoyuuzisyounikosozigyounotanegakakusareteiru"
-        ],
-        "kana": "ふべんだなというじしょうにこそじぎょうのタネがかくされている",
-        "original": "不便だなという事象にこそ事業のタネが隠されている"
-    },
-    {
-        "id": 40,
-        "text": "\"jibunnosekainonakadejibungaichibandearo-toshiteiru\"hitowasutekida",
-        "tokens": [
-            "\"jibunnosekainonakadejibungaichibandearo-toshiteiru\"hitowasutekida",
-            "\"jibunnosekainonakadejibungaichibandearoutoshiteiru\"hitowasutekida"
-        ],
-        "kana": "「じぶんのせかいのなかでじぶんがいちばんであろうとしている」にんはすてきだ、ときのうゆうじんとはなした。",
-        "original": "「自分の世界の中で自分が一番であろうとしている」人は素敵だ、と昨日友人と話した。"
-    },
-    {
-        "id": 41,
-        "text": "do-shitemo",
-        "tokens": [
-            "do-shitemo",
-            "doushitemo"
-        ],
-        "kana": "どうしても、うまれやがくれき、ねんしゅうとかでじょうげをつけがちだけど、じぶんのなかでのかちきじゅんをもってそのなかでりそうになろうとしているひとはみりょくてきだよね、ということだ。",
-        "original": "どうしても、生まれや学歴、年収とかで上下をつけがちだけど、自分の中での価値基準を持ってその中で理想になろうとしている人は魅力的だよね、ということだ。"
-    },
-    {
-        "id": 42,
-        "text": "ichidokirinojinsei",
-        "tokens": [
-            "ichidokirinojinsei"
-        ],
-        "kana": "いちどきりのじんせい、というとあさくきこえる。",
-        "original": "一度きりの人生、というと浅く聞こえる。"
-    },
-    {
-        "id": 43,
-        "text": "ga",
-        "tokens": [
-            "ga"
-        ],
-        "kana": "が、いちどしかいきられないのだからそのなかではじぶんがしゅやくであるべきである。",
-        "original": "が、一度しか生きられないのだからその中では自分が主役であるべきである。"
-    },
-    {
-        "id": 44,
-        "text": "subayakutebanasukoto",
-        "tokens": [
-            "subayakutebanasukoto"
-        ],
-        "kana": "すばやくてばなすこと",
-        "original": "素早く手放すこと"
-    },
-    {
-        "id": 45,
-        "text": "tadasikunintisiuketomerukotodekanzyo-watebanasukotogadekiru.",
-        "tokens": [
-            "tadasikunintisiuketomerukotodekanzyo-watebanasukotogadekiru.",
-            "tadasikunintisiuketomerukotodekanzyo-hatebanasukotogadekiru.",
-            "tadasikunintisiuketomerukotodekanjo-watebanasukotogadekiru.",
-            "tadasikunintisiuketomerukotodekanjo-hatebanasukotogadekiru.",
-            "tadasikunintishiuketomerukotodekanzyo-watebanasukotogadekiru.",
-            "tadasikunintishiuketomerukotodekanzyo-hatebanasukotogadekiru.",
-            "tadasikunintishiuketomerukotodekanjo-watebanasukotogadekiru.",
-            "tadasikunintishiuketomerukotodekanjo-hatebanasukotogadekiru.",
-            "tadasikuninchisiuketomerukotodekanzyo-watebanasukotogadekiru.",
-            "tadasikuninchisiuketomerukotodekanzyo-hatebanasukotogadekiru.",
-            "tadasikuninchisiuketomerukotodekanjo-watebanasukotogadekiru.",
-            "tadasikuninchisiuketomerukotodekanjo-hatebanasukotogadekiru.",
-            "tadasikuninchishiuketomerukotodekanzyo-watebanasukotogadekiru.",
-            "tadasikuninchishiuketomerukotodekanzyo-hatebanasukotogadekiru.",
-            "tadasikuninchishiuketomerukotodekanjo-watebanasukotogadekiru.",
-            "tadasikuninchishiuketomerukotodekanjo-hatebanasukotogadekiru.",
-            "tadashikunintisiuketomerukotodekanzyo-watebanasukotogadekiru.",
-            "tadashikunintisiuketomerukotodekanzyo-hatebanasukotogadekiru.",
-            "tadashikunintisiuketomerukotodekanjo-watebanasukotogadekiru.",
-            "tadashikunintisiuketomerukotodekanjo-hatebanasukotogadekiru.",
-            "tadashikunintishiuketomerukotodekanzyo-watebanasukotogadekiru.",
-            "tadashikunintishiuketomerukotodekanzyo-hatebanasukotogadekiru.",
-            "tadashikunintishiuketomerukotodekanjo-watebanasukotogadekiru.",
-            "tadashikunintishiuketomerukotodekanjo-hatebanasukotogadekiru.",
-            "tadashikuninchisiuketomerukotodekanzyo-watebanasukotogadekiru.",
-            "tadashikuninchisiuketomerukotodekanzyo-hatebanasukotogadekiru.",
-            "tadashikuninchisiuketomerukotodekanjo-watebanasukotogadekiru.",
-            "tadashikuninchisiuketomerukotodekanjo-hatebanasukotogadekiru.",
-            "tadashikuninchishiuketomerukotodekanzyo-watebanasukotogadekiru.",
-            "tadashikuninchishiuketomerukotodekanzyo-hatebanasukotogadekiru.",
-            "tadashikuninchishiuketomerukotodekanjo-hatebanasukotogadekiru.",
-            "tadashikuninchishiuketomerukotodekanjo-watebanasukotogadekiru.",
-            "tadashikuninchishiuketomerukotodekanjouwatebanasukotogadekiru.",
-            "tadashikuninchishiuketomerukotodekanjouhatebanasukotogadekiru.",
-            "tadashikuninchishiuketomerukotodekanzyouhatebanasukotogadekiru.",
-            "tadashikuninchishiuketomerukotodekanzyouwatebanasukotogadekiru.",
-            "tadashikuninchisiuketomerukotodekanjouhatebanasukotogadekiru.",
-            "tadashikuninchisiuketomerukotodekanjouwatebanasukotogadekiru.",
-            "tadashikuninchisiuketomerukotodekanzyouhatebanasukotogadekiru.",
-            "tadashikuninchisiuketomerukotodekanzyouwatebanasukotogadekiru.",
-            "tadashikunintishiuketomerukotodekanjouhatebanasukotogadekiru.",
-            "tadashikunintishiuketomerukotodekanjouwatebanasukotogadekiru.",
-            "tadashikunintishiuketomerukotodekanzyouhatebanasukotogadekiru.",
-            "tadashikunintishiuketomerukotodekanzyouwatebanasukotogadekiru.",
-            "tadashikunintisiuketomerukotodekanjouhatebanasukotogadekiru.",
-            "tadashikunintisiuketomerukotodekanjouwatebanasukotogadekiru.",
-            "tadashikunintisiuketomerukotodekanzyouhatebanasukotogadekiru.",
-            "tadashikunintisiuketomerukotodekanzyouwatebanasukotogadekiru.",
-            "tadasikuninchishiuketomerukotodekanjouhatebanasukotogadekiru.",
-            "tadasikuninchishiuketomerukotodekanjouwatebanasukotogadekiru.",
-            "tadasikuninchishiuketomerukotodekanzyouhatebanasukotogadekiru.",
-            "tadasikuninchishiuketomerukotodekanzyouwatebanasukotogadekiru.",
-            "tadasikuninchisiuketomerukotodekanjouhatebanasukotogadekiru.",
-            "tadasikuninchisiuketomerukotodekanjouwatebanasukotogadekiru.",
-            "tadasikuninchisiuketomerukotodekanzyouhatebanasukotogadekiru.",
-            "tadasikuninchisiuketomerukotodekanzyouwatebanasukotogadekiru.",
-            "tadasikunintishiuketomerukotodekanjouhatebanasukotogadekiru.",
-            "tadasikunintishiuketomerukotodekanjouwatebanasukotogadekiru.",
-            "tadasikunintishiuketomerukotodekanzyouhatebanasukotogadekiru.",
-            "tadasikunintishiuketomerukotodekanzyouwatebanasukotogadekiru.",
-            "tadasikunintisiuketomerukotodekanjouhatebanasukotogadekiru.",
-            "tadasikunintisiuketomerukotodekanjouwatebanasukotogadekiru.",
-            "tadasikunintisiuketomerukotodekanzyouhatebanasukotogadekiru.",
-            "tadasikunintisiuketomerukotodekanzyouwatebanasukotogadekiru."
-        ],
-        "kana": "まさしくにんちしうけとめることでかんじょうはてばなすことができる。",
-        "original": "正しく認知し受け止めることで感情は手放すことができる。"
-    },
-    {
-        "id": 46,
-        "text": "mushishite",
-        "tokens": [
-            "mushishite"
-        ],
-        "kana": "むしして、にんちしなかったらてばなすことはできない。",
-        "original": "無視して、認知しなかったら手放すことはできない。"
-    },
-    {
-        "id": 47,
-        "text": "konosaikuruwotekisetunimawaserutokanzyo-tekidewanakugo-ritekini-rareru.",
-        "tokens": [
-            "konosaikuruwotekisetunimawaserutokanzyo-tekidewanakugo-ritekini-rareru.",
-            "konosaikuruwotekisetunimawaserutokanzyo-tekidehanakugo-ritekini-rareru.",
-            "konosaikuruwotekisetunimawaserutokanjo-tekidewanakugo-ritekini-rareru.",
-            "konosaikuruwotekisetunimawaserutokanjo-tekidehanakugo-ritekini-rareru.",
-            "konosaikuruwotekisetsunimawaserutokanzyo-tekidewanakugo-ritekini-rareru.",
-            "konosaikuruwotekisetsunimawaserutokanzyo-tekidehanakugo-ritekini-rareru.",
-            "konosaikuruwotekisetsunimawaserutokanjo-tekidewanakugo-ritekini-rareru.",
-            "konosaikuruwotekisetsunimawaserutokanjo-tekidehanakugo-ritekini-rareru.",
-            "konosaikuruotekisetunimawaserutokanzyo-tekidewanakugo-ritekini-rareru.",
-            "konosaikuruotekisetunimawaserutokanzyo-tekidehanakugo-ritekini-rareru.",
-            "konosaikuruotekisetunimawaserutokanjo-tekidewanakugo-ritekini-rareru.",
-            "konosaikuruotekisetunimawaserutokanjo-tekidehanakugo-ritekini-rareru.",
-            "konosaikuruotekisetsunimawaserutokanzyo-tekidewanakugo-ritekini-rareru.",
-            "konosaikuruotekisetsunimawaserutokanzyo-tekidehanakugo-ritekini-rareru.",
-            "konosaikuruotekisetsunimawaserutokanjo-tekidehanakugo-ritekini-rareru.",
-            "konosaikuruotekisetsunimawaserutokanjo-tekidewanakugo-ritekini-rareru.",
-            "konosaikuruotekisetsunimawaserutokanjoutekidewanakugouritekiniirareru.",
-            "konosaikuruotekisetsunimawaserutokanjoutekidehanakugouritekiniirareru.",
-            "konosaikuruotekisetsunimawaserutokanzyoutekidehanakugouritekiniirareru.",
-            "konosaikuruotekisetsunimawaserutokanzyoutekidewanakugouritekiniirareru.",
-            "konosaikuruotekisetunimawaserutokanjoutekidehanakugouritekiniirareru.",
-            "konosaikuruotekisetunimawaserutokanjoutekidewanakugouritekiniirareru.",
-            "konosaikuruotekisetunimawaserutokanzyoutekidehanakugouritekiniirareru.",
-            "konosaikuruotekisetunimawaserutokanzyoutekidewanakugouritekiniirareru.",
-            "konosaikuruwotekisetsunimawaserutokanjoutekidehanakugouritekiniirareru.",
-            "konosaikuruwotekisetsunimawaserutokanjoutekidewanakugouritekiniirareru.",
-            "konosaikuruwotekisetsunimawaserutokanzyoutekidehanakugouritekiniirareru.",
-            "konosaikuruwotekisetsunimawaserutokanzyoutekidewanakugouritekiniirareru.",
-            "konosaikuruwotekisetunimawaserutokanjoutekidehanakugouritekiniirareru.",
-            "konosaikuruwotekisetunimawaserutokanjoutekidewanakugouritekiniirareru.",
-            "konosaikuruwotekisetunimawaserutokanzyoutekidehanakugouritekiniirareru.",
-            "konosaikuruwotekisetunimawaserutokanzyoutekidewanakugouritekiniirareru."
-        ],
-        "kana": "このサイクルをてきせつにまわせるとかんじょうてきではなくごうりてきにいられる。",
-        "original": "このサイクルを適切に回せると感情的ではなく合理的にいられる。"
-    },
-    {
-        "id": 48,
-        "text": "zibunzisinnokotowazibunsikawakaranainodakarataisetunisiteageyo-.",
-        "tokens": [
-            "zibunzisinnokotowazibunsikawakaranainodakarataisetunisiteageyo-.",
-            "zibunzisinnokotowazibunsikawakaranainodakarataisetunishiteageyo-.",
-            "zibunzisinnokotowazibunsikawakaranainodakarataisetsunisiteageyo-.",
-            "zibunzisinnokotowazibunsikawakaranainodakarataisetsunishiteageyo-.",
-            "zibunzisinnokotowazibunshikawakaranainodakarataisetunisiteageyo-.",
-            "zibunzisinnokotowazibunshikawakaranainodakarataisetunishiteageyo-.",
-            "zibunzisinnokotowazibunshikawakaranainodakarataisetsunisiteageyo-.",
-            "zibunzisinnokotowazibunshikawakaranainodakarataisetsunishiteageyo-.",
-            "zibunzisinnokotowajibunsikawakaranainodakarataisetunisiteageyo-.",
-            "zibunzisinnokotowajibunsikawakaranainodakarataisetunishiteageyo-.",
-            "zibunzisinnokotowajibunsikawakaranainodakarataisetsunisiteageyo-.",
-            "zibunzisinnokotowajibunsikawakaranainodakarataisetsunishiteageyo-.",
-            "zibunzisinnokotowajibunshikawakaranainodakarataisetunisiteageyo-.",
-            "zibunzisinnokotowajibunshikawakaranainodakarataisetunishiteageyo-.",
-            "zibunzisinnokotowajibunshikawakaranainodakarataisetsunisiteageyo-.",
-            "zibunzisinnokotowajibunshikawakaranainodakarataisetsunishiteageyo-.",
-            "zibunzisinnokotohazibunsikawakaranainodakarataisetunisiteageyo-.",
-            "zibunzisinnokotohazibunsikawakaranainodakarataisetunishiteageyo-.",
-            "zibunzisinnokotohazibunsikawakaranainodakarataisetsunisiteageyo-.",
-            "zibunzisinnokotohazibunsikawakaranainodakarataisetsunishiteageyo-.",
-            "zibunzisinnokotohazibunshikawakaranainodakarataisetunisiteageyo-.",
-            "zibunzisinnokotohazibunshikawakaranainodakarataisetunishiteageyo-.",
-            "zibunzisinnokotohazibunshikawakaranainodakarataisetsunisiteageyo-.",
-            "zibunzisinnokotohazibunshikawakaranainodakarataisetsunishiteageyo-.",
-            "zibunzisinnokotohajibunsikawakaranainodakarataisetunisiteageyo-.",
-            "zibunzisinnokotohajibunsikawakaranainodakarataisetunishiteageyo-.",
-            "zibunzisinnokotohajibunsikawakaranainodakarataisetsunisiteageyo-.",
-            "zibunzisinnokotohajibunsikawakaranainodakarataisetsunishiteageyo-.",
-            "zibunzisinnokotohajibunshikawakaranainodakarataisetunisiteageyo-.",
-            "zibunzisinnokotohajibunshikawakaranainodakarataisetunishiteageyo-.",
-            "zibunzisinnokotohajibunshikawakaranainodakarataisetsunisiteageyo-.",
-            "zibunzisinnokotohajibunshikawakaranainodakarataisetsunishiteageyo-.",
-            "zibunzishinnokotowazibunsikawakaranainodakarataisetunisiteageyo-.",
-            "zibunzishinnokotowazibunsikawakaranainodakarataisetunishiteageyo-.",
-            "zibunzishinnokotowazibunsikawakaranainodakarataisetsunisiteageyo-.",
-            "zibunzishinnokotowazibunsikawakaranainodakarataisetsunishiteageyo-.",
-            "zibunzishinnokotowazibunshikawakaranainodakarataisetunisiteageyo-.",
-            "zibunzishinnokotowazibunshikawakaranainodakarataisetunishiteageyo-.",
-            "zibunzishinnokotowazibunshikawakaranainodakarataisetsunisiteageyo-.",
-            "zibunzishinnokotowazibunshikawakaranainodakarataisetsunishiteageyo-.",
-            "zibunzishinnokotowajibunsikawakaranainodakarataisetunisiteageyo-.",
-            "zibunzishinnokotowajibunsikawakaranainodakarataisetunishiteageyo-.",
-            "zibunzishinnokotowajibunsikawakaranainodakarataisetsunisiteageyo-.",
-            "zibunzishinnokotowajibunsikawakaranainodakarataisetsunishiteageyo-.",
-            "zibunzishinnokotowajibunshikawakaranainodakarataisetunisiteageyo-.",
-            "zibunzishinnokotowajibunshikawakaranainodakarataisetunishiteageyo-.",
-            "zibunzishinnokotowajibunshikawakaranainodakarataisetsunisiteageyo-.",
-            "zibunzishinnokotowajibunshikawakaranainodakarataisetsunishiteageyo-.",
-            "zibunzishinnokotohazibunsikawakaranainodakarataisetunisiteageyo-.",
-            "zibunzishinnokotohazibunsikawakaranainodakarataisetunishiteageyo-.",
-            "zibunzishinnokotohazibunsikawakaranainodakarataisetsunisiteageyo-.",
-            "zibunzishinnokotohazibunsikawakaranainodakarataisetsunishiteageyo-.",
-            "zibunzishinnokotohazibunshikawakaranainodakarataisetunisiteageyo-.",
-            "zibunzishinnokotohazibunshikawakaranainodakarataisetunishiteageyo-.",
-            "zibunzishinnokotohazibunshikawakaranainodakarataisetsunisiteageyo-.",
-            "zibunzishinnokotohazibunshikawakaranainodakarataisetsunishiteageyo-.",
-            "zibunzishinnokotohajibunsikawakaranainodakarataisetunisiteageyo-.",
-            "zibunzishinnokotohajibunsikawakaranainodakarataisetunishiteageyo-.",
-            "zibunzishinnokotohajibunsikawakaranainodakarataisetsunisiteageyo-.",
-            "zibunzishinnokotohajibunsikawakaranainodakarataisetsunishiteageyo-.",
-            "zibunzishinnokotohajibunshikawakaranainodakarataisetunisiteageyo-.",
-            "zibunzishinnokotohajibunshikawakaranainodakarataisetunishiteageyo-.",
-            "zibunzishinnokotohajibunshikawakaranainodakarataisetsunisiteageyo-.",
-            "zibunzishinnokotohajibunshikawakaranainodakarataisetsunishiteageyo-.",
-            "zibunjisinnokotowazibunsikawakaranainodakarataisetunisiteageyo-.",
-            "zibunjisinnokotowazibunsikawakaranainodakarataisetunishiteageyo-.",
-            "zibunjisinnokotowazibunsikawakaranainodakarataisetsunisiteageyo-.",
-            "zibunjisinnokotowazibunsikawakaranainodakarataisetsunishiteageyo-.",
-            "zibunjisinnokotowazibunshikawakaranainodakarataisetunisiteageyo-.",
-            "zibunjisinnokotowazibunshikawakaranainodakarataisetunishiteageyo-.",
-            "zibunjisinnokotowazibunshikawakaranainodakarataisetsunisiteageyo-.",
-            "zibunjisinnokotowazibunshikawakaranainodakarataisetsunishiteageyo-.",
-            "zibunjisinnokotowajibunsikawakaranainodakarataisetunisiteageyo-.",
-            "zibunjisinnokotowajibunsikawakaranainodakarataisetunishiteageyo-.",
-            "zibunjisinnokotowajibunsikawakaranainodakarataisetsunisiteageyo-.",
-            "zibunjisinnokotowajibunsikawakaranainodakarataisetsunishiteageyo-.",
-            "zibunjisinnokotowajibunshikawakaranainodakarataisetunisiteageyo-.",
-            "zibunjisinnokotowajibunshikawakaranainodakarataisetunishiteageyo-.",
-            "zibunjisinnokotowajibunshikawakaranainodakarataisetsunisiteageyo-.",
-            "zibunjisinnokotowajibunshikawakaranainodakarataisetsunishiteageyo-.",
-            "zibunjisinnokotohazibunsikawakaranainodakarataisetunisiteageyo-.",
-            "zibunjisinnokotohazibunsikawakaranainodakarataisetunishiteageyo-.",
-            "zibunjisinnokotohazibunsikawakaranainodakarataisetsunisiteageyo-.",
-            "zibunjisinnokotohazibunsikawakaranainodakarataisetsunishiteageyo-.",
-            "zibunjisinnokotohazibunshikawakaranainodakarataisetunisiteageyo-.",
-            "zibunjisinnokotohazibunshikawakaranainodakarataisetunishiteageyo-.",
-            "zibunjisinnokotohazibunshikawakaranainodakarataisetsunisiteageyo-.",
-            "zibunjisinnokotohazibunshikawakaranainodakarataisetsunishiteageyo-.",
-            "zibunjisinnokotohajibunsikawakaranainodakarataisetunisiteageyo-.",
-            "zibunjisinnokotohajibunsikawakaranainodakarataisetunishiteageyo-.",
-            "zibunjisinnokotohajibunsikawakaranainodakarataisetsunisiteageyo-.",
-            "zibunjisinnokotohajibunsikawakaranainodakarataisetsunishiteageyo-.",
-            "zibunjisinnokotohajibunshikawakaranainodakarataisetunisiteageyo-.",
-            "zibunjisinnokotohajibunshikawakaranainodakarataisetunishiteageyo-.",
-            "zibunjisinnokotohajibunshikawakaranainodakarataisetsunisiteageyo-.",
-            "zibunjisinnokotohajibunshikawakaranainodakarataisetsunishiteageyo-.",
-            "zibunjishinnokotowazibunsikawakaranainodakarataisetunisiteageyo-.",
-            "zibunjishinnokotowazibunsikawakaranainodakarataisetunishiteageyo-.",
-            "zibunjishinnokotowazibunsikawakaranainodakarataisetsunisiteageyo-.",
-            "zibunjishinnokotowazibunsikawakaranainodakarataisetsunishiteageyo-.",
-            "zibunjishinnokotowazibunshikawakaranainodakarataisetunisiteageyo-.",
-            "zibunjishinnokotowazibunshikawakaranainodakarataisetunishiteageyo-.",
-            "zibunjishinnokotowazibunshikawakaranainodakarataisetsunisiteageyo-.",
-            "zibunjishinnokotowazibunshikawakaranainodakarataisetsunishiteageyo-.",
-            "zibunjishinnokotowajibunsikawakaranainodakarataisetunisiteageyo-.",
-            "zibunjishinnokotowajibunsikawakaranainodakarataisetunishiteageyo-.",
-            "zibunjishinnokotowajibunsikawakaranainodakarataisetsunisiteageyo-.",
-            "zibunjishinnokotowajibunsikawakaranainodakarataisetsunishiteageyo-.",
-            "zibunjishinnokotowajibunshikawakaranainodakarataisetunisiteageyo-.",
-            "zibunjishinnokotowajibunshikawakaranainodakarataisetunishiteageyo-.",
-            "zibunjishinnokotowajibunshikawakaranainodakarataisetsunisiteageyo-.",
-            "zibunjishinnokotowajibunshikawakaranainodakarataisetsunishiteageyo-.",
-            "zibunjishinnokotohazibunsikawakaranainodakarataisetunisiteageyo-.",
-            "zibunjishinnokotohazibunsikawakaranainodakarataisetunishiteageyo-.",
-            "zibunjishinnokotohazibunsikawakaranainodakarataisetsunisiteageyo-.",
-            "zibunjishinnokotohazibunsikawakaranainodakarataisetsunishiteageyo-.",
-            "zibunjishinnokotohazibunshikawakaranainodakarataisetunisiteageyo-.",
-            "zibunjishinnokotohazibunshikawakaranainodakarataisetunishiteageyo-.",
-            "zibunjishinnokotohazibunshikawakaranainodakarataisetsunisiteageyo-.",
-            "zibunjishinnokotohazibunshikawakaranainodakarataisetsunishiteageyo-.",
-            "zibunjishinnokotohajibunsikawakaranainodakarataisetunisiteageyo-.",
-            "zibunjishinnokotohajibunsikawakaranainodakarataisetunishiteageyo-.",
-            "zibunjishinnokotohajibunsikawakaranainodakarataisetsunisiteageyo-.",
-            "zibunjishinnokotohajibunsikawakaranainodakarataisetsunishiteageyo-.",
-            "zibunjishinnokotohajibunshikawakaranainodakarataisetunisiteageyo-.",
-            "zibunjishinnokotohajibunshikawakaranainodakarataisetunishiteageyo-.",
-            "zibunjishinnokotohajibunshikawakaranainodakarataisetsunisiteageyo-.",
-            "zibunjishinnokotohajibunshikawakaranainodakarataisetsunishiteageyo-.",
-            "jibunzisinnokotowazibunsikawakaranainodakarataisetunisiteageyo-.",
-            "jibunzisinnokotowazibunsikawakaranainodakarataisetunishiteageyo-.",
-            "jibunzisinnokotowazibunsikawakaranainodakarataisetsunisiteageyo-.",
-            "jibunzisinnokotowazibunsikawakaranainodakarataisetsunishiteageyo-.",
-            "jibunzisinnokotowazibunshikawakaranainodakarataisetunisiteageyo-.",
-            "jibunzisinnokotowazibunshikawakaranainodakarataisetunishiteageyo-.",
-            "jibunzisinnokotowazibunshikawakaranainodakarataisetsunisiteageyo-.",
-            "jibunzisinnokotowazibunshikawakaranainodakarataisetsunishiteageyo-.",
-            "jibunzisinnokotowajibunsikawakaranainodakarataisetunisiteageyo-.",
-            "jibunzisinnokotowajibunsikawakaranainodakarataisetunishiteageyo-.",
-            "jibunzisinnokotowajibunsikawakaranainodakarataisetsunisiteageyo-.",
-            "jibunzisinnokotowajibunsikawakaranainodakarataisetsunishiteageyo-.",
-            "jibunzisinnokotowajibunshikawakaranainodakarataisetunisiteageyo-.",
-            "jibunzisinnokotowajibunshikawakaranainodakarataisetunishiteageyo-.",
-            "jibunzisinnokotowajibunshikawakaranainodakarataisetsunisiteageyo-.",
-            "jibunzisinnokotowajibunshikawakaranainodakarataisetsunishiteageyo-.",
-            "jibunzisinnokotohazibunsikawakaranainodakarataisetunisiteageyo-.",
-            "jibunzisinnokotohazibunsikawakaranainodakarataisetunishiteageyo-.",
-            "jibunzisinnokotohazibunsikawakaranainodakarataisetsunisiteageyo-.",
-            "jibunzisinnokotohazibunsikawakaranainodakarataisetsunishiteageyo-.",
-            "jibunzisinnokotohazibunshikawakaranainodakarataisetunisiteageyo-.",
-            "jibunzisinnokotohazibunshikawakaranainodakarataisetunishiteageyo-.",
-            "jibunzisinnokotohazibunshikawakaranainodakarataisetsunisiteageyo-.",
-            "jibunzisinnokotohazibunshikawakaranainodakarataisetsunishiteageyo-.",
-            "jibunzisinnokotohajibunsikawakaranainodakarataisetunisiteageyo-.",
-            "jibunzisinnokotohajibunsikawakaranainodakarataisetunishiteageyo-.",
-            "jibunzisinnokotohajibunsikawakaranainodakarataisetsunisiteageyo-.",
-            "jibunzisinnokotohajibunsikawakaranainodakarataisetsunishiteageyo-.",
-            "jibunzisinnokotohajibunshikawakaranainodakarataisetunisiteageyo-.",
-            "jibunzisinnokotohajibunshikawakaranainodakarataisetunishiteageyo-.",
-            "jibunzisinnokotohajibunshikawakaranainodakarataisetsunisiteageyo-.",
-            "jibunzisinnokotohajibunshikawakaranainodakarataisetsunishiteageyo-.",
-            "jibunzishinnokotowazibunsikawakaranainodakarataisetunisiteageyo-.",
-            "jibunzishinnokotowazibunsikawakaranainodakarataisetunishiteageyo-.",
-            "jibunzishinnokotowazibunsikawakaranainodakarataisetsunisiteageyo-.",
-            "jibunzishinnokotowazibunsikawakaranainodakarataisetsunishiteageyo-.",
-            "jibunzishinnokotowazibunshikawakaranainodakarataisetunisiteageyo-.",
-            "jibunzishinnokotowazibunshikawakaranainodakarataisetunishiteageyo-.",
-            "jibunzishinnokotowazibunshikawakaranainodakarataisetsunisiteageyo-.",
-            "jibunzishinnokotowazibunshikawakaranainodakarataisetsunishiteageyo-.",
-            "jibunzishinnokotowajibunsikawakaranainodakarataisetunisiteageyo-.",
-            "jibunzishinnokotowajibunsikawakaranainodakarataisetunishiteageyo-.",
-            "jibunzishinnokotowajibunsikawakaranainodakarataisetsunisiteageyo-.",
-            "jibunzishinnokotowajibunsikawakaranainodakarataisetsunishiteageyo-.",
-            "jibunzishinnokotowajibunshikawakaranainodakarataisetunisiteageyo-.",
-            "jibunzishinnokotowajibunshikawakaranainodakarataisetunishiteageyo-.",
-            "jibunzishinnokotowajibunshikawakaranainodakarataisetsunisiteageyo-.",
-            "jibunzishinnokotowajibunshikawakaranainodakarataisetsunishiteageyo-.",
-            "jibunzishinnokotohazibunsikawakaranainodakarataisetunisiteageyo-.",
-            "jibunzishinnokotohazibunsikawakaranainodakarataisetunishiteageyo-.",
-            "jibunzishinnokotohazibunsikawakaranainodakarataisetsunisiteageyo-.",
-            "jibunzishinnokotohazibunsikawakaranainodakarataisetsunishiteageyo-.",
-            "jibunzishinnokotohazibunshikawakaranainodakarataisetunisiteageyo-.",
-            "jibunzishinnokotohazibunshikawakaranainodakarataisetunishiteageyo-.",
-            "jibunzishinnokotohazibunshikawakaranainodakarataisetsunisiteageyo-.",
-            "jibunzishinnokotohazibunshikawakaranainodakarataisetsunishiteageyo-.",
-            "jibunzishinnokotohajibunsikawakaranainodakarataisetunisiteageyo-.",
-            "jibunzishinnokotohajibunsikawakaranainodakarataisetunishiteageyo-.",
-            "jibunzishinnokotohajibunsikawakaranainodakarataisetsunisiteageyo-.",
-            "jibunzishinnokotohajibunsikawakaranainodakarataisetsunishiteageyo-.",
-            "jibunzishinnokotohajibunshikawakaranainodakarataisetunisiteageyo-.",
-            "jibunzishinnokotohajibunshikawakaranainodakarataisetunishiteageyo-.",
-            "jibunzishinnokotohajibunshikawakaranainodakarataisetsunisiteageyo-.",
-            "jibunzishinnokotohajibunshikawakaranainodakarataisetsunishiteageyo-.",
-            "jibunjisinnokotowazibunsikawakaranainodakarataisetunisiteageyo-.",
-            "jibunjisinnokotowazibunsikawakaranainodakarataisetunishiteageyo-.",
-            "jibunjisinnokotowazibunsikawakaranainodakarataisetsunisiteageyo-.",
-            "jibunjisinnokotowazibunsikawakaranainodakarataisetsunishiteageyo-.",
-            "jibunjisinnokotowazibunshikawakaranainodakarataisetunisiteageyo-.",
-            "jibunjisinnokotowazibunshikawakaranainodakarataisetunishiteageyo-.",
-            "jibunjisinnokotowazibunshikawakaranainodakarataisetsunisiteageyo-.",
-            "jibunjisinnokotowazibunshikawakaranainodakarataisetsunishiteageyo-.",
-            "jibunjisinnokotowajibunsikawakaranainodakarataisetunisiteageyo-.",
-            "jibunjisinnokotowajibunsikawakaranainodakarataisetunishiteageyo-.",
-            "jibunjisinnokotowajibunsikawakaranainodakarataisetsunisiteageyo-.",
-            "jibunjisinnokotowajibunsikawakaranainodakarataisetsunishiteageyo-.",
-            "jibunjisinnokotowajibunshikawakaranainodakarataisetunisiteageyo-.",
-            "jibunjisinnokotowajibunshikawakaranainodakarataisetunishiteageyo-.",
-            "jibunjisinnokotowajibunshikawakaranainodakarataisetsunisiteageyo-.",
-            "jibunjisinnokotowajibunshikawakaranainodakarataisetsunishiteageyo-.",
-            "jibunjisinnokotohazibunsikawakaranainodakarataisetunisiteageyo-.",
-            "jibunjisinnokotohazibunsikawakaranainodakarataisetunishiteageyo-.",
-            "jibunjisinnokotohazibunsikawakaranainodakarataisetsunisiteageyo-.",
-            "jibunjisinnokotohazibunsikawakaranainodakarataisetsunishiteageyo-.",
-            "jibunjisinnokotohazibunshikawakaranainodakarataisetunisiteageyo-.",
-            "jibunjisinnokotohazibunshikawakaranainodakarataisetunishiteageyo-.",
-            "jibunjisinnokotohazibunshikawakaranainodakarataisetsunisiteageyo-.",
-            "jibunjisinnokotohazibunshikawakaranainodakarataisetsunishiteageyo-.",
-            "jibunjisinnokotohajibunsikawakaranainodakarataisetunisiteageyo-.",
-            "jibunjisinnokotohajibunsikawakaranainodakarataisetunishiteageyo-.",
-            "jibunjisinnokotohajibunsikawakaranainodakarataisetsunisiteageyo-.",
-            "jibunjisinnokotohajibunsikawakaranainodakarataisetsunishiteageyo-.",
-            "jibunjisinnokotohajibunshikawakaranainodakarataisetunisiteageyo-.",
-            "jibunjisinnokotohajibunshikawakaranainodakarataisetunishiteageyo-.",
-            "jibunjisinnokotohajibunshikawakaranainodakarataisetsunisiteageyo-.",
-            "jibunjisinnokotohajibunshikawakaranainodakarataisetsunishiteageyo-.",
-            "jibunjishinnokotowazibunsikawakaranainodakarataisetunisiteageyo-.",
-            "jibunjishinnokotowazibunsikawakaranainodakarataisetunishiteageyo-.",
-            "jibunjishinnokotowazibunsikawakaranainodakarataisetsunisiteageyo-.",
-            "jibunjishinnokotowazibunsikawakaranainodakarataisetsunishiteageyo-.",
-            "jibunjishinnokotowazibunshikawakaranainodakarataisetunisiteageyo-.",
-            "jibunjishinnokotowazibunshikawakaranainodakarataisetunishiteageyo-.",
-            "jibunjishinnokotowazibunshikawakaranainodakarataisetsunisiteageyo-.",
-            "jibunjishinnokotowazibunshikawakaranainodakarataisetsunishiteageyo-.",
-            "jibunjishinnokotowajibunsikawakaranainodakarataisetunisiteageyo-.",
-            "jibunjishinnokotowajibunsikawakaranainodakarataisetunishiteageyo-.",
-            "jibunjishinnokotowajibunsikawakaranainodakarataisetsunisiteageyo-.",
-            "jibunjishinnokotowajibunsikawakaranainodakarataisetsunishiteageyo-.",
-            "jibunjishinnokotowajibunshikawakaranainodakarataisetunisiteageyo-.",
-            "jibunjishinnokotowajibunshikawakaranainodakarataisetunishiteageyo-.",
-            "jibunjishinnokotowajibunshikawakaranainodakarataisetsunisiteageyo-.",
-            "jibunjishinnokotohazibunsikawakaranainodakarataisetunisiteageyo-.",
-            "jibunjishinnokotohazibunsikawakaranainodakarataisetunishiteageyo-.",
-            "jibunjishinnokotohazibunsikawakaranainodakarataisetsunisiteageyo-.",
-            "jibunjishinnokotohazibunsikawakaranainodakarataisetsunishiteageyo-.",
-            "jibunjishinnokotohazibunshikawakaranainodakarataisetunisiteageyo-.",
-            "jibunjishinnokotohazibunshikawakaranainodakarataisetunishiteageyo-.",
-            "jibunjishinnokotohazibunshikawakaranainodakarataisetsunisiteageyo-.",
-            "jibunjishinnokotohazibunshikawakaranainodakarataisetsunishiteageyo-.",
-            "jibunjishinnokotohajibunsikawakaranainodakarataisetunisiteageyo-.",
-            "jibunjishinnokotohajibunsikawakaranainodakarataisetunishiteageyo-.",
-            "jibunjishinnokotohajibunsikawakaranainodakarataisetsunisiteageyo-.",
-            "jibunjishinnokotohajibunsikawakaranainodakarataisetsunishiteageyo-.",
-            "jibunjishinnokotohajibunshikawakaranainodakarataisetunisiteageyo-.",
-            "jibunjishinnokotohajibunshikawakaranainodakarataisetunishiteageyo-.",
-            "jibunjishinnokotohajibunshikawakaranainodakarataisetsunisiteageyo-.",
-            "jibunjishinnokotohajibunshikawakaranainodakarataisetsunishiteageyo-.",
-            "jibunjishinnokotowajibunshikawakaranainodakarataisetsunishiteageyo-.",
-            "jibunjishinnokotowajibunshikawakaranainodakarataisetsunishiteageyou.",
-            "jibunjishinnokotohajibunshikawakaranainodakarataisetsunishiteageyou.",
-            "jibunjishinnokotohajibunshikawakaranainodakarataisetsunisiteageyou.",
-            "jibunjishinnokotohajibunshikawakaranainodakarataisetunishiteageyou.",
-            "jibunjishinnokotohajibunshikawakaranainodakarataisetunisiteageyou.",
-            "jibunjishinnokotohajibunsikawakaranainodakarataisetsunishiteageyou.",
-            "jibunjishinnokotohajibunsikawakaranainodakarataisetsunisiteageyou.",
-            "jibunjishinnokotohajibunsikawakaranainodakarataisetunishiteageyou.",
-            "jibunjishinnokotohajibunsikawakaranainodakarataisetunisiteageyou.",
-            "jibunjishinnokotohazibunshikawakaranainodakarataisetsunishiteageyou.",
-            "jibunjishinnokotohazibunshikawakaranainodakarataisetsunisiteageyou.",
-            "jibunjishinnokotohazibunshikawakaranainodakarataisetunishiteageyou.",
-            "jibunjishinnokotohazibunshikawakaranainodakarataisetunisiteageyou.",
-            "jibunjishinnokotohazibunsikawakaranainodakarataisetsunishiteageyou.",
-            "jibunjishinnokotohazibunsikawakaranainodakarataisetsunisiteageyou.",
-            "jibunjishinnokotohazibunsikawakaranainodakarataisetunishiteageyou.",
-            "jibunjishinnokotohazibunsikawakaranainodakarataisetunisiteageyou.",
-            "jibunjishinnokotowajibunshikawakaranainodakarataisetsunisiteageyou.",
-            "jibunjishinnokotowajibunshikawakaranainodakarataisetunishiteageyou.",
-            "jibunjishinnokotowajibunshikawakaranainodakarataisetunisiteageyou.",
-            "jibunjishinnokotowajibunsikawakaranainodakarataisetsunishiteageyou.",
-            "jibunjishinnokotowajibunsikawakaranainodakarataisetsunisiteageyou.",
-            "jibunjishinnokotowajibunsikawakaranainodakarataisetunishiteageyou.",
-            "jibunjishinnokotowajibunsikawakaranainodakarataisetunisiteageyou.",
-            "jibunjishinnokotowazibunshikawakaranainodakarataisetsunishiteageyou.",
-            "jibunjishinnokotowazibunshikawakaranainodakarataisetsunisiteageyou.",
-            "jibunjishinnokotowazibunshikawakaranainodakarataisetunishiteageyou.",
-            "jibunjishinnokotowazibunshikawakaranainodakarataisetunisiteageyou.",
-            "jibunjishinnokotowazibunsikawakaranainodakarataisetsunishiteageyou.",
-            "jibunjishinnokotowazibunsikawakaranainodakarataisetsunisiteageyou.",
-            "jibunjishinnokotowazibunsikawakaranainodakarataisetunishiteageyou.",
-            "jibunjishinnokotowazibunsikawakaranainodakarataisetunisiteageyou.",
-            "jibunjisinnokotohajibunshikawakaranainodakarataisetsunishiteageyou.",
-            "jibunjisinnokotohajibunshikawakaranainodakarataisetsunisiteageyou.",
-            "jibunjisinnokotohajibunshikawakaranainodakarataisetunishiteageyou.",
-            "jibunjisinnokotohajibunshikawakaranainodakarataisetunisiteageyou.",
-            "jibunjisinnokotohajibunsikawakaranainodakarataisetsunishiteageyou.",
-            "jibunjisinnokotohajibunsikawakaranainodakarataisetsunisiteageyou.",
-            "jibunjisinnokotohajibunsikawakaranainodakarataisetunishiteageyou.",
-            "jibunjisinnokotohajibunsikawakaranainodakarataisetunisiteageyou.",
-            "jibunjisinnokotohazibunshikawakaranainodakarataisetsunishiteageyou.",
-            "jibunjisinnokotohazibunshikawakaranainodakarataisetsunisiteageyou.",
-            "jibunjisinnokotohazibunshikawakaranainodakarataisetunishiteageyou.",
-            "jibunjisinnokotohazibunshikawakaranainodakarataisetunisiteageyou.",
-            "jibunjisinnokotohazibunsikawakaranainodakarataisetsunishiteageyou.",
-            "jibunjisinnokotohazibunsikawakaranainodakarataisetsunisiteageyou.",
-            "jibunjisinnokotohazibunsikawakaranainodakarataisetunishiteageyou.",
-            "jibunjisinnokotohazibunsikawakaranainodakarataisetunisiteageyou.",
-            "jibunjisinnokotowajibunshikawakaranainodakarataisetsunishiteageyou.",
-            "jibunjisinnokotowajibunshikawakaranainodakarataisetsunisiteageyou.",
-            "jibunjisinnokotowajibunshikawakaranainodakarataisetunishiteageyou.",
-            "jibunjisinnokotowajibunshikawakaranainodakarataisetunisiteageyou.",
-            "jibunjisinnokotowajibunsikawakaranainodakarataisetsunishiteageyou.",
-            "jibunjisinnokotowajibunsikawakaranainodakarataisetsunisiteageyou.",
-            "jibunjisinnokotowajibunsikawakaranainodakarataisetunishiteageyou.",
-            "jibunjisinnokotowajibunsikawakaranainodakarataisetunisiteageyou.",
-            "jibunjisinnokotowazibunshikawakaranainodakarataisetsunishiteageyou.",
-            "jibunjisinnokotowazibunshikawakaranainodakarataisetsunisiteageyou.",
-            "jibunjisinnokotowazibunshikawakaranainodakarataisetunishiteageyou.",
-            "jibunjisinnokotowazibunshikawakaranainodakarataisetunisiteageyou.",
-            "jibunjisinnokotowazibunsikawakaranainodakarataisetsunishiteageyou.",
-            "jibunjisinnokotowazibunsikawakaranainodakarataisetsunisiteageyou.",
-            "jibunjisinnokotowazibunsikawakaranainodakarataisetunishiteageyou.",
-            "jibunjisinnokotowazibunsikawakaranainodakarataisetunisiteageyou.",
-            "jibunzishinnokotohajibunshikawakaranainodakarataisetsunishiteageyou.",
-            "jibunzishinnokotohajibunshikawakaranainodakarataisetsunisiteageyou.",
-            "jibunzishinnokotohajibunshikawakaranainodakarataisetunishiteageyou.",
-            "jibunzishinnokotohajibunshikawakaranainodakarataisetunisiteageyou.",
-            "jibunzishinnokotohajibunsikawakaranainodakarataisetsunishiteageyou.",
-            "jibunzishinnokotohajibunsikawakaranainodakarataisetsunisiteageyou.",
-            "jibunzishinnokotohajibunsikawakaranainodakarataisetunishiteageyou.",
-            "jibunzishinnokotohajibunsikawakaranainodakarataisetunisiteageyou.",
-            "jibunzishinnokotohazibunshikawakaranainodakarataisetsunishiteageyou.",
-            "jibunzishinnokotohazibunshikawakaranainodakarataisetsunisiteageyou.",
-            "jibunzishinnokotohazibunshikawakaranainodakarataisetunishiteageyou.",
-            "jibunzishinnokotohazibunshikawakaranainodakarataisetunisiteageyou.",
-            "jibunzishinnokotohazibunsikawakaranainodakarataisetsunishiteageyou.",
-            "jibunzishinnokotohazibunsikawakaranainodakarataisetsunisiteageyou.",
-            "jibunzishinnokotohazibunsikawakaranainodakarataisetunishiteageyou.",
-            "jibunzishinnokotohazibunsikawakaranainodakarataisetunisiteageyou.",
-            "jibunzishinnokotowajibunshikawakaranainodakarataisetsunishiteageyou.",
-            "jibunzishinnokotowajibunshikawakaranainodakarataisetsunisiteageyou.",
-            "jibunzishinnokotowajibunshikawakaranainodakarataisetunishiteageyou.",
-            "jibunzishinnokotowajibunshikawakaranainodakarataisetunisiteageyou.",
-            "jibunzishinnokotowajibunsikawakaranainodakarataisetsunishiteageyou.",
-            "jibunzishinnokotowajibunsikawakaranainodakarataisetsunisiteageyou.",
-            "jibunzishinnokotowajibunsikawakaranainodakarataisetunishiteageyou.",
-            "jibunzishinnokotowajibunsikawakaranainodakarataisetunisiteageyou.",
-            "jibunzishinnokotowazibunshikawakaranainodakarataisetsunishiteageyou.",
-            "jibunzishinnokotowazibunshikawakaranainodakarataisetsunisiteageyou.",
-            "jibunzishinnokotowazibunshikawakaranainodakarataisetunishiteageyou.",
-            "jibunzishinnokotowazibunshikawakaranainodakarataisetunisiteageyou.",
-            "jibunzishinnokotowazibunsikawakaranainodakarataisetsunishiteageyou.",
-            "jibunzishinnokotowazibunsikawakaranainodakarataisetsunisiteageyou.",
-            "jibunzishinnokotowazibunsikawakaranainodakarataisetunishiteageyou.",
-            "jibunzishinnokotowazibunsikawakaranainodakarataisetunisiteageyou.",
-            "jibunzisinnokotohajibunshikawakaranainodakarataisetsunishiteageyou.",
-            "jibunzisinnokotohajibunshikawakaranainodakarataisetsunisiteageyou.",
-            "jibunzisinnokotohajibunshikawakaranainodakarataisetunishiteageyou.",
-            "jibunzisinnokotohajibunshikawakaranainodakarataisetunisiteageyou.",
-            "jibunzisinnokotohajibunsikawakaranainodakarataisetsunishiteageyou.",
-            "jibunzisinnokotohajibunsikawakaranainodakarataisetsunisiteageyou.",
-            "jibunzisinnokotohajibunsikawakaranainodakarataisetunishiteageyou.",
-            "jibunzisinnokotohajibunsikawakaranainodakarataisetunisiteageyou.",
-            "jibunzisinnokotohazibunshikawakaranainodakarataisetsunishiteageyou.",
-            "jibunzisinnokotohazibunshikawakaranainodakarataisetsunisiteageyou.",
-            "jibunzisinnokotohazibunshikawakaranainodakarataisetunishiteageyou.",
-            "jibunzisinnokotohazibunshikawakaranainodakarataisetunisiteageyou.",
-            "jibunzisinnokotohazibunsikawakaranainodakarataisetsunishiteageyou.",
-            "jibunzisinnokotohazibunsikawakaranainodakarataisetsunisiteageyou.",
-            "jibunzisinnokotohazibunsikawakaranainodakarataisetunishiteageyou.",
-            "jibunzisinnokotohazibunsikawakaranainodakarataisetunisiteageyou.",
-            "jibunzisinnokotowajibunshikawakaranainodakarataisetsunishiteageyou.",
-            "jibunzisinnokotowajibunshikawakaranainodakarataisetsunisiteageyou.",
-            "jibunzisinnokotowajibunshikawakaranainodakarataisetunishiteageyou.",
-            "jibunzisinnokotowajibunshikawakaranainodakarataisetunisiteageyou.",
-            "jibunzisinnokotowajibunsikawakaranainodakarataisetsunishiteageyou.",
-            "jibunzisinnokotowajibunsikawakaranainodakarataisetsunisiteageyou.",
-            "jibunzisinnokotowajibunsikawakaranainodakarataisetunishiteageyou.",
-            "jibunzisinnokotowajibunsikawakaranainodakarataisetunisiteageyou.",
-            "jibunzisinnokotowazibunshikawakaranainodakarataisetsunishiteageyou.",
-            "jibunzisinnokotowazibunshikawakaranainodakarataisetsunisiteageyou.",
-            "jibunzisinnokotowazibunshikawakaranainodakarataisetunishiteageyou.",
-            "jibunzisinnokotowazibunshikawakaranainodakarataisetunisiteageyou.",
-            "jibunzisinnokotowazibunsikawakaranainodakarataisetsunishiteageyou.",
-            "jibunzisinnokotowazibunsikawakaranainodakarataisetsunisiteageyou.",
-            "jibunzisinnokotowazibunsikawakaranainodakarataisetunishiteageyou.",
-            "jibunzisinnokotowazibunsikawakaranainodakarataisetunisiteageyou.",
-            "zibunjishinnokotohajibunshikawakaranainodakarataisetsunishiteageyou.",
-            "zibunjishinnokotohajibunshikawakaranainodakarataisetsunisiteageyou.",
-            "zibunjishinnokotohajibunshikawakaranainodakarataisetunishiteageyou.",
-            "zibunjishinnokotohajibunshikawakaranainodakarataisetunisiteageyou.",
-            "zibunjishinnokotohajibunsikawakaranainodakarataisetsunishiteageyou.",
-            "zibunjishinnokotohajibunsikawakaranainodakarataisetsunisiteageyou.",
-            "zibunjishinnokotohajibunsikawakaranainodakarataisetunishiteageyou.",
-            "zibunjishinnokotohajibunsikawakaranainodakarataisetunisiteageyou.",
-            "zibunjishinnokotohazibunshikawakaranainodakarataisetsunishiteageyou.",
-            "zibunjishinnokotohazibunshikawakaranainodakarataisetsunisiteageyou.",
-            "zibunjishinnokotohazibunshikawakaranainodakarataisetunishiteageyou.",
-            "zibunjishinnokotohazibunshikawakaranainodakarataisetunisiteageyou.",
-            "zibunjishinnokotohazibunsikawakaranainodakarataisetsunishiteageyou.",
-            "zibunjishinnokotohazibunsikawakaranainodakarataisetsunisiteageyou.",
-            "zibunjishinnokotohazibunsikawakaranainodakarataisetunishiteageyou.",
-            "zibunjishinnokotohazibunsikawakaranainodakarataisetunisiteageyou.",
-            "zibunjishinnokotowajibunshikawakaranainodakarataisetsunishiteageyou.",
-            "zibunjishinnokotowajibunshikawakaranainodakarataisetsunisiteageyou.",
-            "zibunjishinnokotowajibunshikawakaranainodakarataisetunishiteageyou.",
-            "zibunjishinnokotowajibunshikawakaranainodakarataisetunisiteageyou.",
-            "zibunjishinnokotowajibunsikawakaranainodakarataisetsunishiteageyou.",
-            "zibunjishinnokotowajibunsikawakaranainodakarataisetsunisiteageyou.",
-            "zibunjishinnokotowajibunsikawakaranainodakarataisetunishiteageyou.",
-            "zibunjishinnokotowajibunsikawakaranainodakarataisetunisiteageyou.",
-            "zibunjishinnokotowazibunshikawakaranainodakarataisetsunishiteageyou.",
-            "zibunjishinnokotowazibunshikawakaranainodakarataisetsunisiteageyou.",
-            "zibunjishinnokotowazibunshikawakaranainodakarataisetunishiteageyou.",
-            "zibunjishinnokotowazibunshikawakaranainodakarataisetunisiteageyou.",
-            "zibunjishinnokotowazibunsikawakaranainodakarataisetsunishiteageyou.",
-            "zibunjishinnokotowazibunsikawakaranainodakarataisetsunisiteageyou.",
-            "zibunjishinnokotowazibunsikawakaranainodakarataisetunishiteageyou.",
-            "zibunjishinnokotowazibunsikawakaranainodakarataisetunisiteageyou.",
-            "zibunjisinnokotohajibunshikawakaranainodakarataisetsunishiteageyou.",
-            "zibunjisinnokotohajibunshikawakaranainodakarataisetsunisiteageyou.",
-            "zibunjisinnokotohajibunshikawakaranainodakarataisetunishiteageyou.",
-            "zibunjisinnokotohajibunshikawakaranainodakarataisetunisiteageyou.",
-            "zibunjisinnokotohajibunsikawakaranainodakarataisetsunishiteageyou.",
-            "zibunjisinnokotohajibunsikawakaranainodakarataisetsunisiteageyou.",
-            "zibunjisinnokotohajibunsikawakaranainodakarataisetunishiteageyou.",
-            "zibunjisinnokotohajibunsikawakaranainodakarataisetunisiteageyou.",
-            "zibunjisinnokotohazibunshikawakaranainodakarataisetsunishiteageyou.",
-            "zibunjisinnokotohazibunshikawakaranainodakarataisetsunisiteageyou.",
-            "zibunjisinnokotohazibunshikawakaranainodakarataisetunishiteageyou.",
-            "zibunjisinnokotohazibunshikawakaranainodakarataisetunisiteageyou.",
-            "zibunjisinnokotohazibunsikawakaranainodakarataisetsunishiteageyou.",
-            "zibunjisinnokotohazibunsikawakaranainodakarataisetsunisiteageyou.",
-            "zibunjisinnokotohazibunsikawakaranainodakarataisetunishiteageyou.",
-            "zibunjisinnokotohazibunsikawakaranainodakarataisetunisiteageyou.",
-            "zibunjisinnokotowajibunshikawakaranainodakarataisetsunishiteageyou.",
-            "zibunjisinnokotowajibunshikawakaranainodakarataisetsunisiteageyou.",
-            "zibunjisinnokotowajibunshikawakaranainodakarataisetunishiteageyou.",
-            "zibunjisinnokotowajibunshikawakaranainodakarataisetunisiteageyou.",
-            "zibunjisinnokotowajibunsikawakaranainodakarataisetsunishiteageyou.",
-            "zibunjisinnokotowajibunsikawakaranainodakarataisetsunisiteageyou.",
-            "zibunjisinnokotowajibunsikawakaranainodakarataisetunishiteageyou.",
-            "zibunjisinnokotowajibunsikawakaranainodakarataisetunisiteageyou.",
-            "zibunjisinnokotowazibunshikawakaranainodakarataisetsunishiteageyou.",
-            "zibunjisinnokotowazibunshikawakaranainodakarataisetsunisiteageyou.",
-            "zibunjisinnokotowazibunshikawakaranainodakarataisetunishiteageyou.",
-            "zibunjisinnokotowazibunshikawakaranainodakarataisetunisiteageyou.",
-            "zibunjisinnokotowazibunsikawakaranainodakarataisetsunishiteageyou.",
-            "zibunjisinnokotowazibunsikawakaranainodakarataisetsunisiteageyou.",
-            "zibunjisinnokotowazibunsikawakaranainodakarataisetunishiteageyou.",
-            "zibunjisinnokotowazibunsikawakaranainodakarataisetunisiteageyou.",
-            "zibunzishinnokotohajibunshikawakaranainodakarataisetsunishiteageyou.",
-            "zibunzishinnokotohajibunshikawakaranainodakarataisetsunisiteageyou.",
-            "zibunzishinnokotohajibunshikawakaranainodakarataisetunishiteageyou.",
-            "zibunzishinnokotohajibunshikawakaranainodakarataisetunisiteageyou.",
-            "zibunzishinnokotohajibunsikawakaranainodakarataisetsunishiteageyou.",
-            "zibunzishinnokotohajibunsikawakaranainodakarataisetsunisiteageyou.",
-            "zibunzishinnokotohajibunsikawakaranainodakarataisetunishiteageyou.",
-            "zibunzishinnokotohajibunsikawakaranainodakarataisetunisiteageyou.",
-            "zibunzishinnokotohazibunshikawakaranainodakarataisetsunishiteageyou.",
-            "zibunzishinnokotohazibunshikawakaranainodakarataisetsunisiteageyou.",
-            "zibunzishinnokotohazibunshikawakaranainodakarataisetunishiteageyou.",
-            "zibunzishinnokotohazibunshikawakaranainodakarataisetunisiteageyou.",
-            "zibunzishinnokotohazibunsikawakaranainodakarataisetsunishiteageyou.",
-            "zibunzishinnokotohazibunsikawakaranainodakarataisetsunisiteageyou.",
-            "zibunzishinnokotohazibunsikawakaranainodakarataisetunishiteageyou.",
-            "zibunzishinnokotohazibunsikawakaranainodakarataisetunisiteageyou.",
-            "zibunzishinnokotowajibunshikawakaranainodakarataisetsunishiteageyou.",
-            "zibunzishinnokotowajibunshikawakaranainodakarataisetsunisiteageyou.",
-            "zibunzishinnokotowajibunshikawakaranainodakarataisetunishiteageyou.",
-            "zibunzishinnokotowajibunshikawakaranainodakarataisetunisiteageyou.",
-            "zibunzishinnokotowajibunsikawakaranainodakarataisetsunishiteageyou.",
-            "zibunzishinnokotowajibunsikawakaranainodakarataisetsunisiteageyou.",
-            "zibunzishinnokotowajibunsikawakaranainodakarataisetunishiteageyou.",
-            "zibunzishinnokotowajibunsikawakaranainodakarataisetunisiteageyou.",
-            "zibunzishinnokotowazibunshikawakaranainodakarataisetsunishiteageyou.",
-            "zibunzishinnokotowazibunshikawakaranainodakarataisetsunisiteageyou.",
-            "zibunzishinnokotowazibunshikawakaranainodakarataisetunishiteageyou.",
-            "zibunzishinnokotowazibunshikawakaranainodakarataisetunisiteageyou.",
-            "zibunzishinnokotowazibunsikawakaranainodakarataisetsunishiteageyou.",
-            "zibunzishinnokotowazibunsikawakaranainodakarataisetsunisiteageyou.",
-            "zibunzishinnokotowazibunsikawakaranainodakarataisetunishiteageyou.",
-            "zibunzishinnokotowazibunsikawakaranainodakarataisetunisiteageyou.",
-            "zibunzisinnokotohajibunshikawakaranainodakarataisetsunishiteageyou.",
-            "zibunzisinnokotohajibunshikawakaranainodakarataisetsunisiteageyou.",
-            "zibunzisinnokotohajibunshikawakaranainodakarataisetunishiteageyou.",
-            "zibunzisinnokotohajibunshikawakaranainodakarataisetunisiteageyou.",
-            "zibunzisinnokotohajibunsikawakaranainodakarataisetsunishiteageyou.",
-            "zibunzisinnokotohajibunsikawakaranainodakarataisetsunisiteageyou.",
-            "zibunzisinnokotohajibunsikawakaranainodakarataisetunishiteageyou.",
-            "zibunzisinnokotohajibunsikawakaranainodakarataisetunisiteageyou.",
-            "zibunzisinnokotohazibunshikawakaranainodakarataisetsunishiteageyou.",
-            "zibunzisinnokotohazibunshikawakaranainodakarataisetsunisiteageyou.",
-            "zibunzisinnokotohazibunshikawakaranainodakarataisetunishiteageyou.",
-            "zibunzisinnokotohazibunshikawakaranainodakarataisetunisiteageyou.",
-            "zibunzisinnokotohazibunsikawakaranainodakarataisetsunishiteageyou.",
-            "zibunzisinnokotohazibunsikawakaranainodakarataisetsunisiteageyou.",
-            "zibunzisinnokotohazibunsikawakaranainodakarataisetunishiteageyou.",
-            "zibunzisinnokotohazibunsikawakaranainodakarataisetunisiteageyou.",
-            "zibunzisinnokotowajibunshikawakaranainodakarataisetsunishiteageyou.",
-            "zibunzisinnokotowajibunshikawakaranainodakarataisetsunisiteageyou.",
-            "zibunzisinnokotowajibunshikawakaranainodakarataisetunishiteageyou.",
-            "zibunzisinnokotowajibunshikawakaranainodakarataisetunisiteageyou.",
-            "zibunzisinnokotowajibunsikawakaranainodakarataisetsunishiteageyou.",
-            "zibunzisinnokotowajibunsikawakaranainodakarataisetsunisiteageyou.",
-            "zibunzisinnokotowajibunsikawakaranainodakarataisetunishiteageyou.",
-            "zibunzisinnokotowajibunsikawakaranainodakarataisetunisiteageyou.",
-            "zibunzisinnokotowazibunshikawakaranainodakarataisetsunishiteageyou.",
-            "zibunzisinnokotowazibunshikawakaranainodakarataisetsunisiteageyou.",
-            "zibunzisinnokotowazibunshikawakaranainodakarataisetunishiteageyou.",
-            "zibunzisinnokotowazibunshikawakaranainodakarataisetunisiteageyou.",
-            "zibunzisinnokotowazibunsikawakaranainodakarataisetsunishiteageyou.",
-            "zibunzisinnokotowazibunsikawakaranainodakarataisetsunisiteageyou.",
-            "zibunzisinnokotowazibunsikawakaranainodakarataisetunishiteageyou.",
-            "zibunzisinnokotowazibunsikawakaranainodakarataisetunisiteageyou."
-        ],
-        "kana": "じぶんじしんのことはじぶんしかわからないのだからたいせつにしてあげよう。",
-        "original": "自分自身のことは自分しかわからないのだから大切にしてあげよう。"
-    },
-    {
-        "id": 49,
-        "text": "bokuwarenaiso-danninorunogakokoronosokokarakirainandakedo",
-        "tokens": [
-            "bokuwarenaiso-danninorunogakokoronosokokarakirainandakedo",
-            "bokuwarenaisoudanninorunogakokoronosokokarakirainandakedo"
-        ],
-        "kana": "ぼくはれんあいそうだんにのるのがこころのそこからきらいなんだけど、ゆいいつするアドバイスがある。",
-        "original": "僕は恋愛相談に乗るのが心の底から嫌いなんだけど、唯一するアドバイスがある。"
-    },
-    {
-        "id": 50,
-        "text": "sorewa\"hitoniatteruno?awanaito\"dearu.",
-        "tokens": [
-            "sorewa\"hitoniatteruno?awanaito\"dearu.",
-            "soreha\"hitoniatteruno?awanaito\"dearu."
-        ],
-        "kana": "それは「ひとにあってるの？あわないと」である。",
-        "original": "それは「人に会ってるの？会わないと」である。"
-    },
-    {
-        "id": 51,
-        "text": "deaiganai",
-        "tokens": [
-            "deaiganai"
-        ],
-        "kana": "であいがない、となやんでるひとにはなしをきくと、しょくばとじたくのおうふくのみでしょくばにれんあいたいしょうはいない、みたいなことがおおい。",
-        "original": "出会いがない、と悩んでる人に話を聞くと、職場と自宅の往復のみで職場に恋愛対象はいない、みたいなことが多い。"
-    },
-    {
-        "id": 52,
-        "text": "sonohitoshikashiranaikotowawa",
-        "tokens": [
-            "sonohitoshikashiranaikotowawa"
-        ],
-        "kana": "そのひとしかしらないことはは、すごくかちがある。",
-        "original": "その人しか知らないことはは、すごく価値がある。"
-    },
-    {
-        "id": 53,
-        "text": "snstokaomiteruto",
-        "tokens": [
-            "snstokaomiteruto"
-        ],
-        "kana": "SNSとかをみてると、じょうほうかたなようにみえる。",
-        "original": "SNSとかを見てると、情報過多なように見える。"
-    },
-    {
-        "id": 54,
-        "text": "ga",
-        "tokens": [
-            "ga"
-        ],
-        "kana": "が、じっさいはありきたりな2じじょうほうだらけ。",
-        "original": "が、実際はありきたりな2次情報だらけ。"
-    },
-    {
-        "id": 55,
-        "text": "angai",
-        "tokens": [
-            "angai"
-        ],
-        "kana": "あんがい、じぶんがけいけんしたことをもとにほんしんではっしんされているじょうほうはすくない。",
-        "original": "案外、自分が経験したことをもとに本心で発信されている情報は少ない。"
-    },
-    {
-        "id": 56,
-        "text": "dakara",
-        "tokens": [
-            "dakara"
-        ],
-        "kana": "だから、ぜひじょうほうはっしんをしてほしい。",
-        "original": "だから、是非情報発信をしてほしい。"
-    },
-    {
-        "id": 57,
-        "text": "jibungaomotterukotonantedaremokyo-minaiyo",
-        "tokens": [
-            "jibungaomotterukotonantedaremokyo-minaiyo",
-            "jibungaomotterukotonantedaremokyouminaiyo"
-        ],
-        "kana": "じぶんがおもってることなんてだれもきょうみないよ、、、とおもうひともいるかもしれないが、そんなことはまったくない。",
-        "original": "自分が思ってることなんて誰も興味ないよ、、、と思う人もいるかもしれないが、そんなことは全くない。"
-    },
-    {
-        "id": 58,
-        "text": "nantekotonaishufunoburoga-gabazutsutari",
-        "tokens": [
-            "nantekotonaishufunoburoga-gabazutsutari",
-            "nantekotonaishufunoburogaagabazutsutari"
-        ],
-        "kana": "なんてことないしゅふのブロガーがバズったり、ただとうなんアジアでふうぞくにいってるおっさんのブログがすごいにんきなのも、ぜんぶいちじじょうほうだから。",
-        "original": "なんてことない主婦のブロガーがバズったり、ただ東南アジアで風俗に行ってるおっさんのブログが凄い人気なのも、全部一次情報だから。"
-    },
-    {
-        "id": 59,
-        "text": "massakiniainidaitaisarerumuno-nazinzaitteinsyo-desita",
-        "tokens": [
-            "massakiniainidaitaisarerumuno-nazinzaitteinsyo-desita",
-            "massakiniainidaitaisarerumuno-nazinzaitteinsyo-deshita",
-            "massakiniainidaitaisarerumuno-nazinzaitteinsho-desita",
-            "massakiniainidaitaisarerumuno-nazinzaitteinsho-deshita",
-            "massakiniainidaitaisarerumuno-najinzaitteinsyo-desita",
-            "massakiniainidaitaisarerumuno-najinzaitteinsyo-deshita",
-            "massakiniainidaitaisarerumuno-najinzaitteinsho-desita",
-            "massakiniainidaitaisarerumuno-najinzaitteinsho-deshita",
-            "massakiniainidaitaisarerumunounajinzaitteinshoudeshita",
-            "massakiniainidaitaisarerumunounajinzaitteinshoudesita",
-            "massakiniainidaitaisarerumunounajinzaitteinsyoudeshita",
-            "massakiniainidaitaisarerumunounajinzaitteinsyoudesita",
-            "massakiniainidaitaisarerumunounazinzaitteinshoudeshita",
-            "massakiniainidaitaisarerumunounazinzaitteinshoudesita",
-            "massakiniainidaitaisarerumunounazinzaitteinsyoudeshita",
-            "massakiniainidaitaisarerumunounazinzaitteinsyoudesita"
-        ],
-        "kana": "まっさきにAIにだいたいされるむのうなじんざいっていんしょうでした",
-        "original": "真っ先にAIに代替される無能な人材って印象でした"
-    },
-    {
-        "id": 60,
-        "text": "tiktokhirakumaeniko-zienhiraitaho-gai-",
-        "tokens": [
-            "tiktokhirakumaeniko-zienhiraitaho-gai-",
-            "tiktokhirakumaeniko-jienhiraitaho-gai-",
-            "tiktokhirakumaenikoujienhiraitahougaii",
-            "tiktokhirakumaenikouzienhiraitahougaii"
-        ],
-        "kana": "TikTokひらくまえにこうじえんひらいたほうがいい",
-        "original": "TikTok開く前に広辞苑開いた方がいい"
-    },
-    {
-        "id": 61,
-        "text": "hitogashiawaseokanjirutokiwa3shurui",
-        "tokens": [
-            "hitogashiawaseokanjirutokiwa3shurui",
-            "hitogashiawaseokanjirutokiha3sfurui",
-            "hitogashiawaseokanjirutokiha3shurui",
-            "hitogashiawaseokanjirutokiha3syurui",
-            "hitogashiawaseokanjirutokiwa3sfurui",
-            "hitogashiawaseokanjirutokiwa3syurui",
-            "hitogashiawaseokanzirutokiha3sfurui",
-            "hitogashiawaseokanzirutokiha3shurui",
-            "hitogashiawaseokanzirutokiha3syurui",
-            "hitogashiawaseokanzirutokiwa3sfurui",
-            "hitogashiawaseokanzirutokiwa3shurui",
-            "hitogashiawaseokanzirutokiwa3syurui",
-            "hitogashiawasewokanjirutokiha3sfurui",
-            "hitogashiawasewokanjirutokiha3shurui",
-            "hitogashiawasewokanjirutokiha3syurui",
-            "hitogashiawasewokanjirutokiwa3sfurui",
-            "hitogashiawasewokanjirutokiwa3shurui",
-            "hitogashiawasewokanjirutokiwa3syurui",
-            "hitogashiawasewokanzirutokiha3sfurui",
-            "hitogashiawasewokanzirutokiha3shurui",
-            "hitogashiawasewokanzirutokiha3syurui",
-            "hitogashiawasewokanzirutokiwa3sfurui",
-            "hitogashiawasewokanzirutokiwa3shurui",
-            "hitogashiawasewokanzirutokiwa3syurui",
-            "hitogasiawaseokanjirutokiha3sfurui",
-            "hitogasiawaseokanjirutokiha3shurui",
-            "hitogasiawaseokanjirutokiha3syurui",
-            "hitogasiawaseokanjirutokiwa3sfurui",
-            "hitogasiawaseokanjirutokiwa3shurui",
-            "hitogasiawaseokanjirutokiwa3syurui",
-            "hitogasiawaseokanzirutokiha3sfurui",
-            "hitogasiawaseokanzirutokiha3shurui",
-            "hitogasiawaseokanzirutokiha3syurui",
-            "hitogasiawaseokanzirutokiwa3sfurui",
-            "hitogasiawaseokanzirutokiwa3shurui",
-            "hitogasiawaseokanzirutokiwa3syurui",
-            "hitogasiawasewokanjirutokiha3sfurui",
-            "hitogasiawasewokanjirutokiha3shurui",
-            "hitogasiawasewokanjirutokiha3syurui",
-            "hitogasiawasewokanjirutokiwa3sfurui",
-            "hitogasiawasewokanjirutokiwa3shurui",
-            "hitogasiawasewokanjirutokiwa3syurui",
-            "hitogasiawasewokanzirutokiha3sfurui",
-            "hitogasiawasewokanzirutokiha3shurui",
-            "hitogasiawasewokanzirutokiha3syurui",
-            "hitogasiawasewokanzirutokiwa3sfurui",
-            "hitogasiawasewokanzirutokiwa3shurui",
-            "hitogasiawasewokanzirutokiwa3syurui"
-        ],
-        "kana": "ひとがしあわせをかんじるときは3しゅるい",
-        "original": "人が幸せを感じる時は3種類"
-    },
-    {
-        "id": 62,
-        "text": "do-pamintekiko-huku",
-        "tokens": [
-            "do-pamintekiko-huku",
-            "do-pamintekiko-fuku",
-            "doupamintekikoufuku",
-            "doupamintekikouhuku"
-        ],
-        "kana": "ドーパミンてきこうふく",
-        "original": "ドーパミン的幸福"
-    },
-    {
-        "id": 63,
-        "text": "serotonintekiko-huku",
-        "tokens": [
-            "serotonintekiko-huku",
-            "serotonintekiko-fuku",
-            "serotonintekikoufuku",
-            "serotonintekikouhuku"
-        ],
-        "kana": "セロトニンてきこうふく",
-        "original": "セロトニン的幸福"
-    },
-    {
-        "id": 64,
-        "text": "okisitoshintekiko-huku",
-        "tokens": [
-            "okisitoshintekiko-huku",
-            "okisitoshintekiko-fuku",
-            "okishitosintekiko-huku",
-            "okishitosintekiko-fuku",
-            "okishitoshintekiko-huku",
-            "okishitoshintekiko-fuku",
-            "okishitoshintekikoufuku",
-            "okishitoshintekikouhuku",
-            "okishitosintekikoufuku",
-            "okishitosintekikouhuku",
-            "okisitoshintekikoufuku",
-            "okisitoshintekikouhuku"
-        ],
-        "kana": "オキシトシンてきこうふく",
-        "original": "オキシトシン的幸福"
-    },
-    {
-        "id": 65,
-        "text": "yarukatyo-yaruka",
-        "tokens": [
-            "yarukatyo-yaruka",
-            "yarukacho-yaruka",
-            "yarukachouyaruka",
-            "yarukatyouyaruka"
-        ],
-        "kana": "やるかちょうやるか",
-        "original": "やるか超やるか"
-    },
-    {
-        "id": 66,
-        "text": "yaruzo!",
-        "tokens": [
-            "yaruzo!"
-        ],
-        "kana": "やるぞ！",
-        "original": "やるぞ！"
-    },
-    {
-        "id": 67,
-        "text": "reigaiotsukuranai",
-        "tokens": [
-            "reigaiotsukuranai",
-            "reigaiotukuranai",
-            "reigaiwotsukuranai",
-            "reigaiwotukuranai"
-        ],
-        "kana": "れいがいをつくらない",
-        "original": "例外を作らない"
-    },
-    {
-        "id": 68,
-        "text": "itsudatteaidewanakuningengamachigatteiru",
-        "tokens": [
-            "itsudatteaidewanakuningengamachigatteiru",
-            "itsudatteaidehanakuningengamachigatteiru",
-            "itsudatteaidehanakuningengamatigatteiru",
-            "itsudatteaidewanakuningengamatigatteiru",
-            "itudatteaidehanakuningengamachigatteiru",
-            "itudatteaidehanakuningengamatigatteiru",
-            "itudatteaidewanakuningengamachigatteiru",
-            "itudatteaidewanakuningengamatigatteiru"
-        ],
-        "kana": "いつだってAIではなくにんげんがまちがっている",
-        "original": "いつだってAIではなく人間が間違っている"
-    },
-    {
-        "id": 69,
-        "text": "hakaisiniwameiryo-i",
-        "tokens": [
-            "hakaisiniwameiryo-i",
-            "hakaisinihameiryo-i",
-            "hakaishinihameiryo-i",
-            "hakaishiniwameiryo-i",
-            "hakaishiniwameiryoui",
-            "hakaishinihameiryoui",
-            "hakaisinihameiryoui",
-            "hakaisiniwameiryoui"
-        ],
-        "kana": "はかいしにはMeiryoUI",
-        "original": "墓石にはMeiryoUI"
-    },
-    {
-        "id": 70,
-        "text": "hitotokakawarukotowa-idezido-kadekinai",
-        "tokens": [
-            "hitotokakawarukotowa-idezido-kadekinai",
-            "hitotokakawarukotoha-idezido-kadekinai",
-            "hitotokakawarukotoha-idejido-kadekinai",
-            "hitotokakawarukotowa-idejido-kadekinai",
-            "hitotokakawarukotowaaidejidoukadekinai",
-            "hitotokakawarukotohaaidejidoukadekinai",
-            "hitotokakawarukotohaaidezidoukadekinai",
-            "hitotokakawarukotowaaidezidoukadekinai"
-        ],
-        "kana": "ひととかかわることはAIでじどうかできない",
-        "original": "人と関わることはAIで自動化できない"
-    },
-    {
-        "id": 71,
-        "text": "daijinanowa\"sanka\"surukoto.",
-        "tokens": [
-            "daijinanowa\"sanka\"surukoto.",
-            "daijinanoha\"sanka\"surukoto.",
-            "daizinanoha\"sanka\"surukoto.",
-            "daizinanowa\"sanka\"surukoto."
-        ],
-        "kana": "だいじなのは「さんか」すること。",
-        "original": "大事なのは「参加」すること。"
-    },
-    {
-        "id": 72,
-        "text": "itsudattebo-kanshayori",
-        "tokens": [
-            "itsudattebo-kanshayori",
-            "itsudatteboukanshayori"
-        ],
-        "kana": "いつだってぼうかんしゃより、さんかしゃのほうがたのしい。",
-        "original": "いつだって傍観者より、参加者の方が楽しい。"
-    },
-    {
-        "id": 73,
-        "text": "gaiyakaramiteiroiroomotteowaridewanaku",
-        "tokens": [
-            "gaiyakaramiteiroiroomotteowaridewanaku"
-        ],
-        "kana": "がいやからみていろいろおもっておわりではなく、とうじしゃになろう",
-        "original": "外野から見て色々思って終わりではなく、当事者になろう"
-    },
-    {
-        "id": 74,
-        "text": "1nide-tabe-su",
-        "tokens": [
-            "1nide-tabe-su"
-        ],
-        "kana": "1にデータベース、2にデータベース、3にじょうほうせいりがきて、4にデータベース",
-        "original": "1にデータベース、2にデータベース、3に情報整理が来て、4にデータベース"
-    },
-    {
-        "id": 75,
-        "text": "singurutasukuwoko-sokudemawasu",
-        "tokens": [
-            "singurutasukuwoko-sokudemawasu",
-            "singurutasukuoko-sokudemawasu",
-            "shingurutasukuwoko-sokudemawasu",
-            "shingurutasukuoko-sokudemawasu",
-            "shingurutasukuokousokudemawasu",
-            "shingurutasukuwokousokudemawasu",
-            "singurutasukuokousokudemawasu",
-            "singurutasukuwokousokudemawasu"
-        ],
-        "kana": "シングルタスクをこうそくでまわす",
-        "original": "シングルタスクを高速で回す"
-    },
-    {
-        "id": 76,
-        "text": "honkidenasitogetaihitowako-do-gakawaru",
-        "tokens": [
-            "honkidenasitogetaihitowako-do-gakawaru",
-            "honkidenasitogetaihitohako-do-gakawaru",
-            "honkidenashitogetaihitohako-do-gakawaru",
-            "honkidenashitogetaihitowako-do-gakawaru",
-            "honkidenashitogetaihitowakoudougakawaru",
-            "honkidenashitogetaihitohakoudougakawaru",
-            "honkidenasitogetaihitohakoudougakawaru",
-            "honkidenasitogetaihitowakoudougakawaru"
-        ],
-        "kana": "ほんきでなしとげたいひとはこうどうがかわる",
-        "original": "本気で成し遂げたい人は行動が変わる"
-    },
-    {
-        "id": 77,
-        "text": "siko-wagenzitukasuru",
-        "tokens": [
-            "siko-wagenzitukasuru",
-            "siko-wagenzitsukasuru",
-            "siko-wagenjitukasuru",
-            "siko-wagenjitsukasuru",
-            "siko-hagenzitukasuru",
-            "siko-hagenzitsukasuru",
-            "siko-hagenjitukasuru",
-            "siko-hagenjitsukasuru",
-            "shiko-wagenzitukasuru",
-            "shiko-wagenzitsukasuru",
-            "shiko-wagenjitukasuru",
-            "shiko-hagenzitukasuru",
-            "shiko-hagenzitsukasuru",
-            "shiko-hagenjitukasuru",
-            "shiko-hagenjitsukasuru",
-            "shiko-wagenjitsukasuru",
-            "shikouwagenjitsukasuru",
-            "shikouhagenjitsukasuru",
-            "shikouhagenjitukasuru",
-            "shikouhagenzitsukasuru",
-            "shikouhagenzitukasuru",
-            "shikouwagenjitukasuru",
-            "shikouwagenzitsukasuru",
-            "shikouwagenzitukasuru",
-            "sikouhagenjitsukasuru",
-            "sikouhagenjitukasuru",
-            "sikouhagenzitsukasuru",
-            "sikouhagenzitukasuru",
-            "sikouwagenjitsukasuru",
-            "sikouwagenjitukasuru",
-            "sikouwagenzitsukasuru",
-            "sikouwagenzitukasuru"
-        ],
-        "kana": "しこうはげんじつかする",
-        "original": "思考は現実化する"
-    },
-    {
-        "id": 78,
-        "text": "notiondehuro-zyo-ho-wosutokkuzyo-ho-nikaemasyo-",
-        "tokens": [
-            "notiondehuro-zyo-ho-wosutokkuzyo-ho-nikaemasyo-",
-            "notiondehuro-zyo-ho-wosutokkuzyo-ho-nikaemasho-",
-            "notiondehuro-zyo-ho-wosutokkujo-ho-nikaemasyo-",
-            "notiondehuro-zyo-ho-wosutokkujo-ho-nikaemasho-",
-            "notiondehuro-zyo-ho-osutokkuzyo-ho-nikaemasyo-",
-            "notiondehuro-zyo-ho-osutokkuzyo-ho-nikaemasho-",
-            "notiondehuro-zyo-ho-osutokkujo-ho-nikaemasyo-",
-            "notiondehuro-zyo-ho-osutokkujo-ho-nikaemasho-",
-            "notiondehuro-jo-ho-wosutokkuzyo-ho-nikaemasyo-",
-            "notiondehuro-jo-ho-wosutokkuzyo-ho-nikaemasho-",
-            "notiondehuro-jo-ho-wosutokkujo-ho-nikaemasyo-",
-            "notiondehuro-jo-ho-wosutokkujo-ho-nikaemasho-",
-            "notiondehuro-jo-ho-osutokkuzyo-ho-nikaemasyo-",
-            "notiondehuro-jo-ho-osutokkuzyo-ho-nikaemasho-",
-            "notiondehuro-jo-ho-osutokkujo-ho-nikaemasyo-",
-            "notiondehuro-jo-ho-osutokkujo-ho-nikaemasho-",
-            "notiondefuro-zyo-ho-wosutokkuzyo-ho-nikaemasyo-",
-            "notiondefuro-zyo-ho-wosutokkuzyo-ho-nikaemasho-",
-            "notiondefuro-zyo-ho-wosutokkujo-ho-nikaemasyo-",
-            "notiondefuro-zyo-ho-wosutokkujo-ho-nikaemasho-",
-            "notiondefuro-zyo-ho-osutokkuzyo-ho-nikaemasyo-",
-            "notiondefuro-zyo-ho-osutokkuzyo-ho-nikaemasho-",
-            "notiondefuro-zyo-ho-osutokkujo-ho-nikaemasyo-",
-            "notiondefuro-zyo-ho-osutokkujo-ho-nikaemasho-",
-            "notiondefuro-jo-ho-wosutokkuzyo-ho-nikaemasyo-",
-            "notiondefuro-jo-ho-wosutokkuzyo-ho-nikaemasho-",
-            "notiondefuro-jo-ho-wosutokkujo-ho-nikaemasyo-",
-            "notiondefuro-jo-ho-wosutokkujo-ho-nikaemasho-",
-            "notiondefuro-jo-ho-osutokkuzyo-ho-nikaemasyo-",
-            "notiondefuro-jo-ho-osutokkuzyo-ho-nikaemasho-",
-            "notiondefuro-jo-ho-osutokkujo-ho-nikaemasyo-",
-            "notiondefuro-jo-ho-osutokkujo-ho-nikaemasho-",
-            "notiondefuroujouhouosutokkujouhounikaemashou",
-            "notiondefuroujouhouosutokkujouhounikaemasyou",
-            "notiondefuroujouhouosutokkuzyouhounikaemashou",
-            "notiondefuroujouhouosutokkuzyouhounikaemasyou",
-            "notiondefuroujouhouwosutokkujouhounikaemashou",
-            "notiondefuroujouhouwosutokkujouhounikaemasyou",
-            "notiondefuroujouhouwosutokkuzyouhounikaemashou",
-            "notiondefuroujouhouwosutokkuzyouhounikaemasyou",
-            "notiondefurouzyouhouosutokkujouhounikaemashou",
-            "notiondefurouzyouhouosutokkujouhounikaemasyou",
-            "notiondefurouzyouhouosutokkuzyouhounikaemashou",
-            "notiondefurouzyouhouosutokkuzyouhounikaemasyou",
-            "notiondefurouzyouhouwosutokkujouhounikaemashou",
-            "notiondefurouzyouhouwosutokkujouhounikaemasyou",
-            "notiondefurouzyouhouwosutokkuzyouhounikaemashou",
-            "notiondefurouzyouhouwosutokkuzyouhounikaemasyou",
-            "notiondehuroujouhouosutokkujouhounikaemashou",
-            "notiondehuroujouhouosutokkujouhounikaemasyou",
-            "notiondehuroujouhouosutokkuzyouhounikaemashou",
-            "notiondehuroujouhouosutokkuzyouhounikaemasyou",
-            "notiondehuroujouhouwosutokkujouhounikaemashou",
-            "notiondehuroujouhouwosutokkujouhounikaemasyou",
-            "notiondehuroujouhouwosutokkuzyouhounikaemashou",
-            "notiondehuroujouhouwosutokkuzyouhounikaemasyou",
-            "notiondehurouzyouhouosutokkujouhounikaemashou",
-            "notiondehurouzyouhouosutokkujouhounikaemasyou",
-            "notiondehurouzyouhouosutokkuzyouhounikaemashou",
-            "notiondehurouzyouhouosutokkuzyouhounikaemasyou",
-            "notiondehurouzyouhouwosutokkujouhounikaemashou",
-            "notiondehurouzyouhouwosutokkujouhounikaemasyou",
-            "notiondehurouzyouhouwosutokkuzyouhounikaemashou",
-            "notiondehurouzyouhouwosutokkuzyouhounikaemasyou"
-        ],
-        "kana": "Notionでフローじょうほうをストックじょうほうにかえましょう",
-        "original": "Notionでフロー情報をストック情報に変えましょう"
-    },
-    {
-        "id": 79,
-        "text": "atarimaenokijunoageru",
-        "tokens": [
-            "atarimaenokijunoageru",
-            "atarimaenokijunwoageru",
-            "atarimaenokizyunoageru",
-            "atarimaenokizyunwoageru"
-        ],
-        "kana": "あたりまえのきじゅんをあげる",
-        "original": "当たり前の基準を上げる"
-    },
-    {
-        "id": 80,
-        "text": "tatta1ninnoyu-syu-nahitoniyu-syu-datoomottemorao-",
-        "tokens": [
-            "tatta1ninnoyu-syu-nahitoniyu-syu-datoomottemorao-",
-            "tatta1ninnoyu-syu-nahitoniyu-shu-datoomottemorao-",
-            "tatta1ninnoyu-syu-nahitoniyu-sfu-datoomottemorao-",
-            "tatta1ninnoyu-shu-nahitoniyu-syu-datoomottemorao-",
-            "tatta1ninnoyu-shu-nahitoniyu-sfu-datoomottemorao-",
-            "tatta1ninnoyu-sfu-nahitoniyu-syu-datoomottemorao-",
-            "tatta1ninnoyu-sfu-nahitoniyu-shu-datoomottemorao-",
-            "tatta1ninnoyu-sfu-nahitoniyu-sfu-datoomottemorao-",
-            "tatta1ninnoyu-shu-nahitoniyu-shu-datoomottemorao-",
-            "tatta1ninnoyuushuunahitoniyuushuudatoomottemoraou",
-            "tatta1ninnoyuusfuunahitoniyuusfuudatoomottemoraou",
-            "tatta1ninnoyuusfuunahitoniyuushuudatoomottemoraou",
-            "tatta1ninnoyuusfuunahitoniyuusyuudatoomottemoraou",
-            "tatta1ninnoyuushuunahitoniyuusfuudatoomottemoraou",
-            "tatta1ninnoyuushuunahitoniyuusyuudatoomottemoraou",
-            "tatta1ninnoyuusyuunahitoniyuusfuudatoomottemoraou",
-            "tatta1ninnoyuusyuunahitoniyuushuudatoomottemoraou",
-            "tatta1ninnoyuusyuunahitoniyuusyuudatoomottemoraou"
-        ],
-        "kana": "たった1にんのゆうしゅうなひとにゆうしゅうだとおもってもらおう",
-        "original": "たった1人の優秀な人に優秀だと思ってもらおう"
-    },
-    {
-        "id": 81,
-        "text": "snsnopurohwi-runi180cmtokakaiteiruotokowaowatteiru.korewazijitu",
-        "tokens": [
-            "snsnopurohwi-runi180cmtokakaiteiruotokowaowatteiru.korewazijitu",
-            "snsnopurohwi-runi180cmtokakaiteiruotokowaowatteiru.korewazijitsu",
-            "snsnopurohwi-runi180cmtokakaiteiruotokowaowatteiru.korewajizitu",
-            "snsnopurohwi-runi180cmtokakaiteiruotokowaowatteiru.korewajizitsu",
-            "snsnopurohwi-runi180cmtokakaiteiruotokowaowatteiru.korewajijitu",
-            "snsnopurohwi-runi180cmtokakaiteiruotokowaowatteiru.korewajijitsu",
-            "snsnopurohwi-runi180cmtokakaiteiruotokowaowatteiru.korehazijitu",
-            "snsnopurohwi-runi180cmtokakaiteiruotokowaowatteiru.korehazijitsu",
-            "snsnopurohwi-runi180cmtokakaiteiruotokowaowatteiru.korehajizitu",
-            "snsnopurohwi-runi180cmtokakaiteiruotokowaowatteiru.korehajizitsu",
-            "snsnopurohwi-runi180cmtokakaiteiruotokowaowatteiru.korehajijitu",
-            "snsnopurohwi-runi180cmtokakaiteiruotokowaowatteiru.korehajijitsu",
-            "snsnopurohwi-runi180cmtokakaiteiruotokohaowatteiru.korewazijitu",
-            "snsnopurohwi-runi180cmtokakaiteiruotokohaowatteiru.korewazijitsu",
-            "snsnopurohwi-runi180cmtokakaiteiruotokohaowatteiru.korewajizitu",
-            "snsnopurohwi-runi180cmtokakaiteiruotokohaowatteiru.korewajizitsu",
-            "snsnopurohwi-runi180cmtokakaiteiruotokohaowatteiru.korewajijitu",
-            "snsnopurohwi-runi180cmtokakaiteiruotokohaowatteiru.korewajijitsu",
-            "snsnopurohwi-runi180cmtokakaiteiruotokohaowatteiru.korehazijitu",
-            "snsnopurohwi-runi180cmtokakaiteiruotokohaowatteiru.korehazijitsu",
-            "snsnopurohwi-runi180cmtokakaiteiruotokohaowatteiru.korehajizitu",
-            "snsnopurohwi-runi180cmtokakaiteiruotokohaowatteiru.korehajizitsu",
-            "snsnopurohwi-runi180cmtokakaiteiruotokohaowatteiru.korehajijitu",
-            "snsnopurohwi-runi180cmtokakaiteiruotokohaowatteiru.korehajijitsu",
-            "snsnopurofi-runi180cmtokakaiteiruotokowaowatteiru.korewazijitu",
-            "snsnopurofi-runi180cmtokakaiteiruotokowaowatteiru.korewazijitsu",
-            "snsnopurofi-runi180cmtokakaiteiruotokowaowatteiru.korewajizitu",
-            "snsnopurofi-runi180cmtokakaiteiruotokowaowatteiru.korewajizitsu",
-            "snsnopurofi-runi180cmtokakaiteiruotokowaowatteiru.korewajijitu",
-            "snsnopurofi-runi180cmtokakaiteiruotokowaowatteiru.korehazijitu",
-            "snsnopurofi-runi180cmtokakaiteiruotokowaowatteiru.korehazijitsu",
-            "snsnopurofi-runi180cmtokakaiteiruotokowaowatteiru.korehajizitu",
-            "snsnopurofi-runi180cmtokakaiteiruotokowaowatteiru.korehajizitsu",
-            "snsnopurofi-runi180cmtokakaiteiruotokowaowatteiru.korehajijitu",
-            "snsnopurofi-runi180cmtokakaiteiruotokowaowatteiru.korehajijitsu",
-            "snsnopurofi-runi180cmtokakaiteiruotokohaowatteiru.korewazijitu",
-            "snsnopurofi-runi180cmtokakaiteiruotokohaowatteiru.korewazijitsu",
-            "snsnopurofi-runi180cmtokakaiteiruotokohaowatteiru.korewajizitu",
-            "snsnopurofi-runi180cmtokakaiteiruotokohaowatteiru.korewajizitsu",
-            "snsnopurofi-runi180cmtokakaiteiruotokohaowatteiru.korewajijitu",
-            "snsnopurofi-runi180cmtokakaiteiruotokohaowatteiru.korewajijitsu",
-            "snsnopurofi-runi180cmtokakaiteiruotokohaowatteiru.korehazijitu",
-            "snsnopurofi-runi180cmtokakaiteiruotokohaowatteiru.korehazijitsu",
-            "snsnopurofi-runi180cmtokakaiteiruotokohaowatteiru.korehajizitu",
-            "snsnopurofi-runi180cmtokakaiteiruotokohaowatteiru.korehajizitsu",
-            "snsnopurofi-runi180cmtokakaiteiruotokohaowatteiru.korehajijitu",
-            "snsnopurofi-runi180cmtokakaiteiruotokohaowatteiru.korehajijitsu",
-            "snsnopurofi-runi180cmtokakaiteiruotokowaowatteiru.korewajijitsu",
-            "snsnopurofiiruni180cmtokakaiteiruotokowaowatteiru.korewajijitsu",
-            "snsnopurofiiruni180cmtokakaiteiruotokohaowatteiru.korehajijitsu",
-            "snsnopurofiiruni180cmtokakaiteiruotokohaowatteiru.korehajijitu",
-            "snsnopurofiiruni180cmtokakaiteiruotokohaowatteiru.korehajizitsu",
-            "snsnopurofiiruni180cmtokakaiteiruotokohaowatteiru.korehajizitu",
-            "snsnopurofiiruni180cmtokakaiteiruotokohaowatteiru.korehazijitsu",
-            "snsnopurofiiruni180cmtokakaiteiruotokohaowatteiru.korehazijitu",
-            "snsnopurofiiruni180cmtokakaiteiruotokohaowatteiru.korewajijitsu",
-            "snsnopurofiiruni180cmtokakaiteiruotokohaowatteiru.korewajijitu",
-            "snsnopurofiiruni180cmtokakaiteiruotokohaowatteiru.korewajizitsu",
-            "snsnopurofiiruni180cmtokakaiteiruotokohaowatteiru.korewajizitu",
-            "snsnopurofiiruni180cmtokakaiteiruotokohaowatteiru.korewazijitsu",
-            "snsnopurofiiruni180cmtokakaiteiruotokohaowatteiru.korewazijitu",
-            "snsnopurofiiruni180cmtokakaiteiruotokowaowatteiru.korehajijitsu",
-            "snsnopurofiiruni180cmtokakaiteiruotokowaowatteiru.korehajijitu",
-            "snsnopurofiiruni180cmtokakaiteiruotokowaowatteiru.korehajizitsu",
-            "snsnopurofiiruni180cmtokakaiteiruotokowaowatteiru.korehajizitu",
-            "snsnopurofiiruni180cmtokakaiteiruotokowaowatteiru.korehazijitsu",
-            "snsnopurofiiruni180cmtokakaiteiruotokowaowatteiru.korehazijitu",
-            "snsnopurofiiruni180cmtokakaiteiruotokowaowatteiru.korewajijitu",
-            "snsnopurofiiruni180cmtokakaiteiruotokowaowatteiru.korewajizitsu",
-            "snsnopurofiiruni180cmtokakaiteiruotokowaowatteiru.korewajizitu",
-            "snsnopurofiiruni180cmtokakaiteiruotokowaowatteiru.korewazijitsu",
-            "snsnopurofiiruni180cmtokakaiteiruotokowaowatteiru.korewazijitu",
-            "snsnopurohwiiruni180cmtokakaiteiruotokohaowatteiru.korehajijitsu",
-            "snsnopurohwiiruni180cmtokakaiteiruotokohaowatteiru.korehajijitu",
-            "snsnopurohwiiruni180cmtokakaiteiruotokohaowatteiru.korehajizitsu",
-            "snsnopurohwiiruni180cmtokakaiteiruotokohaowatteiru.korehajizitu",
-            "snsnopurohwiiruni180cmtokakaiteiruotokohaowatteiru.korehazijitsu",
-            "snsnopurohwiiruni180cmtokakaiteiruotokohaowatteiru.korehazijitu",
-            "snsnopurohwiiruni180cmtokakaiteiruotokohaowatteiru.korewajijitsu",
-            "snsnopurohwiiruni180cmtokakaiteiruotokohaowatteiru.korewajijitu",
-            "snsnopurohwiiruni180cmtokakaiteiruotokohaowatteiru.korewajizitsu",
-            "snsnopurohwiiruni180cmtokakaiteiruotokohaowatteiru.korewajizitu",
-            "snsnopurohwiiruni180cmtokakaiteiruotokohaowatteiru.korewazijitsu",
-            "snsnopurohwiiruni180cmtokakaiteiruotokohaowatteiru.korewazijitu",
-            "snsnopurohwiiruni180cmtokakaiteiruotokowaowatteiru.korehajijitsu",
-            "snsnopurohwiiruni180cmtokakaiteiruotokowaowatteiru.korehajijitu",
-            "snsnopurohwiiruni180cmtokakaiteiruotokowaowatteiru.korehajizitsu",
-            "snsnopurohwiiruni180cmtokakaiteiruotokowaowatteiru.korehajizitu",
-            "snsnopurohwiiruni180cmtokakaiteiruotokowaowatteiru.korehazijitsu",
-            "snsnopurohwiiruni180cmtokakaiteiruotokowaowatteiru.korehazijitu",
-            "snsnopurohwiiruni180cmtokakaiteiruotokowaowatteiru.korewajijitsu",
-            "snsnopurohwiiruni180cmtokakaiteiruotokowaowatteiru.korewajijitu",
-            "snsnopurohwiiruni180cmtokakaiteiruotokowaowatteiru.korewajizitsu",
-            "snsnopurohwiiruni180cmtokakaiteiruotokowaowatteiru.korewajizitu",
-            "snsnopurohwiiruni180cmtokakaiteiruotokowaowatteiru.korewazijitsu",
-            "snsnopurohwiiruni180cmtokakaiteiruotokowaowatteiru.korewazijitu"
-        ],
-        "kana": "snsのプロフィールに180cmとかかいているおとこはおわっている。これはじじつ",
-        "original": "snsのプロフィールに180cmとか書いている男は終わっている。これは事実"
-    },
-    {
-        "id": 82,
-        "text": "jibungagenekininaru.hidaneninarukoto.",
-        "tokens": [
-            "jibungagenekininaru.hidaneninarukoto.",
-            "zibungagenekininaru.hidaneninarukoto."
-        ],
-        "kana": "じぶんがげんえきになる。ひだねになること。",
-        "original": "自分が原液になる。火種になること。"
-    },
-    {
-        "id": 83,
-        "text": "tatakidaiotsukuruningengaichibanerai",
-        "tokens": [
-            "tatakidaiotsukuruningengaichibanerai",
-            "tatakidaiotsukuruningengaitibanerai",
-            "tatakidaiotukuruningengaichibanerai",
-            "tatakidaiotukuruningengaitibanerai",
-            "tatakidaiwotsukuruningengaichibanerai",
-            "tatakidaiwotsukuruningengaitibanerai",
-            "tatakidaiwotukuruningengaichibanerai",
-            "tatakidaiwotukuruningengaitibanerai"
-        ],
-        "kana": "たたきだいをつくるにんげんがいちばんえらい",
-        "original": "叩き台を創る人間が一番偉い"
-    },
-    {
-        "id": 84,
-        "text": "nankasetunaina?omaewamo-seityo-sinainoni",
-        "tokens": [
-            "nankasetunaina?omaewamo-seityo-sinainoni",
-            "nankasetunaina?omaewamo-seityo-shinainoni",
-            "nankasetunaina?omaewamo-seicho-sinainoni",
-            "nankasetunaina?omaewamo-seicho-shinainoni",
-            "nankasetunaina?omaehamo-seityo-sinainoni",
-            "nankasetunaina?omaehamo-seityo-shinainoni",
-            "nankasetunaina?omaehamo-seicho-sinainoni",
-            "nankasetunaina?omaehamo-seicho-shinainoni",
-            "nankasetsunaina?omaewamo-seityo-sinainoni",
-            "nankasetsunaina?omaewamo-seityo-shinainoni",
-            "nankasetsunaina?omaewamo-seicho-sinainoni",
-            "nankasetsunaina?omaehamo-seityo-sinainoni",
-            "nankasetsunaina?omaehamo-seityo-shinainoni",
-            "nankasetsunaina?omaehamo-seicho-sinainoni",
-            "nankasetsunaina?omaehamo-seicho-shinainoni",
-            "nankasetsunaina?omaewamo-seicho-shinainoni",
-            "nankasetsunaina?omaewamouseichoushinainoni",
-            "nankasetsunaina?omaehamouseichoushinainoni",
-            "nankasetsunaina?omaehamouseichousinainoni",
-            "nankasetsunaina?omaehamouseityoushinainoni",
-            "nankasetsunaina?omaehamouseityousinainoni",
-            "nankasetsunaina?omaewamouseichousinainoni",
-            "nankasetsunaina?omaewamouseityoushinainoni",
-            "nankasetsunaina?omaewamouseityousinainoni",
-            "nankasetunaina?omaehamouseichoushinainoni",
-            "nankasetunaina?omaehamouseichousinainoni",
-            "nankasetunaina?omaehamouseityoushinainoni",
-            "nankasetunaina?omaehamouseityousinainoni",
-            "nankasetunaina?omaewamouseichoushinainoni",
-            "nankasetunaina?omaewamouseichousinainoni",
-            "nankasetunaina?omaewamouseityoushinainoni",
-            "nankasetunaina?omaewamouseityousinainoni"
-        ],
-        "kana": "なんかせつないな?おまえはもうせいちょうしないのに",
-        "original": "なんか切ないな?お前はもう成長しないのに"
-    },
-    {
-        "id": 85,
-        "text": "nekowaminimarisutojanai",
-        "tokens": [
-            "nekowaminimarisutojanai"
-        ],
-        "kana": "ねこはミニマリストじゃない、いぬはかえるところがあるからただのちくしょう、とりはミニマリスト",
-        "original": "猫はミニマリストじゃない、犬は帰るところがあるからただの畜生、鳥はミニマリスト"
-    },
-    {
-        "id": 86,
-        "text": "autoputtonobaosakinitsukuru",
-        "tokens": [
-            "autoputtonobaosakinitsukuru",
-            "autoputtonobaosakinitukuru",
-            "autoputtonobawosakinitsukuru",
-            "autoputtonobawosakinitukuru"
-        ],
-        "kana": "アウトプットのばをさきにつくる",
-        "original": "アウトプットの場を先に作る"
-    },
-    {
-        "id": 87,
-        "text": "kabukityo-nowakamonohippataitenotion",
-        "tokens": [
-            "kabukityo-nowakamonohippataitenotion",
-            "kabukicho-nowakamonohippataitenotion",
-            "kabukichounowakamonohippataitenotion",
-            "kabukityounowakamonohippataitenotion"
-        ],
-        "kana": "かぶきちょうのわかものひっぱたいてnotion",
-        "original": "歌舞伎町の若者ひっぱたいてnotion"
-    },
-    {
-        "id": 88,
-        "text": "syoーmonai-kikatasiteirukarapaypaynisyoーmonainamaetukerundayo",
-        "tokens": [
-            "syoーmonai-kikatasiteirukarapaypaynisyoーmonainamaetukerundayo",
-            "syoーmonai-kikatasiteirukarapaypaynisyoーmonainamaetsukerundayo",
-            "syoーmonai-kikatasiteirukarapaypaynishoーmonainamaetukerundayo",
-            "syoーmonai-kikatasiteirukarapaypaynishoーmonainamaetsukerundayo",
-            "syoーmonai-kikatashiteirukarapaypaynisyoーmonainamaetukerundayo",
-            "syoーmonai-kikatashiteirukarapaypaynisyoーmonainamaetsukerundayo",
-            "syoーmonai-kikatashiteirukarapaypaynishoーmonainamaetukerundayo",
-            "syoーmonai-kikatashiteirukarapaypaynishoーmonainamaetsukerundayo",
-            "shoーmonai-kikatasiteirukarapaypaynisyoーmonainamaetukerundayo",
-            "shoーmonai-kikatasiteirukarapaypaynisyoーmonainamaetsukerundayo",
-            "shoーmonai-kikatasiteirukarapaypaynishoーmonainamaetukerundayo",
-            "shoーmonai-kikatasiteirukarapaypaynishoーmonainamaetsukerundayo",
-            "shoーmonai-kikatashiteirukarapaypaynisyoーmonainamaetukerundayo",
-            "shoーmonai-kikatashiteirukarapaypaynisyoーmonainamaetsukerundayo",
-            "shoーmonai-kikatashiteirukarapaypaynishoーmonainamaetukerundayo",
-            "shoーmonai-kikatashiteirukarapaypaynishoーmonainamaetsukerundayo",
-            "shoーmonaiikikatashiteirukarapaypaynishoーmonainamaetsukerundayo",
-            "shoーmonaiikikatashiteirukarapaypaynishoーmonainamaetukerundayo",
-            "shoーmonaiikikatashiteirukarapaypaynisyoーmonainamaetsukerundayo",
-            "shoーmonaiikikatashiteirukarapaypaynisyoーmonainamaetukerundayo",
-            "shoーmonaiikikatasiteirukarapaypaynishoーmonainamaetsukerundayo",
-            "shoーmonaiikikatasiteirukarapaypaynishoーmonainamaetukerundayo",
-            "shoーmonaiikikatasiteirukarapaypaynisyoーmonainamaetsukerundayo",
-            "shoーmonaiikikatasiteirukarapaypaynisyoーmonainamaetukerundayo",
-            "syoーmonaiikikatashiteirukarapaypaynishoーmonainamaetsukerundayo",
-            "syoーmonaiikikatashiteirukarapaypaynishoーmonainamaetukerundayo",
-            "syoーmonaiikikatashiteirukarapaypaynisyoーmonainamaetsukerundayo",
-            "syoーmonaiikikatashiteirukarapaypaynisyoーmonainamaetukerundayo",
-            "syoーmonaiikikatasiteirukarapaypaynishoーmonainamaetsukerundayo",
-            "syoーmonaiikikatasiteirukarapaypaynishoーmonainamaetukerundayo",
-            "syoーmonaiikikatasiteirukarapaypaynisyoーmonainamaetsukerundayo",
-            "syoーmonaiikikatasiteirukarapaypaynisyoーmonainamaetukerundayo"
-        ],
-        "kana": "しょーもないいきかたしているからPayPayにしょーもないなまえつけるんだよ",
-        "original": "しょーもない生き方しているからPayPayにしょーもない名前つけるんだよ"
-    },
-    {
-        "id": 89,
-        "text": "kaigiwahassantosyu-soku",
-        "tokens": [
-            "kaigiwahassantosyu-soku",
-            "kaigiwahassantosfu-soku",
-            "kaigihahassantosyu-soku",
-            "kaigihahassantoshu-soku",
-            "kaigihahassantosfu-soku",
-            "kaigiwahassantoshu-soku",
-            "kaigiwahassantoshuusoku",
-            "kaigihahassantosfuusoku",
-            "kaigihahassantoshuusoku",
-            "kaigihahassantosyuusoku",
-            "kaigiwahassantosfuusoku",
-            "kaigiwahassantosyuusoku"
-        ],
-        "kana": "かいぎははっさんとしゅうそく",
-        "original": "会議は発散と収束"
-    },
-    {
-        "id": 90,
-        "text": "sakkakudemoi-.daizinanowahonninnokimoti.",
-        "tokens": [
-            "sakkakudemoi-.daizinanowahonninnokimoti.",
-            "sakkakudemoi-.daizinanowahonninnokimochi.",
-            "sakkakudemoi-.daizinanohahonninnokimoti.",
-            "sakkakudemoi-.daizinanohahonninnokimochi.",
-            "sakkakudemoi-.daijinanowahonninnokimoti.",
-            "sakkakudemoi-.daijinanohahonninnokimoti.",
-            "sakkakudemoi-.daijinanohahonninnokimochi.",
-            "sakkakudemoi-.daijinanowahonninnokimochi.",
-            "sakkakudemoii.daijinanowahonninnokimochi.",
-            "sakkakudemoii.daijinanohahonninnokimochi.",
-            "sakkakudemoii.daijinanohahonninnokimoti.",
-            "sakkakudemoii.daijinanowahonninnokimoti.",
-            "sakkakudemoii.daizinanohahonninnokimochi.",
-            "sakkakudemoii.daizinanohahonninnokimoti.",
-            "sakkakudemoii.daizinanowahonninnokimochi.",
-            "sakkakudemoii.daizinanowahonninnokimoti."
-        ],
-        "kana": "さっかくでもいい。だいじなのはほんにんのきもち。",
-        "original": "錯覚でもいい。大事なのは本人の気持ち。"
-    },
-    {
-        "id": 91,
-        "text": "dattepozitibunakimotininattara-towazettaimatatyarenzidekirumono.",
-        "tokens": [
-            "dattepozitibunakimotininattara-towazettaimatatyarenzidekirumono.",
-            "dattepozitibunakimotininattara-towazettaimatatyarenjidekirumono.",
-            "dattepozitibunakimotininattara-towazettaimatacharenzidekirumono.",
-            "dattepozitibunakimotininattara-towazettaimatacharenjidekirumono.",
-            "dattepozitibunakimotininattara-tohazettaimatatyarenzidekirumono.",
-            "dattepozitibunakimotininattara-tohazettaimatatyarenjidekirumono.",
-            "dattepozitibunakimotininattara-tohazettaimatacharenzidekirumono.",
-            "dattepozitibunakimotininattara-tohazettaimatacharenjidekirumono.",
-            "dattepozitibunakimochininattara-towazettaimatatyarenzidekirumono.",
-            "dattepozitibunakimochininattara-towazettaimatatyarenjidekirumono.",
-            "dattepozitibunakimochininattara-towazettaimatacharenzidekirumono.",
-            "dattepozitibunakimochininattara-towazettaimatacharenjidekirumono.",
-            "dattepozitibunakimochininattara-tohazettaimatatyarenzidekirumono.",
-            "dattepozitibunakimochininattara-tohazettaimatatyarenjidekirumono.",
-            "dattepozitibunakimochininattara-tohazettaimatacharenzidekirumono.",
-            "dattepozitibunakimochininattara-tohazettaimatacharenjidekirumono.",
-            "dattepozichibunakimotininattara-towazettaimatatyarenzidekirumono.",
-            "dattepozichibunakimotininattara-towazettaimatatyarenjidekirumono.",
-            "dattepozichibunakimotininattara-towazettaimatacharenzidekirumono.",
-            "dattepozichibunakimotininattara-towazettaimatacharenjidekirumono.",
-            "dattepozichibunakimotininattara-tohazettaimatatyarenzidekirumono.",
-            "dattepozichibunakimotininattara-tohazettaimatatyarenjidekirumono.",
-            "dattepozichibunakimotininattara-tohazettaimatacharenzidekirumono.",
-            "dattepozichibunakimotininattara-tohazettaimatacharenjidekirumono.",
-            "dattepozichibunakimochininattara-towazettaimatatyarenzidekirumono.",
-            "dattepozichibunakimochininattara-towazettaimatatyarenjidekirumono.",
-            "dattepozichibunakimochininattara-towazettaimatacharenzidekirumono.",
-            "dattepozichibunakimochininattara-towazettaimatacharenjidekirumono.",
-            "dattepozichibunakimochininattara-tohazettaimatatyarenzidekirumono.",
-            "dattepozichibunakimochininattara-tohazettaimatatyarenjidekirumono.",
-            "dattepozichibunakimochininattara-tohazettaimatacharenzidekirumono.",
-            "dattepozichibunakimochininattara-tohazettaimatacharenjidekirumono.",
-            "dattepojitibunakimotininattara-towazettaimatatyarenzidekirumono.",
-            "dattepojitibunakimotininattara-towazettaimatatyarenjidekirumono.",
-            "dattepojitibunakimotininattara-towazettaimatacharenzidekirumono.",
-            "dattepojitibunakimotininattara-towazettaimatacharenjidekirumono.",
-            "dattepojitibunakimotininattara-tohazettaimatatyarenzidekirumono.",
-            "dattepojitibunakimotininattara-tohazettaimatatyarenjidekirumono.",
-            "dattepojitibunakimotininattara-tohazettaimatacharenzidekirumono.",
-            "dattepojitibunakimotininattara-tohazettaimatacharenjidekirumono.",
-            "dattepojitibunakimochininattara-towazettaimatatyarenzidekirumono.",
-            "dattepojitibunakimochininattara-towazettaimatatyarenjidekirumono.",
-            "dattepojitibunakimochininattara-towazettaimatacharenzidekirumono.",
-            "dattepojitibunakimochininattara-tohazettaimatatyarenzidekirumono.",
-            "dattepojitibunakimochininattara-tohazettaimatatyarenjidekirumono.",
-            "dattepojitibunakimochininattara-tohazettaimatacharenzidekirumono.",
-            "dattepojitibunakimochininattara-tohazettaimatacharenjidekirumono.",
-            "dattepojichibunakimotininattara-towazettaimatatyarenzidekirumono.",
-            "dattepojichibunakimotininattara-towazettaimatatyarenjidekirumono.",
-            "dattepojichibunakimotininattara-towazettaimatacharenzidekirumono.",
-            "dattepojichibunakimotininattara-towazettaimatacharenjidekirumono.",
-            "dattepojichibunakimotininattara-tohazettaimatatyarenzidekirumono.",
-            "dattepojichibunakimotininattara-tohazettaimatatyarenjidekirumono.",
-            "dattepojichibunakimotininattara-tohazettaimatacharenzidekirumono.",
-            "dattepojichibunakimotininattara-tohazettaimatacharenjidekirumono.",
-            "dattepojichibunakimochininattara-towazettaimatatyarenzidekirumono.",
-            "dattepojichibunakimochininattara-towazettaimatatyarenjidekirumono.",
-            "dattepojichibunakimochininattara-towazettaimatacharenzidekirumono.",
-            "dattepojichibunakimochininattara-towazettaimatacharenjidekirumono.",
-            "dattepojichibunakimochininattara-tohazettaimatatyarenzidekirumono.",
-            "dattepojichibunakimochininattara-tohazettaimatatyarenjidekirumono.",
-            "dattepojichibunakimochininattara-tohazettaimatacharenzidekirumono.",
-            "dattepojichibunakimochininattara-tohazettaimatacharenjidekirumono.",
-            "dattepojitibunakimochininattara-towazettaimatacharenjidekirumono.",
-            "dattepojitibunakimochininattaraatowazettaimatacharenjidekirumono.",
-            "dattepojichibunakimochininattaraatohazettaimatacharenjidekirumono.",
-            "dattepojichibunakimochininattaraatohazettaimatacharenzidekirumono.",
-            "dattepojichibunakimochininattaraatohazettaimatatyarenjidekirumono.",
-            "dattepojichibunakimochininattaraatohazettaimatatyarenzidekirumono.",
-            "dattepojichibunakimochininattaraatowazettaimatacharenjidekirumono.",
-            "dattepojichibunakimochininattaraatowazettaimatacharenzidekirumono.",
-            "dattepojichibunakimochininattaraatowazettaimatatyarenjidekirumono.",
-            "dattepojichibunakimochininattaraatowazettaimatatyarenzidekirumono.",
-            "dattepojichibunakimotininattaraatohazettaimatacharenjidekirumono.",
-            "dattepojichibunakimotininattaraatohazettaimatacharenzidekirumono.",
-            "dattepojichibunakimotininattaraatohazettaimatatyarenjidekirumono.",
-            "dattepojichibunakimotininattaraatohazettaimatatyarenzidekirumono.",
-            "dattepojichibunakimotininattaraatowazettaimatacharenjidekirumono.",
-            "dattepojichibunakimotininattaraatowazettaimatacharenzidekirumono.",
-            "dattepojichibunakimotininattaraatowazettaimatatyarenjidekirumono.",
-            "dattepojichibunakimotininattaraatowazettaimatatyarenzidekirumono.",
-            "dattepojitibunakimochininattaraatohazettaimatacharenjidekirumono.",
-            "dattepojitibunakimochininattaraatohazettaimatacharenzidekirumono.",
-            "dattepojitibunakimochininattaraatohazettaimatatyarenjidekirumono.",
-            "dattepojitibunakimochininattaraatohazettaimatatyarenzidekirumono.",
-            "dattepojitibunakimochininattaraatowazettaimatacharenzidekirumono.",
-            "dattepojitibunakimochininattaraatowazettaimatatyarenjidekirumono.",
-            "dattepojitibunakimochininattaraatowazettaimatatyarenzidekirumono.",
-            "dattepojitibunakimotininattaraatohazettaimatacharenjidekirumono.",
-            "dattepojitibunakimotininattaraatohazettaimatacharenzidekirumono.",
-            "dattepojitibunakimotininattaraatohazettaimatatyarenjidekirumono.",
-            "dattepojitibunakimotininattaraatohazettaimatatyarenzidekirumono.",
-            "dattepojitibunakimotininattaraatowazettaimatacharenjidekirumono.",
-            "dattepojitibunakimotininattaraatowazettaimatacharenzidekirumono.",
-            "dattepojitibunakimotininattaraatowazettaimatatyarenjidekirumono.",
-            "dattepojitibunakimotininattaraatowazettaimatatyarenzidekirumono.",
-            "dattepozichibunakimochininattaraatohazettaimatacharenjidekirumono.",
-            "dattepozichibunakimochininattaraatohazettaimatacharenzidekirumono.",
-            "dattepozichibunakimochininattaraatohazettaimatatyarenjidekirumono.",
-            "dattepozichibunakimochininattaraatohazettaimatatyarenzidekirumono.",
-            "dattepozichibunakimochininattaraatowazettaimatacharenjidekirumono.",
-            "dattepozichibunakimochininattaraatowazettaimatacharenzidekirumono.",
-            "dattepozichibunakimochininattaraatowazettaimatatyarenjidekirumono.",
-            "dattepozichibunakimochininattaraatowazettaimatatyarenzidekirumono.",
-            "dattepozichibunakimotininattaraatohazettaimatacharenjidekirumono.",
-            "dattepozichibunakimotininattaraatohazettaimatacharenzidekirumono.",
-            "dattepozichibunakimotininattaraatohazettaimatatyarenjidekirumono.",
-            "dattepozichibunakimotininattaraatohazettaimatatyarenzidekirumono.",
-            "dattepozichibunakimotininattaraatowazettaimatacharenjidekirumono.",
-            "dattepozichibunakimotininattaraatowazettaimatacharenzidekirumono.",
-            "dattepozichibunakimotininattaraatowazettaimatatyarenjidekirumono.",
-            "dattepozichibunakimotininattaraatowazettaimatatyarenzidekirumono.",
-            "dattepozitibunakimochininattaraatohazettaimatacharenjidekirumono.",
-            "dattepozitibunakimochininattaraatohazettaimatacharenzidekirumono.",
-            "dattepozitibunakimochininattaraatohazettaimatatyarenjidekirumono.",
-            "dattepozitibunakimochininattaraatohazettaimatatyarenzidekirumono.",
-            "dattepozitibunakimochininattaraatowazettaimatacharenjidekirumono.",
-            "dattepozitibunakimochininattaraatowazettaimatacharenzidekirumono.",
-            "dattepozitibunakimochininattaraatowazettaimatatyarenjidekirumono.",
-            "dattepozitibunakimochininattaraatowazettaimatatyarenzidekirumono.",
-            "dattepozitibunakimotininattaraatohazettaimatacharenjidekirumono.",
-            "dattepozitibunakimotininattaraatohazettaimatacharenzidekirumono.",
-            "dattepozitibunakimotininattaraatohazettaimatatyarenjidekirumono.",
-            "dattepozitibunakimotininattaraatohazettaimatatyarenzidekirumono.",
-            "dattepozitibunakimotininattaraatowazettaimatacharenjidekirumono.",
-            "dattepozitibunakimotininattaraatowazettaimatacharenzidekirumono.",
-            "dattepozitibunakimotininattaraatowazettaimatatyarenjidekirumono.",
-            "dattepozitibunakimotininattaraatowazettaimatatyarenzidekirumono."
-        ],
-        "kana": "だってポジティブなきもちになったらあとはぜったいまたチャレンジできるもの。",
-        "original": "だってポジティブな気持ちになったらあとは絶対またチャレンジできるもの。"
-    },
-    {
-        "id": 92,
-        "text": "itibankanasi-noga-kirametesimaukoto.zibunniwadekinaitteomottesimaukoto.",
-        "tokens": [
-            "itibankanasi-noga-kirametesimaukoto.zibunniwadekinaitteomottesimaukoto.",
-            "itibankanasi-noga-kirametesimaukoto.zibunniwadekinaitteomotteshimaukoto.",
-            "itibankanasi-noga-kirametesimaukoto.zibunnihadekinaitteomottesimaukoto.",
-            "itibankanasi-noga-kirametesimaukoto.zibunnihadekinaitteomotteshimaukoto.",
-            "itibankanasi-noga-kirametesimaukoto.jibunniwadekinaitteomottesimaukoto.",
-            "itibankanasi-noga-kirametesimaukoto.jibunniwadekinaitteomotteshimaukoto.",
-            "itibankanasi-noga-kirametesimaukoto.jibunnihadekinaitteomottesimaukoto.",
-            "itibankanasi-noga-kirametesimaukoto.jibunnihadekinaitteomotteshimaukoto.",
-            "itibankanasi-noga-kirameteshimaukoto.zibunniwadekinaitteomottesimaukoto.",
-            "itibankanasi-noga-kirameteshimaukoto.zibunniwadekinaitteomotteshimaukoto.",
-            "itibankanasi-noga-kirameteshimaukoto.zibunnihadekinaitteomottesimaukoto.",
-            "itibankanasi-noga-kirameteshimaukoto.zibunnihadekinaitteomotteshimaukoto.",
-            "itibankanasi-noga-kirameteshimaukoto.jibunniwadekinaitteomottesimaukoto.",
-            "itibankanasi-noga-kirameteshimaukoto.jibunniwadekinaitteomotteshimaukoto.",
-            "itibankanasi-noga-kirameteshimaukoto.jibunnihadekinaitteomottesimaukoto.",
-            "itibankanasi-noga-kirameteshimaukoto.jibunnihadekinaitteomotteshimaukoto.",
-            "itibankanashi-noga-kirametesimaukoto.zibunniwadekinaitteomottesimaukoto.",
-            "itibankanashi-noga-kirametesimaukoto.zibunniwadekinaitteomotteshimaukoto.",
-            "itibankanashi-noga-kirametesimaukoto.zibunnihadekinaitteomottesimaukoto.",
-            "itibankanashi-noga-kirametesimaukoto.zibunnihadekinaitteomotteshimaukoto.",
-            "itibankanashi-noga-kirametesimaukoto.jibunniwadekinaitteomottesimaukoto.",
-            "itibankanashi-noga-kirametesimaukoto.jibunniwadekinaitteomotteshimaukoto.",
-            "itibankanashi-noga-kirametesimaukoto.jibunnihadekinaitteomottesimaukoto.",
-            "itibankanashi-noga-kirametesimaukoto.jibunnihadekinaitteomotteshimaukoto.",
-            "itibankanashi-noga-kirameteshimaukoto.zibunniwadekinaitteomottesimaukoto.",
-            "itibankanashi-noga-kirameteshimaukoto.zibunniwadekinaitteomotteshimaukoto.",
-            "itibankanashi-noga-kirameteshimaukoto.zibunnihadekinaitteomottesimaukoto.",
-            "itibankanashi-noga-kirameteshimaukoto.zibunnihadekinaitteomotteshimaukoto.",
-            "itibankanashi-noga-kirameteshimaukoto.jibunniwadekinaitteomottesimaukoto.",
-            "itibankanashi-noga-kirameteshimaukoto.jibunniwadekinaitteomotteshimaukoto.",
-            "itibankanashi-noga-kirameteshimaukoto.jibunnihadekinaitteomottesimaukoto.",
-            "itibankanashi-noga-kirameteshimaukoto.jibunnihadekinaitteomotteshimaukoto.",
-            "ichibankanasi-noga-kirametesimaukoto.zibunniwadekinaitteomottesimaukoto.",
-            "ichibankanasi-noga-kirametesimaukoto.zibunniwadekinaitteomotteshimaukoto.",
-            "ichibankanasi-noga-kirametesimaukoto.zibunnihadekinaitteomottesimaukoto.",
-            "ichibankanasi-noga-kirametesimaukoto.zibunnihadekinaitteomotteshimaukoto.",
-            "ichibankanasi-noga-kirametesimaukoto.jibunniwadekinaitteomottesimaukoto.",
-            "ichibankanasi-noga-kirametesimaukoto.jibunniwadekinaitteomotteshimaukoto.",
-            "ichibankanasi-noga-kirametesimaukoto.jibunnihadekinaitteomottesimaukoto.",
-            "ichibankanasi-noga-kirametesimaukoto.jibunnihadekinaitteomotteshimaukoto.",
-            "ichibankanasi-noga-kirameteshimaukoto.zibunniwadekinaitteomottesimaukoto.",
-            "ichibankanasi-noga-kirameteshimaukoto.zibunniwadekinaitteomotteshimaukoto.",
-            "ichibankanasi-noga-kirameteshimaukoto.zibunnihadekinaitteomottesimaukoto.",
-            "ichibankanasi-noga-kirameteshimaukoto.zibunnihadekinaitteomotteshimaukoto.",
-            "ichibankanasi-noga-kirameteshimaukoto.jibunniwadekinaitteomottesimaukoto.",
-            "ichibankanasi-noga-kirameteshimaukoto.jibunniwadekinaitteomotteshimaukoto.",
-            "ichibankanasi-noga-kirameteshimaukoto.jibunnihadekinaitteomottesimaukoto.",
-            "ichibankanasi-noga-kirameteshimaukoto.jibunnihadekinaitteomotteshimaukoto.",
-            "ichibankanashi-noga-kirametesimaukoto.zibunniwadekinaitteomottesimaukoto.",
-            "ichibankanashi-noga-kirametesimaukoto.zibunniwadekinaitteomotteshimaukoto.",
-            "ichibankanashi-noga-kirametesimaukoto.zibunnihadekinaitteomottesimaukoto.",
-            "ichibankanashi-noga-kirametesimaukoto.zibunnihadekinaitteomotteshimaukoto.",
-            "ichibankanashi-noga-kirametesimaukoto.jibunniwadekinaitteomottesimaukoto.",
-            "ichibankanashi-noga-kirametesimaukoto.jibunniwadekinaitteomotteshimaukoto.",
-            "ichibankanashi-noga-kirametesimaukoto.jibunnihadekinaitteomottesimaukoto.",
-            "ichibankanashi-noga-kirametesimaukoto.jibunnihadekinaitteomotteshimaukoto.",
-            "ichibankanashi-noga-kirameteshimaukoto.zibunniwadekinaitteomottesimaukoto.",
-            "ichibankanashi-noga-kirameteshimaukoto.zibunniwadekinaitteomotteshimaukoto.",
-            "ichibankanashi-noga-kirameteshimaukoto.zibunnihadekinaitteomottesimaukoto.",
-            "ichibankanashi-noga-kirameteshimaukoto.zibunnihadekinaitteomotteshimaukoto.",
-            "ichibankanashi-noga-kirameteshimaukoto.jibunniwadekinaitteomottesimaukoto.",
-            "ichibankanashi-noga-kirameteshimaukoto.jibunnihadekinaitteomottesimaukoto.",
-            "ichibankanashi-noga-kirameteshimaukoto.jibunnihadekinaitteomotteshimaukoto.",
-            "ichibankanashi-noga-kirameteshimaukoto.jibunniwadekinaitteomotteshimaukoto.",
-            "ichibankanashiinogaakirameteshimaukoto.jibunniwadekinaitteomotteshimaukoto.",
-            "ichibankanashiinogaakirameteshimaukoto.jibunnihadekinaitteomotteshimaukoto.",
-            "ichibankanashiinogaakirameteshimaukoto.jibunnihadekinaitteomottesimaukoto.",
-            "ichibankanashiinogaakirameteshimaukoto.jibunniwadekinaitteomottesimaukoto.",
-            "ichibankanashiinogaakirameteshimaukoto.zibunnihadekinaitteomotteshimaukoto.",
-            "ichibankanashiinogaakirameteshimaukoto.zibunnihadekinaitteomottesimaukoto.",
-            "ichibankanashiinogaakirameteshimaukoto.zibunniwadekinaitteomotteshimaukoto.",
-            "ichibankanashiinogaakirameteshimaukoto.zibunniwadekinaitteomottesimaukoto.",
-            "ichibankanashiinogaakirametesimaukoto.jibunnihadekinaitteomotteshimaukoto.",
-            "ichibankanashiinogaakirametesimaukoto.jibunnihadekinaitteomottesimaukoto.",
-            "ichibankanashiinogaakirametesimaukoto.jibunniwadekinaitteomotteshimaukoto.",
-            "ichibankanashiinogaakirametesimaukoto.jibunniwadekinaitteomottesimaukoto.",
-            "ichibankanashiinogaakirametesimaukoto.zibunnihadekinaitteomotteshimaukoto.",
-            "ichibankanashiinogaakirametesimaukoto.zibunnihadekinaitteomottesimaukoto.",
-            "ichibankanashiinogaakirametesimaukoto.zibunniwadekinaitteomotteshimaukoto.",
-            "ichibankanashiinogaakirametesimaukoto.zibunniwadekinaitteomottesimaukoto.",
-            "ichibankanasiinogaakirameteshimaukoto.jibunnihadekinaitteomotteshimaukoto.",
-            "ichibankanasiinogaakirameteshimaukoto.jibunnihadekinaitteomottesimaukoto.",
-            "ichibankanasiinogaakirameteshimaukoto.jibunniwadekinaitteomotteshimaukoto.",
-            "ichibankanasiinogaakirameteshimaukoto.jibunniwadekinaitteomottesimaukoto.",
-            "ichibankanasiinogaakirameteshimaukoto.zibunnihadekinaitteomotteshimaukoto.",
-            "ichibankanasiinogaakirameteshimaukoto.zibunnihadekinaitteomottesimaukoto.",
-            "ichibankanasiinogaakirameteshimaukoto.zibunniwadekinaitteomotteshimaukoto.",
-            "ichibankanasiinogaakirameteshimaukoto.zibunniwadekinaitteomottesimaukoto.",
-            "ichibankanasiinogaakirametesimaukoto.jibunnihadekinaitteomotteshimaukoto.",
-            "ichibankanasiinogaakirametesimaukoto.jibunnihadekinaitteomottesimaukoto.",
-            "ichibankanasiinogaakirametesimaukoto.jibunniwadekinaitteomotteshimaukoto.",
-            "ichibankanasiinogaakirametesimaukoto.jibunniwadekinaitteomottesimaukoto.",
-            "ichibankanasiinogaakirametesimaukoto.zibunnihadekinaitteomotteshimaukoto.",
-            "ichibankanasiinogaakirametesimaukoto.zibunnihadekinaitteomottesimaukoto.",
-            "ichibankanasiinogaakirametesimaukoto.zibunniwadekinaitteomotteshimaukoto.",
-            "ichibankanasiinogaakirametesimaukoto.zibunniwadekinaitteomottesimaukoto.",
-            "itibankanashiinogaakirameteshimaukoto.jibunnihadekinaitteomotteshimaukoto.",
-            "itibankanashiinogaakirameteshimaukoto.jibunnihadekinaitteomottesimaukoto.",
-            "itibankanashiinogaakirameteshimaukoto.jibunniwadekinaitteomotteshimaukoto.",
-            "itibankanashiinogaakirameteshimaukoto.jibunniwadekinaitteomottesimaukoto.",
-            "itibankanashiinogaakirameteshimaukoto.zibunnihadekinaitteomotteshimaukoto.",
-            "itibankanashiinogaakirameteshimaukoto.zibunnihadekinaitteomottesimaukoto.",
-            "itibankanashiinogaakirameteshimaukoto.zibunniwadekinaitteomotteshimaukoto.",
-            "itibankanashiinogaakirameteshimaukoto.zibunniwadekinaitteomottesimaukoto.",
-            "itibankanashiinogaakirametesimaukoto.jibunnihadekinaitteomotteshimaukoto.",
-            "itibankanashiinogaakirametesimaukoto.jibunnihadekinaitteomottesimaukoto.",
-            "itibankanashiinogaakirametesimaukoto.jibunniwadekinaitteomotteshimaukoto.",
-            "itibankanashiinogaakirametesimaukoto.jibunniwadekinaitteomottesimaukoto.",
-            "itibankanashiinogaakirametesimaukoto.zibunnihadekinaitteomotteshimaukoto.",
-            "itibankanashiinogaakirametesimaukoto.zibunnihadekinaitteomottesimaukoto.",
-            "itibankanashiinogaakirametesimaukoto.zibunniwadekinaitteomotteshimaukoto.",
-            "itibankanashiinogaakirametesimaukoto.zibunniwadekinaitteomottesimaukoto.",
-            "itibankanasiinogaakirameteshimaukoto.jibunnihadekinaitteomotteshimaukoto.",
-            "itibankanasiinogaakirameteshimaukoto.jibunnihadekinaitteomottesimaukoto.",
-            "itibankanasiinogaakirameteshimaukoto.jibunniwadekinaitteomotteshimaukoto.",
-            "itibankanasiinogaakirameteshimaukoto.jibunniwadekinaitteomottesimaukoto.",
-            "itibankanasiinogaakirameteshimaukoto.zibunnihadekinaitteomotteshimaukoto.",
-            "itibankanasiinogaakirameteshimaukoto.zibunnihadekinaitteomottesimaukoto.",
-            "itibankanasiinogaakirameteshimaukoto.zibunniwadekinaitteomotteshimaukoto.",
-            "itibankanasiinogaakirameteshimaukoto.zibunniwadekinaitteomottesimaukoto.",
-            "itibankanasiinogaakirametesimaukoto.jibunnihadekinaitteomotteshimaukoto.",
-            "itibankanasiinogaakirametesimaukoto.jibunnihadekinaitteomottesimaukoto.",
-            "itibankanasiinogaakirametesimaukoto.jibunniwadekinaitteomotteshimaukoto.",
-            "itibankanasiinogaakirametesimaukoto.jibunniwadekinaitteomottesimaukoto.",
-            "itibankanasiinogaakirametesimaukoto.zibunnihadekinaitteomotteshimaukoto.",
-            "itibankanasiinogaakirametesimaukoto.zibunnihadekinaitteomottesimaukoto.",
-            "itibankanasiinogaakirametesimaukoto.zibunniwadekinaitteomotteshimaukoto.",
-            "itibankanasiinogaakirametesimaukoto.zibunniwadekinaitteomottesimaukoto."
-        ],
-        "kana": "いちばんかなしいのがあきらめてしまうこと。じぶんにはできないっておもってしまうこと。",
-        "original": "一番悲しいのが諦めてしまうこと。自分にはできないって思ってしまうこと。"
-    },
-    {
-        "id": 93,
-        "text": "hitono-enitatunokimoti-??!",
-        "tokens": [
-            "hitono-enitatunokimoti-??!",
-            "hitono-enitatunokimochi-??!",
-            "hitono-enitatsunokimoti-??!",
-            "hitono-enitatsunokimochi-??!",
-            "hitonouenitatsunokimochii??!",
-            "hitonouenitatsunokimotii??!",
-            "hitonouenitatunokimochii??!",
-            "hitonouenitatunokimotii??!"
-        ],
-        "kana": "ひとのうえにたつのきもちぃ??！",
-        "original": "人の上に立つの気持ちぃ??！"
-    },
-    {
-        "id": 94,
-        "text": "iphonenoappude-towasurunonizibunnozinseiappude-todekitemasuka?",
-        "tokens": [
-            "iphonenoappude-towasurunonizibunnozinseiappude-todekitemasuka?",
-            "iphonenoappude-towasurunonizibunnojinseiappude-todekitemasuka?",
-            "iphonenoappude-towasurunonijibunnozinseiappude-todekitemasuka?",
-            "iphonenoappude-tohasurunonizibunnozinseiappude-todekitemasuka?",
-            "iphonenoappude-tohasurunonizibunnojinseiappude-todekitemasuka?",
-            "iphonenoappude-tohasurunonijibunnozinseiappude-todekitemasuka?",
-            "iphonenoappude-tohasurunonijibunnojinseiappude-todekitemasuka?",
-            "iphonenoappude-towasurunonijibunnojinseiappude-todekitemasuka?",
-            "iphonenoappudeetowasurunonijibunnojinseiappudeetodekitemasuka?",
-            "iphonenoappudeetohasurunonijibunnojinseiappudeetodekitemasuka?",
-            "iphonenoappudeetohasurunonijibunnozinseiappudeetodekitemasuka?",
-            "iphonenoappudeetohasurunonizibunnojinseiappudeetodekitemasuka?",
-            "iphonenoappudeetohasurunonizibunnozinseiappudeetodekitemasuka?",
-            "iphonenoappudeetowasurunonijibunnozinseiappudeetodekitemasuka?",
-            "iphonenoappudeetowasurunonizibunnojinseiappudeetodekitemasuka?",
-            "iphonenoappudeetowasurunonizibunnozinseiappudeetodekitemasuka?"
-        ],
-        "kana": "iphoneのアップデートはするのにじぶんのじんせいアップデートできてますか？",
-        "original": "iphoneのアップデートはするのに自分の人生アップデートできてますか？"
-    },
-    {
-        "id": 95,
-        "text": "pcnogamengachitchainingenwakokoromochitchaikarane?",
-        "tokens": [
-            "pcnogamengachitchainingenwakokoromochitchaikarane?",
-            "pcnogamengachitchainingenhakokoromochitchaikarane?",
-            "pcnogamengachitchainingenhakokoromochittyaikarane?",
-            "pcnogamengachitchainingenhakokoromotitchaikarane?",
-            "pcnogamengachitchainingenhakokoromotittyaikarane?",
-            "pcnogamengachitchainingenwakokoromochittyaikarane?",
-            "pcnogamengachitchainingenwakokoromotitchaikarane?",
-            "pcnogamengachitchainingenwakokoromotittyaikarane?",
-            "pcnogamengachittyainingenhakokoromochitchaikarane?",
-            "pcnogamengachittyainingenhakokoromochittyaikarane?",
-            "pcnogamengachittyainingenhakokoromotitchaikarane?",
-            "pcnogamengachittyainingenhakokoromotittyaikarane?",
-            "pcnogamengachittyainingenwakokoromochitchaikarane?",
-            "pcnogamengachittyainingenwakokoromochittyaikarane?",
-            "pcnogamengachittyainingenwakokoromotitchaikarane?",
-            "pcnogamengachittyainingenwakokoromotittyaikarane?",
-            "pcnogamengatitchainingenhakokoromochitchaikarane?",
-            "pcnogamengatitchainingenhakokoromochittyaikarane?",
-            "pcnogamengatitchainingenhakokoromotitchaikarane?",
-            "pcnogamengatitchainingenhakokoromotittyaikarane?",
-            "pcnogamengatitchainingenwakokoromochitchaikarane?",
-            "pcnogamengatitchainingenwakokoromochittyaikarane?",
-            "pcnogamengatitchainingenwakokoromotitchaikarane?",
-            "pcnogamengatitchainingenwakokoromotittyaikarane?",
-            "pcnogamengatittyainingenhakokoromochitchaikarane?",
-            "pcnogamengatittyainingenhakokoromochittyaikarane?",
-            "pcnogamengatittyainingenhakokoromotitchaikarane?",
-            "pcnogamengatittyainingenhakokoromotittyaikarane?",
-            "pcnogamengatittyainingenwakokoromochitchaikarane?",
-            "pcnogamengatittyainingenwakokoromochittyaikarane?",
-            "pcnogamengatittyainingenwakokoromotitchaikarane?",
-            "pcnogamengatittyainingenwakokoromotittyaikarane?"
-        ],
-        "kana": "PCのがめんがちっちゃいにんげんはこころもちっちゃいからね？",
-        "original": "PCの画面がちっちゃい人間は心もちっちゃいからね？"
-    },
-    {
-        "id": 96,
-        "text": "ziburinosyuzinko-wategiwagawarui",
-        "tokens": [
-            "ziburinosyuzinko-wategiwagawarui",
-            "ziburinosyuzinko-hategiwagawarui",
-            "ziburinosyujinko-wategiwagawarui",
-            "ziburinosyujinko-hategiwagawarui",
-            "ziburinoshuzinko-wategiwagawarui",
-            "ziburinoshuzinko-hategiwagawarui",
-            "ziburinoshujinko-wategiwagawarui",
-            "ziburinoshujinko-hategiwagawarui",
-            "ziburinosfuzinko-wategiwagawarui",
-            "ziburinosfuzinko-hategiwagawarui",
-            "ziburinosfujinko-wategiwagawarui",
-            "ziburinosfujinko-hategiwagawarui",
-            "jiburinosyuzinko-wategiwagawarui",
-            "jiburinosyuzinko-hategiwagawarui",
-            "jiburinosyujinko-wategiwagawarui",
-            "jiburinosyujinko-hategiwagawarui",
-            "jiburinoshuzinko-wategiwagawarui",
-            "jiburinoshuzinko-hategiwagawarui",
-            "jiburinoshujinko-hategiwagawarui",
-            "jiburinosfuzinko-wategiwagawarui",
-            "jiburinosfuzinko-hategiwagawarui",
-            "jiburinosfujinko-wategiwagawarui",
-            "jiburinosfujinko-hategiwagawarui",
-            "jiburinoshujinko-wategiwagawarui",
-            "jiburinoshujinkouwategiwagawarui",
-            "jiburinosfujinkouhategiwagawarui",
-            "jiburinosfujinkouwategiwagawarui",
-            "jiburinosfuzinkouhategiwagawarui",
-            "jiburinosfuzinkouwategiwagawarui",
-            "jiburinoshujinkouhategiwagawarui",
-            "jiburinoshuzinkouhategiwagawarui",
-            "jiburinoshuzinkouwategiwagawarui",
-            "jiburinosyujinkouhategiwagawarui",
-            "jiburinosyujinkouwategiwagawarui",
-            "jiburinosyuzinkouhategiwagawarui",
-            "jiburinosyuzinkouwategiwagawarui",
-            "ziburinosfujinkouhategiwagawarui",
-            "ziburinosfujinkouwategiwagawarui",
-            "ziburinosfuzinkouhategiwagawarui",
-            "ziburinosfuzinkouwategiwagawarui",
-            "ziburinoshujinkouhategiwagawarui",
-            "ziburinoshujinkouwategiwagawarui",
-            "ziburinoshuzinkouhategiwagawarui",
-            "ziburinoshuzinkouwategiwagawarui",
-            "ziburinosyujinkouhategiwagawarui",
-            "ziburinosyujinkouwategiwagawarui",
-            "ziburinosyuzinkouhategiwagawarui",
-            "ziburinosyuzinkouwategiwagawarui"
-        ],
-        "kana": "ジブリのしゅじんこうはてぎわがわるい",
-        "original": "ジブリの主人公は手際が悪い"
-    },
-    {
-        "id": 97,
-        "text": "bunsyo-・siko-gahasseisurusubetenogyo-muniaiwosiyo-suru.",
-        "tokens": [
-            "bunsyo-・siko-gahasseisurusubetenogyo-muniaiwosiyo-suru.",
-            "bunsyo-・siko-gahasseisurusubetenogyo-muniaiwoshiyo-suru.",
-            "bunsyo-・siko-gahasseisurusubetenogyo-muniaiosiyo-suru.",
-            "bunsyo-・siko-gahasseisurusubetenogyo-muniaioshiyo-suru.",
-            "bunsyo-・shiko-gahasseisurusubetenogyo-muniaiwosiyo-suru.",
-            "bunsyo-・shiko-gahasseisurusubetenogyo-muniaiwoshiyo-suru.",
-            "bunsyo-・shiko-gahasseisurusubetenogyo-muniaiosiyo-suru.",
-            "bunsyo-・shiko-gahasseisurusubetenogyo-muniaioshiyo-suru.",
-            "bunsho-・siko-gahasseisurusubetenogyo-muniaiwosiyo-suru.",
-            "bunsho-・siko-gahasseisurusubetenogyo-muniaiwoshiyo-suru.",
-            "bunsho-・siko-gahasseisurusubetenogyo-muniaiosiyo-suru.",
-            "bunsho-・siko-gahasseisurusubetenogyo-muniaioshiyo-suru.",
-            "bunsho-・shiko-gahasseisurusubetenogyo-muniaiwosiyo-suru.",
-            "bunsho-・shiko-gahasseisurusubetenogyo-muniaiwoshiyo-suru.",
-            "bunsho-・shiko-gahasseisurusubetenogyo-muniaiosiyo-suru.",
-            "bunsho-・shiko-gahasseisurusubetenogyo-muniaioshiyo-suru.",
-            "bunshou・shikougahasseisurusubetenogyoumuniaioshiyousuru.",
-            "bunshou・shikougahasseisurusubetenogyoumuniaiosiyousuru.",
-            "bunshou・shikougahasseisurusubetenogyoumuniaiwoshiyousuru.",
-            "bunshou・shikougahasseisurusubetenogyoumuniaiwosiyousuru.",
-            "bunshou・sikougahasseisurusubetenogyoumuniaioshiyousuru.",
-            "bunshou・sikougahasseisurusubetenogyoumuniaiosiyousuru.",
-            "bunshou・sikougahasseisurusubetenogyoumuniaiwoshiyousuru.",
-            "bunshou・sikougahasseisurusubetenogyoumuniaiwosiyousuru.",
-            "bunsyou・shikougahasseisurusubetenogyoumuniaioshiyousuru.",
-            "bunsyou・shikougahasseisurusubetenogyoumuniaiosiyousuru.",
-            "bunsyou・shikougahasseisurusubetenogyoumuniaiwoshiyousuru.",
-            "bunsyou・shikougahasseisurusubetenogyoumuniaiwosiyousuru.",
-            "bunsyou・sikougahasseisurusubetenogyoumuniaioshiyousuru.",
-            "bunsyou・sikougahasseisurusubetenogyoumuniaiosiyousuru.",
-            "bunsyou・sikougahasseisurusubetenogyoumuniaiwoshiyousuru.",
-            "bunsyou・sikougahasseisurusubetenogyoumuniaiwosiyousuru."
-        ],
-        "kana": "ぶんしょう・しこうがはっせいするすべてのぎょうむにAIをしようする。",
-        "original": "文章・思考が発生する全ての業務にAIを使用する。"
-    },
-    {
-        "id": 98,
-        "text": "kangaetayo-ni-kinaito",
-        "tokens": [
-            "kangaetayo-ni-kinaito",
-            "kangaetayouniikinaito"
-        ],
-        "kana": "かんがえたようにいきないと、いきたようにかんがえてしまう。",
-        "original": "考えたように生きないと、生きたように考えてしまう。"
-    },
-    {
-        "id": 99,
-        "text": "shitsumonniwasonohitonoreberugaderu",
-        "tokens": [
-            "shitsumonniwasonohitonoreberugaderu",
-            "shitsumonnihasonohitonoreberugaderu",
-            "shitumonnihasonohitonoreberugaderu",
-            "shitumonniwasonohitonoreberugaderu",
-            "sitsumonnihasonohitonoreberugaderu",
-            "sitsumonniwasonohitonoreberugaderu",
-            "situmonnihasonohitonoreberugaderu",
-            "situmonniwasonohitonoreberugaderu"
-        ],
-        "kana": "しつもんにはそのひとのレベルがでる",
-        "original": "質問にはその人のレベルが出る"
-    },
-    {
-        "id": 100,
-        "text": "gutaitotyu-syo-noikikigatokui",
-        "tokens": [
-            "gutaitotyu-syo-noikikigatokui",
-            "gutaitotyu-sho-noikikigatokui",
-            "gutaitochu-syo-noikikigatokui",
-            "gutaitocfu-syo-noikikigatokui",
-            "gutaitocfu-sho-noikikigatokui",
-            "gutaitochu-sho-noikikigatokui",
-            "gutaitochuushounoikikigatokui",
-            "gutaitocfuushounoikikigatokui",
-            "gutaitocfuusyounoikikigatokui",
-            "gutaitochuusyounoikikigatokui",
-            "gutaitotyuushounoikikigatokui",
-            "gutaitotyuusyounoikikigatokui"
-        ],
-        "kana": "ぐたいとちゅうしょうのいききがとくい",
-        "original": "具体と抽象の行き来が得意"
-    },
-    {
-        "id": 101,
-        "text": "yononakanoyanderuhitowazeninnotiontukattaho-gayoi",
-        "tokens": [
-            "yononakanoyanderuhitowazeninnotiontukattaho-gayoi",
-            "yononakanoyanderuhitohazeninnotiontukattaho-gayoi",
-            "yononakanoyanderuhitohazeninnotiontsukattaho-gayoi",
-            "yononakanoyanderuhitowazeninnotiontsukattaho-gayoi",
-            "yononakanoyanderuhitowazeninnotiontsukattahougayoi",
-            "yononakanoyanderuhitohazeninnotiontsukattahougayoi",
-            "yononakanoyanderuhitohazeninnotiontukattahougayoi",
-            "yononakanoyanderuhitowazeninnotiontukattahougayoi"
-        ],
-        "kana": "よのなかのやんでるひとはぜんいんnotionつかったほうがよい",
-        "original": "世の中の病んでる人は全員notion使った方が良い"
-    },
-    {
-        "id": 102,
-        "text": "zyo-ho-ro-eiwokinisuruhitowainta-nettowosinaidekudasai",
-        "tokens": [
-            "zyo-ho-ro-eiwokinisuruhitowainta-nettowosinaidekudasai",
-            "zyo-ho-ro-eiwokinisuruhitowainta-nettowoshinaidekudasai",
-            "zyo-ho-ro-eiwokinisuruhitowainta-nettoosinaidekudasai",
-            "zyo-ho-ro-eiwokinisuruhitowainta-nettooshinaidekudasai",
-            "zyo-ho-ro-eiwokinisuruhitohainta-nettowosinaidekudasai",
-            "zyo-ho-ro-eiwokinisuruhitohainta-nettowoshinaidekudasai",
-            "zyo-ho-ro-eiwokinisuruhitohainta-nettoosinaidekudasai",
-            "zyo-ho-ro-eiwokinisuruhitohainta-nettooshinaidekudasai",
-            "zyo-ho-ro-eiokinisuruhitowainta-nettowosinaidekudasai",
-            "zyo-ho-ro-eiokinisuruhitowainta-nettowoshinaidekudasai",
-            "zyo-ho-ro-eiokinisuruhitowainta-nettoosinaidekudasai",
-            "zyo-ho-ro-eiokinisuruhitowainta-nettooshinaidekudasai",
-            "zyo-ho-ro-eiokinisuruhitohainta-nettowosinaidekudasai",
-            "zyo-ho-ro-eiokinisuruhitohainta-nettowoshinaidekudasai",
-            "zyo-ho-ro-eiokinisuruhitohainta-nettoosinaidekudasai",
-            "zyo-ho-ro-eiokinisuruhitohainta-nettooshinaidekudasai",
-            "jo-ho-ro-eiwokinisuruhitowainta-nettowosinaidekudasai",
-            "jo-ho-ro-eiwokinisuruhitowainta-nettowoshinaidekudasai",
-            "jo-ho-ro-eiwokinisuruhitowainta-nettoosinaidekudasai",
-            "jo-ho-ro-eiwokinisuruhitowainta-nettooshinaidekudasai",
-            "jo-ho-ro-eiwokinisuruhitohainta-nettowosinaidekudasai",
-            "jo-ho-ro-eiwokinisuruhitohainta-nettowoshinaidekudasai",
-            "jo-ho-ro-eiwokinisuruhitohainta-nettoosinaidekudasai",
-            "jo-ho-ro-eiwokinisuruhitohainta-nettooshinaidekudasai",
-            "jo-ho-ro-eiokinisuruhitowainta-nettowosinaidekudasai",
-            "jo-ho-ro-eiokinisuruhitowainta-nettowoshinaidekudasai",
-            "jo-ho-ro-eiokinisuruhitowainta-nettoosinaidekudasai",
-            "jo-ho-ro-eiokinisuruhitohainta-nettowosinaidekudasai",
-            "jo-ho-ro-eiokinisuruhitohainta-nettowoshinaidekudasai",
-            "jo-ho-ro-eiokinisuruhitohainta-nettoosinaidekudasai",
-            "jo-ho-ro-eiokinisuruhitohainta-nettooshinaidekudasai",
-            "jo-ho-ro-eiokinisuruhitowainta-nettooshinaidekudasai",
-            "jouhouroueiokinisuruhitowaintaanettooshinaidekudasai",
-            "jouhouroueiokinisuruhitohaintaanettooshinaidekudasai",
-            "jouhouroueiokinisuruhitohaintaanettoosinaidekudasai",
-            "jouhouroueiokinisuruhitohaintaanettowoshinaidekudasai",
-            "jouhouroueiokinisuruhitohaintaanettowosinaidekudasai",
-            "jouhouroueiokinisuruhitowaintaanettoosinaidekudasai",
-            "jouhouroueiokinisuruhitowaintaanettowoshinaidekudasai",
-            "jouhouroueiokinisuruhitowaintaanettowosinaidekudasai",
-            "jouhouroueiwokinisuruhitohaintaanettooshinaidekudasai",
-            "jouhouroueiwokinisuruhitohaintaanettoosinaidekudasai",
-            "jouhouroueiwokinisuruhitohaintaanettowoshinaidekudasai",
-            "jouhouroueiwokinisuruhitohaintaanettowosinaidekudasai",
-            "jouhouroueiwokinisuruhitowaintaanettooshinaidekudasai",
-            "jouhouroueiwokinisuruhitowaintaanettoosinaidekudasai",
-            "jouhouroueiwokinisuruhitowaintaanettowoshinaidekudasai",
-            "jouhouroueiwokinisuruhitowaintaanettowosinaidekudasai",
-            "zyouhouroueiokinisuruhitohaintaanettooshinaidekudasai",
-            "zyouhouroueiokinisuruhitohaintaanettoosinaidekudasai",
-            "zyouhouroueiokinisuruhitohaintaanettowoshinaidekudasai",
-            "zyouhouroueiokinisuruhitohaintaanettowosinaidekudasai",
-            "zyouhouroueiokinisuruhitowaintaanettooshinaidekudasai",
-            "zyouhouroueiokinisuruhitowaintaanettoosinaidekudasai",
-            "zyouhouroueiokinisuruhitowaintaanettowoshinaidekudasai",
-            "zyouhouroueiokinisuruhitowaintaanettowosinaidekudasai",
-            "zyouhouroueiwokinisuruhitohaintaanettooshinaidekudasai",
-            "zyouhouroueiwokinisuruhitohaintaanettoosinaidekudasai",
-            "zyouhouroueiwokinisuruhitohaintaanettowoshinaidekudasai",
-            "zyouhouroueiwokinisuruhitohaintaanettowosinaidekudasai",
-            "zyouhouroueiwokinisuruhitowaintaanettooshinaidekudasai",
-            "zyouhouroueiwokinisuruhitowaintaanettoosinaidekudasai",
-            "zyouhouroueiwokinisuruhitowaintaanettowoshinaidekudasai",
-            "zyouhouroueiwokinisuruhitowaintaanettowosinaidekudasai"
-        ],
-        "kana": "じょうほうろうせつをきにするひとはインターネットをしないでください",
-        "original": "情報漏洩を気にする人はインターネットをしないでください"
-    },
-    {
-        "id": 103,
-        "text": "chatgptwanomikai-tikaiyoriyasui3000enkakindezinruinosaisentannoeitinihurerareru",
-        "tokens": [
-            "chatgptwanomikai-tikaiyoriyasui3000enkakindezinruinosaisentannoeitinihurerareru",
-            "chatgptwanomikai-tikaiyoriyasui3000enkakindezinruinosaisentannoeitinifurerareru",
-            "chatgptwanomikai-tikaiyoriyasui3000enkakindezinruinosaisentannoeichinihurerareru",
-            "chatgptwanomikai-tikaiyoriyasui3000enkakindezinruinosaisentannoeichinifurerareru",
-            "chatgptwanomikai-tikaiyoriyasui3000enkakindejinruinosaisentannoeitinihurerareru",
-            "chatgptwanomikai-tikaiyoriyasui3000enkakindejinruinosaisentannoeitinifurerareru",
-            "chatgptwanomikai-tikaiyoriyasui3000enkakindejinruinosaisentannoeichinihurerareru",
-            "chatgptwanomikai-tikaiyoriyasui3000enkakindejinruinosaisentannoeichinifurerareru",
-            "chatgptwanomikai-chikaiyoriyasui3000enkakindezinruinosaisentannoeitinihurerareru",
-            "chatgptwanomikai-chikaiyoriyasui3000enkakindezinruinosaisentannoeitinifurerareru",
-            "chatgptwanomikai-chikaiyoriyasui3000enkakindezinruinosaisentannoeichinihurerareru",
-            "chatgptwanomikai-chikaiyoriyasui3000enkakindezinruinosaisentannoeichinifurerareru",
-            "chatgptwanomikai-chikaiyoriyasui3000enkakindejinruinosaisentannoeitinihurerareru",
-            "chatgptwanomikai-chikaiyoriyasui3000enkakindejinruinosaisentannoeitinifurerareru",
-            "chatgptwanomikai-chikaiyoriyasui3000enkakindejinruinosaisentannoeichinihurerareru",
-            "chatgpthanomikai-tikaiyoriyasui3000enkakindezinruinosaisentannoeitinihurerareru",
-            "chatgpthanomikai-tikaiyoriyasui3000enkakindezinruinosaisentannoeitinifurerareru",
-            "chatgpthanomikai-tikaiyoriyasui3000enkakindezinruinosaisentannoeichinihurerareru",
-            "chatgpthanomikai-tikaiyoriyasui3000enkakindezinruinosaisentannoeichinifurerareru",
-            "chatgpthanomikai-tikaiyoriyasui3000enkakindejinruinosaisentannoeitinihurerareru",
-            "chatgpthanomikai-tikaiyoriyasui3000enkakindejinruinosaisentannoeitinifurerareru",
-            "chatgpthanomikai-tikaiyoriyasui3000enkakindejinruinosaisentannoeichinihurerareru",
-            "chatgpthanomikai-tikaiyoriyasui3000enkakindejinruinosaisentannoeichinifurerareru",
-            "chatgpthanomikai-chikaiyoriyasui3000enkakindezinruinosaisentannoeitinihurerareru",
-            "chatgpthanomikai-chikaiyoriyasui3000enkakindezinruinosaisentannoeitinifurerareru",
-            "chatgpthanomikai-chikaiyoriyasui3000enkakindezinruinosaisentannoeichinihurerareru",
-            "chatgpthanomikai-chikaiyoriyasui3000enkakindezinruinosaisentannoeichinifurerareru",
-            "chatgpthanomikai-chikaiyoriyasui3000enkakindejinruinosaisentannoeitinihurerareru",
-            "chatgpthanomikai-chikaiyoriyasui3000enkakindejinruinosaisentannoeitinifurerareru",
-            "chatgpthanomikai-chikaiyoriyasui3000enkakindejinruinosaisentannoeichinihurerareru",
-            "chatgpthanomikai-chikaiyoriyasui3000enkakindejinruinosaisentannoeichinifurerareru",
-            "chatgptwanomikai-chikaiyoriyasui3000enkakindejinruinosaisentannoeichinifurerareru",
-            "chatgptwanomikaiichikaiyoriyasui3000enkakindejinruinosaisentannoeichinifurerareru",
-            "chatgpthanomikaiichikaiyoriyasui3000enkakindejinruinosaisentannoeichinifurerareru",
-            "chatgpthanomikaiichikaiyoriyasui3000enkakindejinruinosaisentannoeichinihurerareru",
-            "chatgpthanomikaiichikaiyoriyasui3000enkakindejinruinosaisentannoeitinifurerareru",
-            "chatgpthanomikaiichikaiyoriyasui3000enkakindejinruinosaisentannoeitinihurerareru",
-            "chatgpthanomikaiichikaiyoriyasui3000enkakindezinruinosaisentannoeichinifurerareru",
-            "chatgpthanomikaiichikaiyoriyasui3000enkakindezinruinosaisentannoeichinihurerareru",
-            "chatgpthanomikaiichikaiyoriyasui3000enkakindezinruinosaisentannoeitinifurerareru",
-            "chatgpthanomikaiichikaiyoriyasui3000enkakindezinruinosaisentannoeitinihurerareru",
-            "chatgpthanomikaiitikaiyoriyasui3000enkakindejinruinosaisentannoeichinifurerareru",
-            "chatgpthanomikaiitikaiyoriyasui3000enkakindejinruinosaisentannoeichinihurerareru",
-            "chatgpthanomikaiitikaiyoriyasui3000enkakindejinruinosaisentannoeitinifurerareru",
-            "chatgpthanomikaiitikaiyoriyasui3000enkakindejinruinosaisentannoeitinihurerareru",
-            "chatgpthanomikaiitikaiyoriyasui3000enkakindezinruinosaisentannoeichinifurerareru",
-            "chatgpthanomikaiitikaiyoriyasui3000enkakindezinruinosaisentannoeichinihurerareru",
-            "chatgpthanomikaiitikaiyoriyasui3000enkakindezinruinosaisentannoeitinifurerareru",
-            "chatgpthanomikaiitikaiyoriyasui3000enkakindezinruinosaisentannoeitinihurerareru",
-            "chatgptwanomikaiichikaiyoriyasui3000enkakindejinruinosaisentannoeichinihurerareru",
-            "chatgptwanomikaiichikaiyoriyasui3000enkakindejinruinosaisentannoeitinifurerareru",
-            "chatgptwanomikaiichikaiyoriyasui3000enkakindejinruinosaisentannoeitinihurerareru",
-            "chatgptwanomikaiichikaiyoriyasui3000enkakindezinruinosaisentannoeichinifurerareru",
-            "chatgptwanomikaiichikaiyoriyasui3000enkakindezinruinosaisentannoeichinihurerareru",
-            "chatgptwanomikaiichikaiyoriyasui3000enkakindezinruinosaisentannoeitinifurerareru",
-            "chatgptwanomikaiichikaiyoriyasui3000enkakindezinruinosaisentannoeitinihurerareru",
-            "chatgptwanomikaiitikaiyoriyasui3000enkakindejinruinosaisentannoeichinifurerareru",
-            "chatgptwanomikaiitikaiyoriyasui3000enkakindejinruinosaisentannoeichinihurerareru",
-            "chatgptwanomikaiitikaiyoriyasui3000enkakindejinruinosaisentannoeitinifurerareru",
-            "chatgptwanomikaiitikaiyoriyasui3000enkakindejinruinosaisentannoeitinihurerareru",
-            "chatgptwanomikaiitikaiyoriyasui3000enkakindezinruinosaisentannoeichinifurerareru",
-            "chatgptwanomikaiitikaiyoriyasui3000enkakindezinruinosaisentannoeichinihurerareru",
-            "chatgptwanomikaiitikaiyoriyasui3000enkakindezinruinosaisentannoeitinifurerareru",
-            "chatgptwanomikaiitikaiyoriyasui3000enkakindezinruinosaisentannoeitinihurerareru"
-        ],
-        "kana": "ChatGPTはのみかいいちかいよりやすい3000えんかきんでじんるいのさいせんたんのえいちにふれられる",
-        "original": "ChatGPTは飲み会一回より安い3000円課金で人類の最先端の叡智に触れられる"
-    },
-    {
-        "id": 104,
-        "text": "doryokunohukusanbututositeseikaga-ru",
-        "tokens": [
-            "doryokunohukusanbututositeseikaga-ru",
-            "doryokunohukusanbututoshiteseikaga-ru",
-            "doryokunohukusanbutsutositeseikaga-ru",
-            "doryokunohukusanbutsutoshiteseikaga-ru",
-            "doryokunofukusanbututositeseikaga-ru",
-            "doryokunofukusanbututoshiteseikaga-ru",
-            "doryokunofukusanbutsutositeseikaga-ru",
-            "doryokunofukusanbutsutoshiteseikaga-ru",
-            "doryokunofukusanbutsutoshiteseikagaaru",
-            "doryokunofukusanbutsutositeseikagaaru",
-            "doryokunofukusanbututoshiteseikagaaru",
-            "doryokunofukusanbututositeseikagaaru",
-            "doryokunohukusanbutsutoshiteseikagaaru",
-            "doryokunohukusanbutsutositeseikagaaru",
-            "doryokunohukusanbututoshiteseikagaaru",
-            "doryokunohukusanbututositeseikagaaru"
-        ],
-        "kana": "どりょくのふくさんぶつとしてせいかがある",
-        "original": "努力の副産物として成果がある"
-    },
-    {
-        "id": 105,
-        "text": "gesuido-mitainazinseiokuttenaide",
-        "tokens": [
-            "gesuido-mitainazinseiokuttenaide",
-            "gesuido-mitainajinseiokuttenaide",
-            "gesuidoumitainajinseiokuttenaide",
-            "gesuidoumitainazinseiokuttenaide"
-        ],
-        "kana": "げすいどうみたいなじんせいおくってないで",
-        "original": "下水道みたいな人生送ってないで"
-    },
-    {
-        "id": 106,
-        "text": "inuwa",
-        "tokens": [
-            "inuwa"
-        ],
-        "kana": "いぬは、いまのことしかかんがえない。わざわざかこおもいだして、だいじないまをわすれたりかなしんだりしない。",
-        "original": "犬は、今のことしか考えない。わざわざ過去思い出して、大事な今を忘れたり悲しんだりしない。"
-    },
-    {
-        "id": 107,
-        "text": "\"imayoritaisetsunajikanwanai\"koreoinuwaoshietekureru.bokunitaritenaikangaekatadearu.",
-        "tokens": [
-            "\"imayoritaisetsunajikanwanai\"koreoinuwaoshietekureru.bokunitaritenaikangaekatadearu.",
-            "\"imayoritaisetsunajikanhanai\"koreoinuhaoshietekureru.bokunitaritenaikangaekatadearu.",
-            "\"imayoritaisetsunajikanhanai\"koreoinuhaosietekureru.bokunitaritenaikangaekatadearu.",
-            "\"imayoritaisetsunajikanhanai\"koreoinuwaoshietekureru.bokunitaritenaikangaekatadearu.",
-            "\"imayoritaisetsunajikanhanai\"koreoinuwaosietekureru.bokunitaritenaikangaekatadearu.",
-            "\"imayoritaisetsunajikanhanai\"korewoinuhaoshietekureru.bokunitaritenaikangaekatadearu.",
-            "\"imayoritaisetsunajikanhanai\"korewoinuhaosietekureru.bokunitaritenaikangaekatadearu.",
-            "\"imayoritaisetsunajikanhanai\"korewoinuwaoshietekureru.bokunitaritenaikangaekatadearu.",
-            "\"imayoritaisetsunajikanhanai\"korewoinuwaosietekureru.bokunitaritenaikangaekatadearu.",
-            "\"imayoritaisetsunajikanwanai\"koreoinuhaoshietekureru.bokunitaritenaikangaekatadearu.",
-            "\"imayoritaisetsunajikanwanai\"koreoinuhaosietekureru.bokunitaritenaikangaekatadearu.",
-            "\"imayoritaisetsunajikanwanai\"koreoinuwaosietekureru.bokunitaritenaikangaekatadearu.",
-            "\"imayoritaisetsunajikanwanai\"korewoinuhaoshietekureru.bokunitaritenaikangaekatadearu.",
-            "\"imayoritaisetsunajikanwanai\"korewoinuhaosietekureru.bokunitaritenaikangaekatadearu.",
-            "\"imayoritaisetsunajikanwanai\"korewoinuwaoshietekureru.bokunitaritenaikangaekatadearu.",
-            "\"imayoritaisetsunajikanwanai\"korewoinuwaosietekureru.bokunitaritenaikangaekatadearu.",
-            "\"imayoritaisetsunazikanhanai\"koreoinuhaoshietekureru.bokunitaritenaikangaekatadearu.",
-            "\"imayoritaisetsunazikanhanai\"koreoinuhaosietekureru.bokunitaritenaikangaekatadearu.",
-            "\"imayoritaisetsunazikanhanai\"koreoinuwaoshietekureru.bokunitaritenaikangaekatadearu.",
-            "\"imayoritaisetsunazikanhanai\"koreoinuwaosietekureru.bokunitaritenaikangaekatadearu.",
-            "\"imayoritaisetsunazikanhanai\"korewoinuhaoshietekureru.bokunitaritenaikangaekatadearu.",
-            "\"imayoritaisetsunazikanhanai\"korewoinuhaosietekureru.bokunitaritenaikangaekatadearu.",
-            "\"imayoritaisetsunazikanhanai\"korewoinuwaoshietekureru.bokunitaritenaikangaekatadearu.",
-            "\"imayoritaisetsunazikanhanai\"korewoinuwaosietekureru.bokunitaritenaikangaekatadearu.",
-            "\"imayoritaisetsunazikanwanai\"koreoinuhaoshietekureru.bokunitaritenaikangaekatadearu.",
-            "\"imayoritaisetsunazikanwanai\"koreoinuhaosietekureru.bokunitaritenaikangaekatadearu.",
-            "\"imayoritaisetsunazikanwanai\"koreoinuwaoshietekureru.bokunitaritenaikangaekatadearu.",
-            "\"imayoritaisetsunazikanwanai\"koreoinuwaosietekureru.bokunitaritenaikangaekatadearu.",
-            "\"imayoritaisetsunazikanwanai\"korewoinuhaoshietekureru.bokunitaritenaikangaekatadearu.",
-            "\"imayoritaisetsunazikanwanai\"korewoinuhaosietekureru.bokunitaritenaikangaekatadearu.",
-            "\"imayoritaisetsunazikanwanai\"korewoinuwaoshietekureru.bokunitaritenaikangaekatadearu.",
-            "\"imayoritaisetsunazikanwanai\"korewoinuwaosietekureru.bokunitaritenaikangaekatadearu.",
-            "\"imayoritaisetunajikanhanai\"koreoinuhaoshietekureru.bokunitaritenaikangaekatadearu.",
-            "\"imayoritaisetunajikanhanai\"koreoinuhaosietekureru.bokunitaritenaikangaekatadearu.",
-            "\"imayoritaisetunajikanhanai\"koreoinuwaoshietekureru.bokunitaritenaikangaekatadearu.",
-            "\"imayoritaisetunajikanhanai\"koreoinuwaosietekureru.bokunitaritenaikangaekatadearu.",
-            "\"imayoritaisetunajikanhanai\"korewoinuhaoshietekureru.bokunitaritenaikangaekatadearu.",
-            "\"imayoritaisetunajikanhanai\"korewoinuhaosietekureru.bokunitaritenaikangaekatadearu.",
-            "\"imayoritaisetunajikanhanai\"korewoinuwaoshietekureru.bokunitaritenaikangaekatadearu.",
-            "\"imayoritaisetunajikanhanai\"korewoinuwaosietekureru.bokunitaritenaikangaekatadearu.",
-            "\"imayoritaisetunajikanwanai\"koreoinuhaoshietekureru.bokunitaritenaikangaekatadearu.",
-            "\"imayoritaisetunajikanwanai\"koreoinuhaosietekureru.bokunitaritenaikangaekatadearu.",
-            "\"imayoritaisetunajikanwanai\"koreoinuwaoshietekureru.bokunitaritenaikangaekatadearu.",
-            "\"imayoritaisetunajikanwanai\"koreoinuwaosietekureru.bokunitaritenaikangaekatadearu.",
-            "\"imayoritaisetunajikanwanai\"korewoinuhaoshietekureru.bokunitaritenaikangaekatadearu.",
-            "\"imayoritaisetunajikanwanai\"korewoinuhaosietekureru.bokunitaritenaikangaekatadearu.",
-            "\"imayoritaisetunajikanwanai\"korewoinuwaoshietekureru.bokunitaritenaikangaekatadearu.",
-            "\"imayoritaisetunajikanwanai\"korewoinuwaosietekureru.bokunitaritenaikangaekatadearu.",
-            "\"imayoritaisetunazikanhanai\"koreoinuhaoshietekureru.bokunitaritenaikangaekatadearu.",
-            "\"imayoritaisetunazikanhanai\"koreoinuhaosietekureru.bokunitaritenaikangaekatadearu.",
-            "\"imayoritaisetunazikanhanai\"koreoinuwaoshietekureru.bokunitaritenaikangaekatadearu.",
-            "\"imayoritaisetunazikanhanai\"koreoinuwaosietekureru.bokunitaritenaikangaekatadearu.",
-            "\"imayoritaisetunazikanhanai\"korewoinuhaoshietekureru.bokunitaritenaikangaekatadearu.",
-            "\"imayoritaisetunazikanhanai\"korewoinuhaosietekureru.bokunitaritenaikangaekatadearu.",
-            "\"imayoritaisetunazikanhanai\"korewoinuwaoshietekureru.bokunitaritenaikangaekatadearu.",
-            "\"imayoritaisetunazikanhanai\"korewoinuwaosietekureru.bokunitaritenaikangaekatadearu.",
-            "\"imayoritaisetunazikanwanai\"koreoinuhaoshietekureru.bokunitaritenaikangaekatadearu.",
-            "\"imayoritaisetunazikanwanai\"koreoinuhaosietekureru.bokunitaritenaikangaekatadearu.",
-            "\"imayoritaisetunazikanwanai\"koreoinuwaoshietekureru.bokunitaritenaikangaekatadearu.",
-            "\"imayoritaisetunazikanwanai\"koreoinuwaosietekureru.bokunitaritenaikangaekatadearu.",
-            "\"imayoritaisetunazikanwanai\"korewoinuhaoshietekureru.bokunitaritenaikangaekatadearu.",
-            "\"imayoritaisetunazikanwanai\"korewoinuhaosietekureru.bokunitaritenaikangaekatadearu.",
-            "\"imayoritaisetunazikanwanai\"korewoinuwaoshietekureru.bokunitaritenaikangaekatadearu.",
-            "\"imayoritaisetunazikanwanai\"korewoinuwaosietekureru.bokunitaritenaikangaekatadearu."
-        ],
-        "kana": "「いまよりたいせつなじかんはない」これをいぬはおしえてくれる。ぼくにたりてないかんがえかたである。",
-        "original": "「今より大切な時間はない」これを犬は教えてくれる。僕に足りてない考え方である。"
-    },
-    {
-        "id": 108,
-        "text": "bokuwado-pamintyu-dokunozsedainogakinanode",
-        "tokens": [
-            "bokuwado-pamintyu-dokunozsedainogakinanode",
-            "bokuwado-pamincfu-dokunozsedainogakinanode",
-            "bokuhado-pamintyu-dokunozsedainogakinanode",
-            "bokuhado-paminchu-dokunozsedainogakinanode",
-            "bokuhado-pamincfu-dokunozsedainogakinanode",
-            "bokuwado-paminchu-dokunozsedainogakinanode",
-            "bokuwadoupaminchuudokunozsedainogakinanode",
-            "bokuhadoupamincfuudokunozsedainogakinanode",
-            "bokuhadoupaminchuudokunozsedainogakinanode",
-            "bokuhadoupamintyuudokunozsedainogakinanode",
-            "bokuwadoupamincfuudokunozsedainogakinanode",
-            "bokuwadoupamintyuudokunozsedainogakinanode"
-        ],
-        "kana": "ぼくはドーパミンちゅうどくのZせだいのガキなので",
-        "original": "僕はドーパミン中毒のZ世代のガキなので"
-    },
-    {
-        "id": 109,
-        "text": "tyu-monwabotanositasyunkannikimatteiru",
-        "tokens": [
-            "tyu-monwabotanositasyunkannikimatteiru",
-            "tyu-monwabotanositashunkannikimatteiru",
-            "tyu-monwabotanositasfunkannikimatteiru",
-            "tyu-monwabotanoshitasyunkannikimatteiru",
-            "tyu-monwabotanoshitashunkannikimatteiru",
-            "tyu-monwabotanoshitasfunkannikimatteiru",
-            "tyu-monhabotanositasyunkannikimatteiru",
-            "tyu-monhabotanositashunkannikimatteiru",
-            "tyu-monhabotanositasfunkannikimatteiru",
-            "tyu-monhabotanoshitasyunkannikimatteiru",
-            "tyu-monhabotanoshitashunkannikimatteiru",
-            "tyu-monhabotanoshitasfunkannikimatteiru",
-            "chu-monwabotanositasyunkannikimatteiru",
-            "chu-monwabotanositashunkannikimatteiru",
-            "chu-monwabotanositasfunkannikimatteiru",
-            "chu-monwabotanoshitasyunkannikimatteiru",
-            "chu-monwabotanoshitasfunkannikimatteiru",
-            "chu-monhabotanositasyunkannikimatteiru",
-            "chu-monhabotanositashunkannikimatteiru",
-            "chu-monhabotanositasfunkannikimatteiru",
-            "chu-monhabotanoshitasyunkannikimatteiru",
-            "chu-monhabotanoshitashunkannikimatteiru",
-            "chu-monhabotanoshitasfunkannikimatteiru",
-            "cfu-monwabotanositasyunkannikimatteiru",
-            "cfu-monwabotanositashunkannikimatteiru",
-            "cfu-monwabotanositasfunkannikimatteiru",
-            "cfu-monwabotanoshitasyunkannikimatteiru",
-            "cfu-monwabotanoshitashunkannikimatteiru",
-            "cfu-monwabotanoshitasfunkannikimatteiru",
-            "cfu-monhabotanositasyunkannikimatteiru",
-            "cfu-monhabotanositashunkannikimatteiru",
-            "cfu-monhabotanositasfunkannikimatteiru",
-            "cfu-monhabotanoshitasyunkannikimatteiru",
-            "cfu-monhabotanoshitashunkannikimatteiru",
-            "cfu-monhabotanoshitasfunkannikimatteiru",
-            "chu-monwabotanoshitashunkannikimatteiru",
-            "chuumonwabotanoshitashunkannikimatteiru",
-            "cfuumonhabotanoshitasfunkannikimatteiru",
-            "cfuumonhabotanoshitashunkannikimatteiru",
-            "cfuumonhabotanoshitasyunkannikimatteiru",
-            "cfuumonhabotanositasfunkannikimatteiru",
-            "cfuumonhabotanositashunkannikimatteiru",
-            "cfuumonhabotanositasyunkannikimatteiru",
-            "cfuumonwabotanoshitasfunkannikimatteiru",
-            "cfuumonwabotanoshitashunkannikimatteiru",
-            "cfuumonwabotanoshitasyunkannikimatteiru",
-            "cfuumonwabotanositasfunkannikimatteiru",
-            "cfuumonwabotanositashunkannikimatteiru",
-            "cfuumonwabotanositasyunkannikimatteiru",
-            "chuumonhabotanoshitasfunkannikimatteiru",
-            "chuumonhabotanoshitashunkannikimatteiru",
-            "chuumonhabotanoshitasyunkannikimatteiru",
-            "chuumonhabotanositasfunkannikimatteiru",
-            "chuumonhabotanositashunkannikimatteiru",
-            "chuumonhabotanositasyunkannikimatteiru",
-            "chuumonwabotanoshitasfunkannikimatteiru",
-            "chuumonwabotanoshitasyunkannikimatteiru",
-            "chuumonwabotanositasfunkannikimatteiru",
-            "chuumonwabotanositashunkannikimatteiru",
-            "chuumonwabotanositasyunkannikimatteiru",
-            "tyuumonhabotanoshitasfunkannikimatteiru",
-            "tyuumonhabotanoshitashunkannikimatteiru",
-            "tyuumonhabotanoshitasyunkannikimatteiru",
-            "tyuumonhabotanositasfunkannikimatteiru",
-            "tyuumonhabotanositashunkannikimatteiru",
-            "tyuumonhabotanositasyunkannikimatteiru",
-            "tyuumonwabotanoshitasfunkannikimatteiru",
-            "tyuumonwabotanoshitashunkannikimatteiru",
-            "tyuumonwabotanoshitasyunkannikimatteiru",
-            "tyuumonwabotanositasfunkannikimatteiru",
-            "tyuumonwabotanositashunkannikimatteiru",
-            "tyuumonwabotanositasyunkannikimatteiru"
-        ],
-        "kana": "ちゅうもんはボタンおしたしゅんかんにきまっている",
-        "original": "注文はボタン押した瞬間に決まっている"
-    },
-    {
-        "id": 110,
-        "text": "nandemohitonikikitagaruhitowa-igatukaenai",
-        "tokens": [
-            "nandemohitonikikitagaruhitowa-igatukaenai",
-            "nandemohitonikikitagaruhitoha-igatukaenai",
-            "nandemohitonikikitagaruhitoha-igatsukaenai",
-            "nandemohitonikikitagaruhitowa-igatsukaenai",
-            "nandemohitonikikitagaruhitowaaigatsukaenai",
-            "nandemohitonikikitagaruhitohaaigatsukaenai",
-            "nandemohitonikikitagaruhitohaaigatukaenai",
-            "nandemohitonikikitagaruhitowaaigatukaenai"
-        ],
-        "kana": "なんでもひとにききたがるひとはAIがつかえない",
-        "original": "なんでも人に聞きたがる人はAIが使えない"
-    },
-    {
-        "id": 111,
-        "text": "yononakanoinhuruensa-warozikaruzyanai",
-        "tokens": [
-            "yononakanoinhuruensa-warozikaruzyanai",
-            "yononakanoinhuruensa-warozikarujanai",
-            "yononakanoinhuruensa-warojikaruzyanai",
-            "yononakanoinhuruensa-warojikarujanai",
-            "yononakanoinhuruensa-harozikaruzyanai",
-            "yononakanoinhuruensa-harozikarujanai",
-            "yononakanoinhuruensa-harojikaruzyanai",
-            "yononakanoinhuruensa-harojikarujanai",
-            "yononakanoinfuruensa-warozikaruzyanai",
-            "yononakanoinfuruensa-warozikarujanai",
-            "yononakanoinfuruensa-warojikaruzyanai",
-            "yononakanoinfuruensa-harozikaruzyanai",
-            "yononakanoinfuruensa-harozikarujanai",
-            "yononakanoinfuruensa-harojikaruzyanai",
-            "yononakanoinfuruensa-harojikarujanai",
-            "yononakanoinfuruensa-warojikarujanai",
-            "yononakanoinfuruensaawarojikarujanai",
-            "yononakanoinfuruensaaharojikarujanai",
-            "yononakanoinfuruensaaharojikaruzyanai",
-            "yononakanoinfuruensaaharozikarujanai",
-            "yononakanoinfuruensaaharozikaruzyanai",
-            "yononakanoinfuruensaawarojikaruzyanai",
-            "yononakanoinfuruensaawarozikarujanai",
-            "yononakanoinfuruensaawarozikaruzyanai",
-            "yononakanoinhuruensaaharojikarujanai",
-            "yononakanoinhuruensaaharojikaruzyanai",
-            "yononakanoinhuruensaaharozikarujanai",
-            "yononakanoinhuruensaaharozikaruzyanai",
-            "yononakanoinhuruensaawarojikarujanai",
-            "yononakanoinhuruensaawarojikaruzyanai",
-            "yononakanoinhuruensaawarozikarujanai",
-            "yononakanoinhuruensaawarozikaruzyanai"
-        ],
-        "kana": "よのなかのインフルエンサーはロジカルじゃない",
-        "original": "世の中のインフルエンサーはロジカルじゃない"
-    },
-    {
-        "id": 112,
-        "text": "ko-kisinisallyo-ne-d",
-        "tokens": [
-            "ko-kisinisallyo-ne-d",
-            "ko-kishinisallyo-ne-d",
-            "koukishinisallyouneed",
-            "koukisinisallyouneed"
-        ],
-        "kana": "こうきしん is All You Need",
-        "original": "好奇心 is All You Need"
-    },
-    {
-        "id": 113,
-        "text": "megakyokutannikawakanaikara",
-        "tokens": [
-            "megakyokutannikawakanaikara"
-        ],
-        "kana": "めがきょくたんにかわかないから、2-3ふんくらいぜんぜんまばたきなしでしごとできる。",
-        "original": "目が極端に乾かないから、2-3分くらい全然まばたき無しで仕事できる。"
-    },
-    {
-        "id": 114,
-        "text": "2-3bunnokannimabatakidenandomoshikaio-shinatterurenchu-",
-        "tokens": [
-            "2-3bunnokannimabatakidenandomoshikaio-shinatterurenchu-",
-            "2-3bunnokannimabatakidenandomoshikaioushinatterurenchuu"
-        ],
-        "kana": "2-3ぶんのかんにまばたきでなんどもしかいをうしなってるれんちゅう、ひこうりつすぎておもしろい。よくしごとできてるなっておもう。",
-        "original": "2-3分の間にまばたきで何度も視界を失ってる連中、非効率すぎて面白い。よく仕事できてるなって思う。"
-    },
-    {
-        "id": 115,
-        "text": "20daino-tinotyokingaku=kikaisonsitu",
-        "tokens": [
-            "20daino-tinotyokingaku=kikaisonsitu",
-            "20daino-tinotyokingaku=kikaisonsitsu",
-            "20daino-tinotyokingaku=kikaisonshitu",
-            "20daino-tinotyokingaku=kikaisonshitsu",
-            "20daino-tinochokingaku=kikaisonsitu",
-            "20daino-tinochokingaku=kikaisonsitsu",
-            "20daino-tinochokingaku=kikaisonshitu",
-            "20daino-tinochokingaku=kikaisonshitsu",
-            "20daino-chinotyokingaku=kikaisonsitu",
-            "20daino-chinotyokingaku=kikaisonsitsu",
-            "20daino-chinotyokingaku=kikaisonshitu",
-            "20daino-chinotyokingaku=kikaisonshitsu",
-            "20daino-chinochokingaku=kikaisonsitu",
-            "20daino-chinochokingaku=kikaisonsitsu",
-            "20daino-chinochokingaku=kikaisonshitu",
-            "20daino-chinochokingaku=kikaisonshitsu",
-            "20dainouchinochokingaku=kikaisonshitsu",
-            "20dainouchinochokingaku=kikaisonshitu",
-            "20dainouchinochokingaku=kikaisonsitsu",
-            "20dainouchinochokingaku=kikaisonsitu",
-            "20dainouchinotyokingaku=kikaisonshitsu",
-            "20dainouchinotyokingaku=kikaisonshitu",
-            "20dainouchinotyokingaku=kikaisonsitsu",
-            "20dainouchinotyokingaku=kikaisonsitu",
-            "20dainoutinochokingaku=kikaisonshitsu",
-            "20dainoutinochokingaku=kikaisonshitu",
-            "20dainoutinochokingaku=kikaisonsitsu",
-            "20dainoutinochokingaku=kikaisonsitu",
-            "20dainoutinotyokingaku=kikaisonshitsu",
-            "20dainoutinotyokingaku=kikaisonshitu",
-            "20dainoutinotyokingaku=kikaisonsitsu",
-            "20dainoutinotyokingaku=kikaisonsitu"
-        ],
-        "kana": "20だいのうちのちょきんがく＝きかいそんしつ",
-        "original": "20代のうちの貯金額＝機会損失"
-    },
-    {
-        "id": 116,
-        "text": "saisho-gennomonodakemotte",
-        "tokens": [
-            "saisho-gennomonodakemotte",
-            "saishougennomonodakemotte"
-        ],
-        "kana": "さいしょうげんのものだけもって、さいだいげんのけいけんをしたい。",
-        "original": "最小限のものだけ持って、最大限の経験をしたい。"
-    }
+  {
+    "id": 1,
+    "original": "AIは賢い新卒の東大生",
+    "characters": [
+      {
+        "char": "A",
+        "romaji": [
+          "a"
+        ]
+      },
+      {
+        "char": "I",
+        "romaji": [
+          "i"
+        ]
+      },
+      {
+        "char": "は",
+        "romaji": [
+          "ha",
+          "wa"
+        ]
+      },
+      {
+        "char": "か",
+        "romaji": [
+          "ka",
+          "ca"
+        ]
+      },
+      {
+        "char": "し",
+        "romaji": [
+          "si",
+          "shi",
+          "ci"
+        ]
+      },
+      {
+        "char": "こ",
+        "romaji": [
+          "ko",
+          "co"
+        ]
+      },
+      {
+        "char": "い",
+        "romaji": [
+          "i",
+          "yi"
+        ]
+      },
+      {
+        "char": "し",
+        "romaji": [
+          "si",
+          "shi",
+          "ci"
+        ]
+      },
+      {
+        "char": "ん",
+        "romaji": [
+          "n",
+          "nn",
+          "n'",
+          "xn"
+        ]
+      },
+      {
+        "char": "そ",
+        "romaji": [
+          "so"
+        ]
+      },
+      {
+        "char": "つ",
+        "romaji": [
+          "tu",
+          "tsu"
+        ]
+      },
+      {
+        "char": "の",
+        "romaji": [
+          "no"
+        ]
+      },
+      {
+        "char": "と",
+        "romaji": [
+          "to"
+        ]
+      },
+      {
+        "char": "う",
+        "romaji": [
+          "u",
+          "wu",
+          "whu"
+        ]
+      },
+      {
+        "char": "だ",
+        "romaji": [
+          "da"
+        ]
+      },
+      {
+        "char": "い",
+        "romaji": [
+          "i",
+          "yi"
+        ]
+      },
+      {
+        "char": "せ",
+        "romaji": [
+          "se",
+          "ce"
+        ]
+      },
+      {
+        "char": "い",
+        "romaji": [
+          "i",
+          "yi"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "original": "生成AIとは、洗濯機である",
+    "characters": [
+      {
+        "char": "せ",
+        "romaji": [
+          "se",
+          "ce"
+        ]
+      },
+      {
+        "char": "い",
+        "romaji": [
+          "i",
+          "yi"
+        ]
+      },
+      {
+        "char": "せ",
+        "romaji": [
+          "se",
+          "ce"
+        ]
+      },
+      {
+        "char": "い",
+        "romaji": [
+          "i",
+          "yi"
+        ]
+      },
+      {
+        "char": "A",
+        "romaji": [
+          "a"
+        ]
+      },
+      {
+        "char": "I",
+        "romaji": [
+          "i"
+        ]
+      },
+      {
+        "char": "と",
+        "romaji": [
+          "to"
+        ]
+      },
+      {
+        "char": "は",
+        "romaji": [
+          "ha",
+          "wa"
+        ]
+      },
+      {
+        "char": "、",
+        "romaji": [
+          ","
+        ]
+      },
+      {
+        "char": "せ",
+        "romaji": [
+          "se",
+          "ce"
+        ]
+      },
+      {
+        "char": "ん",
+        "romaji": [
+          "n",
+          "nn",
+          "n'",
+          "xn"
+        ]
+      },
+      {
+        "char": "た",
+        "romaji": [
+          "ta"
+        ]
+      },
+      {
+        "char": "く",
+        "romaji": [
+          "ku",
+          "cu",
+          "qu"
+        ]
+      },
+      {
+        "char": "き",
+        "romaji": [
+          "ki"
+        ]
+      },
+      {
+        "char": "で",
+        "romaji": [
+          "de"
+        ]
+      },
+      {
+        "char": "あ",
+        "romaji": [
+          "a"
+        ]
+      },
+      {
+        "char": "る",
+        "romaji": [
+          "ru",
+          "lu"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "original": "焼き鳥はタンパク質なので効率的です",
+    "characters": [
+      {
+        "char": "や",
+        "romaji": [
+          "ya"
+        ]
+      },
+      {
+        "char": "き",
+        "romaji": [
+          "ki"
+        ]
+      },
+      {
+        "char": "と",
+        "romaji": [
+          "to"
+        ]
+      },
+      {
+        "char": "り",
+        "romaji": [
+          "ri",
+          "li"
+        ]
+      },
+      {
+        "char": "は",
+        "romaji": [
+          "ha",
+          "wa"
+        ]
+      },
+      {
+        "char": "た",
+        "romaji": [
+          "ta"
+        ]
+      },
+      {
+        "char": "ん",
+        "romaji": [
+          "n",
+          "nn",
+          "n'",
+          "xn"
+        ]
+      },
+      {
+        "char": "ぱ",
+        "romaji": [
+          "pa"
+        ]
+      },
+      {
+        "char": "く",
+        "romaji": [
+          "ku",
+          "cu",
+          "qu"
+        ]
+      },
+      {
+        "char": "し",
+        "romaji": [
+          "si",
+          "shi",
+          "ci"
+        ]
+      },
+      {
+        "char": "つ",
+        "romaji": [
+          "tu",
+          "tsu"
+        ]
+      },
+      {
+        "char": "な",
+        "romaji": [
+          "na"
+        ]
+      },
+      {
+        "char": "の",
+        "romaji": [
+          "no"
+        ]
+      },
+      {
+        "char": "で",
+        "romaji": [
+          "de"
+        ]
+      },
+      {
+        "char": "こ",
+        "romaji": [
+          "ko",
+          "co"
+        ]
+      },
+      {
+        "char": "う",
+        "romaji": [
+          "u",
+          "wu",
+          "whu"
+        ]
+      },
+      {
+        "char": "り",
+        "romaji": [
+          "ri",
+          "li"
+        ]
+      },
+      {
+        "char": "つ",
+        "romaji": [
+          "tu",
+          "tsu"
+        ]
+      },
+      {
+        "char": "て",
+        "romaji": [
+          "te"
+        ]
+      },
+      {
+        "char": "き",
+        "romaji": [
+          "ki"
+        ]
+      },
+      {
+        "char": "で",
+        "romaji": [
+          "de"
+        ]
+      },
+      {
+        "char": "す",
+        "romaji": [
+          "su"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "original": "セル結合するな",
+    "characters": [
+      {
+        "char": "せ",
+        "romaji": [
+          "se",
+          "ce"
+        ]
+      },
+      {
+        "char": "る",
+        "romaji": [
+          "ru",
+          "lu"
+        ]
+      },
+      {
+        "char": "け",
+        "romaji": [
+          "ke"
+        ]
+      },
+      {
+        "char": "つ",
+        "romaji": [
+          "tu",
+          "tsu"
+        ]
+      },
+      {
+        "char": "ご",
+        "romaji": [
+          "go"
+        ]
+      },
+      {
+        "char": "う",
+        "romaji": [
+          "u",
+          "wu",
+          "whu"
+        ]
+      },
+      {
+        "char": "す",
+        "romaji": [
+          "su"
+        ]
+      },
+      {
+        "char": "る",
+        "romaji": [
+          "ru",
+          "lu"
+        ]
+      },
+      {
+        "char": "な",
+        "romaji": [
+          "na"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "original": "バレーって常に前傾姿勢なのがコツだな。ビジネスと同じや",
+    "characters": [
+      {
+        "char": "ば",
+        "romaji": [
+          "ba"
+        ]
+      },
+      {
+        "char": "れ",
+        "romaji": [
+          "re",
+          "le"
+        ]
+      },
+      {
+        "char": "ー",
+        "romaji": [
+          "-"
+        ]
+      },
+      {
+        "char": "っ",
+        "romaji": [
+          "xtu",
+          "ltu",
+          "xtsu",
+          "ltsu"
+        ]
+      },
+      {
+        "char": "て",
+        "romaji": [
+          "te"
+        ]
+      },
+      {
+        "char": "つ",
+        "romaji": [
+          "tu",
+          "tsu"
+        ]
+      },
+      {
+        "char": "ね",
+        "romaji": [
+          "ne"
+        ]
+      },
+      {
+        "char": "に",
+        "romaji": [
+          "ni"
+        ]
+      },
+      {
+        "char": "ぜ",
+        "romaji": [
+          "ze"
+        ]
+      },
+      {
+        "char": "ん",
+        "romaji": [
+          "n",
+          "nn",
+          "n'",
+          "xn"
+        ]
+      },
+      {
+        "char": "け",
+        "romaji": [
+          "ke"
+        ]
+      },
+      {
+        "char": "い",
+        "romaji": [
+          "i",
+          "yi"
+        ]
+      },
+      {
+        "char": "し",
+        "romaji": [
+          "si",
+          "shi",
+          "ci"
+        ]
+      },
+      {
+        "char": "せ",
+        "romaji": [
+          "se",
+          "ce"
+        ]
+      },
+      {
+        "char": "い",
+        "romaji": [
+          "i",
+          "yi"
+        ]
+      },
+      {
+        "char": "な",
+        "romaji": [
+          "na"
+        ]
+      },
+      {
+        "char": "の",
+        "romaji": [
+          "no"
+        ]
+      },
+      {
+        "char": "が",
+        "romaji": [
+          "ga"
+        ]
+      },
+      {
+        "char": "こ",
+        "romaji": [
+          "ko",
+          "co"
+        ]
+      },
+      {
+        "char": "つ",
+        "romaji": [
+          "tu",
+          "tsu"
+        ]
+      },
+      {
+        "char": "だ",
+        "romaji": [
+          "da"
+        ]
+      },
+      {
+        "char": "な",
+        "romaji": [
+          "na"
+        ]
+      },
+      {
+        "char": "。",
+        "romaji": [
+          "."
+        ]
+      },
+      {
+        "char": "び",
+        "romaji": [
+          "bi"
+        ]
+      },
+      {
+        "char": "じ",
+        "romaji": [
+          "zi",
+          "ji"
+        ]
+      },
+      {
+        "char": "ね",
+        "romaji": [
+          "ne"
+        ]
+      },
+      {
+        "char": "す",
+        "romaji": [
+          "su"
+        ]
+      },
+      {
+        "char": "と",
+        "romaji": [
+          "to"
+        ]
+      },
+      {
+        "char": "お",
+        "romaji": [
+          "o"
+        ]
+      },
+      {
+        "char": "な",
+        "romaji": [
+          "na"
+        ]
+      },
+      {
+        "char": "じ",
+        "romaji": [
+          "zi",
+          "ji"
+        ]
+      },
+      {
+        "char": "や",
+        "romaji": [
+          "ya"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "original": "usutakuをフォロー",
+    "characters": [
+      {
+        "char": "u",
+        "romaji": [
+          "u"
+        ]
+      },
+      {
+        "char": "s",
+        "romaji": [
+          "s"
+        ]
+      },
+      {
+        "char": "u",
+        "romaji": [
+          "u"
+        ]
+      },
+      {
+        "char": "t",
+        "romaji": [
+          "t"
+        ]
+      },
+      {
+        "char": "a",
+        "romaji": [
+          "a"
+        ]
+      },
+      {
+        "char": "k",
+        "romaji": [
+          "k"
+        ]
+      },
+      {
+        "char": "u",
+        "romaji": [
+          "u"
+        ]
+      },
+      {
+        "char": "を",
+        "romaji": [
+          "wo",
+          "o"
+        ]
+      },
+      {
+        "char": "ふぉ",
+        "romaji": [
+          "fo",
+          "huxo",
+          "hulo",
+          "fuxo",
+          "fulo"
+        ]
+      },
+      {
+        "char": "ろ",
+        "romaji": [
+          "ro",
+          "lo"
+        ]
+      },
+      {
+        "char": "う",
+        "romaji": [
+          "u",
+          "wu",
+          "whu"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "original": "リッツ婚以外はクソ",
+    "characters": [
+      {
+        "char": "り",
+        "romaji": [
+          "ri",
+          "li"
+        ]
+      },
+      {
+        "char": "っ",
+        "romaji": [
+          "xtu",
+          "ltu",
+          "xtsu",
+          "ltsu"
+        ]
+      },
+      {
+        "char": "つ",
+        "romaji": [
+          "tu",
+          "tsu"
+        ]
+      },
+      {
+        "char": "こ",
+        "romaji": [
+          "ko",
+          "co"
+        ]
+      },
+      {
+        "char": "ん",
+        "romaji": [
+          "nn",
+          "n'",
+          "xn"
+        ]
+      },
+      {
+        "char": "い",
+        "romaji": [
+          "i",
+          "yi"
+        ]
+      },
+      {
+        "char": "が",
+        "romaji": [
+          "ga"
+        ]
+      },
+      {
+        "char": "い",
+        "romaji": [
+          "i",
+          "yi"
+        ]
+      },
+      {
+        "char": "は",
+        "romaji": [
+          "ha",
+          "wa"
+        ]
+      },
+      {
+        "char": "く",
+        "romaji": [
+          "ku",
+          "cu",
+          "qu"
+        ]
+      },
+      {
+        "char": "そ",
+        "romaji": [
+          "so"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "original": "自分の欲求を誠実に満たしてくれる環境や人の集合を「上質世界」と呼ぶ",
+    "characters": [
+      {
+        "char": "じ",
+        "romaji": [
+          "zi",
+          "ji"
+        ]
+      },
+      {
+        "char": "ぶ",
+        "romaji": [
+          "bu"
+        ]
+      },
+      {
+        "char": "ん",
+        "romaji": [
+          "nn",
+          "n'",
+          "xn"
+        ]
+      },
+      {
+        "char": "の",
+        "romaji": [
+          "no"
+        ]
+      },
+      {
+        "char": "よ",
+        "romaji": [
+          "yo"
+        ]
+      },
+      {
+        "char": "っ",
+        "romaji": [
+          "xtu",
+          "ltu",
+          "xtsu",
+          "ltsu"
+        ]
+      },
+      {
+        "char": "きゅ",
+        "romaji": [
+          "kyu",
+          "kilyu",
+          "kixyu"
+        ]
+      },
+      {
+        "char": "う",
+        "romaji": [
+          "u",
+          "wu",
+          "whu"
+        ]
+      },
+      {
+        "char": "を",
+        "romaji": [
+          "wo",
+          "o"
+        ]
+      },
+      {
+        "char": "せ",
+        "romaji": [
+          "se",
+          "ce"
+        ]
+      },
+      {
+        "char": "い",
+        "romaji": [
+          "i",
+          "yi"
+        ]
+      },
+      {
+        "char": "じ",
+        "romaji": [
+          "zi",
+          "ji"
+        ]
+      },
+      {
+        "char": "つ",
+        "romaji": [
+          "tu",
+          "tsu"
+        ]
+      },
+      {
+        "char": "に",
+        "romaji": [
+          "ni"
+        ]
+      },
+      {
+        "char": "み",
+        "romaji": [
+          "mi"
+        ]
+      },
+      {
+        "char": "た",
+        "romaji": [
+          "ta"
+        ]
+      },
+      {
+        "char": "し",
+        "romaji": [
+          "si",
+          "shi",
+          "ci"
+        ]
+      },
+      {
+        "char": "て",
+        "romaji": [
+          "te"
+        ]
+      },
+      {
+        "char": "く",
+        "romaji": [
+          "ku",
+          "cu",
+          "qu"
+        ]
+      },
+      {
+        "char": "れ",
+        "romaji": [
+          "re",
+          "le"
+        ]
+      },
+      {
+        "char": "る",
+        "romaji": [
+          "ru",
+          "lu"
+        ]
+      },
+      {
+        "char": "か",
+        "romaji": [
+          "ka",
+          "ca"
+        ]
+      },
+      {
+        "char": "ん",
+        "romaji": [
+          "n",
+          "nn",
+          "n'",
+          "xn"
+        ]
+      },
+      {
+        "char": "きょ",
+        "romaji": [
+          "kyo",
+          "kilyo",
+          "kixyo"
+        ]
+      },
+      {
+        "char": "う",
+        "romaji": [
+          "u",
+          "wu",
+          "whu"
+        ]
+      },
+      {
+        "char": "や",
+        "romaji": [
+          "ya"
+        ]
+      },
+      {
+        "char": "に",
+        "romaji": [
+          "ni"
+        ]
+      },
+      {
+        "char": "ん",
+        "romaji": [
+          "nn",
+          "n'",
+          "xn"
+        ]
+      },
+      {
+        "char": "の",
+        "romaji": [
+          "no"
+        ]
+      },
+      {
+        "char": "しゅ",
+        "romaji": [
+          "syu",
+          "shu",
+          "silyu",
+          "sixyu",
+          "shilyu",
+          "shixyu",
+          "cilyu",
+          "cixyu"
+        ]
+      },
+      {
+        "char": "う",
+        "romaji": [
+          "u",
+          "wu",
+          "whu"
+        ]
+      },
+      {
+        "char": "ご",
+        "romaji": [
+          "go"
+        ]
+      },
+      {
+        "char": "う",
+        "romaji": [
+          "u",
+          "wu",
+          "whu"
+        ]
+      },
+      {
+        "char": "を",
+        "romaji": [
+          "wo",
+          "o"
+        ]
+      },
+      {
+        "char": "「",
+        "romaji": [
+          "["
+        ]
+      },
+      {
+        "char": "じょ",
+        "romaji": [
+          "jo",
+          "zyo",
+          "jyo",
+          "zilyo",
+          "zixyo",
+          "jilyo",
+          "jixyo"
+        ]
+      },
+      {
+        "char": "う",
+        "romaji": [
+          "u",
+          "wu",
+          "whu"
+        ]
+      },
+      {
+        "char": "し",
+        "romaji": [
+          "si",
+          "shi",
+          "ci"
+        ]
+      },
+      {
+        "char": "つ",
+        "romaji": [
+          "tu",
+          "tsu"
+        ]
+      },
+      {
+        "char": "せ",
+        "romaji": [
+          "se",
+          "ce"
+        ]
+      },
+      {
+        "char": "か",
+        "romaji": [
+          "ka",
+          "ca"
+        ]
+      },
+      {
+        "char": "い",
+        "romaji": [
+          "i",
+          "yi"
+        ]
+      },
+      {
+        "char": "」",
+        "romaji": [
+          "]"
+        ]
+      },
+      {
+        "char": "と",
+        "romaji": [
+          "to"
+        ]
+      },
+      {
+        "char": "よ",
+        "romaji": [
+          "yo"
+        ]
+      },
+      {
+        "char": "ぶ",
+        "romaji": [
+          "bu"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "original": "人間がやるべき作業じゃないです",
+    "characters": [
+      {
+        "char": "に",
+        "romaji": [
+          "ni"
+        ]
+      },
+      {
+        "char": "ん",
+        "romaji": [
+          "n",
+          "nn",
+          "n'",
+          "xn"
+        ]
+      },
+      {
+        "char": "げ",
+        "romaji": [
+          "ge"
+        ]
+      },
+      {
+        "char": "ん",
+        "romaji": [
+          "n",
+          "nn",
+          "n'",
+          "xn"
+        ]
+      },
+      {
+        "char": "が",
+        "romaji": [
+          "ga"
+        ]
+      },
+      {
+        "char": "や",
+        "romaji": [
+          "ya"
+        ]
+      },
+      {
+        "char": "る",
+        "romaji": [
+          "ru",
+          "lu"
+        ]
+      },
+      {
+        "char": "べ",
+        "romaji": [
+          "be"
+        ]
+      },
+      {
+        "char": "き",
+        "romaji": [
+          "ki"
+        ]
+      },
+      {
+        "char": "さ",
+        "romaji": [
+          "sa"
+        ]
+      },
+      {
+        "char": "ぎょ",
+        "romaji": [
+          "gyo",
+          "gilyo",
+          "gixyo"
+        ]
+      },
+      {
+        "char": "う",
+        "romaji": [
+          "u",
+          "wu",
+          "whu"
+        ]
+      },
+      {
+        "char": "じゃ",
+        "romaji": [
+          "ja",
+          "zya",
+          "jya",
+          "zilya",
+          "zixya",
+          "jilya",
+          "jixya"
+        ]
+      },
+      {
+        "char": "な",
+        "romaji": [
+          "na"
+        ]
+      },
+      {
+        "char": "い",
+        "romaji": [
+          "i",
+          "yi"
+        ]
+      },
+      {
+        "char": "で",
+        "romaji": [
+          "de"
+        ]
+      },
+      {
+        "char": "す",
+        "romaji": [
+          "su"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "original": "花粉症は他責",
+    "characters": [
+      {
+        "char": "か",
+        "romaji": [
+          "ka",
+          "ca"
+        ]
+      },
+      {
+        "char": "ふ",
+        "romaji": [
+          "hu",
+          "fu"
+        ]
+      },
+      {
+        "char": "ん",
+        "romaji": [
+          "n",
+          "nn",
+          "n'",
+          "xn"
+        ]
+      },
+      {
+        "char": "しょ",
+        "romaji": [
+          "syo",
+          "sho",
+          "silyo",
+          "sixyo",
+          "shilyo",
+          "shixyo",
+          "cilyo",
+          "cixyo"
+        ]
+      },
+      {
+        "char": "う",
+        "romaji": [
+          "u",
+          "wu",
+          "whu"
+        ]
+      },
+      {
+        "char": "は",
+        "romaji": [
+          "ha",
+          "wa"
+        ]
+      },
+      {
+        "char": "ほ",
+        "romaji": [
+          "ho"
+        ]
+      },
+      {
+        "char": "か",
+        "romaji": [
+          "ka",
+          "ca"
+        ]
+      },
+      {
+        "char": "せ",
+        "romaji": [
+          "se",
+          "ce"
+        ]
+      },
+      {
+        "char": "き",
+        "romaji": [
+          "ki"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "original": "球技は人生に必要",
+    "characters": [
+      {
+        "char": "きゅ",
+        "romaji": [
+          "kyu",
+          "kilyu",
+          "kixyu"
+        ]
+      },
+      {
+        "char": "う",
+        "romaji": [
+          "u",
+          "wu",
+          "whu"
+        ]
+      },
+      {
+        "char": "ぎ",
+        "romaji": [
+          "gi"
+        ]
+      },
+      {
+        "char": "は",
+        "romaji": [
+          "ha",
+          "wa"
+        ]
+      },
+      {
+        "char": "じ",
+        "romaji": [
+          "zi",
+          "ji"
+        ]
+      },
+      {
+        "char": "ん",
+        "romaji": [
+          "n",
+          "nn",
+          "n'",
+          "xn"
+        ]
+      },
+      {
+        "char": "せ",
+        "romaji": [
+          "se",
+          "ce"
+        ]
+      },
+      {
+        "char": "い",
+        "romaji": [
+          "i",
+          "yi"
+        ]
+      },
+      {
+        "char": "に",
+        "romaji": [
+          "ni"
+        ]
+      },
+      {
+        "char": "ひ",
+        "romaji": [
+          "hi"
+        ]
+      },
+      {
+        "char": "つ",
+        "romaji": [
+          "tu",
+          "tsu"
+        ]
+      },
+      {
+        "char": "よ",
+        "romaji": [
+          "yo"
+        ]
+      },
+      {
+        "char": "う",
+        "romaji": [
+          "u",
+          "wu",
+          "whu"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "original": "家用のお花は素手で持ち帰る効率的に飾りたいから",
+    "characters": [
+      {
+        "char": "か",
+        "romaji": [
+          "ka",
+          "ca"
+        ]
+      },
+      {
+        "char": "よ",
+        "romaji": [
+          "yo"
+        ]
+      },
+      {
+        "char": "う",
+        "romaji": [
+          "u",
+          "wu",
+          "whu"
+        ]
+      },
+      {
+        "char": "の",
+        "romaji": [
+          "no"
+        ]
+      },
+      {
+        "char": "お",
+        "romaji": [
+          "o"
+        ]
+      },
+      {
+        "char": "は",
+        "romaji": [
+          "ha",
+          "wa"
+        ]
+      },
+      {
+        "char": "な",
+        "romaji": [
+          "na"
+        ]
+      },
+      {
+        "char": "は",
+        "romaji": [
+          "ha",
+          "wa"
+        ]
+      },
+      {
+        "char": "す",
+        "romaji": [
+          "su"
+        ]
+      },
+      {
+        "char": "で",
+        "romaji": [
+          "de"
+        ]
+      },
+      {
+        "char": "で",
+        "romaji": [
+          "de"
+        ]
+      },
+      {
+        "char": "も",
+        "romaji": [
+          "mo"
+        ]
+      },
+      {
+        "char": "ち",
+        "romaji": [
+          "ti",
+          "chi"
+        ]
+      },
+      {
+        "char": "か",
+        "romaji": [
+          "ka",
+          "ca"
+        ]
+      },
+      {
+        "char": "え",
+        "romaji": [
+          "e"
+        ]
+      },
+      {
+        "char": "る",
+        "romaji": [
+          "ru",
+          "lu"
+        ]
+      },
+      {
+        "char": "こ",
+        "romaji": [
+          "ko",
+          "co"
+        ]
+      },
+      {
+        "char": "う",
+        "romaji": [
+          "u",
+          "wu",
+          "whu"
+        ]
+      },
+      {
+        "char": "り",
+        "romaji": [
+          "ri",
+          "li"
+        ]
+      },
+      {
+        "char": "つ",
+        "romaji": [
+          "tu",
+          "tsu"
+        ]
+      },
+      {
+        "char": "て",
+        "romaji": [
+          "te"
+        ]
+      },
+      {
+        "char": "き",
+        "romaji": [
+          "ki"
+        ]
+      },
+      {
+        "char": "に",
+        "romaji": [
+          "ni"
+        ]
+      },
+      {
+        "char": "か",
+        "romaji": [
+          "ka",
+          "ca"
+        ]
+      },
+      {
+        "char": "ざ",
+        "romaji": [
+          "za"
+        ]
+      },
+      {
+        "char": "り",
+        "romaji": [
+          "ri",
+          "li"
+        ]
+      },
+      {
+        "char": "た",
+        "romaji": [
+          "ta"
+        ]
+      },
+      {
+        "char": "い",
+        "romaji": [
+          "i",
+          "yi"
+        ]
+      },
+      {
+        "char": "か",
+        "romaji": [
+          "ka",
+          "ca"
+        ]
+      },
+      {
+        "char": "ら",
+        "romaji": [
+          "ra",
+          "la"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "original": "当たり前の基準が、全て",
+    "characters": [
+      {
+        "char": "あ",
+        "romaji": [
+          "a"
+        ]
+      },
+      {
+        "char": "た",
+        "romaji": [
+          "ta"
+        ]
+      },
+      {
+        "char": "り",
+        "romaji": [
+          "ri",
+          "li"
+        ]
+      },
+      {
+        "char": "ま",
+        "romaji": [
+          "ma"
+        ]
+      },
+      {
+        "char": "え",
+        "romaji": [
+          "e"
+        ]
+      },
+      {
+        "char": "の",
+        "romaji": [
+          "no"
+        ]
+      },
+      {
+        "char": "き",
+        "romaji": [
+          "ki"
+        ]
+      },
+      {
+        "char": "じゅ",
+        "romaji": [
+          "ju",
+          "zyu",
+          "jyu",
+          "zilyu",
+          "zixyu",
+          "jilyu",
+          "jixyu"
+        ]
+      },
+      {
+        "char": "ん",
+        "romaji": [
+          "n",
+          "nn",
+          "n'",
+          "xn"
+        ]
+      },
+      {
+        "char": "が",
+        "romaji": [
+          "ga"
+        ]
+      },
+      {
+        "char": "、",
+        "romaji": [
+          ","
+        ]
+      },
+      {
+        "char": "す",
+        "romaji": [
+          "su"
+        ]
+      },
+      {
+        "char": "べ",
+        "romaji": [
+          "be"
+        ]
+      },
+      {
+        "char": "て",
+        "romaji": [
+          "te"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "original": "Dockの多さは優柔不断の証",
+    "characters": [
+      {
+        "char": "D",
+        "romaji": [
+          "d"
+        ]
+      },
+      {
+        "char": "o",
+        "romaji": [
+          "o"
+        ]
+      },
+      {
+        "char": "c",
+        "romaji": [
+          "c"
+        ]
+      },
+      {
+        "char": "k",
+        "romaji": [
+          "k"
+        ]
+      },
+      {
+        "char": "の",
+        "romaji": [
+          "no"
+        ]
+      },
+      {
+        "char": "お",
+        "romaji": [
+          "o"
+        ]
+      },
+      {
+        "char": "お",
+        "romaji": [
+          "o"
+        ]
+      },
+      {
+        "char": "さ",
+        "romaji": [
+          "sa"
+        ]
+      },
+      {
+        "char": "は",
+        "romaji": [
+          "ha",
+          "wa"
+        ]
+      },
+      {
+        "char": "ゆ",
+        "romaji": [
+          "yu"
+        ]
+      },
+      {
+        "char": "う",
+        "romaji": [
+          "u",
+          "wu",
+          "whu"
+        ]
+      },
+      {
+        "char": "じゅ",
+        "romaji": [
+          "ju",
+          "zyu",
+          "jyu",
+          "zilyu",
+          "zixyu",
+          "jilyu",
+          "jixyu"
+        ]
+      },
+      {
+        "char": "う",
+        "romaji": [
+          "u",
+          "wu",
+          "whu"
+        ]
+      },
+      {
+        "char": "ふ",
+        "romaji": [
+          "hu",
+          "fu"
+        ]
+      },
+      {
+        "char": "だ",
+        "romaji": [
+          "da"
+        ]
+      },
+      {
+        "char": "ん",
+        "romaji": [
+          "nn",
+          "n'",
+          "xn"
+        ]
+      },
+      {
+        "char": "の",
+        "romaji": [
+          "no"
+        ]
+      },
+      {
+        "char": "しょ",
+        "romaji": [
+          "syo",
+          "sho",
+          "silyo",
+          "sixyo",
+          "shilyo",
+          "shixyo",
+          "cilyo",
+          "cixyo"
+        ]
+      },
+      {
+        "char": "う",
+        "romaji": [
+          "u",
+          "wu",
+          "whu"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "original": "卑下と謙遜は違う！",
+    "characters": [
+      {
+        "char": "ひ",
+        "romaji": [
+          "hi"
+        ]
+      },
+      {
+        "char": "げ",
+        "romaji": [
+          "ge"
+        ]
+      },
+      {
+        "char": "と",
+        "romaji": [
+          "to"
+        ]
+      },
+      {
+        "char": "け",
+        "romaji": [
+          "ke"
+        ]
+      },
+      {
+        "char": "ん",
+        "romaji": [
+          "n",
+          "nn",
+          "n'",
+          "xn"
+        ]
+      },
+      {
+        "char": "そ",
+        "romaji": [
+          "so"
+        ]
+      },
+      {
+        "char": "ん",
+        "romaji": [
+          "n",
+          "nn",
+          "n'",
+          "xn"
+        ]
+      },
+      {
+        "char": "は",
+        "romaji": [
+          "ha",
+          "wa"
+        ]
+      },
+      {
+        "char": "ち",
+        "romaji": [
+          "ti",
+          "chi"
+        ]
+      },
+      {
+        "char": "が",
+        "romaji": [
+          "ga"
+        ]
+      },
+      {
+        "char": "う",
+        "romaji": [
+          "u",
+          "wu",
+          "whu"
+        ]
+      },
+      {
+        "char": "！",
+        "romaji": [
+          "!"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "original": "瞬きは一瞬視界を失うので非効率",
+    "characters": [
+      {
+        "char": "ま",
+        "romaji": [
+          "ma"
+        ]
+      },
+      {
+        "char": "た",
+        "romaji": [
+          "ta"
+        ]
+      },
+      {
+        "char": "た",
+        "romaji": [
+          "ta"
+        ]
+      },
+      {
+        "char": "き",
+        "romaji": [
+          "ki"
+        ]
+      },
+      {
+        "char": "は",
+        "romaji": [
+          "ha",
+          "wa"
+        ]
+      },
+      {
+        "char": "い",
+        "romaji": [
+          "i",
+          "yi"
+        ]
+      },
+      {
+        "char": "っ",
+        "romaji": [
+          "xtu",
+          "ltu",
+          "xtsu",
+          "ltsu"
+        ]
+      },
+      {
+        "char": "しゅ",
+        "romaji": [
+          "syu",
+          "shu",
+          "silyu",
+          "sixyu",
+          "shilyu",
+          "shixyu",
+          "cilyu",
+          "cixyu"
+        ]
+      },
+      {
+        "char": "ん",
+        "romaji": [
+          "n",
+          "nn",
+          "n'",
+          "xn"
+        ]
+      },
+      {
+        "char": "し",
+        "romaji": [
+          "si",
+          "shi",
+          "ci"
+        ]
+      },
+      {
+        "char": "か",
+        "romaji": [
+          "ka",
+          "ca"
+        ]
+      },
+      {
+        "char": "い",
+        "romaji": [
+          "i",
+          "yi"
+        ]
+      },
+      {
+        "char": "を",
+        "romaji": [
+          "wo",
+          "o"
+        ]
+      },
+      {
+        "char": "う",
+        "romaji": [
+          "u",
+          "wu",
+          "whu"
+        ]
+      },
+      {
+        "char": "し",
+        "romaji": [
+          "si",
+          "shi",
+          "ci"
+        ]
+      },
+      {
+        "char": "な",
+        "romaji": [
+          "na"
+        ]
+      },
+      {
+        "char": "う",
+        "romaji": [
+          "u",
+          "wu",
+          "whu"
+        ]
+      },
+      {
+        "char": "の",
+        "romaji": [
+          "no"
+        ]
+      },
+      {
+        "char": "で",
+        "romaji": [
+          "de"
+        ]
+      },
+      {
+        "char": "ひ",
+        "romaji": [
+          "hi"
+        ]
+      },
+      {
+        "char": "こ",
+        "romaji": [
+          "ko",
+          "co"
+        ]
+      },
+      {
+        "char": "う",
+        "romaji": [
+          "u",
+          "wu",
+          "whu"
+        ]
+      },
+      {
+        "char": "り",
+        "romaji": [
+          "ri",
+          "li"
+        ]
+      },
+      {
+        "char": "つ",
+        "romaji": [
+          "tu",
+          "tsu"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "original": "それは本当に良くない",
+    "characters": [
+      {
+        "char": "そ",
+        "romaji": [
+          "so"
+        ]
+      },
+      {
+        "char": "れ",
+        "romaji": [
+          "re",
+          "le"
+        ]
+      },
+      {
+        "char": "は",
+        "romaji": [
+          "ha",
+          "wa"
+        ]
+      },
+      {
+        "char": "ほ",
+        "romaji": [
+          "ho"
+        ]
+      },
+      {
+        "char": "ん",
+        "romaji": [
+          "n",
+          "nn",
+          "n'",
+          "xn"
+        ]
+      },
+      {
+        "char": "と",
+        "romaji": [
+          "to"
+        ]
+      },
+      {
+        "char": "う",
+        "romaji": [
+          "u",
+          "wu",
+          "whu"
+        ]
+      },
+      {
+        "char": "に",
+        "romaji": [
+          "ni"
+        ]
+      },
+      {
+        "char": "よ",
+        "romaji": [
+          "yo"
+        ]
+      },
+      {
+        "char": "く",
+        "romaji": [
+          "ku",
+          "cu",
+          "qu"
+        ]
+      },
+      {
+        "char": "な",
+        "romaji": [
+          "na"
+        ]
+      },
+      {
+        "char": "い",
+        "romaji": [
+          "i",
+          "yi"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "original": "KPIはサーブ入れること",
+    "characters": [
+      {
+        "char": "K",
+        "romaji": [
+          "k"
+        ]
+      },
+      {
+        "char": "P",
+        "romaji": [
+          "p"
+        ]
+      },
+      {
+        "char": "I",
+        "romaji": [
+          "i"
+        ]
+      },
+      {
+        "char": "は",
+        "romaji": [
+          "ha",
+          "wa"
+        ]
+      },
+      {
+        "char": "さ",
+        "romaji": [
+          "sa"
+        ]
+      },
+      {
+        "char": "ー",
+        "romaji": [
+          "-"
+        ]
+      },
+      {
+        "char": "ぶ",
+        "romaji": [
+          "bu"
+        ]
+      },
+      {
+        "char": "い",
+        "romaji": [
+          "i",
+          "yi"
+        ]
+      },
+      {
+        "char": "れ",
+        "romaji": [
+          "re",
+          "le"
+        ]
+      },
+      {
+        "char": "る",
+        "romaji": [
+          "ru",
+          "lu"
+        ]
+      },
+      {
+        "char": "こ",
+        "romaji": [
+          "ko",
+          "co"
+        ]
+      },
+      {
+        "char": "と",
+        "romaji": [
+          "to"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "original": "僕は時給単価で仕事してるからね",
+    "characters": [
+      {
+        "char": "ぼ",
+        "romaji": [
+          "bo"
+        ]
+      },
+      {
+        "char": "く",
+        "romaji": [
+          "ku",
+          "cu",
+          "qu"
+        ]
+      },
+      {
+        "char": "は",
+        "romaji": [
+          "ha",
+          "wa"
+        ]
+      },
+      {
+        "char": "じ",
+        "romaji": [
+          "zi",
+          "ji"
+        ]
+      },
+      {
+        "char": "きゅ",
+        "romaji": [
+          "kyu",
+          "kilyu",
+          "kixyu"
+        ]
+      },
+      {
+        "char": "う",
+        "romaji": [
+          "u",
+          "wu",
+          "whu"
+        ]
+      },
+      {
+        "char": "た",
+        "romaji": [
+          "ta"
+        ]
+      },
+      {
+        "char": "ん",
+        "romaji": [
+          "n",
+          "nn",
+          "n'",
+          "xn"
+        ]
+      },
+      {
+        "char": "か",
+        "romaji": [
+          "ka",
+          "ca"
+        ]
+      },
+      {
+        "char": "で",
+        "romaji": [
+          "de"
+        ]
+      },
+      {
+        "char": "し",
+        "romaji": [
+          "si",
+          "shi",
+          "ci"
+        ]
+      },
+      {
+        "char": "ご",
+        "romaji": [
+          "go"
+        ]
+      },
+      {
+        "char": "と",
+        "romaji": [
+          "to"
+        ]
+      },
+      {
+        "char": "し",
+        "romaji": [
+          "si",
+          "shi",
+          "ci"
+        ]
+      },
+      {
+        "char": "て",
+        "romaji": [
+          "te"
+        ]
+      },
+      {
+        "char": "る",
+        "romaji": [
+          "ru",
+          "lu"
+        ]
+      },
+      {
+        "char": "か",
+        "romaji": [
+          "ka",
+          "ca"
+        ]
+      },
+      {
+        "char": "ら",
+        "romaji": [
+          "ra",
+          "la"
+        ]
+      },
+      {
+        "char": "ね",
+        "romaji": [
+          "ne"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "original": "効率化100%",
+    "characters": [
+      {
+        "char": "こ",
+        "romaji": [
+          "ko",
+          "co"
+        ]
+      },
+      {
+        "char": "う",
+        "romaji": [
+          "u",
+          "wu",
+          "whu"
+        ]
+      },
+      {
+        "char": "り",
+        "romaji": [
+          "ri",
+          "li"
+        ]
+      },
+      {
+        "char": "つ",
+        "romaji": [
+          "tu",
+          "tsu"
+        ]
+      },
+      {
+        "char": "か",
+        "romaji": [
+          "ka",
+          "ca"
+        ]
+      },
+      {
+        "char": "1",
+        "romaji": [
+          "1"
+        ]
+      },
+      {
+        "char": "0",
+        "romaji": [
+          "0"
+        ]
+      },
+      {
+        "char": "0",
+        "romaji": [
+          "0"
+        ]
+      },
+      {
+        "char": "%",
+        "romaji": [
+          "%"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "original": "常に「右」ではなく「左」",
+    "characters": [
+      {
+        "char": "つ",
+        "romaji": [
+          "tu",
+          "tsu"
+        ]
+      },
+      {
+        "char": "ね",
+        "romaji": [
+          "ne"
+        ]
+      },
+      {
+        "char": "に",
+        "romaji": [
+          "ni"
+        ]
+      },
+      {
+        "char": "「",
+        "romaji": [
+          "["
+        ]
+      },
+      {
+        "char": "み",
+        "romaji": [
+          "mi"
+        ]
+      },
+      {
+        "char": "ぎ",
+        "romaji": [
+          "gi"
+        ]
+      },
+      {
+        "char": "」",
+        "romaji": [
+          "]"
+        ]
+      },
+      {
+        "char": "で",
+        "romaji": [
+          "de"
+        ]
+      },
+      {
+        "char": "は",
+        "romaji": [
+          "ha",
+          "wa"
+        ]
+      },
+      {
+        "char": "な",
+        "romaji": [
+          "na"
+        ]
+      },
+      {
+        "char": "く",
+        "romaji": [
+          "ku",
+          "cu",
+          "qu"
+        ]
+      },
+      {
+        "char": "「",
+        "romaji": [
+          "["
+        ]
+      },
+      {
+        "char": "ひ",
+        "romaji": [
+          "hi"
+        ]
+      },
+      {
+        "char": "だ",
+        "romaji": [
+          "da"
+        ]
+      },
+      {
+        "char": "り",
+        "romaji": [
+          "ri",
+          "li"
+        ]
+      },
+      {
+        "char": "」",
+        "romaji": [
+          "]"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "original": "ボールを持ったままにしない",
+    "characters": [
+      {
+        "char": "ぼ",
+        "romaji": [
+          "bo"
+        ]
+      },
+      {
+        "char": "ー",
+        "romaji": [
+          "-"
+        ]
+      },
+      {
+        "char": "る",
+        "romaji": [
+          "ru",
+          "lu"
+        ]
+      },
+      {
+        "char": "を",
+        "romaji": [
+          "wo",
+          "o"
+        ]
+      },
+      {
+        "char": "も",
+        "romaji": [
+          "mo"
+        ]
+      },
+      {
+        "char": "っ",
+        "romaji": [
+          "xtu",
+          "ltu",
+          "xtsu",
+          "ltsu"
+        ]
+      },
+      {
+        "char": "た",
+        "romaji": [
+          "ta"
+        ]
+      },
+      {
+        "char": "ま",
+        "romaji": [
+          "ma"
+        ]
+      },
+      {
+        "char": "ま",
+        "romaji": [
+          "ma"
+        ]
+      },
+      {
+        "char": "に",
+        "romaji": [
+          "ni"
+        ]
+      },
+      {
+        "char": "し",
+        "romaji": [
+          "si",
+          "shi",
+          "ci"
+        ]
+      },
+      {
+        "char": "な",
+        "romaji": [
+          "na"
+        ]
+      },
+      {
+        "char": "い",
+        "romaji": [
+          "i",
+          "yi"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "original": "悩むのをやめる",
+    "characters": [
+      {
+        "char": "な",
+        "romaji": [
+          "na"
+        ]
+      },
+      {
+        "char": "や",
+        "romaji": [
+          "ya"
+        ]
+      },
+      {
+        "char": "む",
+        "romaji": [
+          "mu"
+        ]
+      },
+      {
+        "char": "の",
+        "romaji": [
+          "no"
+        ]
+      },
+      {
+        "char": "を",
+        "romaji": [
+          "wo",
+          "o"
+        ]
+      },
+      {
+        "char": "や",
+        "romaji": [
+          "ya"
+        ]
+      },
+      {
+        "char": "め",
+        "romaji": [
+          "me"
+        ]
+      },
+      {
+        "char": "る",
+        "romaji": [
+          "ru",
+          "lu"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "original": "悩むとは、問題を複雑にしていること",
+    "characters": [
+      {
+        "char": "な",
+        "romaji": [
+          "na"
+        ]
+      },
+      {
+        "char": "や",
+        "romaji": [
+          "ya"
+        ]
+      },
+      {
+        "char": "む",
+        "romaji": [
+          "mu"
+        ]
+      },
+      {
+        "char": "と",
+        "romaji": [
+          "to"
+        ]
+      },
+      {
+        "char": "は",
+        "romaji": [
+          "ha",
+          "wa"
+        ]
+      },
+      {
+        "char": "、",
+        "romaji": [
+          ","
+        ]
+      },
+      {
+        "char": "も",
+        "romaji": [
+          "mo"
+        ]
+      },
+      {
+        "char": "ん",
+        "romaji": [
+          "n",
+          "nn",
+          "n'",
+          "xn"
+        ]
+      },
+      {
+        "char": "だ",
+        "romaji": [
+          "da"
+        ]
+      },
+      {
+        "char": "い",
+        "romaji": [
+          "i",
+          "yi"
+        ]
+      },
+      {
+        "char": "を",
+        "romaji": [
+          "wo",
+          "o"
+        ]
+      },
+      {
+        "char": "ふ",
+        "romaji": [
+          "hu",
+          "fu"
+        ]
+      },
+      {
+        "char": "く",
+        "romaji": [
+          "ku",
+          "cu",
+          "qu"
+        ]
+      },
+      {
+        "char": "ざ",
+        "romaji": [
+          "za"
+        ]
+      },
+      {
+        "char": "つ",
+        "romaji": [
+          "tu",
+          "tsu"
+        ]
+      },
+      {
+        "char": "に",
+        "romaji": [
+          "ni"
+        ]
+      },
+      {
+        "char": "し",
+        "romaji": [
+          "si",
+          "shi",
+          "ci"
+        ]
+      },
+      {
+        "char": "て",
+        "romaji": [
+          "te"
+        ]
+      },
+      {
+        "char": "い",
+        "romaji": [
+          "i",
+          "yi"
+        ]
+      },
+      {
+        "char": "る",
+        "romaji": [
+          "ru",
+          "lu"
+        ]
+      },
+      {
+        "char": "こ",
+        "romaji": [
+          "ko",
+          "co"
+        ]
+      },
+      {
+        "char": "と",
+        "romaji": [
+          "to"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "original": "悩むのではなく、考える。問題を解決にする",
+    "characters": [
+      {
+        "char": "な",
+        "romaji": [
+          "na"
+        ]
+      },
+      {
+        "char": "や",
+        "romaji": [
+          "ya"
+        ]
+      },
+      {
+        "char": "む",
+        "romaji": [
+          "mu"
+        ]
+      },
+      {
+        "char": "の",
+        "romaji": [
+          "no"
+        ]
+      },
+      {
+        "char": "で",
+        "romaji": [
+          "de"
+        ]
+      },
+      {
+        "char": "は",
+        "romaji": [
+          "ha",
+          "wa"
+        ]
+      },
+      {
+        "char": "な",
+        "romaji": [
+          "na"
+        ]
+      },
+      {
+        "char": "く",
+        "romaji": [
+          "ku",
+          "cu",
+          "qu"
+        ]
+      },
+      {
+        "char": "、",
+        "romaji": [
+          ","
+        ]
+      },
+      {
+        "char": "か",
+        "romaji": [
+          "ka",
+          "ca"
+        ]
+      },
+      {
+        "char": "ん",
+        "romaji": [
+          "n",
+          "nn",
+          "n'",
+          "xn"
+        ]
+      },
+      {
+        "char": "が",
+        "romaji": [
+          "ga"
+        ]
+      },
+      {
+        "char": "え",
+        "romaji": [
+          "e"
+        ]
+      },
+      {
+        "char": "る",
+        "romaji": [
+          "ru",
+          "lu"
+        ]
+      },
+      {
+        "char": "。",
+        "romaji": [
+          "."
+        ]
+      },
+      {
+        "char": "も",
+        "romaji": [
+          "mo"
+        ]
+      },
+      {
+        "char": "ん",
+        "romaji": [
+          "n",
+          "nn",
+          "n'",
+          "xn"
+        ]
+      },
+      {
+        "char": "だ",
+        "romaji": [
+          "da"
+        ]
+      },
+      {
+        "char": "い",
+        "romaji": [
+          "i",
+          "yi"
+        ]
+      },
+      {
+        "char": "を",
+        "romaji": [
+          "wo",
+          "o"
+        ]
+      },
+      {
+        "char": "か",
+        "romaji": [
+          "ka",
+          "ca"
+        ]
+      },
+      {
+        "char": "い",
+        "romaji": [
+          "i",
+          "yi"
+        ]
+      },
+      {
+        "char": "け",
+        "romaji": [
+          "ke"
+        ]
+      },
+      {
+        "char": "つ",
+        "romaji": [
+          "tu",
+          "tsu"
+        ]
+      },
+      {
+        "char": "に",
+        "romaji": [
+          "ni"
+        ]
+      },
+      {
+        "char": "す",
+        "romaji": [
+          "su"
+        ]
+      },
+      {
+        "char": "る",
+        "romaji": [
+          "ru",
+          "lu"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "original": "自ら機会を作り出し、機会によって自らを変えよ",
+    "characters": [
+      {
+        "char": "み",
+        "romaji": [
+          "mi"
+        ]
+      },
+      {
+        "char": "ず",
+        "romaji": [
+          "zu"
+        ]
+      },
+      {
+        "char": "か",
+        "romaji": [
+          "ka",
+          "ca"
+        ]
+      },
+      {
+        "char": "ら",
+        "romaji": [
+          "ra",
+          "la"
+        ]
+      },
+      {
+        "char": "き",
+        "romaji": [
+          "ki"
+        ]
+      },
+      {
+        "char": "か",
+        "romaji": [
+          "ka",
+          "ca"
+        ]
+      },
+      {
+        "char": "い",
+        "romaji": [
+          "i",
+          "yi"
+        ]
+      },
+      {
+        "char": "を",
+        "romaji": [
+          "wo",
+          "o"
+        ]
+      },
+      {
+        "char": "つ",
+        "romaji": [
+          "tu",
+          "tsu"
+        ]
+      },
+      {
+        "char": "く",
+        "romaji": [
+          "ku",
+          "cu",
+          "qu"
+        ]
+      },
+      {
+        "char": "り",
+        "romaji": [
+          "ri",
+          "li"
+        ]
+      },
+      {
+        "char": "だ",
+        "romaji": [
+          "da"
+        ]
+      },
+      {
+        "char": "し",
+        "romaji": [
+          "si",
+          "shi",
+          "ci"
+        ]
+      },
+      {
+        "char": "、",
+        "romaji": [
+          ","
+        ]
+      },
+      {
+        "char": "き",
+        "romaji": [
+          "ki"
+        ]
+      },
+      {
+        "char": "か",
+        "romaji": [
+          "ka",
+          "ca"
+        ]
+      },
+      {
+        "char": "い",
+        "romaji": [
+          "i",
+          "yi"
+        ]
+      },
+      {
+        "char": "に",
+        "romaji": [
+          "ni"
+        ]
+      },
+      {
+        "char": "よ",
+        "romaji": [
+          "yo"
+        ]
+      },
+      {
+        "char": "っ",
+        "romaji": [
+          "xtu",
+          "ltu",
+          "xtsu",
+          "ltsu"
+        ]
+      },
+      {
+        "char": "て",
+        "romaji": [
+          "te"
+        ]
+      },
+      {
+        "char": "み",
+        "romaji": [
+          "mi"
+        ]
+      },
+      {
+        "char": "ず",
+        "romaji": [
+          "zu"
+        ]
+      },
+      {
+        "char": "か",
+        "romaji": [
+          "ka",
+          "ca"
+        ]
+      },
+      {
+        "char": "ら",
+        "romaji": [
+          "ra",
+          "la"
+        ]
+      },
+      {
+        "char": "を",
+        "romaji": [
+          "wo",
+          "o"
+        ]
+      },
+      {
+        "char": "か",
+        "romaji": [
+          "ka",
+          "ca"
+        ]
+      },
+      {
+        "char": "え",
+        "romaji": [
+          "e"
+        ]
+      },
+      {
+        "char": "よ",
+        "romaji": [
+          "yo"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "original": "時間は本当に大事である",
+    "characters": [
+      {
+        "char": "じ",
+        "romaji": [
+          "zi",
+          "ji"
+        ]
+      },
+      {
+        "char": "か",
+        "romaji": [
+          "ka",
+          "ca"
+        ]
+      },
+      {
+        "char": "ん",
+        "romaji": [
+          "n",
+          "nn",
+          "n'",
+          "xn"
+        ]
+      },
+      {
+        "char": "は",
+        "romaji": [
+          "ha",
+          "wa"
+        ]
+      },
+      {
+        "char": "ほ",
+        "romaji": [
+          "ho"
+        ]
+      },
+      {
+        "char": "ん",
+        "romaji": [
+          "n",
+          "nn",
+          "n'",
+          "xn"
+        ]
+      },
+      {
+        "char": "と",
+        "romaji": [
+          "to"
+        ]
+      },
+      {
+        "char": "う",
+        "romaji": [
+          "u",
+          "wu",
+          "whu"
+        ]
+      },
+      {
+        "char": "に",
+        "romaji": [
+          "ni"
+        ]
+      },
+      {
+        "char": "だ",
+        "romaji": [
+          "da"
+        ]
+      },
+      {
+        "char": "い",
+        "romaji": [
+          "i",
+          "yi"
+        ]
+      },
+      {
+        "char": "じ",
+        "romaji": [
+          "zi",
+          "ji"
+        ]
+      },
+      {
+        "char": "で",
+        "romaji": [
+          "de"
+        ]
+      },
+      {
+        "char": "あ",
+        "romaji": [
+          "a"
+        ]
+      },
+      {
+        "char": "る",
+        "romaji": [
+          "ru",
+          "lu"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "original": "残り人生は有限ということを大前提に置いたときの 自分の今の時間の使い方は見直した方がいい",
+    "characters": [
+      {
+        "char": "の",
+        "romaji": [
+          "no"
+        ]
+      },
+      {
+        "char": "こ",
+        "romaji": [
+          "ko",
+          "co"
+        ]
+      },
+      {
+        "char": "り",
+        "romaji": [
+          "ri",
+          "li"
+        ]
+      },
+      {
+        "char": "じ",
+        "romaji": [
+          "zi",
+          "ji"
+        ]
+      },
+      {
+        "char": "ん",
+        "romaji": [
+          "n",
+          "nn",
+          "n'",
+          "xn"
+        ]
+      },
+      {
+        "char": "せ",
+        "romaji": [
+          "se",
+          "ce"
+        ]
+      },
+      {
+        "char": "い",
+        "romaji": [
+          "i",
+          "yi"
+        ]
+      },
+      {
+        "char": "は",
+        "romaji": [
+          "ha",
+          "wa"
+        ]
+      },
+      {
+        "char": "ゆ",
+        "romaji": [
+          "yu"
+        ]
+      },
+      {
+        "char": "う",
+        "romaji": [
+          "u",
+          "wu",
+          "whu"
+        ]
+      },
+      {
+        "char": "げ",
+        "romaji": [
+          "ge"
+        ]
+      },
+      {
+        "char": "ん",
+        "romaji": [
+          "n",
+          "nn",
+          "n'",
+          "xn"
+        ]
+      },
+      {
+        "char": "と",
+        "romaji": [
+          "to"
+        ]
+      },
+      {
+        "char": "い",
+        "romaji": [
+          "i",
+          "yi"
+        ]
+      },
+      {
+        "char": "う",
+        "romaji": [
+          "u",
+          "wu",
+          "whu"
+        ]
+      },
+      {
+        "char": "こ",
+        "romaji": [
+          "ko",
+          "co"
+        ]
+      },
+      {
+        "char": "と",
+        "romaji": [
+          "to"
+        ]
+      },
+      {
+        "char": "を",
+        "romaji": [
+          "wo",
+          "o"
+        ]
+      },
+      {
+        "char": "だ",
+        "romaji": [
+          "da"
+        ]
+      },
+      {
+        "char": "い",
+        "romaji": [
+          "i",
+          "yi"
+        ]
+      },
+      {
+        "char": "ぜ",
+        "romaji": [
+          "ze"
+        ]
+      },
+      {
+        "char": "ん",
+        "romaji": [
+          "n",
+          "nn",
+          "n'",
+          "xn"
+        ]
+      },
+      {
+        "char": "て",
+        "romaji": [
+          "te"
+        ]
+      },
+      {
+        "char": "い",
+        "romaji": [
+          "i",
+          "yi"
+        ]
+      },
+      {
+        "char": "に",
+        "romaji": [
+          "ni"
+        ]
+      },
+      {
+        "char": "お",
+        "romaji": [
+          "o"
+        ]
+      },
+      {
+        "char": "い",
+        "romaji": [
+          "i",
+          "yi"
+        ]
+      },
+      {
+        "char": "た",
+        "romaji": [
+          "ta"
+        ]
+      },
+      {
+        "char": "と",
+        "romaji": [
+          "to"
+        ]
+      },
+      {
+        "char": "き",
+        "romaji": [
+          "ki"
+        ]
+      },
+      {
+        "char": "の",
+        "romaji": [
+          "no"
+        ]
+      },
+      {
+        "char": "じ",
+        "romaji": [
+          "zi",
+          "ji"
+        ]
+      },
+      {
+        "char": "ぶ",
+        "romaji": [
+          "bu"
+        ]
+      },
+      {
+        "char": "ん",
+        "romaji": [
+          "nn",
+          "n'",
+          "xn"
+        ]
+      },
+      {
+        "char": "の",
+        "romaji": [
+          "no"
+        ]
+      },
+      {
+        "char": "い",
+        "romaji": [
+          "i",
+          "yi"
+        ]
+      },
+      {
+        "char": "ま",
+        "romaji": [
+          "ma"
+        ]
+      },
+      {
+        "char": "の",
+        "romaji": [
+          "no"
+        ]
+      },
+      {
+        "char": "じ",
+        "romaji": [
+          "zi",
+          "ji"
+        ]
+      },
+      {
+        "char": "か",
+        "romaji": [
+          "ka",
+          "ca"
+        ]
+      },
+      {
+        "char": "ん",
+        "romaji": [
+          "nn",
+          "n'",
+          "xn"
+        ]
+      },
+      {
+        "char": "の",
+        "romaji": [
+          "no"
+        ]
+      },
+      {
+        "char": "つ",
+        "romaji": [
+          "tu",
+          "tsu"
+        ]
+      },
+      {
+        "char": "か",
+        "romaji": [
+          "ka",
+          "ca"
+        ]
+      },
+      {
+        "char": "い",
+        "romaji": [
+          "i",
+          "yi"
+        ]
+      },
+      {
+        "char": "か",
+        "romaji": [
+          "ka",
+          "ca"
+        ]
+      },
+      {
+        "char": "た",
+        "romaji": [
+          "ta"
+        ]
+      },
+      {
+        "char": "は",
+        "romaji": [
+          "ha",
+          "wa"
+        ]
+      },
+      {
+        "char": "み",
+        "romaji": [
+          "mi"
+        ]
+      },
+      {
+        "char": "な",
+        "romaji": [
+          "na"
+        ]
+      },
+      {
+        "char": "お",
+        "romaji": [
+          "o"
+        ]
+      },
+      {
+        "char": "し",
+        "romaji": [
+          "si",
+          "shi",
+          "ci"
+        ]
+      },
+      {
+        "char": "た",
+        "romaji": [
+          "ta"
+        ]
+      },
+      {
+        "char": "ほ",
+        "romaji": [
+          "ho"
+        ]
+      },
+      {
+        "char": "う",
+        "romaji": [
+          "u",
+          "wu",
+          "whu"
+        ]
+      },
+      {
+        "char": "が",
+        "romaji": [
+          "ga"
+        ]
+      },
+      {
+        "char": "い",
+        "romaji": [
+          "i",
+          "yi"
+        ]
+      },
+      {
+        "char": "い",
+        "romaji": [
+          "i",
+          "yi"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "original": "他人をリスペクトできない人が嫌いだ",
+    "characters": [
+      {
+        "char": "た",
+        "romaji": [
+          "ta"
+        ]
+      },
+      {
+        "char": "に",
+        "romaji": [
+          "ni"
+        ]
+      },
+      {
+        "char": "ん",
+        "romaji": [
+          "n",
+          "nn",
+          "n'",
+          "xn"
+        ]
+      },
+      {
+        "char": "を",
+        "romaji": [
+          "wo",
+          "o"
+        ]
+      },
+      {
+        "char": "り",
+        "romaji": [
+          "ri",
+          "li"
+        ]
+      },
+      {
+        "char": "す",
+        "romaji": [
+          "su"
+        ]
+      },
+      {
+        "char": "ぺ",
+        "romaji": [
+          "pe"
+        ]
+      },
+      {
+        "char": "く",
+        "romaji": [
+          "ku",
+          "cu",
+          "qu"
+        ]
+      },
+      {
+        "char": "と",
+        "romaji": [
+          "to"
+        ]
+      },
+      {
+        "char": "で",
+        "romaji": [
+          "de"
+        ]
+      },
+      {
+        "char": "き",
+        "romaji": [
+          "ki"
+        ]
+      },
+      {
+        "char": "な",
+        "romaji": [
+          "na"
+        ]
+      },
+      {
+        "char": "い",
+        "romaji": [
+          "i",
+          "yi"
+        ]
+      },
+      {
+        "char": "に",
+        "romaji": [
+          "ni"
+        ]
+      },
+      {
+        "char": "ん",
+        "romaji": [
+          "n",
+          "nn",
+          "n'",
+          "xn"
+        ]
+      },
+      {
+        "char": "が",
+        "romaji": [
+          "ga"
+        ]
+      },
+      {
+        "char": "き",
+        "romaji": [
+          "ki"
+        ]
+      },
+      {
+        "char": "ら",
+        "romaji": [
+          "ra",
+          "la"
+        ]
+      },
+      {
+        "char": "い",
+        "romaji": [
+          "i",
+          "yi"
+        ]
+      },
+      {
+        "char": "だ",
+        "romaji": [
+          "da"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "original": "相手を少しでも配慮していればそんな発言をしないだろう、と思うことが普段何度もある",
+    "characters": [
+      {
+        "char": "あ",
+        "romaji": [
+          "a"
+        ]
+      },
+      {
+        "char": "い",
+        "romaji": [
+          "i",
+          "yi"
+        ]
+      },
+      {
+        "char": "て",
+        "romaji": [
+          "te"
+        ]
+      },
+      {
+        "char": "を",
+        "romaji": [
+          "wo",
+          "o"
+        ]
+      },
+      {
+        "char": "す",
+        "romaji": [
+          "su"
+        ]
+      },
+      {
+        "char": "こ",
+        "romaji": [
+          "ko",
+          "co"
+        ]
+      },
+      {
+        "char": "し",
+        "romaji": [
+          "si",
+          "shi",
+          "ci"
+        ]
+      },
+      {
+        "char": "で",
+        "romaji": [
+          "de"
+        ]
+      },
+      {
+        "char": "も",
+        "romaji": [
+          "mo"
+        ]
+      },
+      {
+        "char": "は",
+        "romaji": [
+          "ha",
+          "wa"
+        ]
+      },
+      {
+        "char": "い",
+        "romaji": [
+          "i",
+          "yi"
+        ]
+      },
+      {
+        "char": "りょ",
+        "romaji": [
+          "ryo",
+          "lyo",
+          "rilyo",
+          "rixyo",
+          "lilyo",
+          "lixyo"
+        ]
+      },
+      {
+        "char": "し",
+        "romaji": [
+          "si",
+          "shi",
+          "ci"
+        ]
+      },
+      {
+        "char": "て",
+        "romaji": [
+          "te"
+        ]
+      },
+      {
+        "char": "い",
+        "romaji": [
+          "i",
+          "yi"
+        ]
+      },
+      {
+        "char": "れ",
+        "romaji": [
+          "re",
+          "le"
+        ]
+      },
+      {
+        "char": "ば",
+        "romaji": [
+          "ba"
+        ]
+      },
+      {
+        "char": "そ",
+        "romaji": [
+          "so"
+        ]
+      },
+      {
+        "char": "ん",
+        "romaji": [
+          "nn",
+          "n'",
+          "xn"
+        ]
+      },
+      {
+        "char": "な",
+        "romaji": [
+          "na"
+        ]
+      },
+      {
+        "char": "は",
+        "romaji": [
+          "ha",
+          "wa"
+        ]
+      },
+      {
+        "char": "つ",
+        "romaji": [
+          "tu",
+          "tsu"
+        ]
+      },
+      {
+        "char": "げ",
+        "romaji": [
+          "ge"
+        ]
+      },
+      {
+        "char": "ん",
+        "romaji": [
+          "n",
+          "nn",
+          "n'",
+          "xn"
+        ]
+      },
+      {
+        "char": "を",
+        "romaji": [
+          "wo",
+          "o"
+        ]
+      },
+      {
+        "char": "し",
+        "romaji": [
+          "si",
+          "shi",
+          "ci"
+        ]
+      },
+      {
+        "char": "な",
+        "romaji": [
+          "na"
+        ]
+      },
+      {
+        "char": "い",
+        "romaji": [
+          "i",
+          "yi"
+        ]
+      },
+      {
+        "char": "だ",
+        "romaji": [
+          "da"
+        ]
+      },
+      {
+        "char": "ろ",
+        "romaji": [
+          "ro",
+          "lo"
+        ]
+      },
+      {
+        "char": "う",
+        "romaji": [
+          "u",
+          "wu",
+          "whu"
+        ]
+      },
+      {
+        "char": "、",
+        "romaji": [
+          ","
+        ]
+      },
+      {
+        "char": "と",
+        "romaji": [
+          "to"
+        ]
+      },
+      {
+        "char": "お",
+        "romaji": [
+          "o"
+        ]
+      },
+      {
+        "char": "も",
+        "romaji": [
+          "mo"
+        ]
+      },
+      {
+        "char": "う",
+        "romaji": [
+          "u",
+          "wu",
+          "whu"
+        ]
+      },
+      {
+        "char": "こ",
+        "romaji": [
+          "ko",
+          "co"
+        ]
+      },
+      {
+        "char": "と",
+        "romaji": [
+          "to"
+        ]
+      },
+      {
+        "char": "が",
+        "romaji": [
+          "ga"
+        ]
+      },
+      {
+        "char": "ふ",
+        "romaji": [
+          "hu",
+          "fu"
+        ]
+      },
+      {
+        "char": "だ",
+        "romaji": [
+          "da"
+        ]
+      },
+      {
+        "char": "ん",
+        "romaji": [
+          "nn",
+          "n'",
+          "xn"
+        ]
+      },
+      {
+        "char": "な",
+        "romaji": [
+          "na"
+        ]
+      },
+      {
+        "char": "ん",
+        "romaji": [
+          "n",
+          "nn",
+          "n'",
+          "xn"
+        ]
+      },
+      {
+        "char": "ど",
+        "romaji": [
+          "do"
+        ]
+      },
+      {
+        "char": "も",
+        "romaji": [
+          "mo"
+        ]
+      },
+      {
+        "char": "あ",
+        "romaji": [
+          "a"
+        ]
+      },
+      {
+        "char": "る",
+        "romaji": [
+          "ru",
+          "lu"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "original": "例えば「最近忙しい？」とだけ送られても困る",
+    "characters": [
+      {
+        "char": "た",
+        "romaji": [
+          "ta"
+        ]
+      },
+      {
+        "char": "と",
+        "romaji": [
+          "to"
+        ]
+      },
+      {
+        "char": "え",
+        "romaji": [
+          "e"
+        ]
+      },
+      {
+        "char": "ば",
+        "romaji": [
+          "ba"
+        ]
+      },
+      {
+        "char": "「",
+        "romaji": [
+          "["
+        ]
+      },
+      {
+        "char": "さ",
+        "romaji": [
+          "sa"
+        ]
+      },
+      {
+        "char": "い",
+        "romaji": [
+          "i",
+          "yi"
+        ]
+      },
+      {
+        "char": "き",
+        "romaji": [
+          "ki"
+        ]
+      },
+      {
+        "char": "ん",
+        "romaji": [
+          "nn",
+          "n'",
+          "xn"
+        ]
+      },
+      {
+        "char": "い",
+        "romaji": [
+          "i",
+          "yi"
+        ]
+      },
+      {
+        "char": "そ",
+        "romaji": [
+          "so"
+        ]
+      },
+      {
+        "char": "が",
+        "romaji": [
+          "ga"
+        ]
+      },
+      {
+        "char": "し",
+        "romaji": [
+          "si",
+          "shi",
+          "ci"
+        ]
+      },
+      {
+        "char": "い",
+        "romaji": [
+          "i",
+          "yi"
+        ]
+      },
+      {
+        "char": "？",
+        "romaji": [
+          "?"
+        ]
+      },
+      {
+        "char": "」",
+        "romaji": [
+          "]"
+        ]
+      },
+      {
+        "char": "と",
+        "romaji": [
+          "to"
+        ]
+      },
+      {
+        "char": "だ",
+        "romaji": [
+          "da"
+        ]
+      },
+      {
+        "char": "け",
+        "romaji": [
+          "ke"
+        ]
+      },
+      {
+        "char": "お",
+        "romaji": [
+          "o"
+        ]
+      },
+      {
+        "char": "く",
+        "romaji": [
+          "ku",
+          "cu",
+          "qu"
+        ]
+      },
+      {
+        "char": "ら",
+        "romaji": [
+          "ra",
+          "la"
+        ]
+      },
+      {
+        "char": "れ",
+        "romaji": [
+          "re",
+          "le"
+        ]
+      },
+      {
+        "char": "て",
+        "romaji": [
+          "te"
+        ]
+      },
+      {
+        "char": "も",
+        "romaji": [
+          "mo"
+        ]
+      },
+      {
+        "char": "こ",
+        "romaji": [
+          "ko",
+          "co"
+        ]
+      },
+      {
+        "char": "ま",
+        "romaji": [
+          "ma"
+        ]
+      },
+      {
+        "char": "る",
+        "romaji": [
+          "ru",
+          "lu"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "original": "忙しいに決まっているけれど、事情によっては時間を取ることもできる",
+    "characters": [
+      {
+        "char": "い",
+        "romaji": [
+          "i",
+          "yi"
+        ]
+      },
+      {
+        "char": "そ",
+        "romaji": [
+          "so"
+        ]
+      },
+      {
+        "char": "が",
+        "romaji": [
+          "ga"
+        ]
+      },
+      {
+        "char": "し",
+        "romaji": [
+          "si",
+          "shi",
+          "ci"
+        ]
+      },
+      {
+        "char": "い",
+        "romaji": [
+          "i",
+          "yi"
+        ]
+      },
+      {
+        "char": "に",
+        "romaji": [
+          "ni"
+        ]
+      },
+      {
+        "char": "き",
+        "romaji": [
+          "ki"
+        ]
+      },
+      {
+        "char": "ま",
+        "romaji": [
+          "ma"
+        ]
+      },
+      {
+        "char": "っ",
+        "romaji": [
+          "xtu",
+          "ltu",
+          "xtsu",
+          "ltsu"
+        ]
+      },
+      {
+        "char": "て",
+        "romaji": [
+          "te"
+        ]
+      },
+      {
+        "char": "い",
+        "romaji": [
+          "i",
+          "yi"
+        ]
+      },
+      {
+        "char": "る",
+        "romaji": [
+          "ru",
+          "lu"
+        ]
+      },
+      {
+        "char": "け",
+        "romaji": [
+          "ke"
+        ]
+      },
+      {
+        "char": "れ",
+        "romaji": [
+          "re",
+          "le"
+        ]
+      },
+      {
+        "char": "ど",
+        "romaji": [
+          "do"
+        ]
+      },
+      {
+        "char": "、",
+        "romaji": [
+          ","
+        ]
+      },
+      {
+        "char": "じ",
+        "romaji": [
+          "zi",
+          "ji"
+        ]
+      },
+      {
+        "char": "じょ",
+        "romaji": [
+          "jo",
+          "zyo",
+          "jyo",
+          "zilyo",
+          "zixyo",
+          "jilyo",
+          "jixyo"
+        ]
+      },
+      {
+        "char": "う",
+        "romaji": [
+          "u",
+          "wu",
+          "whu"
+        ]
+      },
+      {
+        "char": "に",
+        "romaji": [
+          "ni"
+        ]
+      },
+      {
+        "char": "よ",
+        "romaji": [
+          "yo"
+        ]
+      },
+      {
+        "char": "っ",
+        "romaji": [
+          "xtu",
+          "ltu",
+          "xtsu",
+          "ltsu"
+        ]
+      },
+      {
+        "char": "て",
+        "romaji": [
+          "te"
+        ]
+      },
+      {
+        "char": "は",
+        "romaji": [
+          "ha",
+          "wa"
+        ]
+      },
+      {
+        "char": "じ",
+        "romaji": [
+          "zi",
+          "ji"
+        ]
+      },
+      {
+        "char": "か",
+        "romaji": [
+          "ka",
+          "ca"
+        ]
+      },
+      {
+        "char": "ん",
+        "romaji": [
+          "n",
+          "nn",
+          "n'",
+          "xn"
+        ]
+      },
+      {
+        "char": "を",
+        "romaji": [
+          "wo",
+          "o"
+        ]
+      },
+      {
+        "char": "と",
+        "romaji": [
+          "to"
+        ]
+      },
+      {
+        "char": "る",
+        "romaji": [
+          "ru",
+          "lu"
+        ]
+      },
+      {
+        "char": "こ",
+        "romaji": [
+          "ko",
+          "co"
+        ]
+      },
+      {
+        "char": "と",
+        "romaji": [
+          "to"
+        ]
+      },
+      {
+        "char": "も",
+        "romaji": [
+          "mo"
+        ]
+      },
+      {
+        "char": "で",
+        "romaji": [
+          "de"
+        ]
+      },
+      {
+        "char": "き",
+        "romaji": [
+          "ki"
+        ]
+      },
+      {
+        "char": "る",
+        "romaji": [
+          "ru",
+          "lu"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "original": "あとは遅刻関係",
+    "characters": [
+      {
+        "char": "あ",
+        "romaji": [
+          "a"
+        ]
+      },
+      {
+        "char": "と",
+        "romaji": [
+          "to"
+        ]
+      },
+      {
+        "char": "は",
+        "romaji": [
+          "ha",
+          "wa"
+        ]
+      },
+      {
+        "char": "ち",
+        "romaji": [
+          "ti",
+          "chi"
+        ]
+      },
+      {
+        "char": "こ",
+        "romaji": [
+          "ko",
+          "co"
+        ]
+      },
+      {
+        "char": "く",
+        "romaji": [
+          "ku",
+          "cu",
+          "qu"
+        ]
+      },
+      {
+        "char": "か",
+        "romaji": [
+          "ka",
+          "ca"
+        ]
+      },
+      {
+        "char": "ん",
+        "romaji": [
+          "n",
+          "nn",
+          "n'",
+          "xn"
+        ]
+      },
+      {
+        "char": "け",
+        "romaji": [
+          "ke"
+        ]
+      },
+      {
+        "char": "い",
+        "romaji": [
+          "i",
+          "yi"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "original": "別に時間通りに来なくたっていい",
+    "characters": [
+      {
+        "char": "べ",
+        "romaji": [
+          "be"
+        ]
+      },
+      {
+        "char": "つ",
+        "romaji": [
+          "tu",
+          "tsu"
+        ]
+      },
+      {
+        "char": "に",
+        "romaji": [
+          "ni"
+        ]
+      },
+      {
+        "char": "じ",
+        "romaji": [
+          "zi",
+          "ji"
+        ]
+      },
+      {
+        "char": "か",
+        "romaji": [
+          "ka",
+          "ca"
+        ]
+      },
+      {
+        "char": "ん",
+        "romaji": [
+          "n",
+          "nn",
+          "n'",
+          "xn"
+        ]
+      },
+      {
+        "char": "と",
+        "romaji": [
+          "to"
+        ]
+      },
+      {
+        "char": "う",
+        "romaji": [
+          "u",
+          "wu",
+          "whu"
+        ]
+      },
+      {
+        "char": "り",
+        "romaji": [
+          "ri",
+          "li"
+        ]
+      },
+      {
+        "char": "に",
+        "romaji": [
+          "ni"
+        ]
+      },
+      {
+        "char": "こ",
+        "romaji": [
+          "ko",
+          "co"
+        ]
+      },
+      {
+        "char": "な",
+        "romaji": [
+          "na"
+        ]
+      },
+      {
+        "char": "く",
+        "romaji": [
+          "ku",
+          "cu",
+          "qu"
+        ]
+      },
+      {
+        "char": "た",
+        "romaji": [
+          "ta"
+        ]
+      },
+      {
+        "char": "っ",
+        "romaji": [
+          "xtu",
+          "ltu",
+          "xtsu",
+          "ltsu"
+        ]
+      },
+      {
+        "char": "て",
+        "romaji": [
+          "te"
+        ]
+      },
+      {
+        "char": "い",
+        "romaji": [
+          "i",
+          "yi"
+        ]
+      },
+      {
+        "char": "い",
+        "romaji": [
+          "i",
+          "yi"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "original": "でも、遅れるなら謝罪＋連絡は当たり前だとusutakuは思う",
+    "characters": [
+      {
+        "char": "で",
+        "romaji": [
+          "de"
+        ]
+      },
+      {
+        "char": "も",
+        "romaji": [
+          "mo"
+        ]
+      },
+      {
+        "char": "、",
+        "romaji": [
+          ","
+        ]
+      },
+      {
+        "char": "お",
+        "romaji": [
+          "o"
+        ]
+      },
+      {
+        "char": "く",
+        "romaji": [
+          "ku",
+          "cu",
+          "qu"
+        ]
+      },
+      {
+        "char": "れ",
+        "romaji": [
+          "re",
+          "le"
+        ]
+      },
+      {
+        "char": "る",
+        "romaji": [
+          "ru",
+          "lu"
+        ]
+      },
+      {
+        "char": "な",
+        "romaji": [
+          "na"
+        ]
+      },
+      {
+        "char": "ら",
+        "romaji": [
+          "ra",
+          "la"
+        ]
+      },
+      {
+        "char": "しゃ",
+        "romaji": [
+          "sya",
+          "sha",
+          "silya",
+          "sixya",
+          "shilya",
+          "shixya",
+          "cilya",
+          "cixya"
+        ]
+      },
+      {
+        "char": "ざ",
+        "romaji": [
+          "za"
+        ]
+      },
+      {
+        "char": "い",
+        "romaji": [
+          "i",
+          "yi"
+        ]
+      },
+      {
+        "char": "＋",
+        "romaji": [
+          "＋"
+        ]
+      },
+      {
+        "char": "れ",
+        "romaji": [
+          "re",
+          "le"
+        ]
+      },
+      {
+        "char": "ん",
+        "romaji": [
+          "n",
+          "nn",
+          "n'",
+          "xn"
+        ]
+      },
+      {
+        "char": "ら",
+        "romaji": [
+          "ra",
+          "la"
+        ]
+      },
+      {
+        "char": "く",
+        "romaji": [
+          "ku",
+          "cu",
+          "qu"
+        ]
+      },
+      {
+        "char": "は",
+        "romaji": [
+          "ha",
+          "wa"
+        ]
+      },
+      {
+        "char": "あ",
+        "romaji": [
+          "a"
+        ]
+      },
+      {
+        "char": "た",
+        "romaji": [
+          "ta"
+        ]
+      },
+      {
+        "char": "り",
+        "romaji": [
+          "ri",
+          "li"
+        ]
+      },
+      {
+        "char": "ま",
+        "romaji": [
+          "ma"
+        ]
+      },
+      {
+        "char": "え",
+        "romaji": [
+          "e"
+        ]
+      },
+      {
+        "char": "だ",
+        "romaji": [
+          "da"
+        ]
+      },
+      {
+        "char": "と",
+        "romaji": [
+          "to"
+        ]
+      },
+      {
+        "char": "u",
+        "romaji": [
+          "u"
+        ]
+      },
+      {
+        "char": "s",
+        "romaji": [
+          "s"
+        ]
+      },
+      {
+        "char": "u",
+        "romaji": [
+          "u"
+        ]
+      },
+      {
+        "char": "t",
+        "romaji": [
+          "t"
+        ]
+      },
+      {
+        "char": "a",
+        "romaji": [
+          "a"
+        ]
+      },
+      {
+        "char": "k",
+        "romaji": [
+          "k"
+        ]
+      },
+      {
+        "char": "u",
+        "romaji": [
+          "u"
+        ]
+      },
+      {
+        "char": "は",
+        "romaji": [
+          "ha",
+          "wa"
+        ]
+      },
+      {
+        "char": "お",
+        "romaji": [
+          "o"
+        ]
+      },
+      {
+        "char": "も",
+        "romaji": [
+          "mo"
+        ]
+      },
+      {
+        "char": "う",
+        "romaji": [
+          "u",
+          "wu",
+          "whu"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "original": "遠慮はいらない、配慮はしろ",
+    "characters": [
+      {
+        "char": "え",
+        "romaji": [
+          "e"
+        ]
+      },
+      {
+        "char": "ん",
+        "romaji": [
+          "n",
+          "nn",
+          "n'",
+          "xn"
+        ]
+      },
+      {
+        "char": "りょ",
+        "romaji": [
+          "ryo",
+          "lyo",
+          "rilyo",
+          "rixyo",
+          "lilyo",
+          "lixyo"
+        ]
+      },
+      {
+        "char": "は",
+        "romaji": [
+          "ha",
+          "wa"
+        ]
+      },
+      {
+        "char": "い",
+        "romaji": [
+          "i",
+          "yi"
+        ]
+      },
+      {
+        "char": "ら",
+        "romaji": [
+          "ra",
+          "la"
+        ]
+      },
+      {
+        "char": "な",
+        "romaji": [
+          "na"
+        ]
+      },
+      {
+        "char": "い",
+        "romaji": [
+          "i",
+          "yi"
+        ]
+      },
+      {
+        "char": "、",
+        "romaji": [
+          ","
+        ]
+      },
+      {
+        "char": "は",
+        "romaji": [
+          "ha",
+          "wa"
+        ]
+      },
+      {
+        "char": "い",
+        "romaji": [
+          "i",
+          "yi"
+        ]
+      },
+      {
+        "char": "りょ",
+        "romaji": [
+          "ryo",
+          "lyo",
+          "rilyo",
+          "rixyo",
+          "lilyo",
+          "lixyo"
+        ]
+      },
+      {
+        "char": "は",
+        "romaji": [
+          "ha",
+          "wa"
+        ]
+      },
+      {
+        "char": "し",
+        "romaji": [
+          "si",
+          "shi",
+          "ci"
+        ]
+      },
+      {
+        "char": "ろ",
+        "romaji": [
+          "ro",
+          "lo"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "original": "遠慮しないことを、他人にリスペクトを持たないことと勘違いしている人の多さだ",
+    "characters": [
+      {
+        "char": "え",
+        "romaji": [
+          "e"
+        ]
+      },
+      {
+        "char": "ん",
+        "romaji": [
+          "n",
+          "nn",
+          "n'",
+          "xn"
+        ]
+      },
+      {
+        "char": "りょ",
+        "romaji": [
+          "ryo",
+          "lyo",
+          "rilyo",
+          "rixyo",
+          "lilyo",
+          "lixyo"
+        ]
+      },
+      {
+        "char": "し",
+        "romaji": [
+          "si",
+          "shi",
+          "ci"
+        ]
+      },
+      {
+        "char": "な",
+        "romaji": [
+          "na"
+        ]
+      },
+      {
+        "char": "い",
+        "romaji": [
+          "i",
+          "yi"
+        ]
+      },
+      {
+        "char": "こ",
+        "romaji": [
+          "ko",
+          "co"
+        ]
+      },
+      {
+        "char": "と",
+        "romaji": [
+          "to"
+        ]
+      },
+      {
+        "char": "を",
+        "romaji": [
+          "wo",
+          "o"
+        ]
+      },
+      {
+        "char": "、",
+        "romaji": [
+          ","
+        ]
+      },
+      {
+        "char": "た",
+        "romaji": [
+          "ta"
+        ]
+      },
+      {
+        "char": "に",
+        "romaji": [
+          "ni"
+        ]
+      },
+      {
+        "char": "ん",
+        "romaji": [
+          "nn",
+          "n'",
+          "xn"
+        ]
+      },
+      {
+        "char": "に",
+        "romaji": [
+          "ni"
+        ]
+      },
+      {
+        "char": "り",
+        "romaji": [
+          "ri",
+          "li"
+        ]
+      },
+      {
+        "char": "す",
+        "romaji": [
+          "su"
+        ]
+      },
+      {
+        "char": "ぺ",
+        "romaji": [
+          "pe"
+        ]
+      },
+      {
+        "char": "く",
+        "romaji": [
+          "ku",
+          "cu",
+          "qu"
+        ]
+      },
+      {
+        "char": "と",
+        "romaji": [
+          "to"
+        ]
+      },
+      {
+        "char": "を",
+        "romaji": [
+          "wo",
+          "o"
+        ]
+      },
+      {
+        "char": "も",
+        "romaji": [
+          "mo"
+        ]
+      },
+      {
+        "char": "た",
+        "romaji": [
+          "ta"
+        ]
+      },
+      {
+        "char": "な",
+        "romaji": [
+          "na"
+        ]
+      },
+      {
+        "char": "い",
+        "romaji": [
+          "i",
+          "yi"
+        ]
+      },
+      {
+        "char": "こ",
+        "romaji": [
+          "ko",
+          "co"
+        ]
+      },
+      {
+        "char": "と",
+        "romaji": [
+          "to"
+        ]
+      },
+      {
+        "char": "と",
+        "romaji": [
+          "to"
+        ]
+      },
+      {
+        "char": "か",
+        "romaji": [
+          "ka",
+          "ca"
+        ]
+      },
+      {
+        "char": "ん",
+        "romaji": [
+          "n",
+          "nn",
+          "n'",
+          "xn"
+        ]
+      },
+      {
+        "char": "ち",
+        "romaji": [
+          "ti",
+          "chi"
+        ]
+      },
+      {
+        "char": "が",
+        "romaji": [
+          "ga"
+        ]
+      },
+      {
+        "char": "い",
+        "romaji": [
+          "i",
+          "yi"
+        ]
+      },
+      {
+        "char": "し",
+        "romaji": [
+          "si",
+          "shi",
+          "ci"
+        ]
+      },
+      {
+        "char": "て",
+        "romaji": [
+          "te"
+        ]
+      },
+      {
+        "char": "い",
+        "romaji": [
+          "i",
+          "yi"
+        ]
+      },
+      {
+        "char": "る",
+        "romaji": [
+          "ru",
+          "lu"
+        ]
+      },
+      {
+        "char": "に",
+        "romaji": [
+          "ni"
+        ]
+      },
+      {
+        "char": "ん",
+        "romaji": [
+          "nn",
+          "n'",
+          "xn"
+        ]
+      },
+      {
+        "char": "の",
+        "romaji": [
+          "no"
+        ]
+      },
+      {
+        "char": "お",
+        "romaji": [
+          "o"
+        ]
+      },
+      {
+        "char": "お",
+        "romaji": [
+          "o"
+        ]
+      },
+      {
+        "char": "さ",
+        "romaji": [
+          "sa"
+        ]
+      },
+      {
+        "char": "だ",
+        "romaji": [
+          "da"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "original": "負の感情を手放すな",
+    "characters": [
+      {
+        "char": "ふ",
+        "romaji": [
+          "hu",
+          "fu"
+        ]
+      },
+      {
+        "char": "の",
+        "romaji": [
+          "no"
+        ]
+      },
+      {
+        "char": "か",
+        "romaji": [
+          "ka",
+          "ca"
+        ]
+      },
+      {
+        "char": "ん",
+        "romaji": [
+          "n",
+          "nn",
+          "n'",
+          "xn"
+        ]
+      },
+      {
+        "char": "じょ",
+        "romaji": [
+          "jo",
+          "zyo",
+          "jyo",
+          "zilyo",
+          "zixyo",
+          "jilyo",
+          "jixyo"
+        ]
+      },
+      {
+        "char": "う",
+        "romaji": [
+          "u",
+          "wu",
+          "whu"
+        ]
+      },
+      {
+        "char": "を",
+        "romaji": [
+          "wo",
+          "o"
+        ]
+      },
+      {
+        "char": "て",
+        "romaji": [
+          "te"
+        ]
+      },
+      {
+        "char": "ば",
+        "romaji": [
+          "ba"
+        ]
+      },
+      {
+        "char": "な",
+        "romaji": [
+          "na"
+        ]
+      },
+      {
+        "char": "す",
+        "romaji": [
+          "su"
+        ]
+      },
+      {
+        "char": "な",
+        "romaji": [
+          "na"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "original": "不便だなという事象にこそ事業のタネが隠されている",
+    "characters": [
+      {
+        "char": "ふ",
+        "romaji": [
+          "hu",
+          "fu"
+        ]
+      },
+      {
+        "char": "べ",
+        "romaji": [
+          "be"
+        ]
+      },
+      {
+        "char": "ん",
+        "romaji": [
+          "n",
+          "nn",
+          "n'",
+          "xn"
+        ]
+      },
+      {
+        "char": "だ",
+        "romaji": [
+          "da"
+        ]
+      },
+      {
+        "char": "な",
+        "romaji": [
+          "na"
+        ]
+      },
+      {
+        "char": "と",
+        "romaji": [
+          "to"
+        ]
+      },
+      {
+        "char": "い",
+        "romaji": [
+          "i",
+          "yi"
+        ]
+      },
+      {
+        "char": "う",
+        "romaji": [
+          "u",
+          "wu",
+          "whu"
+        ]
+      },
+      {
+        "char": "じ",
+        "romaji": [
+          "zi",
+          "ji"
+        ]
+      },
+      {
+        "char": "しょ",
+        "romaji": [
+          "syo",
+          "sho",
+          "silyo",
+          "sixyo",
+          "shilyo",
+          "shixyo",
+          "cilyo",
+          "cixyo"
+        ]
+      },
+      {
+        "char": "う",
+        "romaji": [
+          "u",
+          "wu",
+          "whu"
+        ]
+      },
+      {
+        "char": "に",
+        "romaji": [
+          "ni"
+        ]
+      },
+      {
+        "char": "こ",
+        "romaji": [
+          "ko",
+          "co"
+        ]
+      },
+      {
+        "char": "そ",
+        "romaji": [
+          "so"
+        ]
+      },
+      {
+        "char": "じ",
+        "romaji": [
+          "zi",
+          "ji"
+        ]
+      },
+      {
+        "char": "ぎょ",
+        "romaji": [
+          "gyo",
+          "gilyo",
+          "gixyo"
+        ]
+      },
+      {
+        "char": "う",
+        "romaji": [
+          "u",
+          "wu",
+          "whu"
+        ]
+      },
+      {
+        "char": "の",
+        "romaji": [
+          "no"
+        ]
+      },
+      {
+        "char": "た",
+        "romaji": [
+          "ta"
+        ]
+      },
+      {
+        "char": "ね",
+        "romaji": [
+          "ne"
+        ]
+      },
+      {
+        "char": "が",
+        "romaji": [
+          "ga"
+        ]
+      },
+      {
+        "char": "か",
+        "romaji": [
+          "ka",
+          "ca"
+        ]
+      },
+      {
+        "char": "く",
+        "romaji": [
+          "ku",
+          "cu",
+          "qu"
+        ]
+      },
+      {
+        "char": "さ",
+        "romaji": [
+          "sa"
+        ]
+      },
+      {
+        "char": "れ",
+        "romaji": [
+          "re",
+          "le"
+        ]
+      },
+      {
+        "char": "て",
+        "romaji": [
+          "te"
+        ]
+      },
+      {
+        "char": "い",
+        "romaji": [
+          "i",
+          "yi"
+        ]
+      },
+      {
+        "char": "る",
+        "romaji": [
+          "ru",
+          "lu"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "original": "「自分の世界の中で自分が一番であろうとしている」人は素敵だ、と昨日友人と話した",
+    "characters": [
+      {
+        "char": "「",
+        "romaji": [
+          "["
+        ]
+      },
+      {
+        "char": "じ",
+        "romaji": [
+          "zi",
+          "ji"
+        ]
+      },
+      {
+        "char": "ぶ",
+        "romaji": [
+          "bu"
+        ]
+      },
+      {
+        "char": "ん",
+        "romaji": [
+          "nn",
+          "n'",
+          "xn"
+        ]
+      },
+      {
+        "char": "の",
+        "romaji": [
+          "no"
+        ]
+      },
+      {
+        "char": "せ",
+        "romaji": [
+          "se",
+          "ce"
+        ]
+      },
+      {
+        "char": "か",
+        "romaji": [
+          "ka",
+          "ca"
+        ]
+      },
+      {
+        "char": "い",
+        "romaji": [
+          "i",
+          "yi"
+        ]
+      },
+      {
+        "char": "の",
+        "romaji": [
+          "no"
+        ]
+      },
+      {
+        "char": "な",
+        "romaji": [
+          "na"
+        ]
+      },
+      {
+        "char": "か",
+        "romaji": [
+          "ka",
+          "ca"
+        ]
+      },
+      {
+        "char": "で",
+        "romaji": [
+          "de"
+        ]
+      },
+      {
+        "char": "じ",
+        "romaji": [
+          "zi",
+          "ji"
+        ]
+      },
+      {
+        "char": "ぶ",
+        "romaji": [
+          "bu"
+        ]
+      },
+      {
+        "char": "ん",
+        "romaji": [
+          "n",
+          "nn",
+          "n'",
+          "xn"
+        ]
+      },
+      {
+        "char": "が",
+        "romaji": [
+          "ga"
+        ]
+      },
+      {
+        "char": "い",
+        "romaji": [
+          "i",
+          "yi"
+        ]
+      },
+      {
+        "char": "ち",
+        "romaji": [
+          "ti",
+          "chi"
+        ]
+      },
+      {
+        "char": "ば",
+        "romaji": [
+          "ba"
+        ]
+      },
+      {
+        "char": "ん",
+        "romaji": [
+          "n",
+          "nn",
+          "n'",
+          "xn"
+        ]
+      },
+      {
+        "char": "で",
+        "romaji": [
+          "de"
+        ]
+      },
+      {
+        "char": "あ",
+        "romaji": [
+          "a"
+        ]
+      },
+      {
+        "char": "ろ",
+        "romaji": [
+          "ro",
+          "lo"
+        ]
+      },
+      {
+        "char": "う",
+        "romaji": [
+          "u",
+          "wu",
+          "whu"
+        ]
+      },
+      {
+        "char": "と",
+        "romaji": [
+          "to"
+        ]
+      },
+      {
+        "char": "し",
+        "romaji": [
+          "si",
+          "shi",
+          "ci"
+        ]
+      },
+      {
+        "char": "て",
+        "romaji": [
+          "te"
+        ]
+      },
+      {
+        "char": "い",
+        "romaji": [
+          "i",
+          "yi"
+        ]
+      },
+      {
+        "char": "る",
+        "romaji": [
+          "ru",
+          "lu"
+        ]
+      },
+      {
+        "char": "」",
+        "romaji": [
+          "]"
+        ]
+      },
+      {
+        "char": "に",
+        "romaji": [
+          "ni"
+        ]
+      },
+      {
+        "char": "ん",
+        "romaji": [
+          "n",
+          "nn",
+          "n'",
+          "xn"
+        ]
+      },
+      {
+        "char": "は",
+        "romaji": [
+          "ha",
+          "wa"
+        ]
+      },
+      {
+        "char": "す",
+        "romaji": [
+          "su"
+        ]
+      },
+      {
+        "char": "て",
+        "romaji": [
+          "te"
+        ]
+      },
+      {
+        "char": "き",
+        "romaji": [
+          "ki"
+        ]
+      },
+      {
+        "char": "だ",
+        "romaji": [
+          "da"
+        ]
+      },
+      {
+        "char": "、",
+        "romaji": [
+          ","
+        ]
+      },
+      {
+        "char": "と",
+        "romaji": [
+          "to"
+        ]
+      },
+      {
+        "char": "き",
+        "romaji": [
+          "ki"
+        ]
+      },
+      {
+        "char": "の",
+        "romaji": [
+          "no"
+        ]
+      },
+      {
+        "char": "う",
+        "romaji": [
+          "u",
+          "wu",
+          "whu"
+        ]
+      },
+      {
+        "char": "ゆ",
+        "romaji": [
+          "yu"
+        ]
+      },
+      {
+        "char": "う",
+        "romaji": [
+          "u",
+          "wu",
+          "whu"
+        ]
+      },
+      {
+        "char": "じ",
+        "romaji": [
+          "zi",
+          "ji"
+        ]
+      },
+      {
+        "char": "ん",
+        "romaji": [
+          "n",
+          "nn",
+          "n'",
+          "xn"
+        ]
+      },
+      {
+        "char": "と",
+        "romaji": [
+          "to"
+        ]
+      },
+      {
+        "char": "は",
+        "romaji": [
+          "ha",
+          "wa"
+        ]
+      },
+      {
+        "char": "な",
+        "romaji": [
+          "na"
+        ]
+      },
+      {
+        "char": "し",
+        "romaji": [
+          "si",
+          "shi",
+          "ci"
+        ]
+      },
+      {
+        "char": "た",
+        "romaji": [
+          "ta"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "original": "どうしても、生まれや学歴、年収とかで上下をつけがちだけど、自分の中での価値基準を持ってその中で理想になろうとしている人は魅力的だよね、ということだ",
+    "characters": [
+      {
+        "char": "ど",
+        "romaji": [
+          "do"
+        ]
+      },
+      {
+        "char": "う",
+        "romaji": [
+          "u",
+          "wu",
+          "whu"
+        ]
+      },
+      {
+        "char": "し",
+        "romaji": [
+          "si",
+          "shi",
+          "ci"
+        ]
+      },
+      {
+        "char": "て",
+        "romaji": [
+          "te"
+        ]
+      },
+      {
+        "char": "も",
+        "romaji": [
+          "mo"
+        ]
+      },
+      {
+        "char": "、",
+        "romaji": [
+          ","
+        ]
+      },
+      {
+        "char": "う",
+        "romaji": [
+          "u",
+          "wu",
+          "whu"
+        ]
+      },
+      {
+        "char": "ま",
+        "romaji": [
+          "ma"
+        ]
+      },
+      {
+        "char": "れ",
+        "romaji": [
+          "re",
+          "le"
+        ]
+      },
+      {
+        "char": "や",
+        "romaji": [
+          "ya"
+        ]
+      },
+      {
+        "char": "が",
+        "romaji": [
+          "ga"
+        ]
+      },
+      {
+        "char": "く",
+        "romaji": [
+          "ku",
+          "cu",
+          "qu"
+        ]
+      },
+      {
+        "char": "れ",
+        "romaji": [
+          "re",
+          "le"
+        ]
+      },
+      {
+        "char": "き",
+        "romaji": [
+          "ki"
+        ]
+      },
+      {
+        "char": "、",
+        "romaji": [
+          ","
+        ]
+      },
+      {
+        "char": "ね",
+        "romaji": [
+          "ne"
+        ]
+      },
+      {
+        "char": "ん",
+        "romaji": [
+          "n",
+          "nn",
+          "n'",
+          "xn"
+        ]
+      },
+      {
+        "char": "しゅ",
+        "romaji": [
+          "syu",
+          "shu",
+          "silyu",
+          "sixyu",
+          "shilyu",
+          "shixyu",
+          "cilyu",
+          "cixyu"
+        ]
+      },
+      {
+        "char": "う",
+        "romaji": [
+          "u",
+          "wu",
+          "whu"
+        ]
+      },
+      {
+        "char": "と",
+        "romaji": [
+          "to"
+        ]
+      },
+      {
+        "char": "か",
+        "romaji": [
+          "ka",
+          "ca"
+        ]
+      },
+      {
+        "char": "で",
+        "romaji": [
+          "de"
+        ]
+      },
+      {
+        "char": "じょ",
+        "romaji": [
+          "jo",
+          "zyo",
+          "jyo",
+          "zilyo",
+          "zixyo",
+          "jilyo",
+          "jixyo"
+        ]
+      },
+      {
+        "char": "う",
+        "romaji": [
+          "u",
+          "wu",
+          "whu"
+        ]
+      },
+      {
+        "char": "げ",
+        "romaji": [
+          "ge"
+        ]
+      },
+      {
+        "char": "を",
+        "romaji": [
+          "wo",
+          "o"
+        ]
+      },
+      {
+        "char": "つ",
+        "romaji": [
+          "tu",
+          "tsu"
+        ]
+      },
+      {
+        "char": "け",
+        "romaji": [
+          "ke"
+        ]
+      },
+      {
+        "char": "が",
+        "romaji": [
+          "ga"
+        ]
+      },
+      {
+        "char": "ち",
+        "romaji": [
+          "ti",
+          "chi"
+        ]
+      },
+      {
+        "char": "だ",
+        "romaji": [
+          "da"
+        ]
+      },
+      {
+        "char": "け",
+        "romaji": [
+          "ke"
+        ]
+      },
+      {
+        "char": "ど",
+        "romaji": [
+          "do"
+        ]
+      },
+      {
+        "char": "、",
+        "romaji": [
+          ","
+        ]
+      },
+      {
+        "char": "じ",
+        "romaji": [
+          "zi",
+          "ji"
+        ]
+      },
+      {
+        "char": "ぶ",
+        "romaji": [
+          "bu"
+        ]
+      },
+      {
+        "char": "ん",
+        "romaji": [
+          "nn",
+          "n'",
+          "xn"
+        ]
+      },
+      {
+        "char": "の",
+        "romaji": [
+          "no"
+        ]
+      },
+      {
+        "char": "な",
+        "romaji": [
+          "na"
+        ]
+      },
+      {
+        "char": "か",
+        "romaji": [
+          "ka",
+          "ca"
+        ]
+      },
+      {
+        "char": "で",
+        "romaji": [
+          "de"
+        ]
+      },
+      {
+        "char": "の",
+        "romaji": [
+          "no"
+        ]
+      },
+      {
+        "char": "か",
+        "romaji": [
+          "ka",
+          "ca"
+        ]
+      },
+      {
+        "char": "ち",
+        "romaji": [
+          "ti",
+          "chi"
+        ]
+      },
+      {
+        "char": "き",
+        "romaji": [
+          "ki"
+        ]
+      },
+      {
+        "char": "じゅ",
+        "romaji": [
+          "ju",
+          "zyu",
+          "jyu",
+          "zilyu",
+          "zixyu",
+          "jilyu",
+          "jixyu"
+        ]
+      },
+      {
+        "char": "ん",
+        "romaji": [
+          "n",
+          "nn",
+          "n'",
+          "xn"
+        ]
+      },
+      {
+        "char": "を",
+        "romaji": [
+          "wo",
+          "o"
+        ]
+      },
+      {
+        "char": "も",
+        "romaji": [
+          "mo"
+        ]
+      },
+      {
+        "char": "っ",
+        "romaji": [
+          "xtu",
+          "ltu",
+          "xtsu",
+          "ltsu"
+        ]
+      },
+      {
+        "char": "て",
+        "romaji": [
+          "te"
+        ]
+      },
+      {
+        "char": "そ",
+        "romaji": [
+          "so"
+        ]
+      },
+      {
+        "char": "の",
+        "romaji": [
+          "no"
+        ]
+      },
+      {
+        "char": "な",
+        "romaji": [
+          "na"
+        ]
+      },
+      {
+        "char": "か",
+        "romaji": [
+          "ka",
+          "ca"
+        ]
+      },
+      {
+        "char": "で",
+        "romaji": [
+          "de"
+        ]
+      },
+      {
+        "char": "り",
+        "romaji": [
+          "ri",
+          "li"
+        ]
+      },
+      {
+        "char": "そ",
+        "romaji": [
+          "so"
+        ]
+      },
+      {
+        "char": "う",
+        "romaji": [
+          "u",
+          "wu",
+          "whu"
+        ]
+      },
+      {
+        "char": "に",
+        "romaji": [
+          "ni"
+        ]
+      },
+      {
+        "char": "な",
+        "romaji": [
+          "na"
+        ]
+      },
+      {
+        "char": "ろ",
+        "romaji": [
+          "ro",
+          "lo"
+        ]
+      },
+      {
+        "char": "う",
+        "romaji": [
+          "u",
+          "wu",
+          "whu"
+        ]
+      },
+      {
+        "char": "と",
+        "romaji": [
+          "to"
+        ]
+      },
+      {
+        "char": "し",
+        "romaji": [
+          "si",
+          "shi",
+          "ci"
+        ]
+      },
+      {
+        "char": "て",
+        "romaji": [
+          "te"
+        ]
+      },
+      {
+        "char": "い",
+        "romaji": [
+          "i",
+          "yi"
+        ]
+      },
+      {
+        "char": "る",
+        "romaji": [
+          "ru",
+          "lu"
+        ]
+      },
+      {
+        "char": "に",
+        "romaji": [
+          "ni"
+        ]
+      },
+      {
+        "char": "ん",
+        "romaji": [
+          "n",
+          "nn",
+          "n'",
+          "xn"
+        ]
+      },
+      {
+        "char": "は",
+        "romaji": [
+          "ha",
+          "wa"
+        ]
+      },
+      {
+        "char": "み",
+        "romaji": [
+          "mi"
+        ]
+      },
+      {
+        "char": "りょ",
+        "romaji": [
+          "ryo",
+          "lyo",
+          "rilyo",
+          "rixyo",
+          "lilyo",
+          "lixyo"
+        ]
+      },
+      {
+        "char": "く",
+        "romaji": [
+          "ku",
+          "cu",
+          "qu"
+        ]
+      },
+      {
+        "char": "て",
+        "romaji": [
+          "te"
+        ]
+      },
+      {
+        "char": "き",
+        "romaji": [
+          "ki"
+        ]
+      },
+      {
+        "char": "だ",
+        "romaji": [
+          "da"
+        ]
+      },
+      {
+        "char": "よ",
+        "romaji": [
+          "yo"
+        ]
+      },
+      {
+        "char": "ね",
+        "romaji": [
+          "ne"
+        ]
+      },
+      {
+        "char": "、",
+        "romaji": [
+          ","
+        ]
+      },
+      {
+        "char": "と",
+        "romaji": [
+          "to"
+        ]
+      },
+      {
+        "char": "い",
+        "romaji": [
+          "i",
+          "yi"
+        ]
+      },
+      {
+        "char": "う",
+        "romaji": [
+          "u",
+          "wu",
+          "whu"
+        ]
+      },
+      {
+        "char": "こ",
+        "romaji": [
+          "ko",
+          "co"
+        ]
+      },
+      {
+        "char": "と",
+        "romaji": [
+          "to"
+        ]
+      },
+      {
+        "char": "だ",
+        "romaji": [
+          "da"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "original": "一度きりの人生、というと浅く聞こえる",
+    "characters": [
+      {
+        "char": "い",
+        "romaji": [
+          "i",
+          "yi"
+        ]
+      },
+      {
+        "char": "ち",
+        "romaji": [
+          "ti",
+          "chi"
+        ]
+      },
+      {
+        "char": "ど",
+        "romaji": [
+          "do"
+        ]
+      },
+      {
+        "char": "き",
+        "romaji": [
+          "ki"
+        ]
+      },
+      {
+        "char": "り",
+        "romaji": [
+          "ri",
+          "li"
+        ]
+      },
+      {
+        "char": "の",
+        "romaji": [
+          "no"
+        ]
+      },
+      {
+        "char": "じ",
+        "romaji": [
+          "zi",
+          "ji"
+        ]
+      },
+      {
+        "char": "ん",
+        "romaji": [
+          "n",
+          "nn",
+          "n'",
+          "xn"
+        ]
+      },
+      {
+        "char": "せ",
+        "romaji": [
+          "se",
+          "ce"
+        ]
+      },
+      {
+        "char": "い",
+        "romaji": [
+          "i",
+          "yi"
+        ]
+      },
+      {
+        "char": "、",
+        "romaji": [
+          ","
+        ]
+      },
+      {
+        "char": "と",
+        "romaji": [
+          "to"
+        ]
+      },
+      {
+        "char": "い",
+        "romaji": [
+          "i",
+          "yi"
+        ]
+      },
+      {
+        "char": "う",
+        "romaji": [
+          "u",
+          "wu",
+          "whu"
+        ]
+      },
+      {
+        "char": "と",
+        "romaji": [
+          "to"
+        ]
+      },
+      {
+        "char": "あ",
+        "romaji": [
+          "a"
+        ]
+      },
+      {
+        "char": "さ",
+        "romaji": [
+          "sa"
+        ]
+      },
+      {
+        "char": "く",
+        "romaji": [
+          "ku",
+          "cu",
+          "qu"
+        ]
+      },
+      {
+        "char": "き",
+        "romaji": [
+          "ki"
+        ]
+      },
+      {
+        "char": "こ",
+        "romaji": [
+          "ko",
+          "co"
+        ]
+      },
+      {
+        "char": "え",
+        "romaji": [
+          "e"
+        ]
+      },
+      {
+        "char": "る",
+        "romaji": [
+          "ru",
+          "lu"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 43,
+    "original": "が、一度しか生きられないのだからその中では自分が主役であるべきである",
+    "characters": [
+      {
+        "char": "が",
+        "romaji": [
+          "ga"
+        ]
+      },
+      {
+        "char": "、",
+        "romaji": [
+          ","
+        ]
+      },
+      {
+        "char": "い",
+        "romaji": [
+          "i",
+          "yi"
+        ]
+      },
+      {
+        "char": "ち",
+        "romaji": [
+          "ti",
+          "chi"
+        ]
+      },
+      {
+        "char": "ど",
+        "romaji": [
+          "do"
+        ]
+      },
+      {
+        "char": "し",
+        "romaji": [
+          "si",
+          "shi",
+          "ci"
+        ]
+      },
+      {
+        "char": "か",
+        "romaji": [
+          "ka",
+          "ca"
+        ]
+      },
+      {
+        "char": "い",
+        "romaji": [
+          "i",
+          "yi"
+        ]
+      },
+      {
+        "char": "き",
+        "romaji": [
+          "ki"
+        ]
+      },
+      {
+        "char": "ら",
+        "romaji": [
+          "ra",
+          "la"
+        ]
+      },
+      {
+        "char": "れ",
+        "romaji": [
+          "re",
+          "le"
+        ]
+      },
+      {
+        "char": "な",
+        "romaji": [
+          "na"
+        ]
+      },
+      {
+        "char": "い",
+        "romaji": [
+          "i",
+          "yi"
+        ]
+      },
+      {
+        "char": "の",
+        "romaji": [
+          "no"
+        ]
+      },
+      {
+        "char": "だ",
+        "romaji": [
+          "da"
+        ]
+      },
+      {
+        "char": "か",
+        "romaji": [
+          "ka",
+          "ca"
+        ]
+      },
+      {
+        "char": "ら",
+        "romaji": [
+          "ra",
+          "la"
+        ]
+      },
+      {
+        "char": "そ",
+        "romaji": [
+          "so"
+        ]
+      },
+      {
+        "char": "の",
+        "romaji": [
+          "no"
+        ]
+      },
+      {
+        "char": "な",
+        "romaji": [
+          "na"
+        ]
+      },
+      {
+        "char": "か",
+        "romaji": [
+          "ka",
+          "ca"
+        ]
+      },
+      {
+        "char": "で",
+        "romaji": [
+          "de"
+        ]
+      },
+      {
+        "char": "は",
+        "romaji": [
+          "ha",
+          "wa"
+        ]
+      },
+      {
+        "char": "じ",
+        "romaji": [
+          "zi",
+          "ji"
+        ]
+      },
+      {
+        "char": "ぶ",
+        "romaji": [
+          "bu"
+        ]
+      },
+      {
+        "char": "ん",
+        "romaji": [
+          "n",
+          "nn",
+          "n'",
+          "xn"
+        ]
+      },
+      {
+        "char": "が",
+        "romaji": [
+          "ga"
+        ]
+      },
+      {
+        "char": "しゅ",
+        "romaji": [
+          "syu",
+          "shu",
+          "silyu",
+          "sixyu",
+          "shilyu",
+          "shixyu",
+          "cilyu",
+          "cixyu"
+        ]
+      },
+      {
+        "char": "や",
+        "romaji": [
+          "ya"
+        ]
+      },
+      {
+        "char": "く",
+        "romaji": [
+          "ku",
+          "cu",
+          "qu"
+        ]
+      },
+      {
+        "char": "で",
+        "romaji": [
+          "de"
+        ]
+      },
+      {
+        "char": "あ",
+        "romaji": [
+          "a"
+        ]
+      },
+      {
+        "char": "る",
+        "romaji": [
+          "ru",
+          "lu"
+        ]
+      },
+      {
+        "char": "べ",
+        "romaji": [
+          "be"
+        ]
+      },
+      {
+        "char": "き",
+        "romaji": [
+          "ki"
+        ]
+      },
+      {
+        "char": "で",
+        "romaji": [
+          "de"
+        ]
+      },
+      {
+        "char": "あ",
+        "romaji": [
+          "a"
+        ]
+      },
+      {
+        "char": "る",
+        "romaji": [
+          "ru",
+          "lu"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "original": "素早く手放すこと",
+    "characters": [
+      {
+        "char": "す",
+        "romaji": [
+          "su"
+        ]
+      },
+      {
+        "char": "ば",
+        "romaji": [
+          "ba"
+        ]
+      },
+      {
+        "char": "や",
+        "romaji": [
+          "ya"
+        ]
+      },
+      {
+        "char": "く",
+        "romaji": [
+          "ku",
+          "cu",
+          "qu"
+        ]
+      },
+      {
+        "char": "て",
+        "romaji": [
+          "te"
+        ]
+      },
+      {
+        "char": "ば",
+        "romaji": [
+          "ba"
+        ]
+      },
+      {
+        "char": "な",
+        "romaji": [
+          "na"
+        ]
+      },
+      {
+        "char": "す",
+        "romaji": [
+          "su"
+        ]
+      },
+      {
+        "char": "こ",
+        "romaji": [
+          "ko",
+          "co"
+        ]
+      },
+      {
+        "char": "と",
+        "romaji": [
+          "to"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 45,
+    "original": "正しく認知し受け止めることで感情は手放すことができる",
+    "characters": [
+      {
+        "char": "た",
+        "romaji": [
+          "ta"
+        ]
+      },
+      {
+        "char": "だ",
+        "romaji": [
+          "da"
+        ]
+      },
+      {
+        "char": "し",
+        "romaji": [
+          "si",
+          "shi",
+          "ci"
+        ]
+      },
+      {
+        "char": "く",
+        "romaji": [
+          "ku",
+          "cu",
+          "qu"
+        ]
+      },
+      {
+        "char": "に",
+        "romaji": [
+          "ni"
+        ]
+      },
+      {
+        "char": "ん",
+        "romaji": [
+          "n",
+          "nn",
+          "n'",
+          "xn"
+        ]
+      },
+      {
+        "char": "ち",
+        "romaji": [
+          "ti",
+          "chi"
+        ]
+      },
+      {
+        "char": "し",
+        "romaji": [
+          "si",
+          "shi",
+          "ci"
+        ]
+      },
+      {
+        "char": "う",
+        "romaji": [
+          "u",
+          "wu",
+          "whu"
+        ]
+      },
+      {
+        "char": "け",
+        "romaji": [
+          "ke"
+        ]
+      },
+      {
+        "char": "や",
+        "romaji": [
+          "ya"
+        ]
+      },
+      {
+        "char": "め",
+        "romaji": [
+          "me"
+        ]
+      },
+      {
+        "char": "る",
+        "romaji": [
+          "ru",
+          "lu"
+        ]
+      },
+      {
+        "char": "こ",
+        "romaji": [
+          "ko",
+          "co"
+        ]
+      },
+      {
+        "char": "と",
+        "romaji": [
+          "to"
+        ]
+      },
+      {
+        "char": "で",
+        "romaji": [
+          "de"
+        ]
+      },
+      {
+        "char": "か",
+        "romaji": [
+          "ka",
+          "ca"
+        ]
+      },
+      {
+        "char": "ん",
+        "romaji": [
+          "n",
+          "nn",
+          "n'",
+          "xn"
+        ]
+      },
+      {
+        "char": "じょ",
+        "romaji": [
+          "jo",
+          "zyo",
+          "jyo",
+          "zilyo",
+          "zixyo",
+          "jilyo",
+          "jixyo"
+        ]
+      },
+      {
+        "char": "う",
+        "romaji": [
+          "u",
+          "wu",
+          "whu"
+        ]
+      },
+      {
+        "char": "は",
+        "romaji": [
+          "ha",
+          "wa"
+        ]
+      },
+      {
+        "char": "て",
+        "romaji": [
+          "te"
+        ]
+      },
+      {
+        "char": "ば",
+        "romaji": [
+          "ba"
+        ]
+      },
+      {
+        "char": "な",
+        "romaji": [
+          "na"
+        ]
+      },
+      {
+        "char": "す",
+        "romaji": [
+          "su"
+        ]
+      },
+      {
+        "char": "こ",
+        "romaji": [
+          "ko",
+          "co"
+        ]
+      },
+      {
+        "char": "と",
+        "romaji": [
+          "to"
+        ]
+      },
+      {
+        "char": "が",
+        "romaji": [
+          "ga"
+        ]
+      },
+      {
+        "char": "で",
+        "romaji": [
+          "de"
+        ]
+      },
+      {
+        "char": "き",
+        "romaji": [
+          "ki"
+        ]
+      },
+      {
+        "char": "る",
+        "romaji": [
+          "ru",
+          "lu"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "original": "無視して、認知しなかったら手放すことはできない",
+    "characters": [
+      {
+        "char": "む",
+        "romaji": [
+          "mu"
+        ]
+      },
+      {
+        "char": "し",
+        "romaji": [
+          "si",
+          "shi",
+          "ci"
+        ]
+      },
+      {
+        "char": "し",
+        "romaji": [
+          "si",
+          "shi",
+          "ci"
+        ]
+      },
+      {
+        "char": "て",
+        "romaji": [
+          "te"
+        ]
+      },
+      {
+        "char": "、",
+        "romaji": [
+          ","
+        ]
+      },
+      {
+        "char": "に",
+        "romaji": [
+          "ni"
+        ]
+      },
+      {
+        "char": "ん",
+        "romaji": [
+          "n",
+          "nn",
+          "n'",
+          "xn"
+        ]
+      },
+      {
+        "char": "ち",
+        "romaji": [
+          "ti",
+          "chi"
+        ]
+      },
+      {
+        "char": "し",
+        "romaji": [
+          "si",
+          "shi",
+          "ci"
+        ]
+      },
+      {
+        "char": "な",
+        "romaji": [
+          "na"
+        ]
+      },
+      {
+        "char": "か",
+        "romaji": [
+          "ka",
+          "ca"
+        ]
+      },
+      {
+        "char": "っ",
+        "romaji": [
+          "xtu",
+          "ltu",
+          "xtsu",
+          "ltsu"
+        ]
+      },
+      {
+        "char": "た",
+        "romaji": [
+          "ta"
+        ]
+      },
+      {
+        "char": "ら",
+        "romaji": [
+          "ra",
+          "la"
+        ]
+      },
+      {
+        "char": "て",
+        "romaji": [
+          "te"
+        ]
+      },
+      {
+        "char": "ば",
+        "romaji": [
+          "ba"
+        ]
+      },
+      {
+        "char": "な",
+        "romaji": [
+          "na"
+        ]
+      },
+      {
+        "char": "す",
+        "romaji": [
+          "su"
+        ]
+      },
+      {
+        "char": "こ",
+        "romaji": [
+          "ko",
+          "co"
+        ]
+      },
+      {
+        "char": "と",
+        "romaji": [
+          "to"
+        ]
+      },
+      {
+        "char": "は",
+        "romaji": [
+          "ha",
+          "wa"
+        ]
+      },
+      {
+        "char": "で",
+        "romaji": [
+          "de"
+        ]
+      },
+      {
+        "char": "き",
+        "romaji": [
+          "ki"
+        ]
+      },
+      {
+        "char": "な",
+        "romaji": [
+          "na"
+        ]
+      },
+      {
+        "char": "い",
+        "romaji": [
+          "i",
+          "yi"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 47,
+    "original": "このサイクルを適切に回せると感情的ではなく合理的にいられる",
+    "characters": [
+      {
+        "char": "こ",
+        "romaji": [
+          "ko",
+          "co"
+        ]
+      },
+      {
+        "char": "の",
+        "romaji": [
+          "no"
+        ]
+      },
+      {
+        "char": "さ",
+        "romaji": [
+          "sa"
+        ]
+      },
+      {
+        "char": "い",
+        "romaji": [
+          "i",
+          "yi"
+        ]
+      },
+      {
+        "char": "く",
+        "romaji": [
+          "ku",
+          "cu",
+          "qu"
+        ]
+      },
+      {
+        "char": "る",
+        "romaji": [
+          "ru",
+          "lu"
+        ]
+      },
+      {
+        "char": "を",
+        "romaji": [
+          "wo",
+          "o"
+        ]
+      },
+      {
+        "char": "て",
+        "romaji": [
+          "te"
+        ]
+      },
+      {
+        "char": "き",
+        "romaji": [
+          "ki"
+        ]
+      },
+      {
+        "char": "せ",
+        "romaji": [
+          "se",
+          "ce"
+        ]
+      },
+      {
+        "char": "つ",
+        "romaji": [
+          "tu",
+          "tsu"
+        ]
+      },
+      {
+        "char": "に",
+        "romaji": [
+          "ni"
+        ]
+      },
+      {
+        "char": "ま",
+        "romaji": [
+          "ma"
+        ]
+      },
+      {
+        "char": "わ",
+        "romaji": [
+          "wa"
+        ]
+      },
+      {
+        "char": "せ",
+        "romaji": [
+          "se",
+          "ce"
+        ]
+      },
+      {
+        "char": "る",
+        "romaji": [
+          "ru",
+          "lu"
+        ]
+      },
+      {
+        "char": "と",
+        "romaji": [
+          "to"
+        ]
+      },
+      {
+        "char": "か",
+        "romaji": [
+          "ka",
+          "ca"
+        ]
+      },
+      {
+        "char": "ん",
+        "romaji": [
+          "n",
+          "nn",
+          "n'",
+          "xn"
+        ]
+      },
+      {
+        "char": "じょ",
+        "romaji": [
+          "jo",
+          "zyo",
+          "jyo",
+          "zilyo",
+          "zixyo",
+          "jilyo",
+          "jixyo"
+        ]
+      },
+      {
+        "char": "う",
+        "romaji": [
+          "u",
+          "wu",
+          "whu"
+        ]
+      },
+      {
+        "char": "て",
+        "romaji": [
+          "te"
+        ]
+      },
+      {
+        "char": "き",
+        "romaji": [
+          "ki"
+        ]
+      },
+      {
+        "char": "で",
+        "romaji": [
+          "de"
+        ]
+      },
+      {
+        "char": "は",
+        "romaji": [
+          "ha",
+          "wa"
+        ]
+      },
+      {
+        "char": "な",
+        "romaji": [
+          "na"
+        ]
+      },
+      {
+        "char": "く",
+        "romaji": [
+          "ku",
+          "cu",
+          "qu"
+        ]
+      },
+      {
+        "char": "ご",
+        "romaji": [
+          "go"
+        ]
+      },
+      {
+        "char": "う",
+        "romaji": [
+          "u",
+          "wu",
+          "whu"
+        ]
+      },
+      {
+        "char": "り",
+        "romaji": [
+          "ri",
+          "li"
+        ]
+      },
+      {
+        "char": "て",
+        "romaji": [
+          "te"
+        ]
+      },
+      {
+        "char": "き",
+        "romaji": [
+          "ki"
+        ]
+      },
+      {
+        "char": "に",
+        "romaji": [
+          "ni"
+        ]
+      },
+      {
+        "char": "い",
+        "romaji": [
+          "i",
+          "yi"
+        ]
+      },
+      {
+        "char": "ら",
+        "romaji": [
+          "ra",
+          "la"
+        ]
+      },
+      {
+        "char": "れ",
+        "romaji": [
+          "re",
+          "le"
+        ]
+      },
+      {
+        "char": "る",
+        "romaji": [
+          "ru",
+          "lu"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 48,
+    "original": "自分自身のことは自分しかわからないのだから大切にしてあげよう",
+    "characters": [
+      {
+        "char": "じ",
+        "romaji": [
+          "zi",
+          "ji"
+        ]
+      },
+      {
+        "char": "ぶ",
+        "romaji": [
+          "bu"
+        ]
+      },
+      {
+        "char": "ん",
+        "romaji": [
+          "n",
+          "nn",
+          "n'",
+          "xn"
+        ]
+      },
+      {
+        "char": "じ",
+        "romaji": [
+          "zi",
+          "ji"
+        ]
+      },
+      {
+        "char": "し",
+        "romaji": [
+          "si",
+          "shi",
+          "ci"
+        ]
+      },
+      {
+        "char": "ん",
+        "romaji": [
+          "nn",
+          "n'",
+          "xn"
+        ]
+      },
+      {
+        "char": "の",
+        "romaji": [
+          "no"
+        ]
+      },
+      {
+        "char": "こ",
+        "romaji": [
+          "ko",
+          "co"
+        ]
+      },
+      {
+        "char": "と",
+        "romaji": [
+          "to"
+        ]
+      },
+      {
+        "char": "は",
+        "romaji": [
+          "ha",
+          "wa"
+        ]
+      },
+      {
+        "char": "じ",
+        "romaji": [
+          "zi",
+          "ji"
+        ]
+      },
+      {
+        "char": "ぶ",
+        "romaji": [
+          "bu"
+        ]
+      },
+      {
+        "char": "ん",
+        "romaji": [
+          "n",
+          "nn",
+          "n'",
+          "xn"
+        ]
+      },
+      {
+        "char": "し",
+        "romaji": [
+          "si",
+          "shi",
+          "ci"
+        ]
+      },
+      {
+        "char": "か",
+        "romaji": [
+          "ka",
+          "ca"
+        ]
+      },
+      {
+        "char": "わ",
+        "romaji": [
+          "wa"
+        ]
+      },
+      {
+        "char": "か",
+        "romaji": [
+          "ka",
+          "ca"
+        ]
+      },
+      {
+        "char": "ら",
+        "romaji": [
+          "ra",
+          "la"
+        ]
+      },
+      {
+        "char": "な",
+        "romaji": [
+          "na"
+        ]
+      },
+      {
+        "char": "い",
+        "romaji": [
+          "i",
+          "yi"
+        ]
+      },
+      {
+        "char": "の",
+        "romaji": [
+          "no"
+        ]
+      },
+      {
+        "char": "だ",
+        "romaji": [
+          "da"
+        ]
+      },
+      {
+        "char": "か",
+        "romaji": [
+          "ka",
+          "ca"
+        ]
+      },
+      {
+        "char": "ら",
+        "romaji": [
+          "ra",
+          "la"
+        ]
+      },
+      {
+        "char": "た",
+        "romaji": [
+          "ta"
+        ]
+      },
+      {
+        "char": "い",
+        "romaji": [
+          "i",
+          "yi"
+        ]
+      },
+      {
+        "char": "せ",
+        "romaji": [
+          "se",
+          "ce"
+        ]
+      },
+      {
+        "char": "つ",
+        "romaji": [
+          "tu",
+          "tsu"
+        ]
+      },
+      {
+        "char": "に",
+        "romaji": [
+          "ni"
+        ]
+      },
+      {
+        "char": "し",
+        "romaji": [
+          "si",
+          "shi",
+          "ci"
+        ]
+      },
+      {
+        "char": "て",
+        "romaji": [
+          "te"
+        ]
+      },
+      {
+        "char": "あ",
+        "romaji": [
+          "a"
+        ]
+      },
+      {
+        "char": "げ",
+        "romaji": [
+          "ge"
+        ]
+      },
+      {
+        "char": "よ",
+        "romaji": [
+          "yo"
+        ]
+      },
+      {
+        "char": "う",
+        "romaji": [
+          "u",
+          "wu",
+          "whu"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 49,
+    "original": "僕は恋愛相談に乗るのが心の底から嫌いなんだけど、唯一するアドバイスがある",
+    "characters": [
+      {
+        "char": "ぼ",
+        "romaji": [
+          "bo"
+        ]
+      },
+      {
+        "char": "く",
+        "romaji": [
+          "ku",
+          "cu",
+          "qu"
+        ]
+      },
+      {
+        "char": "は",
+        "romaji": [
+          "ha",
+          "wa"
+        ]
+      },
+      {
+        "char": "れ",
+        "romaji": [
+          "re",
+          "le"
+        ]
+      },
+      {
+        "char": "ん",
+        "romaji": [
+          "nn",
+          "n'",
+          "xn"
+        ]
+      },
+      {
+        "char": "あ",
+        "romaji": [
+          "a"
+        ]
+      },
+      {
+        "char": "い",
+        "romaji": [
+          "i",
+          "yi"
+        ]
+      },
+      {
+        "char": "そ",
+        "romaji": [
+          "so"
+        ]
+      },
+      {
+        "char": "う",
+        "romaji": [
+          "u",
+          "wu",
+          "whu"
+        ]
+      },
+      {
+        "char": "だ",
+        "romaji": [
+          "da"
+        ]
+      },
+      {
+        "char": "ん",
+        "romaji": [
+          "nn",
+          "n'",
+          "xn"
+        ]
+      },
+      {
+        "char": "に",
+        "romaji": [
+          "ni"
+        ]
+      },
+      {
+        "char": "の",
+        "romaji": [
+          "no"
+        ]
+      },
+      {
+        "char": "る",
+        "romaji": [
+          "ru",
+          "lu"
+        ]
+      },
+      {
+        "char": "の",
+        "romaji": [
+          "no"
+        ]
+      },
+      {
+        "char": "が",
+        "romaji": [
+          "ga"
+        ]
+      },
+      {
+        "char": "こ",
+        "romaji": [
+          "ko",
+          "co"
+        ]
+      },
+      {
+        "char": "こ",
+        "romaji": [
+          "ko",
+          "co"
+        ]
+      },
+      {
+        "char": "ろ",
+        "romaji": [
+          "ro",
+          "lo"
+        ]
+      },
+      {
+        "char": "の",
+        "romaji": [
+          "no"
+        ]
+      },
+      {
+        "char": "そ",
+        "romaji": [
+          "so"
+        ]
+      },
+      {
+        "char": "こ",
+        "romaji": [
+          "ko",
+          "co"
+        ]
+      },
+      {
+        "char": "か",
+        "romaji": [
+          "ka",
+          "ca"
+        ]
+      },
+      {
+        "char": "ら",
+        "romaji": [
+          "ra",
+          "la"
+        ]
+      },
+      {
+        "char": "き",
+        "romaji": [
+          "ki"
+        ]
+      },
+      {
+        "char": "ら",
+        "romaji": [
+          "ra",
+          "la"
+        ]
+      },
+      {
+        "char": "い",
+        "romaji": [
+          "i",
+          "yi"
+        ]
+      },
+      {
+        "char": "な",
+        "romaji": [
+          "na"
+        ]
+      },
+      {
+        "char": "ん",
+        "romaji": [
+          "n",
+          "nn",
+          "n'",
+          "xn"
+        ]
+      },
+      {
+        "char": "だ",
+        "romaji": [
+          "da"
+        ]
+      },
+      {
+        "char": "け",
+        "romaji": [
+          "ke"
+        ]
+      },
+      {
+        "char": "ど",
+        "romaji": [
+          "do"
+        ]
+      },
+      {
+        "char": "、",
+        "romaji": [
+          ","
+        ]
+      },
+      {
+        "char": "ゆ",
+        "romaji": [
+          "yu"
+        ]
+      },
+      {
+        "char": "い",
+        "romaji": [
+          "i",
+          "yi"
+        ]
+      },
+      {
+        "char": "い",
+        "romaji": [
+          "i",
+          "yi"
+        ]
+      },
+      {
+        "char": "つ",
+        "romaji": [
+          "tu",
+          "tsu"
+        ]
+      },
+      {
+        "char": "す",
+        "romaji": [
+          "su"
+        ]
+      },
+      {
+        "char": "る",
+        "romaji": [
+          "ru",
+          "lu"
+        ]
+      },
+      {
+        "char": "あ",
+        "romaji": [
+          "a"
+        ]
+      },
+      {
+        "char": "ど",
+        "romaji": [
+          "do"
+        ]
+      },
+      {
+        "char": "ば",
+        "romaji": [
+          "ba"
+        ]
+      },
+      {
+        "char": "い",
+        "romaji": [
+          "i",
+          "yi"
+        ]
+      },
+      {
+        "char": "す",
+        "romaji": [
+          "su"
+        ]
+      },
+      {
+        "char": "が",
+        "romaji": [
+          "ga"
+        ]
+      },
+      {
+        "char": "あ",
+        "romaji": [
+          "a"
+        ]
+      },
+      {
+        "char": "る",
+        "romaji": [
+          "ru",
+          "lu"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 50,
+    "original": "それは「人に会ってるの？会わないと」である",
+    "characters": [
+      {
+        "char": "そ",
+        "romaji": [
+          "so"
+        ]
+      },
+      {
+        "char": "れ",
+        "romaji": [
+          "re",
+          "le"
+        ]
+      },
+      {
+        "char": "は",
+        "romaji": [
+          "ha",
+          "wa"
+        ]
+      },
+      {
+        "char": "「",
+        "romaji": [
+          "["
+        ]
+      },
+      {
+        "char": "に",
+        "romaji": [
+          "ni"
+        ]
+      },
+      {
+        "char": "ん",
+        "romaji": [
+          "nn",
+          "n'",
+          "xn"
+        ]
+      },
+      {
+        "char": "に",
+        "romaji": [
+          "ni"
+        ]
+      },
+      {
+        "char": "あ",
+        "romaji": [
+          "a"
+        ]
+      },
+      {
+        "char": "っ",
+        "romaji": [
+          "xtu",
+          "ltu",
+          "xtsu",
+          "ltsu"
+        ]
+      },
+      {
+        "char": "て",
+        "romaji": [
+          "te"
+        ]
+      },
+      {
+        "char": "る",
+        "romaji": [
+          "ru",
+          "lu"
+        ]
+      },
+      {
+        "char": "の",
+        "romaji": [
+          "no"
+        ]
+      },
+      {
+        "char": "？",
+        "romaji": [
+          "?"
+        ]
+      },
+      {
+        "char": "あ",
+        "romaji": [
+          "a"
+        ]
+      },
+      {
+        "char": "わ",
+        "romaji": [
+          "wa"
+        ]
+      },
+      {
+        "char": "な",
+        "romaji": [
+          "na"
+        ]
+      },
+      {
+        "char": "い",
+        "romaji": [
+          "i",
+          "yi"
+        ]
+      },
+      {
+        "char": "と",
+        "romaji": [
+          "to"
+        ]
+      },
+      {
+        "char": "」",
+        "romaji": [
+          "]"
+        ]
+      },
+      {
+        "char": "で",
+        "romaji": [
+          "de"
+        ]
+      },
+      {
+        "char": "あ",
+        "romaji": [
+          "a"
+        ]
+      },
+      {
+        "char": "る",
+        "romaji": [
+          "ru",
+          "lu"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 51,
+    "original": "出会いがない、と悩んでる人に話を聞くと、職場と自宅の往復のみで職場に恋愛対象はいない、みたいなことが多い",
+    "characters": [
+      {
+        "char": "で",
+        "romaji": [
+          "de"
+        ]
+      },
+      {
+        "char": "あ",
+        "romaji": [
+          "a"
+        ]
+      },
+      {
+        "char": "い",
+        "romaji": [
+          "i",
+          "yi"
+        ]
+      },
+      {
+        "char": "が",
+        "romaji": [
+          "ga"
+        ]
+      },
+      {
+        "char": "な",
+        "romaji": [
+          "na"
+        ]
+      },
+      {
+        "char": "い",
+        "romaji": [
+          "i",
+          "yi"
+        ]
+      },
+      {
+        "char": "、",
+        "romaji": [
+          ","
+        ]
+      },
+      {
+        "char": "と",
+        "romaji": [
+          "to"
+        ]
+      },
+      {
+        "char": "な",
+        "romaji": [
+          "na"
+        ]
+      },
+      {
+        "char": "や",
+        "romaji": [
+          "ya"
+        ]
+      },
+      {
+        "char": "ん",
+        "romaji": [
+          "n",
+          "nn",
+          "n'",
+          "xn"
+        ]
+      },
+      {
+        "char": "で",
+        "romaji": [
+          "de"
+        ]
+      },
+      {
+        "char": "る",
+        "romaji": [
+          "ru",
+          "lu"
+        ]
+      },
+      {
+        "char": "に",
+        "romaji": [
+          "ni"
+        ]
+      },
+      {
+        "char": "ん",
+        "romaji": [
+          "nn",
+          "n'",
+          "xn"
+        ]
+      },
+      {
+        "char": "に",
+        "romaji": [
+          "ni"
+        ]
+      },
+      {
+        "char": "は",
+        "romaji": [
+          "ha",
+          "wa"
+        ]
+      },
+      {
+        "char": "な",
+        "romaji": [
+          "na"
+        ]
+      },
+      {
+        "char": "し",
+        "romaji": [
+          "si",
+          "shi",
+          "ci"
+        ]
+      },
+      {
+        "char": "を",
+        "romaji": [
+          "wo",
+          "o"
+        ]
+      },
+      {
+        "char": "き",
+        "romaji": [
+          "ki"
+        ]
+      },
+      {
+        "char": "く",
+        "romaji": [
+          "ku",
+          "cu",
+          "qu"
+        ]
+      },
+      {
+        "char": "と",
+        "romaji": [
+          "to"
+        ]
+      },
+      {
+        "char": "、",
+        "romaji": [
+          ","
+        ]
+      },
+      {
+        "char": "しょ",
+        "romaji": [
+          "syo",
+          "sho",
+          "silyo",
+          "sixyo",
+          "shilyo",
+          "shixyo",
+          "cilyo",
+          "cixyo"
+        ]
+      },
+      {
+        "char": "く",
+        "romaji": [
+          "ku",
+          "cu",
+          "qu"
+        ]
+      },
+      {
+        "char": "ば",
+        "romaji": [
+          "ba"
+        ]
+      },
+      {
+        "char": "と",
+        "romaji": [
+          "to"
+        ]
+      },
+      {
+        "char": "じ",
+        "romaji": [
+          "zi",
+          "ji"
+        ]
+      },
+      {
+        "char": "た",
+        "romaji": [
+          "ta"
+        ]
+      },
+      {
+        "char": "く",
+        "romaji": [
+          "ku",
+          "cu",
+          "qu"
+        ]
+      },
+      {
+        "char": "の",
+        "romaji": [
+          "no"
+        ]
+      },
+      {
+        "char": "お",
+        "romaji": [
+          "o"
+        ]
+      },
+      {
+        "char": "う",
+        "romaji": [
+          "u",
+          "wu",
+          "whu"
+        ]
+      },
+      {
+        "char": "ふ",
+        "romaji": [
+          "hu",
+          "fu"
+        ]
+      },
+      {
+        "char": "く",
+        "romaji": [
+          "ku",
+          "cu",
+          "qu"
+        ]
+      },
+      {
+        "char": "の",
+        "romaji": [
+          "no"
+        ]
+      },
+      {
+        "char": "み",
+        "romaji": [
+          "mi"
+        ]
+      },
+      {
+        "char": "で",
+        "romaji": [
+          "de"
+        ]
+      },
+      {
+        "char": "しょ",
+        "romaji": [
+          "syo",
+          "sho",
+          "silyo",
+          "sixyo",
+          "shilyo",
+          "shixyo",
+          "cilyo",
+          "cixyo"
+        ]
+      },
+      {
+        "char": "く",
+        "romaji": [
+          "ku",
+          "cu",
+          "qu"
+        ]
+      },
+      {
+        "char": "ば",
+        "romaji": [
+          "ba"
+        ]
+      },
+      {
+        "char": "に",
+        "romaji": [
+          "ni"
+        ]
+      },
+      {
+        "char": "れ",
+        "romaji": [
+          "re",
+          "le"
+        ]
+      },
+      {
+        "char": "ん",
+        "romaji": [
+          "nn",
+          "n'",
+          "xn"
+        ]
+      },
+      {
+        "char": "あ",
+        "romaji": [
+          "a"
+        ]
+      },
+      {
+        "char": "い",
+        "romaji": [
+          "i",
+          "yi"
+        ]
+      },
+      {
+        "char": "た",
+        "romaji": [
+          "ta"
+        ]
+      },
+      {
+        "char": "い",
+        "romaji": [
+          "i",
+          "yi"
+        ]
+      },
+      {
+        "char": "しょ",
+        "romaji": [
+          "syo",
+          "sho",
+          "silyo",
+          "sixyo",
+          "shilyo",
+          "shixyo",
+          "cilyo",
+          "cixyo"
+        ]
+      },
+      {
+        "char": "う",
+        "romaji": [
+          "u",
+          "wu",
+          "whu"
+        ]
+      },
+      {
+        "char": "は",
+        "romaji": [
+          "ha",
+          "wa"
+        ]
+      },
+      {
+        "char": "い",
+        "romaji": [
+          "i",
+          "yi"
+        ]
+      },
+      {
+        "char": "な",
+        "romaji": [
+          "na"
+        ]
+      },
+      {
+        "char": "い",
+        "romaji": [
+          "i",
+          "yi"
+        ]
+      },
+      {
+        "char": "、",
+        "romaji": [
+          ","
+        ]
+      },
+      {
+        "char": "み",
+        "romaji": [
+          "mi"
+        ]
+      },
+      {
+        "char": "た",
+        "romaji": [
+          "ta"
+        ]
+      },
+      {
+        "char": "い",
+        "romaji": [
+          "i",
+          "yi"
+        ]
+      },
+      {
+        "char": "な",
+        "romaji": [
+          "na"
+        ]
+      },
+      {
+        "char": "こ",
+        "romaji": [
+          "ko",
+          "co"
+        ]
+      },
+      {
+        "char": "と",
+        "romaji": [
+          "to"
+        ]
+      },
+      {
+        "char": "が",
+        "romaji": [
+          "ga"
+        ]
+      },
+      {
+        "char": "お",
+        "romaji": [
+          "o"
+        ]
+      },
+      {
+        "char": "お",
+        "romaji": [
+          "o"
+        ]
+      },
+      {
+        "char": "い",
+        "romaji": [
+          "i",
+          "yi"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 52,
+    "original": "その人しか知らないことはは、すごく価値がある",
+    "characters": [
+      {
+        "char": "そ",
+        "romaji": [
+          "so"
+        ]
+      },
+      {
+        "char": "の",
+        "romaji": [
+          "no"
+        ]
+      },
+      {
+        "char": "に",
+        "romaji": [
+          "ni"
+        ]
+      },
+      {
+        "char": "ん",
+        "romaji": [
+          "n",
+          "nn",
+          "n'",
+          "xn"
+        ]
+      },
+      {
+        "char": "し",
+        "romaji": [
+          "si",
+          "shi",
+          "ci"
+        ]
+      },
+      {
+        "char": "か",
+        "romaji": [
+          "ka",
+          "ca"
+        ]
+      },
+      {
+        "char": "し",
+        "romaji": [
+          "si",
+          "shi",
+          "ci"
+        ]
+      },
+      {
+        "char": "ら",
+        "romaji": [
+          "ra",
+          "la"
+        ]
+      },
+      {
+        "char": "な",
+        "romaji": [
+          "na"
+        ]
+      },
+      {
+        "char": "い",
+        "romaji": [
+          "i",
+          "yi"
+        ]
+      },
+      {
+        "char": "こ",
+        "romaji": [
+          "ko",
+          "co"
+        ]
+      },
+      {
+        "char": "と",
+        "romaji": [
+          "to"
+        ]
+      },
+      {
+        "char": "は",
+        "romaji": [
+          "ha",
+          "wa"
+        ]
+      },
+      {
+        "char": "は",
+        "romaji": [
+          "ha",
+          "wa"
+        ]
+      },
+      {
+        "char": "、",
+        "romaji": [
+          ","
+        ]
+      },
+      {
+        "char": "す",
+        "romaji": [
+          "su"
+        ]
+      },
+      {
+        "char": "ご",
+        "romaji": [
+          "go"
+        ]
+      },
+      {
+        "char": "く",
+        "romaji": [
+          "ku",
+          "cu",
+          "qu"
+        ]
+      },
+      {
+        "char": "か",
+        "romaji": [
+          "ka",
+          "ca"
+        ]
+      },
+      {
+        "char": "ち",
+        "romaji": [
+          "ti",
+          "chi"
+        ]
+      },
+      {
+        "char": "が",
+        "romaji": [
+          "ga"
+        ]
+      },
+      {
+        "char": "あ",
+        "romaji": [
+          "a"
+        ]
+      },
+      {
+        "char": "る",
+        "romaji": [
+          "ru",
+          "lu"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 53,
+    "original": "SNSとかを見てると、情報過多なように見える",
+    "characters": [
+      {
+        "char": "S",
+        "romaji": [
+          "s"
+        ]
+      },
+      {
+        "char": "N",
+        "romaji": [
+          "n"
+        ]
+      },
+      {
+        "char": "S",
+        "romaji": [
+          "s"
+        ]
+      },
+      {
+        "char": "と",
+        "romaji": [
+          "to"
+        ]
+      },
+      {
+        "char": "か",
+        "romaji": [
+          "ka",
+          "ca"
+        ]
+      },
+      {
+        "char": "を",
+        "romaji": [
+          "wo",
+          "o"
+        ]
+      },
+      {
+        "char": "み",
+        "romaji": [
+          "mi"
+        ]
+      },
+      {
+        "char": "て",
+        "romaji": [
+          "te"
+        ]
+      },
+      {
+        "char": "る",
+        "romaji": [
+          "ru",
+          "lu"
+        ]
+      },
+      {
+        "char": "と",
+        "romaji": [
+          "to"
+        ]
+      },
+      {
+        "char": "、",
+        "romaji": [
+          ","
+        ]
+      },
+      {
+        "char": "じょ",
+        "romaji": [
+          "jo",
+          "zyo",
+          "jyo",
+          "zilyo",
+          "zixyo",
+          "jilyo",
+          "jixyo"
+        ]
+      },
+      {
+        "char": "う",
+        "romaji": [
+          "u",
+          "wu",
+          "whu"
+        ]
+      },
+      {
+        "char": "ほ",
+        "romaji": [
+          "ho"
+        ]
+      },
+      {
+        "char": "う",
+        "romaji": [
+          "u",
+          "wu",
+          "whu"
+        ]
+      },
+      {
+        "char": "か",
+        "romaji": [
+          "ka",
+          "ca"
+        ]
+      },
+      {
+        "char": "た",
+        "romaji": [
+          "ta"
+        ]
+      },
+      {
+        "char": "な",
+        "romaji": [
+          "na"
+        ]
+      },
+      {
+        "char": "よ",
+        "romaji": [
+          "yo"
+        ]
+      },
+      {
+        "char": "う",
+        "romaji": [
+          "u",
+          "wu",
+          "whu"
+        ]
+      },
+      {
+        "char": "に",
+        "romaji": [
+          "ni"
+        ]
+      },
+      {
+        "char": "み",
+        "romaji": [
+          "mi"
+        ]
+      },
+      {
+        "char": "え",
+        "romaji": [
+          "e"
+        ]
+      },
+      {
+        "char": "る",
+        "romaji": [
+          "ru",
+          "lu"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 54,
+    "original": "が、実際はありきたりな2次情報だらけ",
+    "characters": [
+      {
+        "char": "が",
+        "romaji": [
+          "ga"
+        ]
+      },
+      {
+        "char": "、",
+        "romaji": [
+          ","
+        ]
+      },
+      {
+        "char": "じ",
+        "romaji": [
+          "zi",
+          "ji"
+        ]
+      },
+      {
+        "char": "っ",
+        "romaji": [
+          "xtu",
+          "ltu",
+          "xtsu",
+          "ltsu"
+        ]
+      },
+      {
+        "char": "さ",
+        "romaji": [
+          "sa"
+        ]
+      },
+      {
+        "char": "い",
+        "romaji": [
+          "i",
+          "yi"
+        ]
+      },
+      {
+        "char": "は",
+        "romaji": [
+          "ha",
+          "wa"
+        ]
+      },
+      {
+        "char": "あ",
+        "romaji": [
+          "a"
+        ]
+      },
+      {
+        "char": "り",
+        "romaji": [
+          "ri",
+          "li"
+        ]
+      },
+      {
+        "char": "き",
+        "romaji": [
+          "ki"
+        ]
+      },
+      {
+        "char": "た",
+        "romaji": [
+          "ta"
+        ]
+      },
+      {
+        "char": "り",
+        "romaji": [
+          "ri",
+          "li"
+        ]
+      },
+      {
+        "char": "な",
+        "romaji": [
+          "na"
+        ]
+      },
+      {
+        "char": "2",
+        "romaji": [
+          "2"
+        ]
+      },
+      {
+        "char": "つ",
+        "romaji": [
+          "tu",
+          "tsu"
+        ]
+      },
+      {
+        "char": "ぎ",
+        "romaji": [
+          "gi"
+        ]
+      },
+      {
+        "char": "じょ",
+        "romaji": [
+          "jo",
+          "zyo",
+          "jyo",
+          "zilyo",
+          "zixyo",
+          "jilyo",
+          "jixyo"
+        ]
+      },
+      {
+        "char": "う",
+        "romaji": [
+          "u",
+          "wu",
+          "whu"
+        ]
+      },
+      {
+        "char": "ほ",
+        "romaji": [
+          "ho"
+        ]
+      },
+      {
+        "char": "う",
+        "romaji": [
+          "u",
+          "wu",
+          "whu"
+        ]
+      },
+      {
+        "char": "だ",
+        "romaji": [
+          "da"
+        ]
+      },
+      {
+        "char": "ら",
+        "romaji": [
+          "ra",
+          "la"
+        ]
+      },
+      {
+        "char": "け",
+        "romaji": [
+          "ke"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 55,
+    "original": "案外、自分が経験したことをもとに本心で発信されている情報は少ない",
+    "characters": [
+      {
+        "char": "あ",
+        "romaji": [
+          "a"
+        ]
+      },
+      {
+        "char": "ん",
+        "romaji": [
+          "n",
+          "nn",
+          "n'",
+          "xn"
+        ]
+      },
+      {
+        "char": "が",
+        "romaji": [
+          "ga"
+        ]
+      },
+      {
+        "char": "い",
+        "romaji": [
+          "i",
+          "yi"
+        ]
+      },
+      {
+        "char": "、",
+        "romaji": [
+          ","
+        ]
+      },
+      {
+        "char": "じ",
+        "romaji": [
+          "zi",
+          "ji"
+        ]
+      },
+      {
+        "char": "ぶ",
+        "romaji": [
+          "bu"
+        ]
+      },
+      {
+        "char": "ん",
+        "romaji": [
+          "n",
+          "nn",
+          "n'",
+          "xn"
+        ]
+      },
+      {
+        "char": "が",
+        "romaji": [
+          "ga"
+        ]
+      },
+      {
+        "char": "け",
+        "romaji": [
+          "ke"
+        ]
+      },
+      {
+        "char": "い",
+        "romaji": [
+          "i",
+          "yi"
+        ]
+      },
+      {
+        "char": "け",
+        "romaji": [
+          "ke"
+        ]
+      },
+      {
+        "char": "ん",
+        "romaji": [
+          "n",
+          "nn",
+          "n'",
+          "xn"
+        ]
+      },
+      {
+        "char": "し",
+        "romaji": [
+          "si",
+          "shi",
+          "ci"
+        ]
+      },
+      {
+        "char": "た",
+        "romaji": [
+          "ta"
+        ]
+      },
+      {
+        "char": "こ",
+        "romaji": [
+          "ko",
+          "co"
+        ]
+      },
+      {
+        "char": "と",
+        "romaji": [
+          "to"
+        ]
+      },
+      {
+        "char": "を",
+        "romaji": [
+          "wo",
+          "o"
+        ]
+      },
+      {
+        "char": "も",
+        "romaji": [
+          "mo"
+        ]
+      },
+      {
+        "char": "と",
+        "romaji": [
+          "to"
+        ]
+      },
+      {
+        "char": "に",
+        "romaji": [
+          "ni"
+        ]
+      },
+      {
+        "char": "ほ",
+        "romaji": [
+          "ho"
+        ]
+      },
+      {
+        "char": "ん",
+        "romaji": [
+          "n",
+          "nn",
+          "n'",
+          "xn"
+        ]
+      },
+      {
+        "char": "し",
+        "romaji": [
+          "si",
+          "shi",
+          "ci"
+        ]
+      },
+      {
+        "char": "ん",
+        "romaji": [
+          "n",
+          "nn",
+          "n'",
+          "xn"
+        ]
+      },
+      {
+        "char": "で",
+        "romaji": [
+          "de"
+        ]
+      },
+      {
+        "char": "は",
+        "romaji": [
+          "ha",
+          "wa"
+        ]
+      },
+      {
+        "char": "っ",
+        "romaji": [
+          "xtu",
+          "ltu",
+          "xtsu",
+          "ltsu"
+        ]
+      },
+      {
+        "char": "し",
+        "romaji": [
+          "si",
+          "shi",
+          "ci"
+        ]
+      },
+      {
+        "char": "ん",
+        "romaji": [
+          "n",
+          "nn",
+          "n'",
+          "xn"
+        ]
+      },
+      {
+        "char": "さ",
+        "romaji": [
+          "sa"
+        ]
+      },
+      {
+        "char": "れ",
+        "romaji": [
+          "re",
+          "le"
+        ]
+      },
+      {
+        "char": "て",
+        "romaji": [
+          "te"
+        ]
+      },
+      {
+        "char": "い",
+        "romaji": [
+          "i",
+          "yi"
+        ]
+      },
+      {
+        "char": "る",
+        "romaji": [
+          "ru",
+          "lu"
+        ]
+      },
+      {
+        "char": "じょ",
+        "romaji": [
+          "jo",
+          "zyo",
+          "jyo",
+          "zilyo",
+          "zixyo",
+          "jilyo",
+          "jixyo"
+        ]
+      },
+      {
+        "char": "う",
+        "romaji": [
+          "u",
+          "wu",
+          "whu"
+        ]
+      },
+      {
+        "char": "ほ",
+        "romaji": [
+          "ho"
+        ]
+      },
+      {
+        "char": "う",
+        "romaji": [
+          "u",
+          "wu",
+          "whu"
+        ]
+      },
+      {
+        "char": "は",
+        "romaji": [
+          "ha",
+          "wa"
+        ]
+      },
+      {
+        "char": "す",
+        "romaji": [
+          "su"
+        ]
+      },
+      {
+        "char": "く",
+        "romaji": [
+          "ku",
+          "cu",
+          "qu"
+        ]
+      },
+      {
+        "char": "な",
+        "romaji": [
+          "na"
+        ]
+      },
+      {
+        "char": "い",
+        "romaji": [
+          "i",
+          "yi"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 56,
+    "original": "だから、是非情報発信をしてほしい",
+    "characters": [
+      {
+        "char": "だ",
+        "romaji": [
+          "da"
+        ]
+      },
+      {
+        "char": "か",
+        "romaji": [
+          "ka",
+          "ca"
+        ]
+      },
+      {
+        "char": "ら",
+        "romaji": [
+          "ra",
+          "la"
+        ]
+      },
+      {
+        "char": "、",
+        "romaji": [
+          ","
+        ]
+      },
+      {
+        "char": "ぜ",
+        "romaji": [
+          "ze"
+        ]
+      },
+      {
+        "char": "ひ",
+        "romaji": [
+          "hi"
+        ]
+      },
+      {
+        "char": "じょ",
+        "romaji": [
+          "jo",
+          "zyo",
+          "jyo",
+          "zilyo",
+          "zixyo",
+          "jilyo",
+          "jixyo"
+        ]
+      },
+      {
+        "char": "う",
+        "romaji": [
+          "u",
+          "wu",
+          "whu"
+        ]
+      },
+      {
+        "char": "ほ",
+        "romaji": [
+          "ho"
+        ]
+      },
+      {
+        "char": "う",
+        "romaji": [
+          "u",
+          "wu",
+          "whu"
+        ]
+      },
+      {
+        "char": "は",
+        "romaji": [
+          "ha",
+          "wa"
+        ]
+      },
+      {
+        "char": "っ",
+        "romaji": [
+          "xtu",
+          "ltu",
+          "xtsu",
+          "ltsu"
+        ]
+      },
+      {
+        "char": "し",
+        "romaji": [
+          "si",
+          "shi",
+          "ci"
+        ]
+      },
+      {
+        "char": "ん",
+        "romaji": [
+          "n",
+          "nn",
+          "n'",
+          "xn"
+        ]
+      },
+      {
+        "char": "を",
+        "romaji": [
+          "wo",
+          "o"
+        ]
+      },
+      {
+        "char": "し",
+        "romaji": [
+          "si",
+          "shi",
+          "ci"
+        ]
+      },
+      {
+        "char": "て",
+        "romaji": [
+          "te"
+        ]
+      },
+      {
+        "char": "ほ",
+        "romaji": [
+          "ho"
+        ]
+      },
+      {
+        "char": "し",
+        "romaji": [
+          "si",
+          "shi",
+          "ci"
+        ]
+      },
+      {
+        "char": "い",
+        "romaji": [
+          "i",
+          "yi"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 57,
+    "original": "自分が思ってることなんて誰も興味ないよ、、、と思う人もいるかもしれないが、そんなことは全くない",
+    "characters": [
+      {
+        "char": "じ",
+        "romaji": [
+          "zi",
+          "ji"
+        ]
+      },
+      {
+        "char": "ぶ",
+        "romaji": [
+          "bu"
+        ]
+      },
+      {
+        "char": "ん",
+        "romaji": [
+          "n",
+          "nn",
+          "n'",
+          "xn"
+        ]
+      },
+      {
+        "char": "が",
+        "romaji": [
+          "ga"
+        ]
+      },
+      {
+        "char": "お",
+        "romaji": [
+          "o"
+        ]
+      },
+      {
+        "char": "も",
+        "romaji": [
+          "mo"
+        ]
+      },
+      {
+        "char": "っ",
+        "romaji": [
+          "xtu",
+          "ltu",
+          "xtsu",
+          "ltsu"
+        ]
+      },
+      {
+        "char": "て",
+        "romaji": [
+          "te"
+        ]
+      },
+      {
+        "char": "る",
+        "romaji": [
+          "ru",
+          "lu"
+        ]
+      },
+      {
+        "char": "こ",
+        "romaji": [
+          "ko",
+          "co"
+        ]
+      },
+      {
+        "char": "と",
+        "romaji": [
+          "to"
+        ]
+      },
+      {
+        "char": "な",
+        "romaji": [
+          "na"
+        ]
+      },
+      {
+        "char": "ん",
+        "romaji": [
+          "n",
+          "nn",
+          "n'",
+          "xn"
+        ]
+      },
+      {
+        "char": "て",
+        "romaji": [
+          "te"
+        ]
+      },
+      {
+        "char": "だ",
+        "romaji": [
+          "da"
+        ]
+      },
+      {
+        "char": "れ",
+        "romaji": [
+          "re",
+          "le"
+        ]
+      },
+      {
+        "char": "も",
+        "romaji": [
+          "mo"
+        ]
+      },
+      {
+        "char": "きょ",
+        "romaji": [
+          "kyo",
+          "kilyo",
+          "kixyo"
+        ]
+      },
+      {
+        "char": "う",
+        "romaji": [
+          "u",
+          "wu",
+          "whu"
+        ]
+      },
+      {
+        "char": "み",
+        "romaji": [
+          "mi"
+        ]
+      },
+      {
+        "char": "な",
+        "romaji": [
+          "na"
+        ]
+      },
+      {
+        "char": "い",
+        "romaji": [
+          "i",
+          "yi"
+        ]
+      },
+      {
+        "char": "よ",
+        "romaji": [
+          "yo"
+        ]
+      },
+      {
+        "char": "、",
+        "romaji": [
+          ","
+        ]
+      },
+      {
+        "char": "、",
+        "romaji": [
+          ","
+        ]
+      },
+      {
+        "char": "、",
+        "romaji": [
+          ","
+        ]
+      },
+      {
+        "char": "と",
+        "romaji": [
+          "to"
+        ]
+      },
+      {
+        "char": "お",
+        "romaji": [
+          "o"
+        ]
+      },
+      {
+        "char": "も",
+        "romaji": [
+          "mo"
+        ]
+      },
+      {
+        "char": "う",
+        "romaji": [
+          "u",
+          "wu",
+          "whu"
+        ]
+      },
+      {
+        "char": "に",
+        "romaji": [
+          "ni"
+        ]
+      },
+      {
+        "char": "ん",
+        "romaji": [
+          "n",
+          "nn",
+          "n'",
+          "xn"
+        ]
+      },
+      {
+        "char": "も",
+        "romaji": [
+          "mo"
+        ]
+      },
+      {
+        "char": "い",
+        "romaji": [
+          "i",
+          "yi"
+        ]
+      },
+      {
+        "char": "る",
+        "romaji": [
+          "ru",
+          "lu"
+        ]
+      },
+      {
+        "char": "か",
+        "romaji": [
+          "ka",
+          "ca"
+        ]
+      },
+      {
+        "char": "も",
+        "romaji": [
+          "mo"
+        ]
+      },
+      {
+        "char": "し",
+        "romaji": [
+          "si",
+          "shi",
+          "ci"
+        ]
+      },
+      {
+        "char": "れ",
+        "romaji": [
+          "re",
+          "le"
+        ]
+      },
+      {
+        "char": "な",
+        "romaji": [
+          "na"
+        ]
+      },
+      {
+        "char": "い",
+        "romaji": [
+          "i",
+          "yi"
+        ]
+      },
+      {
+        "char": "が",
+        "romaji": [
+          "ga"
+        ]
+      },
+      {
+        "char": "、",
+        "romaji": [
+          ","
+        ]
+      },
+      {
+        "char": "そ",
+        "romaji": [
+          "so"
+        ]
+      },
+      {
+        "char": "ん",
+        "romaji": [
+          "nn",
+          "n'",
+          "xn"
+        ]
+      },
+      {
+        "char": "な",
+        "romaji": [
+          "na"
+        ]
+      },
+      {
+        "char": "こ",
+        "romaji": [
+          "ko",
+          "co"
+        ]
+      },
+      {
+        "char": "と",
+        "romaji": [
+          "to"
+        ]
+      },
+      {
+        "char": "は",
+        "romaji": [
+          "ha",
+          "wa"
+        ]
+      },
+      {
+        "char": "ま",
+        "romaji": [
+          "ma"
+        ]
+      },
+      {
+        "char": "っ",
+        "romaji": [
+          "xtu",
+          "ltu",
+          "xtsu",
+          "ltsu"
+        ]
+      },
+      {
+        "char": "た",
+        "romaji": [
+          "ta"
+        ]
+      },
+      {
+        "char": "く",
+        "romaji": [
+          "ku",
+          "cu",
+          "qu"
+        ]
+      },
+      {
+        "char": "な",
+        "romaji": [
+          "na"
+        ]
+      },
+      {
+        "char": "い",
+        "romaji": [
+          "i",
+          "yi"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 58,
+    "original": "なんてことない主婦のブロガーがバズったり、ただ東南アジアで風俗に行ってるおっさんのブログが凄い人気なのも、全部一次情報だから",
+    "characters": [
+      {
+        "char": "な",
+        "romaji": [
+          "na"
+        ]
+      },
+      {
+        "char": "ん",
+        "romaji": [
+          "n",
+          "nn",
+          "n'",
+          "xn"
+        ]
+      },
+      {
+        "char": "て",
+        "romaji": [
+          "te"
+        ]
+      },
+      {
+        "char": "こ",
+        "romaji": [
+          "ko",
+          "co"
+        ]
+      },
+      {
+        "char": "と",
+        "romaji": [
+          "to"
+        ]
+      },
+      {
+        "char": "な",
+        "romaji": [
+          "na"
+        ]
+      },
+      {
+        "char": "い",
+        "romaji": [
+          "i",
+          "yi"
+        ]
+      },
+      {
+        "char": "しゅ",
+        "romaji": [
+          "syu",
+          "shu",
+          "silyu",
+          "sixyu",
+          "shilyu",
+          "shixyu",
+          "cilyu",
+          "cixyu"
+        ]
+      },
+      {
+        "char": "ふ",
+        "romaji": [
+          "hu",
+          "fu"
+        ]
+      },
+      {
+        "char": "の",
+        "romaji": [
+          "no"
+        ]
+      },
+      {
+        "char": "ぶ",
+        "romaji": [
+          "bu"
+        ]
+      },
+      {
+        "char": "ろ",
+        "romaji": [
+          "ro",
+          "lo"
+        ]
+      },
+      {
+        "char": "が",
+        "romaji": [
+          "ga"
+        ]
+      },
+      {
+        "char": "ー",
+        "romaji": [
+          "-"
+        ]
+      },
+      {
+        "char": "が",
+        "romaji": [
+          "ga"
+        ]
+      },
+      {
+        "char": "ば",
+        "romaji": [
+          "ba"
+        ]
+      },
+      {
+        "char": "ず",
+        "romaji": [
+          "zu"
+        ]
+      },
+      {
+        "char": "っ",
+        "romaji": [
+          "xtu",
+          "ltu",
+          "xtsu",
+          "ltsu"
+        ]
+      },
+      {
+        "char": "た",
+        "romaji": [
+          "ta"
+        ]
+      },
+      {
+        "char": "り",
+        "romaji": [
+          "ri",
+          "li"
+        ]
+      },
+      {
+        "char": "、",
+        "romaji": [
+          ","
+        ]
+      },
+      {
+        "char": "た",
+        "romaji": [
+          "ta"
+        ]
+      },
+      {
+        "char": "だ",
+        "romaji": [
+          "da"
+        ]
+      },
+      {
+        "char": "と",
+        "romaji": [
+          "to"
+        ]
+      },
+      {
+        "char": "う",
+        "romaji": [
+          "u",
+          "wu",
+          "whu"
+        ]
+      },
+      {
+        "char": "な",
+        "romaji": [
+          "na"
+        ]
+      },
+      {
+        "char": "ん",
+        "romaji": [
+          "nn",
+          "n'",
+          "xn"
+        ]
+      },
+      {
+        "char": "あ",
+        "romaji": [
+          "a"
+        ]
+      },
+      {
+        "char": "じ",
+        "romaji": [
+          "zi",
+          "ji"
+        ]
+      },
+      {
+        "char": "あ",
+        "romaji": [
+          "a"
+        ]
+      },
+      {
+        "char": "で",
+        "romaji": [
+          "de"
+        ]
+      },
+      {
+        "char": "ふ",
+        "romaji": [
+          "hu",
+          "fu"
+        ]
+      },
+      {
+        "char": "う",
+        "romaji": [
+          "u",
+          "wu",
+          "whu"
+        ]
+      },
+      {
+        "char": "ぞ",
+        "romaji": [
+          "zo"
+        ]
+      },
+      {
+        "char": "く",
+        "romaji": [
+          "ku",
+          "cu",
+          "qu"
+        ]
+      },
+      {
+        "char": "に",
+        "romaji": [
+          "ni"
+        ]
+      },
+      {
+        "char": "い",
+        "romaji": [
+          "i",
+          "yi"
+        ]
+      },
+      {
+        "char": "っ",
+        "romaji": [
+          "xtu",
+          "ltu",
+          "xtsu",
+          "ltsu"
+        ]
+      },
+      {
+        "char": "て",
+        "romaji": [
+          "te"
+        ]
+      },
+      {
+        "char": "る",
+        "romaji": [
+          "ru",
+          "lu"
+        ]
+      },
+      {
+        "char": "お",
+        "romaji": [
+          "o"
+        ]
+      },
+      {
+        "char": "っ",
+        "romaji": [
+          "xtu",
+          "ltu",
+          "xtsu",
+          "ltsu"
+        ]
+      },
+      {
+        "char": "さ",
+        "romaji": [
+          "sa"
+        ]
+      },
+      {
+        "char": "ん",
+        "romaji": [
+          "nn",
+          "n'",
+          "xn"
+        ]
+      },
+      {
+        "char": "の",
+        "romaji": [
+          "no"
+        ]
+      },
+      {
+        "char": "ぶ",
+        "romaji": [
+          "bu"
+        ]
+      },
+      {
+        "char": "ろ",
+        "romaji": [
+          "ro",
+          "lo"
+        ]
+      },
+      {
+        "char": "ぐ",
+        "romaji": [
+          "gu"
+        ]
+      },
+      {
+        "char": "が",
+        "romaji": [
+          "ga"
+        ]
+      },
+      {
+        "char": "す",
+        "romaji": [
+          "su"
+        ]
+      },
+      {
+        "char": "ご",
+        "romaji": [
+          "go"
+        ]
+      },
+      {
+        "char": "い",
+        "romaji": [
+          "i",
+          "yi"
+        ]
+      },
+      {
+        "char": "に",
+        "romaji": [
+          "ni"
+        ]
+      },
+      {
+        "char": "ん",
+        "romaji": [
+          "n",
+          "nn",
+          "n'",
+          "xn"
+        ]
+      },
+      {
+        "char": "き",
+        "romaji": [
+          "ki"
+        ]
+      },
+      {
+        "char": "な",
+        "romaji": [
+          "na"
+        ]
+      },
+      {
+        "char": "の",
+        "romaji": [
+          "no"
+        ]
+      },
+      {
+        "char": "も",
+        "romaji": [
+          "mo"
+        ]
+      },
+      {
+        "char": "、",
+        "romaji": [
+          ","
+        ]
+      },
+      {
+        "char": "ぜ",
+        "romaji": [
+          "ze"
+        ]
+      },
+      {
+        "char": "ん",
+        "romaji": [
+          "n",
+          "nn",
+          "n'",
+          "xn"
+        ]
+      },
+      {
+        "char": "ぶ",
+        "romaji": [
+          "bu"
+        ]
+      },
+      {
+        "char": "い",
+        "romaji": [
+          "i",
+          "yi"
+        ]
+      },
+      {
+        "char": "ち",
+        "romaji": [
+          "ti",
+          "chi"
+        ]
+      },
+      {
+        "char": "じ",
+        "romaji": [
+          "zi",
+          "ji"
+        ]
+      },
+      {
+        "char": "じょ",
+        "romaji": [
+          "jo",
+          "zyo",
+          "jyo",
+          "zilyo",
+          "zixyo",
+          "jilyo",
+          "jixyo"
+        ]
+      },
+      {
+        "char": "う",
+        "romaji": [
+          "u",
+          "wu",
+          "whu"
+        ]
+      },
+      {
+        "char": "ほ",
+        "romaji": [
+          "ho"
+        ]
+      },
+      {
+        "char": "う",
+        "romaji": [
+          "u",
+          "wu",
+          "whu"
+        ]
+      },
+      {
+        "char": "だ",
+        "romaji": [
+          "da"
+        ]
+      },
+      {
+        "char": "か",
+        "romaji": [
+          "ka",
+          "ca"
+        ]
+      },
+      {
+        "char": "ら",
+        "romaji": [
+          "ra",
+          "la"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 59,
+    "original": "真っ先にAIに代替される無能な人材って印象でした",
+    "characters": [
+      {
+        "char": "ま",
+        "romaji": [
+          "ma"
+        ]
+      },
+      {
+        "char": "っ",
+        "romaji": [
+          "xtu",
+          "ltu",
+          "xtsu",
+          "ltsu"
+        ]
+      },
+      {
+        "char": "さ",
+        "romaji": [
+          "sa"
+        ]
+      },
+      {
+        "char": "き",
+        "romaji": [
+          "ki"
+        ]
+      },
+      {
+        "char": "に",
+        "romaji": [
+          "ni"
+        ]
+      },
+      {
+        "char": "A",
+        "romaji": [
+          "a"
+        ]
+      },
+      {
+        "char": "I",
+        "romaji": [
+          "i"
+        ]
+      },
+      {
+        "char": "に",
+        "romaji": [
+          "ni"
+        ]
+      },
+      {
+        "char": "だ",
+        "romaji": [
+          "da"
+        ]
+      },
+      {
+        "char": "い",
+        "romaji": [
+          "i",
+          "yi"
+        ]
+      },
+      {
+        "char": "た",
+        "romaji": [
+          "ta"
+        ]
+      },
+      {
+        "char": "い",
+        "romaji": [
+          "i",
+          "yi"
+        ]
+      },
+      {
+        "char": "さ",
+        "romaji": [
+          "sa"
+        ]
+      },
+      {
+        "char": "れ",
+        "romaji": [
+          "re",
+          "le"
+        ]
+      },
+      {
+        "char": "る",
+        "romaji": [
+          "ru",
+          "lu"
+        ]
+      },
+      {
+        "char": "む",
+        "romaji": [
+          "mu"
+        ]
+      },
+      {
+        "char": "の",
+        "romaji": [
+          "no"
+        ]
+      },
+      {
+        "char": "う",
+        "romaji": [
+          "u",
+          "wu",
+          "whu"
+        ]
+      },
+      {
+        "char": "な",
+        "romaji": [
+          "na"
+        ]
+      },
+      {
+        "char": "じ",
+        "romaji": [
+          "zi",
+          "ji"
+        ]
+      },
+      {
+        "char": "ん",
+        "romaji": [
+          "n",
+          "nn",
+          "n'",
+          "xn"
+        ]
+      },
+      {
+        "char": "ざ",
+        "romaji": [
+          "za"
+        ]
+      },
+      {
+        "char": "い",
+        "romaji": [
+          "i",
+          "yi"
+        ]
+      },
+      {
+        "char": "っ",
+        "romaji": [
+          "xtu",
+          "ltu",
+          "xtsu",
+          "ltsu"
+        ]
+      },
+      {
+        "char": "て",
+        "romaji": [
+          "te"
+        ]
+      },
+      {
+        "char": "い",
+        "romaji": [
+          "i",
+          "yi"
+        ]
+      },
+      {
+        "char": "ん",
+        "romaji": [
+          "n",
+          "nn",
+          "n'",
+          "xn"
+        ]
+      },
+      {
+        "char": "しょ",
+        "romaji": [
+          "syo",
+          "sho",
+          "silyo",
+          "sixyo",
+          "shilyo",
+          "shixyo",
+          "cilyo",
+          "cixyo"
+        ]
+      },
+      {
+        "char": "う",
+        "romaji": [
+          "u",
+          "wu",
+          "whu"
+        ]
+      },
+      {
+        "char": "で",
+        "romaji": [
+          "de"
+        ]
+      },
+      {
+        "char": "し",
+        "romaji": [
+          "si",
+          "shi",
+          "ci"
+        ]
+      },
+      {
+        "char": "た",
+        "romaji": [
+          "ta"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 60,
+    "original": "TikTok開く前に広辞苑開いた方がいい",
+    "characters": [
+      {
+        "char": "T",
+        "romaji": [
+          "t"
+        ]
+      },
+      {
+        "char": "i",
+        "romaji": [
+          "i"
+        ]
+      },
+      {
+        "char": "k",
+        "romaji": [
+          "k"
+        ]
+      },
+      {
+        "char": "T",
+        "romaji": [
+          "t"
+        ]
+      },
+      {
+        "char": "o",
+        "romaji": [
+          "o"
+        ]
+      },
+      {
+        "char": "k",
+        "romaji": [
+          "k"
+        ]
+      },
+      {
+        "char": "ひ",
+        "romaji": [
+          "hi"
+        ]
+      },
+      {
+        "char": "ら",
+        "romaji": [
+          "ra",
+          "la"
+        ]
+      },
+      {
+        "char": "く",
+        "romaji": [
+          "ku",
+          "cu",
+          "qu"
+        ]
+      },
+      {
+        "char": "ま",
+        "romaji": [
+          "ma"
+        ]
+      },
+      {
+        "char": "え",
+        "romaji": [
+          "e"
+        ]
+      },
+      {
+        "char": "に",
+        "romaji": [
+          "ni"
+        ]
+      },
+      {
+        "char": "こ",
+        "romaji": [
+          "ko",
+          "co"
+        ]
+      },
+      {
+        "char": "う",
+        "romaji": [
+          "u",
+          "wu",
+          "whu"
+        ]
+      },
+      {
+        "char": "じ",
+        "romaji": [
+          "zi",
+          "ji"
+        ]
+      },
+      {
+        "char": "え",
+        "romaji": [
+          "e"
+        ]
+      },
+      {
+        "char": "ん",
+        "romaji": [
+          "n",
+          "nn",
+          "n'",
+          "xn"
+        ]
+      },
+      {
+        "char": "ひ",
+        "romaji": [
+          "hi"
+        ]
+      },
+      {
+        "char": "ら",
+        "romaji": [
+          "ra",
+          "la"
+        ]
+      },
+      {
+        "char": "い",
+        "romaji": [
+          "i",
+          "yi"
+        ]
+      },
+      {
+        "char": "た",
+        "romaji": [
+          "ta"
+        ]
+      },
+      {
+        "char": "ほ",
+        "romaji": [
+          "ho"
+        ]
+      },
+      {
+        "char": "う",
+        "romaji": [
+          "u",
+          "wu",
+          "whu"
+        ]
+      },
+      {
+        "char": "が",
+        "romaji": [
+          "ga"
+        ]
+      },
+      {
+        "char": "い",
+        "romaji": [
+          "i",
+          "yi"
+        ]
+      },
+      {
+        "char": "い",
+        "romaji": [
+          "i",
+          "yi"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 61,
+    "original": "人が幸せを感じる時は3種類",
+    "characters": [
+      {
+        "char": "に",
+        "romaji": [
+          "ni"
+        ]
+      },
+      {
+        "char": "ん",
+        "romaji": [
+          "n",
+          "nn",
+          "n'",
+          "xn"
+        ]
+      },
+      {
+        "char": "が",
+        "romaji": [
+          "ga"
+        ]
+      },
+      {
+        "char": "し",
+        "romaji": [
+          "si",
+          "shi",
+          "ci"
+        ]
+      },
+      {
+        "char": "あ",
+        "romaji": [
+          "a"
+        ]
+      },
+      {
+        "char": "わ",
+        "romaji": [
+          "wa"
+        ]
+      },
+      {
+        "char": "せ",
+        "romaji": [
+          "se",
+          "ce"
+        ]
+      },
+      {
+        "char": "を",
+        "romaji": [
+          "wo",
+          "o"
+        ]
+      },
+      {
+        "char": "か",
+        "romaji": [
+          "ka",
+          "ca"
+        ]
+      },
+      {
+        "char": "ん",
+        "romaji": [
+          "n",
+          "nn",
+          "n'",
+          "xn"
+        ]
+      },
+      {
+        "char": "じ",
+        "romaji": [
+          "zi",
+          "ji"
+        ]
+      },
+      {
+        "char": "る",
+        "romaji": [
+          "ru",
+          "lu"
+        ]
+      },
+      {
+        "char": "と",
+        "romaji": [
+          "to"
+        ]
+      },
+      {
+        "char": "き",
+        "romaji": [
+          "ki"
+        ]
+      },
+      {
+        "char": "は",
+        "romaji": [
+          "ha",
+          "wa"
+        ]
+      },
+      {
+        "char": "3",
+        "romaji": [
+          "3"
+        ]
+      },
+      {
+        "char": "しゅ",
+        "romaji": [
+          "syu",
+          "shu",
+          "silyu",
+          "sixyu",
+          "shilyu",
+          "shixyu",
+          "cilyu",
+          "cixyu"
+        ]
+      },
+      {
+        "char": "る",
+        "romaji": [
+          "ru",
+          "lu"
+        ]
+      },
+      {
+        "char": "い",
+        "romaji": [
+          "i",
+          "yi"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 62,
+    "original": "ドーパミン的幸福",
+    "characters": [
+      {
+        "char": "ど",
+        "romaji": [
+          "do"
+        ]
+      },
+      {
+        "char": "ー",
+        "romaji": [
+          "-"
+        ]
+      },
+      {
+        "char": "ぱ",
+        "romaji": [
+          "pa"
+        ]
+      },
+      {
+        "char": "み",
+        "romaji": [
+          "mi"
+        ]
+      },
+      {
+        "char": "ん",
+        "romaji": [
+          "n",
+          "nn",
+          "n'",
+          "xn"
+        ]
+      },
+      {
+        "char": "て",
+        "romaji": [
+          "te"
+        ]
+      },
+      {
+        "char": "き",
+        "romaji": [
+          "ki"
+        ]
+      },
+      {
+        "char": "こ",
+        "romaji": [
+          "ko",
+          "co"
+        ]
+      },
+      {
+        "char": "う",
+        "romaji": [
+          "u",
+          "wu",
+          "whu"
+        ]
+      },
+      {
+        "char": "ふ",
+        "romaji": [
+          "hu",
+          "fu"
+        ]
+      },
+      {
+        "char": "く",
+        "romaji": [
+          "ku",
+          "cu",
+          "qu"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 63,
+    "original": "セロトニン的幸福",
+    "characters": [
+      {
+        "char": "せ",
+        "romaji": [
+          "se",
+          "ce"
+        ]
+      },
+      {
+        "char": "ろ",
+        "romaji": [
+          "ro",
+          "lo"
+        ]
+      },
+      {
+        "char": "と",
+        "romaji": [
+          "to"
+        ]
+      },
+      {
+        "char": "に",
+        "romaji": [
+          "ni"
+        ]
+      },
+      {
+        "char": "ん",
+        "romaji": [
+          "n",
+          "nn",
+          "n'",
+          "xn"
+        ]
+      },
+      {
+        "char": "て",
+        "romaji": [
+          "te"
+        ]
+      },
+      {
+        "char": "き",
+        "romaji": [
+          "ki"
+        ]
+      },
+      {
+        "char": "こ",
+        "romaji": [
+          "ko",
+          "co"
+        ]
+      },
+      {
+        "char": "う",
+        "romaji": [
+          "u",
+          "wu",
+          "whu"
+        ]
+      },
+      {
+        "char": "ふ",
+        "romaji": [
+          "hu",
+          "fu"
+        ]
+      },
+      {
+        "char": "く",
+        "romaji": [
+          "ku",
+          "cu",
+          "qu"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 64,
+    "original": "オキシトシン的幸福",
+    "characters": [
+      {
+        "char": "お",
+        "romaji": [
+          "o"
+        ]
+      },
+      {
+        "char": "き",
+        "romaji": [
+          "ki"
+        ]
+      },
+      {
+        "char": "し",
+        "romaji": [
+          "si",
+          "shi",
+          "ci"
+        ]
+      },
+      {
+        "char": "と",
+        "romaji": [
+          "to"
+        ]
+      },
+      {
+        "char": "し",
+        "romaji": [
+          "si",
+          "shi",
+          "ci"
+        ]
+      },
+      {
+        "char": "ん",
+        "romaji": [
+          "n",
+          "nn",
+          "n'",
+          "xn"
+        ]
+      },
+      {
+        "char": "て",
+        "romaji": [
+          "te"
+        ]
+      },
+      {
+        "char": "き",
+        "romaji": [
+          "ki"
+        ]
+      },
+      {
+        "char": "こ",
+        "romaji": [
+          "ko",
+          "co"
+        ]
+      },
+      {
+        "char": "う",
+        "romaji": [
+          "u",
+          "wu",
+          "whu"
+        ]
+      },
+      {
+        "char": "ふ",
+        "romaji": [
+          "hu",
+          "fu"
+        ]
+      },
+      {
+        "char": "く",
+        "romaji": [
+          "ku",
+          "cu",
+          "qu"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 65,
+    "original": "やるか超やるか",
+    "characters": [
+      {
+        "char": "や",
+        "romaji": [
+          "ya"
+        ]
+      },
+      {
+        "char": "る",
+        "romaji": [
+          "ru",
+          "lu"
+        ]
+      },
+      {
+        "char": "か",
+        "romaji": [
+          "ka",
+          "ca"
+        ]
+      },
+      {
+        "char": "ちょ",
+        "romaji": [
+          "tyo",
+          "cho",
+          "tilyo",
+          "tixyo",
+          "chilyo",
+          "chixyo",
+          "cyo"
+        ]
+      },
+      {
+        "char": "う",
+        "romaji": [
+          "u",
+          "wu",
+          "whu"
+        ]
+      },
+      {
+        "char": "や",
+        "romaji": [
+          "ya"
+        ]
+      },
+      {
+        "char": "る",
+        "romaji": [
+          "ru",
+          "lu"
+        ]
+      },
+      {
+        "char": "か",
+        "romaji": [
+          "ka",
+          "ca"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 66,
+    "original": "やるぞ！",
+    "characters": [
+      {
+        "char": "や",
+        "romaji": [
+          "ya"
+        ]
+      },
+      {
+        "char": "る",
+        "romaji": [
+          "ru",
+          "lu"
+        ]
+      },
+      {
+        "char": "ぞ",
+        "romaji": [
+          "zo"
+        ]
+      },
+      {
+        "char": "！",
+        "romaji": [
+          "!"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 67,
+    "original": "例外を作らない",
+    "characters": [
+      {
+        "char": "れ",
+        "romaji": [
+          "re",
+          "le"
+        ]
+      },
+      {
+        "char": "い",
+        "romaji": [
+          "i",
+          "yi"
+        ]
+      },
+      {
+        "char": "が",
+        "romaji": [
+          "ga"
+        ]
+      },
+      {
+        "char": "い",
+        "romaji": [
+          "i",
+          "yi"
+        ]
+      },
+      {
+        "char": "を",
+        "romaji": [
+          "wo",
+          "o"
+        ]
+      },
+      {
+        "char": "つ",
+        "romaji": [
+          "tu",
+          "tsu"
+        ]
+      },
+      {
+        "char": "く",
+        "romaji": [
+          "ku",
+          "cu",
+          "qu"
+        ]
+      },
+      {
+        "char": "ら",
+        "romaji": [
+          "ra",
+          "la"
+        ]
+      },
+      {
+        "char": "な",
+        "romaji": [
+          "na"
+        ]
+      },
+      {
+        "char": "い",
+        "romaji": [
+          "i",
+          "yi"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 68,
+    "original": "いつだってAIではなく人間が間違っている",
+    "characters": [
+      {
+        "char": "い",
+        "romaji": [
+          "i",
+          "yi"
+        ]
+      },
+      {
+        "char": "つ",
+        "romaji": [
+          "tu",
+          "tsu"
+        ]
+      },
+      {
+        "char": "だ",
+        "romaji": [
+          "da"
+        ]
+      },
+      {
+        "char": "っ",
+        "romaji": [
+          "xtu",
+          "ltu",
+          "xtsu",
+          "ltsu"
+        ]
+      },
+      {
+        "char": "て",
+        "romaji": [
+          "te"
+        ]
+      },
+      {
+        "char": "A",
+        "romaji": [
+          "a"
+        ]
+      },
+      {
+        "char": "I",
+        "romaji": [
+          "i"
+        ]
+      },
+      {
+        "char": "で",
+        "romaji": [
+          "de"
+        ]
+      },
+      {
+        "char": "は",
+        "romaji": [
+          "ha",
+          "wa"
+        ]
+      },
+      {
+        "char": "な",
+        "romaji": [
+          "na"
+        ]
+      },
+      {
+        "char": "く",
+        "romaji": [
+          "ku",
+          "cu",
+          "qu"
+        ]
+      },
+      {
+        "char": "に",
+        "romaji": [
+          "ni"
+        ]
+      },
+      {
+        "char": "ん",
+        "romaji": [
+          "n",
+          "nn",
+          "n'",
+          "xn"
+        ]
+      },
+      {
+        "char": "げ",
+        "romaji": [
+          "ge"
+        ]
+      },
+      {
+        "char": "ん",
+        "romaji": [
+          "n",
+          "nn",
+          "n'",
+          "xn"
+        ]
+      },
+      {
+        "char": "が",
+        "romaji": [
+          "ga"
+        ]
+      },
+      {
+        "char": "ま",
+        "romaji": [
+          "ma"
+        ]
+      },
+      {
+        "char": "ち",
+        "romaji": [
+          "ti",
+          "chi"
+        ]
+      },
+      {
+        "char": "が",
+        "romaji": [
+          "ga"
+        ]
+      },
+      {
+        "char": "っ",
+        "romaji": [
+          "xtu",
+          "ltu",
+          "xtsu",
+          "ltsu"
+        ]
+      },
+      {
+        "char": "て",
+        "romaji": [
+          "te"
+        ]
+      },
+      {
+        "char": "い",
+        "romaji": [
+          "i",
+          "yi"
+        ]
+      },
+      {
+        "char": "る",
+        "romaji": [
+          "ru",
+          "lu"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 69,
+    "original": "墓石にはMeiryoUI",
+    "characters": [
+      {
+        "char": "は",
+        "romaji": [
+          "ha",
+          "wa"
+        ]
+      },
+      {
+        "char": "か",
+        "romaji": [
+          "ka",
+          "ca"
+        ]
+      },
+      {
+        "char": "い",
+        "romaji": [
+          "i",
+          "yi"
+        ]
+      },
+      {
+        "char": "し",
+        "romaji": [
+          "si",
+          "shi",
+          "ci"
+        ]
+      },
+      {
+        "char": "に",
+        "romaji": [
+          "ni"
+        ]
+      },
+      {
+        "char": "は",
+        "romaji": [
+          "ha",
+          "wa"
+        ]
+      },
+      {
+        "char": "M",
+        "romaji": [
+          "m"
+        ]
+      },
+      {
+        "char": "e",
+        "romaji": [
+          "e"
+        ]
+      },
+      {
+        "char": "i",
+        "romaji": [
+          "i"
+        ]
+      },
+      {
+        "char": "r",
+        "romaji": [
+          "r"
+        ]
+      },
+      {
+        "char": "y",
+        "romaji": [
+          "y"
+        ]
+      },
+      {
+        "char": "o",
+        "romaji": [
+          "o"
+        ]
+      },
+      {
+        "char": "U",
+        "romaji": [
+          "u"
+        ]
+      },
+      {
+        "char": "I",
+        "romaji": [
+          "i"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 70,
+    "original": "人と関わることはAIで自動化できない",
+    "characters": [
+      {
+        "char": "に",
+        "romaji": [
+          "ni"
+        ]
+      },
+      {
+        "char": "ん",
+        "romaji": [
+          "n",
+          "nn",
+          "n'",
+          "xn"
+        ]
+      },
+      {
+        "char": "と",
+        "romaji": [
+          "to"
+        ]
+      },
+      {
+        "char": "か",
+        "romaji": [
+          "ka",
+          "ca"
+        ]
+      },
+      {
+        "char": "か",
+        "romaji": [
+          "ka",
+          "ca"
+        ]
+      },
+      {
+        "char": "わ",
+        "romaji": [
+          "wa"
+        ]
+      },
+      {
+        "char": "る",
+        "romaji": [
+          "ru",
+          "lu"
+        ]
+      },
+      {
+        "char": "こ",
+        "romaji": [
+          "ko",
+          "co"
+        ]
+      },
+      {
+        "char": "と",
+        "romaji": [
+          "to"
+        ]
+      },
+      {
+        "char": "は",
+        "romaji": [
+          "ha",
+          "wa"
+        ]
+      },
+      {
+        "char": "A",
+        "romaji": [
+          "a"
+        ]
+      },
+      {
+        "char": "I",
+        "romaji": [
+          "i"
+        ]
+      },
+      {
+        "char": "で",
+        "romaji": [
+          "de"
+        ]
+      },
+      {
+        "char": "じ",
+        "romaji": [
+          "zi",
+          "ji"
+        ]
+      },
+      {
+        "char": "ど",
+        "romaji": [
+          "do"
+        ]
+      },
+      {
+        "char": "う",
+        "romaji": [
+          "u",
+          "wu",
+          "whu"
+        ]
+      },
+      {
+        "char": "か",
+        "romaji": [
+          "ka",
+          "ca"
+        ]
+      },
+      {
+        "char": "で",
+        "romaji": [
+          "de"
+        ]
+      },
+      {
+        "char": "き",
+        "romaji": [
+          "ki"
+        ]
+      },
+      {
+        "char": "な",
+        "romaji": [
+          "na"
+        ]
+      },
+      {
+        "char": "い",
+        "romaji": [
+          "i",
+          "yi"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 71,
+    "original": "大事なのは「参加」すること",
+    "characters": [
+      {
+        "char": "だ",
+        "romaji": [
+          "da"
+        ]
+      },
+      {
+        "char": "い",
+        "romaji": [
+          "i",
+          "yi"
+        ]
+      },
+      {
+        "char": "じ",
+        "romaji": [
+          "zi",
+          "ji"
+        ]
+      },
+      {
+        "char": "な",
+        "romaji": [
+          "na"
+        ]
+      },
+      {
+        "char": "の",
+        "romaji": [
+          "no"
+        ]
+      },
+      {
+        "char": "は",
+        "romaji": [
+          "ha",
+          "wa"
+        ]
+      },
+      {
+        "char": "「",
+        "romaji": [
+          "["
+        ]
+      },
+      {
+        "char": "さ",
+        "romaji": [
+          "sa"
+        ]
+      },
+      {
+        "char": "ん",
+        "romaji": [
+          "n",
+          "nn",
+          "n'",
+          "xn"
+        ]
+      },
+      {
+        "char": "か",
+        "romaji": [
+          "ka",
+          "ca"
+        ]
+      },
+      {
+        "char": "」",
+        "romaji": [
+          "]"
+        ]
+      },
+      {
+        "char": "す",
+        "romaji": [
+          "su"
+        ]
+      },
+      {
+        "char": "る",
+        "romaji": [
+          "ru",
+          "lu"
+        ]
+      },
+      {
+        "char": "こ",
+        "romaji": [
+          "ko",
+          "co"
+        ]
+      },
+      {
+        "char": "と",
+        "romaji": [
+          "to"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 72,
+    "original": "いつだって傍観者より、参加者の方が楽しい",
+    "characters": [
+      {
+        "char": "い",
+        "romaji": [
+          "i",
+          "yi"
+        ]
+      },
+      {
+        "char": "つ",
+        "romaji": [
+          "tu",
+          "tsu"
+        ]
+      },
+      {
+        "char": "だ",
+        "romaji": [
+          "da"
+        ]
+      },
+      {
+        "char": "っ",
+        "romaji": [
+          "xtu",
+          "ltu",
+          "xtsu",
+          "ltsu"
+        ]
+      },
+      {
+        "char": "て",
+        "romaji": [
+          "te"
+        ]
+      },
+      {
+        "char": "ぼ",
+        "romaji": [
+          "bo"
+        ]
+      },
+      {
+        "char": "う",
+        "romaji": [
+          "u",
+          "wu",
+          "whu"
+        ]
+      },
+      {
+        "char": "か",
+        "romaji": [
+          "ka",
+          "ca"
+        ]
+      },
+      {
+        "char": "ん",
+        "romaji": [
+          "n",
+          "nn",
+          "n'",
+          "xn"
+        ]
+      },
+      {
+        "char": "しゃ",
+        "romaji": [
+          "sya",
+          "sha",
+          "silya",
+          "sixya",
+          "shilya",
+          "shixya",
+          "cilya",
+          "cixya"
+        ]
+      },
+      {
+        "char": "よ",
+        "romaji": [
+          "yo"
+        ]
+      },
+      {
+        "char": "り",
+        "romaji": [
+          "ri",
+          "li"
+        ]
+      },
+      {
+        "char": "、",
+        "romaji": [
+          ","
+        ]
+      },
+      {
+        "char": "さ",
+        "romaji": [
+          "sa"
+        ]
+      },
+      {
+        "char": "ん",
+        "romaji": [
+          "n",
+          "nn",
+          "n'",
+          "xn"
+        ]
+      },
+      {
+        "char": "か",
+        "romaji": [
+          "ka",
+          "ca"
+        ]
+      },
+      {
+        "char": "しゃ",
+        "romaji": [
+          "sya",
+          "sha",
+          "silya",
+          "sixya",
+          "shilya",
+          "shixya",
+          "cilya",
+          "cixya"
+        ]
+      },
+      {
+        "char": "の",
+        "romaji": [
+          "no"
+        ]
+      },
+      {
+        "char": "ほ",
+        "romaji": [
+          "ho"
+        ]
+      },
+      {
+        "char": "う",
+        "romaji": [
+          "u",
+          "wu",
+          "whu"
+        ]
+      },
+      {
+        "char": "が",
+        "romaji": [
+          "ga"
+        ]
+      },
+      {
+        "char": "た",
+        "romaji": [
+          "ta"
+        ]
+      },
+      {
+        "char": "の",
+        "romaji": [
+          "no"
+        ]
+      },
+      {
+        "char": "し",
+        "romaji": [
+          "si",
+          "shi",
+          "ci"
+        ]
+      },
+      {
+        "char": "い",
+        "romaji": [
+          "i",
+          "yi"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 73,
+    "original": "外野から見て色々思って終わりではなく、当事者になろう",
+    "characters": [
+      {
+        "char": "が",
+        "romaji": [
+          "ga"
+        ]
+      },
+      {
+        "char": "い",
+        "romaji": [
+          "i",
+          "yi"
+        ]
+      },
+      {
+        "char": "や",
+        "romaji": [
+          "ya"
+        ]
+      },
+      {
+        "char": "か",
+        "romaji": [
+          "ka",
+          "ca"
+        ]
+      },
+      {
+        "char": "ら",
+        "romaji": [
+          "ra",
+          "la"
+        ]
+      },
+      {
+        "char": "み",
+        "romaji": [
+          "mi"
+        ]
+      },
+      {
+        "char": "て",
+        "romaji": [
+          "te"
+        ]
+      },
+      {
+        "char": "い",
+        "romaji": [
+          "i",
+          "yi"
+        ]
+      },
+      {
+        "char": "ろ",
+        "romaji": [
+          "ro",
+          "lo"
+        ]
+      },
+      {
+        "char": "い",
+        "romaji": [
+          "i",
+          "yi"
+        ]
+      },
+      {
+        "char": "ろ",
+        "romaji": [
+          "ro",
+          "lo"
+        ]
+      },
+      {
+        "char": "お",
+        "romaji": [
+          "o"
+        ]
+      },
+      {
+        "char": "も",
+        "romaji": [
+          "mo"
+        ]
+      },
+      {
+        "char": "っ",
+        "romaji": [
+          "xtu",
+          "ltu",
+          "xtsu",
+          "ltsu"
+        ]
+      },
+      {
+        "char": "て",
+        "romaji": [
+          "te"
+        ]
+      },
+      {
+        "char": "お",
+        "romaji": [
+          "o"
+        ]
+      },
+      {
+        "char": "わ",
+        "romaji": [
+          "wa"
+        ]
+      },
+      {
+        "char": "り",
+        "romaji": [
+          "ri",
+          "li"
+        ]
+      },
+      {
+        "char": "で",
+        "romaji": [
+          "de"
+        ]
+      },
+      {
+        "char": "は",
+        "romaji": [
+          "ha",
+          "wa"
+        ]
+      },
+      {
+        "char": "な",
+        "romaji": [
+          "na"
+        ]
+      },
+      {
+        "char": "く",
+        "romaji": [
+          "ku",
+          "cu",
+          "qu"
+        ]
+      },
+      {
+        "char": "、",
+        "romaji": [
+          ","
+        ]
+      },
+      {
+        "char": "と",
+        "romaji": [
+          "to"
+        ]
+      },
+      {
+        "char": "う",
+        "romaji": [
+          "u",
+          "wu",
+          "whu"
+        ]
+      },
+      {
+        "char": "じ",
+        "romaji": [
+          "zi",
+          "ji"
+        ]
+      },
+      {
+        "char": "しゃ",
+        "romaji": [
+          "sya",
+          "sha",
+          "silya",
+          "sixya",
+          "shilya",
+          "shixya",
+          "cilya",
+          "cixya"
+        ]
+      },
+      {
+        "char": "に",
+        "romaji": [
+          "ni"
+        ]
+      },
+      {
+        "char": "な",
+        "romaji": [
+          "na"
+        ]
+      },
+      {
+        "char": "ろ",
+        "romaji": [
+          "ro",
+          "lo"
+        ]
+      },
+      {
+        "char": "う",
+        "romaji": [
+          "u",
+          "wu",
+          "whu"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 74,
+    "original": "1にデータベース、2にデータベース、3に情報整理が来て、4にデータベース,1nide-tabe-su,2nide-tabe-su,3nijouhouseirigakite",
+    "characters": [
+      {
+        "char": "1",
+        "romaji": [
+          "1"
+        ]
+      },
+      {
+        "char": "に",
+        "romaji": [
+          "ni"
+        ]
+      },
+      {
+        "char": "で",
+        "romaji": [
+          "de"
+        ]
+      },
+      {
+        "char": "ー",
+        "romaji": [
+          "-"
+        ]
+      },
+      {
+        "char": "た",
+        "romaji": [
+          "ta"
+        ]
+      },
+      {
+        "char": "べ",
+        "romaji": [
+          "be"
+        ]
+      },
+      {
+        "char": "ー",
+        "romaji": [
+          "-"
+        ]
+      },
+      {
+        "char": "す",
+        "romaji": [
+          "su"
+        ]
+      },
+      {
+        "char": "、",
+        "romaji": [
+          ","
+        ]
+      },
+      {
+        "char": "2",
+        "romaji": [
+          "2"
+        ]
+      },
+      {
+        "char": "に",
+        "romaji": [
+          "ni"
+        ]
+      },
+      {
+        "char": "で",
+        "romaji": [
+          "de"
+        ]
+      },
+      {
+        "char": "ー",
+        "romaji": [
+          "-"
+        ]
+      },
+      {
+        "char": "た",
+        "romaji": [
+          "ta"
+        ]
+      },
+      {
+        "char": "べ",
+        "romaji": [
+          "be"
+        ]
+      },
+      {
+        "char": "ー",
+        "romaji": [
+          "-"
+        ]
+      },
+      {
+        "char": "す",
+        "romaji": [
+          "su"
+        ]
+      },
+      {
+        "char": "、",
+        "romaji": [
+          ","
+        ]
+      },
+      {
+        "char": "3",
+        "romaji": [
+          "3"
+        ]
+      },
+      {
+        "char": "に",
+        "romaji": [
+          "ni"
+        ]
+      },
+      {
+        "char": "じょ",
+        "romaji": [
+          "jo",
+          "zyo",
+          "jyo",
+          "zilyo",
+          "zixyo",
+          "jilyo",
+          "jixyo"
+        ]
+      },
+      {
+        "char": "う",
+        "romaji": [
+          "u",
+          "wu",
+          "whu"
+        ]
+      },
+      {
+        "char": "ほ",
+        "romaji": [
+          "ho"
+        ]
+      },
+      {
+        "char": "う",
+        "romaji": [
+          "u",
+          "wu",
+          "whu"
+        ]
+      },
+      {
+        "char": "せ",
+        "romaji": [
+          "se",
+          "ce"
+        ]
+      },
+      {
+        "char": "い",
+        "romaji": [
+          "i",
+          "yi"
+        ]
+      },
+      {
+        "char": "り",
+        "romaji": [
+          "ri",
+          "li"
+        ]
+      },
+      {
+        "char": "が",
+        "romaji": [
+          "ga"
+        ]
+      },
+      {
+        "char": "き",
+        "romaji": [
+          "ki"
+        ]
+      },
+      {
+        "char": "て",
+        "romaji": [
+          "te"
+        ]
+      },
+      {
+        "char": "、",
+        "romaji": [
+          ","
+        ]
+      },
+      {
+        "char": "4",
+        "romaji": [
+          "4"
+        ]
+      },
+      {
+        "char": "に",
+        "romaji": [
+          "ni"
+        ]
+      },
+      {
+        "char": "で",
+        "romaji": [
+          "de"
+        ]
+      },
+      {
+        "char": "ー",
+        "romaji": [
+          "-"
+        ]
+      },
+      {
+        "char": "た",
+        "romaji": [
+          "ta"
+        ]
+      },
+      {
+        "char": "べ",
+        "romaji": [
+          "be"
+        ]
+      },
+      {
+        "char": "ー",
+        "romaji": [
+          "-"
+        ]
+      },
+      {
+        "char": "す",
+        "romaji": [
+          "su"
+        ]
+      },
+      {
+        "char": ",",
+        "romaji": [
+          ","
+        ]
+      },
+      {
+        "char": "1",
+        "romaji": [
+          "1"
+        ]
+      },
+      {
+        "char": "n",
+        "romaji": [
+          "n"
+        ]
+      },
+      {
+        "char": "i",
+        "romaji": [
+          "i"
+        ]
+      },
+      {
+        "char": "d",
+        "romaji": [
+          "d"
+        ]
+      },
+      {
+        "char": "e",
+        "romaji": [
+          "e"
+        ]
+      },
+      {
+        "char": "-",
+        "romaji": [
+          "-"
+        ]
+      },
+      {
+        "char": "t",
+        "romaji": [
+          "t"
+        ]
+      },
+      {
+        "char": "a",
+        "romaji": [
+          "a"
+        ]
+      },
+      {
+        "char": "b",
+        "romaji": [
+          "b"
+        ]
+      },
+      {
+        "char": "e",
+        "romaji": [
+          "e"
+        ]
+      },
+      {
+        "char": "-",
+        "romaji": [
+          "-"
+        ]
+      },
+      {
+        "char": "s",
+        "romaji": [
+          "s"
+        ]
+      },
+      {
+        "char": "u",
+        "romaji": [
+          "u"
+        ]
+      },
+      {
+        "char": ",",
+        "romaji": [
+          ","
+        ]
+      },
+      {
+        "char": "2",
+        "romaji": [
+          "2"
+        ]
+      },
+      {
+        "char": "n",
+        "romaji": [
+          "n"
+        ]
+      },
+      {
+        "char": "i",
+        "romaji": [
+          "i"
+        ]
+      },
+      {
+        "char": "d",
+        "romaji": [
+          "d"
+        ]
+      },
+      {
+        "char": "e",
+        "romaji": [
+          "e"
+        ]
+      },
+      {
+        "char": "-",
+        "romaji": [
+          "-"
+        ]
+      },
+      {
+        "char": "t",
+        "romaji": [
+          "t"
+        ]
+      },
+      {
+        "char": "a",
+        "romaji": [
+          "a"
+        ]
+      },
+      {
+        "char": "b",
+        "romaji": [
+          "b"
+        ]
+      },
+      {
+        "char": "e",
+        "romaji": [
+          "e"
+        ]
+      },
+      {
+        "char": "-",
+        "romaji": [
+          "-"
+        ]
+      },
+      {
+        "char": "s",
+        "romaji": [
+          "s"
+        ]
+      },
+      {
+        "char": "u",
+        "romaji": [
+          "u"
+        ]
+      },
+      {
+        "char": ",",
+        "romaji": [
+          ","
+        ]
+      },
+      {
+        "char": "3",
+        "romaji": [
+          "3"
+        ]
+      },
+      {
+        "char": "n",
+        "romaji": [
+          "n"
+        ]
+      },
+      {
+        "char": "i",
+        "romaji": [
+          "i"
+        ]
+      },
+      {
+        "char": "j",
+        "romaji": [
+          "j"
+        ]
+      },
+      {
+        "char": "o",
+        "romaji": [
+          "o"
+        ]
+      },
+      {
+        "char": "u",
+        "romaji": [
+          "u"
+        ]
+      },
+      {
+        "char": "h",
+        "romaji": [
+          "h"
+        ]
+      },
+      {
+        "char": "o",
+        "romaji": [
+          "o"
+        ]
+      },
+      {
+        "char": "u",
+        "romaji": [
+          "u"
+        ]
+      },
+      {
+        "char": "s",
+        "romaji": [
+          "s"
+        ]
+      },
+      {
+        "char": "e",
+        "romaji": [
+          "e"
+        ]
+      },
+      {
+        "char": "i",
+        "romaji": [
+          "i"
+        ]
+      },
+      {
+        "char": "r",
+        "romaji": [
+          "r"
+        ]
+      },
+      {
+        "char": "i",
+        "romaji": [
+          "i"
+        ]
+      },
+      {
+        "char": "g",
+        "romaji": [
+          "g"
+        ]
+      },
+      {
+        "char": "a",
+        "romaji": [
+          "a"
+        ]
+      },
+      {
+        "char": "k",
+        "romaji": [
+          "k"
+        ]
+      },
+      {
+        "char": "i",
+        "romaji": [
+          "i"
+        ]
+      },
+      {
+        "char": "t",
+        "romaji": [
+          "t"
+        ]
+      },
+      {
+        "char": "e",
+        "romaji": [
+          "e"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 75,
+    "original": "シングルタスクを高速で回す",
+    "characters": [
+      {
+        "char": "し",
+        "romaji": [
+          "si",
+          "shi",
+          "ci"
+        ]
+      },
+      {
+        "char": "ん",
+        "romaji": [
+          "n",
+          "nn",
+          "n'",
+          "xn"
+        ]
+      },
+      {
+        "char": "ぐ",
+        "romaji": [
+          "gu"
+        ]
+      },
+      {
+        "char": "る",
+        "romaji": [
+          "ru",
+          "lu"
+        ]
+      },
+      {
+        "char": "た",
+        "romaji": [
+          "ta"
+        ]
+      },
+      {
+        "char": "す",
+        "romaji": [
+          "su"
+        ]
+      },
+      {
+        "char": "く",
+        "romaji": [
+          "ku",
+          "cu",
+          "qu"
+        ]
+      },
+      {
+        "char": "を",
+        "romaji": [
+          "wo",
+          "o"
+        ]
+      },
+      {
+        "char": "こ",
+        "romaji": [
+          "ko",
+          "co"
+        ]
+      },
+      {
+        "char": "う",
+        "romaji": [
+          "u",
+          "wu",
+          "whu"
+        ]
+      },
+      {
+        "char": "そ",
+        "romaji": [
+          "so"
+        ]
+      },
+      {
+        "char": "く",
+        "romaji": [
+          "ku",
+          "cu",
+          "qu"
+        ]
+      },
+      {
+        "char": "で",
+        "romaji": [
+          "de"
+        ]
+      },
+      {
+        "char": "ま",
+        "romaji": [
+          "ma"
+        ]
+      },
+      {
+        "char": "わ",
+        "romaji": [
+          "wa"
+        ]
+      },
+      {
+        "char": "す",
+        "romaji": [
+          "su"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 76,
+    "original": "本気で成し遂げたい人は行動が変わる",
+    "characters": [
+      {
+        "char": "ほ",
+        "romaji": [
+          "ho"
+        ]
+      },
+      {
+        "char": "ん",
+        "romaji": [
+          "n",
+          "nn",
+          "n'",
+          "xn"
+        ]
+      },
+      {
+        "char": "き",
+        "romaji": [
+          "ki"
+        ]
+      },
+      {
+        "char": "で",
+        "romaji": [
+          "de"
+        ]
+      },
+      {
+        "char": "な",
+        "romaji": [
+          "na"
+        ]
+      },
+      {
+        "char": "し",
+        "romaji": [
+          "si",
+          "shi",
+          "ci"
+        ]
+      },
+      {
+        "char": "と",
+        "romaji": [
+          "to"
+        ]
+      },
+      {
+        "char": "げ",
+        "romaji": [
+          "ge"
+        ]
+      },
+      {
+        "char": "た",
+        "romaji": [
+          "ta"
+        ]
+      },
+      {
+        "char": "い",
+        "romaji": [
+          "i",
+          "yi"
+        ]
+      },
+      {
+        "char": "に",
+        "romaji": [
+          "ni"
+        ]
+      },
+      {
+        "char": "ん",
+        "romaji": [
+          "n",
+          "nn",
+          "n'",
+          "xn"
+        ]
+      },
+      {
+        "char": "は",
+        "romaji": [
+          "ha",
+          "wa"
+        ]
+      },
+      {
+        "char": "こ",
+        "romaji": [
+          "ko",
+          "co"
+        ]
+      },
+      {
+        "char": "う",
+        "romaji": [
+          "u",
+          "wu",
+          "whu"
+        ]
+      },
+      {
+        "char": "ど",
+        "romaji": [
+          "do"
+        ]
+      },
+      {
+        "char": "う",
+        "romaji": [
+          "u",
+          "wu",
+          "whu"
+        ]
+      },
+      {
+        "char": "が",
+        "romaji": [
+          "ga"
+        ]
+      },
+      {
+        "char": "か",
+        "romaji": [
+          "ka",
+          "ca"
+        ]
+      },
+      {
+        "char": "わ",
+        "romaji": [
+          "wa"
+        ]
+      },
+      {
+        "char": "る",
+        "romaji": [
+          "ru",
+          "lu"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 77,
+    "original": "思考は現実化する",
+    "characters": [
+      {
+        "char": "し",
+        "romaji": [
+          "si",
+          "shi",
+          "ci"
+        ]
+      },
+      {
+        "char": "こ",
+        "romaji": [
+          "ko",
+          "co"
+        ]
+      },
+      {
+        "char": "う",
+        "romaji": [
+          "u",
+          "wu",
+          "whu"
+        ]
+      },
+      {
+        "char": "は",
+        "romaji": [
+          "ha",
+          "wa"
+        ]
+      },
+      {
+        "char": "げ",
+        "romaji": [
+          "ge"
+        ]
+      },
+      {
+        "char": "ん",
+        "romaji": [
+          "n",
+          "nn",
+          "n'",
+          "xn"
+        ]
+      },
+      {
+        "char": "じ",
+        "romaji": [
+          "zi",
+          "ji"
+        ]
+      },
+      {
+        "char": "つ",
+        "romaji": [
+          "tu",
+          "tsu"
+        ]
+      },
+      {
+        "char": "か",
+        "romaji": [
+          "ka",
+          "ca"
+        ]
+      },
+      {
+        "char": "す",
+        "romaji": [
+          "su"
+        ]
+      },
+      {
+        "char": "る",
+        "romaji": [
+          "ru",
+          "lu"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 78,
+    "original": "Notionでフロー情報をストック情報に変えましょう",
+    "characters": [
+      {
+        "char": "N",
+        "romaji": [
+          "n"
+        ]
+      },
+      {
+        "char": "o",
+        "romaji": [
+          "o"
+        ]
+      },
+      {
+        "char": "t",
+        "romaji": [
+          "t"
+        ]
+      },
+      {
+        "char": "i",
+        "romaji": [
+          "i"
+        ]
+      },
+      {
+        "char": "o",
+        "romaji": [
+          "o"
+        ]
+      },
+      {
+        "char": "n",
+        "romaji": [
+          "n"
+        ]
+      },
+      {
+        "char": "で",
+        "romaji": [
+          "de"
+        ]
+      },
+      {
+        "char": "ふ",
+        "romaji": [
+          "hu",
+          "fu"
+        ]
+      },
+      {
+        "char": "ろ",
+        "romaji": [
+          "ro",
+          "lo"
+        ]
+      },
+      {
+        "char": "ー",
+        "romaji": [
+          "-"
+        ]
+      },
+      {
+        "char": "じょ",
+        "romaji": [
+          "jo",
+          "zyo",
+          "jyo",
+          "zilyo",
+          "zixyo",
+          "jilyo",
+          "jixyo"
+        ]
+      },
+      {
+        "char": "う",
+        "romaji": [
+          "u",
+          "wu",
+          "whu"
+        ]
+      },
+      {
+        "char": "ほ",
+        "romaji": [
+          "ho"
+        ]
+      },
+      {
+        "char": "う",
+        "romaji": [
+          "u",
+          "wu",
+          "whu"
+        ]
+      },
+      {
+        "char": "を",
+        "romaji": [
+          "wo",
+          "o"
+        ]
+      },
+      {
+        "char": "す",
+        "romaji": [
+          "su"
+        ]
+      },
+      {
+        "char": "と",
+        "romaji": [
+          "to"
+        ]
+      },
+      {
+        "char": "っ",
+        "romaji": [
+          "xtu",
+          "ltu",
+          "xtsu",
+          "ltsu"
+        ]
+      },
+      {
+        "char": "く",
+        "romaji": [
+          "ku",
+          "cu",
+          "qu"
+        ]
+      },
+      {
+        "char": "じょ",
+        "romaji": [
+          "jo",
+          "zyo",
+          "jyo",
+          "zilyo",
+          "zixyo",
+          "jilyo",
+          "jixyo"
+        ]
+      },
+      {
+        "char": "う",
+        "romaji": [
+          "u",
+          "wu",
+          "whu"
+        ]
+      },
+      {
+        "char": "ほ",
+        "romaji": [
+          "ho"
+        ]
+      },
+      {
+        "char": "う",
+        "romaji": [
+          "u",
+          "wu",
+          "whu"
+        ]
+      },
+      {
+        "char": "に",
+        "romaji": [
+          "ni"
+        ]
+      },
+      {
+        "char": "か",
+        "romaji": [
+          "ka",
+          "ca"
+        ]
+      },
+      {
+        "char": "え",
+        "romaji": [
+          "e"
+        ]
+      },
+      {
+        "char": "ま",
+        "romaji": [
+          "ma"
+        ]
+      },
+      {
+        "char": "しょ",
+        "romaji": [
+          "syo",
+          "sho",
+          "silyo",
+          "sixyo",
+          "shilyo",
+          "shixyo",
+          "cilyo",
+          "cixyo"
+        ]
+      },
+      {
+        "char": "う",
+        "romaji": [
+          "u",
+          "wu",
+          "whu"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 79,
+    "original": "当たり前の基準を上げる",
+    "characters": [
+      {
+        "char": "あ",
+        "romaji": [
+          "a"
+        ]
+      },
+      {
+        "char": "た",
+        "romaji": [
+          "ta"
+        ]
+      },
+      {
+        "char": "り",
+        "romaji": [
+          "ri",
+          "li"
+        ]
+      },
+      {
+        "char": "ま",
+        "romaji": [
+          "ma"
+        ]
+      },
+      {
+        "char": "え",
+        "romaji": [
+          "e"
+        ]
+      },
+      {
+        "char": "の",
+        "romaji": [
+          "no"
+        ]
+      },
+      {
+        "char": "き",
+        "romaji": [
+          "ki"
+        ]
+      },
+      {
+        "char": "じゅ",
+        "romaji": [
+          "ju",
+          "zyu",
+          "jyu",
+          "zilyu",
+          "zixyu",
+          "jilyu",
+          "jixyu"
+        ]
+      },
+      {
+        "char": "ん",
+        "romaji": [
+          "n",
+          "nn",
+          "n'",
+          "xn"
+        ]
+      },
+      {
+        "char": "を",
+        "romaji": [
+          "wo",
+          "o"
+        ]
+      },
+      {
+        "char": "あ",
+        "romaji": [
+          "a"
+        ]
+      },
+      {
+        "char": "げ",
+        "romaji": [
+          "ge"
+        ]
+      },
+      {
+        "char": "る",
+        "romaji": [
+          "ru",
+          "lu"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 80,
+    "original": "たった1人の優秀な人に優秀だと思ってもらおう",
+    "characters": [
+      {
+        "char": "た",
+        "romaji": [
+          "ta"
+        ]
+      },
+      {
+        "char": "っ",
+        "romaji": [
+          "xtu",
+          "ltu",
+          "xtsu",
+          "ltsu"
+        ]
+      },
+      {
+        "char": "た",
+        "romaji": [
+          "ta"
+        ]
+      },
+      {
+        "char": "1",
+        "romaji": [
+          "1"
+        ]
+      },
+      {
+        "char": "に",
+        "romaji": [
+          "ni"
+        ]
+      },
+      {
+        "char": "ん",
+        "romaji": [
+          "nn",
+          "n'",
+          "xn"
+        ]
+      },
+      {
+        "char": "の",
+        "romaji": [
+          "no"
+        ]
+      },
+      {
+        "char": "ゆ",
+        "romaji": [
+          "yu"
+        ]
+      },
+      {
+        "char": "う",
+        "romaji": [
+          "u",
+          "wu",
+          "whu"
+        ]
+      },
+      {
+        "char": "しゅ",
+        "romaji": [
+          "syu",
+          "shu",
+          "silyu",
+          "sixyu",
+          "shilyu",
+          "shixyu",
+          "cilyu",
+          "cixyu"
+        ]
+      },
+      {
+        "char": "う",
+        "romaji": [
+          "u",
+          "wu",
+          "whu"
+        ]
+      },
+      {
+        "char": "な",
+        "romaji": [
+          "na"
+        ]
+      },
+      {
+        "char": "に",
+        "romaji": [
+          "ni"
+        ]
+      },
+      {
+        "char": "ん",
+        "romaji": [
+          "nn",
+          "n'",
+          "xn"
+        ]
+      },
+      {
+        "char": "に",
+        "romaji": [
+          "ni"
+        ]
+      },
+      {
+        "char": "ゆ",
+        "romaji": [
+          "yu"
+        ]
+      },
+      {
+        "char": "う",
+        "romaji": [
+          "u",
+          "wu",
+          "whu"
+        ]
+      },
+      {
+        "char": "しゅ",
+        "romaji": [
+          "syu",
+          "shu",
+          "silyu",
+          "sixyu",
+          "shilyu",
+          "shixyu",
+          "cilyu",
+          "cixyu"
+        ]
+      },
+      {
+        "char": "う",
+        "romaji": [
+          "u",
+          "wu",
+          "whu"
+        ]
+      },
+      {
+        "char": "だ",
+        "romaji": [
+          "da"
+        ]
+      },
+      {
+        "char": "と",
+        "romaji": [
+          "to"
+        ]
+      },
+      {
+        "char": "お",
+        "romaji": [
+          "o"
+        ]
+      },
+      {
+        "char": "も",
+        "romaji": [
+          "mo"
+        ]
+      },
+      {
+        "char": "っ",
+        "romaji": [
+          "xtu",
+          "ltu",
+          "xtsu",
+          "ltsu"
+        ]
+      },
+      {
+        "char": "て",
+        "romaji": [
+          "te"
+        ]
+      },
+      {
+        "char": "も",
+        "romaji": [
+          "mo"
+        ]
+      },
+      {
+        "char": "ら",
+        "romaji": [
+          "ra",
+          "la"
+        ]
+      },
+      {
+        "char": "お",
+        "romaji": [
+          "o"
+        ]
+      },
+      {
+        "char": "う",
+        "romaji": [
+          "u",
+          "wu",
+          "whu"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 81,
+    "original": "snsのプロフィールに180cmとか書いている男は終わっている。これは事実",
+    "characters": [
+      {
+        "char": "s",
+        "romaji": [
+          "s"
+        ]
+      },
+      {
+        "char": "n",
+        "romaji": [
+          "n"
+        ]
+      },
+      {
+        "char": "s",
+        "romaji": [
+          "s"
+        ]
+      },
+      {
+        "char": "の",
+        "romaji": [
+          "no"
+        ]
+      },
+      {
+        "char": "ぷ",
+        "romaji": [
+          "pu"
+        ]
+      },
+      {
+        "char": "ろ",
+        "romaji": [
+          "ro",
+          "lo"
+        ]
+      },
+      {
+        "char": "ふぃ",
+        "romaji": [
+          "fi",
+          "huxi",
+          "huli",
+          "fuxi",
+          "fuli"
+        ]
+      },
+      {
+        "char": "ー",
+        "romaji": [
+          "-"
+        ]
+      },
+      {
+        "char": "る",
+        "romaji": [
+          "ru",
+          "lu"
+        ]
+      },
+      {
+        "char": "に",
+        "romaji": [
+          "ni"
+        ]
+      },
+      {
+        "char": "1",
+        "romaji": [
+          "1"
+        ]
+      },
+      {
+        "char": "8",
+        "romaji": [
+          "8"
+        ]
+      },
+      {
+        "char": "0",
+        "romaji": [
+          "0"
+        ]
+      },
+      {
+        "char": "c",
+        "romaji": [
+          "c"
+        ]
+      },
+      {
+        "char": "m",
+        "romaji": [
+          "m"
+        ]
+      },
+      {
+        "char": "と",
+        "romaji": [
+          "to"
+        ]
+      },
+      {
+        "char": "か",
+        "romaji": [
+          "ka",
+          "ca"
+        ]
+      },
+      {
+        "char": "か",
+        "romaji": [
+          "ka",
+          "ca"
+        ]
+      },
+      {
+        "char": "い",
+        "romaji": [
+          "i",
+          "yi"
+        ]
+      },
+      {
+        "char": "て",
+        "romaji": [
+          "te"
+        ]
+      },
+      {
+        "char": "い",
+        "romaji": [
+          "i",
+          "yi"
+        ]
+      },
+      {
+        "char": "る",
+        "romaji": [
+          "ru",
+          "lu"
+        ]
+      },
+      {
+        "char": "お",
+        "romaji": [
+          "o"
+        ]
+      },
+      {
+        "char": "と",
+        "romaji": [
+          "to"
+        ]
+      },
+      {
+        "char": "こ",
+        "romaji": [
+          "ko",
+          "co"
+        ]
+      },
+      {
+        "char": "は",
+        "romaji": [
+          "ha",
+          "wa"
+        ]
+      },
+      {
+        "char": "お",
+        "romaji": [
+          "o"
+        ]
+      },
+      {
+        "char": "わ",
+        "romaji": [
+          "wa"
+        ]
+      },
+      {
+        "char": "っ",
+        "romaji": [
+          "xtu",
+          "ltu",
+          "xtsu",
+          "ltsu"
+        ]
+      },
+      {
+        "char": "て",
+        "romaji": [
+          "te"
+        ]
+      },
+      {
+        "char": "い",
+        "romaji": [
+          "i",
+          "yi"
+        ]
+      },
+      {
+        "char": "る",
+        "romaji": [
+          "ru",
+          "lu"
+        ]
+      },
+      {
+        "char": "。",
+        "romaji": [
+          "."
+        ]
+      },
+      {
+        "char": "こ",
+        "romaji": [
+          "ko",
+          "co"
+        ]
+      },
+      {
+        "char": "れ",
+        "romaji": [
+          "re",
+          "le"
+        ]
+      },
+      {
+        "char": "は",
+        "romaji": [
+          "ha",
+          "wa"
+        ]
+      },
+      {
+        "char": "じ",
+        "romaji": [
+          "zi",
+          "ji"
+        ]
+      },
+      {
+        "char": "じ",
+        "romaji": [
+          "zi",
+          "ji"
+        ]
+      },
+      {
+        "char": "つ",
+        "romaji": [
+          "tu",
+          "tsu"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 82,
+    "original": "自分が原液になる。火種になること",
+    "characters": [
+      {
+        "char": "じ",
+        "romaji": [
+          "zi",
+          "ji"
+        ]
+      },
+      {
+        "char": "ぶ",
+        "romaji": [
+          "bu"
+        ]
+      },
+      {
+        "char": "ん",
+        "romaji": [
+          "n",
+          "nn",
+          "n'",
+          "xn"
+        ]
+      },
+      {
+        "char": "が",
+        "romaji": [
+          "ga"
+        ]
+      },
+      {
+        "char": "げ",
+        "romaji": [
+          "ge"
+        ]
+      },
+      {
+        "char": "ん",
+        "romaji": [
+          "nn",
+          "n'",
+          "xn"
+        ]
+      },
+      {
+        "char": "え",
+        "romaji": [
+          "e"
+        ]
+      },
+      {
+        "char": "き",
+        "romaji": [
+          "ki"
+        ]
+      },
+      {
+        "char": "に",
+        "romaji": [
+          "ni"
+        ]
+      },
+      {
+        "char": "な",
+        "romaji": [
+          "na"
+        ]
+      },
+      {
+        "char": "る",
+        "romaji": [
+          "ru",
+          "lu"
+        ]
+      },
+      {
+        "char": "。",
+        "romaji": [
+          "."
+        ]
+      },
+      {
+        "char": "ひ",
+        "romaji": [
+          "hi"
+        ]
+      },
+      {
+        "char": "だ",
+        "romaji": [
+          "da"
+        ]
+      },
+      {
+        "char": "ね",
+        "romaji": [
+          "ne"
+        ]
+      },
+      {
+        "char": "に",
+        "romaji": [
+          "ni"
+        ]
+      },
+      {
+        "char": "な",
+        "romaji": [
+          "na"
+        ]
+      },
+      {
+        "char": "る",
+        "romaji": [
+          "ru",
+          "lu"
+        ]
+      },
+      {
+        "char": "こ",
+        "romaji": [
+          "ko",
+          "co"
+        ]
+      },
+      {
+        "char": "と",
+        "romaji": [
+          "to"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 83,
+    "original": "叩き台を創る人間が一番偉い",
+    "characters": [
+      {
+        "char": "た",
+        "romaji": [
+          "ta"
+        ]
+      },
+      {
+        "char": "た",
+        "romaji": [
+          "ta"
+        ]
+      },
+      {
+        "char": "き",
+        "romaji": [
+          "ki"
+        ]
+      },
+      {
+        "char": "だ",
+        "romaji": [
+          "da"
+        ]
+      },
+      {
+        "char": "い",
+        "romaji": [
+          "i",
+          "yi"
+        ]
+      },
+      {
+        "char": "を",
+        "romaji": [
+          "wo",
+          "o"
+        ]
+      },
+      {
+        "char": "つ",
+        "romaji": [
+          "tu",
+          "tsu"
+        ]
+      },
+      {
+        "char": "く",
+        "romaji": [
+          "ku",
+          "cu",
+          "qu"
+        ]
+      },
+      {
+        "char": "る",
+        "romaji": [
+          "ru",
+          "lu"
+        ]
+      },
+      {
+        "char": "に",
+        "romaji": [
+          "ni"
+        ]
+      },
+      {
+        "char": "ん",
+        "romaji": [
+          "n",
+          "nn",
+          "n'",
+          "xn"
+        ]
+      },
+      {
+        "char": "げ",
+        "romaji": [
+          "ge"
+        ]
+      },
+      {
+        "char": "ん",
+        "romaji": [
+          "n",
+          "nn",
+          "n'",
+          "xn"
+        ]
+      },
+      {
+        "char": "が",
+        "romaji": [
+          "ga"
+        ]
+      },
+      {
+        "char": "い",
+        "romaji": [
+          "i",
+          "yi"
+        ]
+      },
+      {
+        "char": "ち",
+        "romaji": [
+          "ti",
+          "chi"
+        ]
+      },
+      {
+        "char": "ば",
+        "romaji": [
+          "ba"
+        ]
+      },
+      {
+        "char": "ん",
+        "romaji": [
+          "nn",
+          "n'",
+          "xn"
+        ]
+      },
+      {
+        "char": "え",
+        "romaji": [
+          "e"
+        ]
+      },
+      {
+        "char": "ら",
+        "romaji": [
+          "ra",
+          "la"
+        ]
+      },
+      {
+        "char": "い",
+        "romaji": [
+          "i",
+          "yi"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 84,
+    "original": "なんか切ないな?お前はもう成長しないのに",
+    "characters": [
+      {
+        "char": "な",
+        "romaji": [
+          "na"
+        ]
+      },
+      {
+        "char": "ん",
+        "romaji": [
+          "n",
+          "nn",
+          "n'",
+          "xn"
+        ]
+      },
+      {
+        "char": "か",
+        "romaji": [
+          "ka",
+          "ca"
+        ]
+      },
+      {
+        "char": "せ",
+        "romaji": [
+          "se",
+          "ce"
+        ]
+      },
+      {
+        "char": "つ",
+        "romaji": [
+          "tu",
+          "tsu"
+        ]
+      },
+      {
+        "char": "な",
+        "romaji": [
+          "na"
+        ]
+      },
+      {
+        "char": "い",
+        "romaji": [
+          "i",
+          "yi"
+        ]
+      },
+      {
+        "char": "な",
+        "romaji": [
+          "na"
+        ]
+      },
+      {
+        "char": "?",
+        "romaji": [
+          "?"
+        ]
+      },
+      {
+        "char": "お",
+        "romaji": [
+          "o"
+        ]
+      },
+      {
+        "char": "ま",
+        "romaji": [
+          "ma"
+        ]
+      },
+      {
+        "char": "え",
+        "romaji": [
+          "e"
+        ]
+      },
+      {
+        "char": "は",
+        "romaji": [
+          "ha",
+          "wa"
+        ]
+      },
+      {
+        "char": "も",
+        "romaji": [
+          "mo"
+        ]
+      },
+      {
+        "char": "う",
+        "romaji": [
+          "u",
+          "wu",
+          "whu"
+        ]
+      },
+      {
+        "char": "せ",
+        "romaji": [
+          "se",
+          "ce"
+        ]
+      },
+      {
+        "char": "い",
+        "romaji": [
+          "i",
+          "yi"
+        ]
+      },
+      {
+        "char": "ちょ",
+        "romaji": [
+          "tyo",
+          "cho",
+          "tilyo",
+          "tixyo",
+          "chilyo",
+          "chixyo",
+          "cyo"
+        ]
+      },
+      {
+        "char": "う",
+        "romaji": [
+          "u",
+          "wu",
+          "whu"
+        ]
+      },
+      {
+        "char": "し",
+        "romaji": [
+          "si",
+          "shi",
+          "ci"
+        ]
+      },
+      {
+        "char": "な",
+        "romaji": [
+          "na"
+        ]
+      },
+      {
+        "char": "い",
+        "romaji": [
+          "i",
+          "yi"
+        ]
+      },
+      {
+        "char": "の",
+        "romaji": [
+          "no"
+        ]
+      },
+      {
+        "char": "に",
+        "romaji": [
+          "ni"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 85,
+    "original": "猫はミニマリストじゃない、犬は帰るところがあるからただの畜生、鳥はミニマリスト",
+    "characters": [
+      {
+        "char": "ね",
+        "romaji": [
+          "ne"
+        ]
+      },
+      {
+        "char": "こ",
+        "romaji": [
+          "ko",
+          "co"
+        ]
+      },
+      {
+        "char": "は",
+        "romaji": [
+          "ha",
+          "wa"
+        ]
+      },
+      {
+        "char": "み",
+        "romaji": [
+          "mi"
+        ]
+      },
+      {
+        "char": "に",
+        "romaji": [
+          "ni"
+        ]
+      },
+      {
+        "char": "ま",
+        "romaji": [
+          "ma"
+        ]
+      },
+      {
+        "char": "り",
+        "romaji": [
+          "ri",
+          "li"
+        ]
+      },
+      {
+        "char": "す",
+        "romaji": [
+          "su"
+        ]
+      },
+      {
+        "char": "と",
+        "romaji": [
+          "to"
+        ]
+      },
+      {
+        "char": "じゃ",
+        "romaji": [
+          "ja",
+          "zya",
+          "jya",
+          "zilya",
+          "zixya",
+          "jilya",
+          "jixya"
+        ]
+      },
+      {
+        "char": "な",
+        "romaji": [
+          "na"
+        ]
+      },
+      {
+        "char": "い",
+        "romaji": [
+          "i",
+          "yi"
+        ]
+      },
+      {
+        "char": "、",
+        "romaji": [
+          ","
+        ]
+      },
+      {
+        "char": "い",
+        "romaji": [
+          "i",
+          "yi"
+        ]
+      },
+      {
+        "char": "ぬ",
+        "romaji": [
+          "nu"
+        ]
+      },
+      {
+        "char": "は",
+        "romaji": [
+          "ha",
+          "wa"
+        ]
+      },
+      {
+        "char": "か",
+        "romaji": [
+          "ka",
+          "ca"
+        ]
+      },
+      {
+        "char": "え",
+        "romaji": [
+          "e"
+        ]
+      },
+      {
+        "char": "る",
+        "romaji": [
+          "ru",
+          "lu"
+        ]
+      },
+      {
+        "char": "と",
+        "romaji": [
+          "to"
+        ]
+      },
+      {
+        "char": "こ",
+        "romaji": [
+          "ko",
+          "co"
+        ]
+      },
+      {
+        "char": "ろ",
+        "romaji": [
+          "ro",
+          "lo"
+        ]
+      },
+      {
+        "char": "が",
+        "romaji": [
+          "ga"
+        ]
+      },
+      {
+        "char": "あ",
+        "romaji": [
+          "a"
+        ]
+      },
+      {
+        "char": "る",
+        "romaji": [
+          "ru",
+          "lu"
+        ]
+      },
+      {
+        "char": "か",
+        "romaji": [
+          "ka",
+          "ca"
+        ]
+      },
+      {
+        "char": "ら",
+        "romaji": [
+          "ra",
+          "la"
+        ]
+      },
+      {
+        "char": "た",
+        "romaji": [
+          "ta"
+        ]
+      },
+      {
+        "char": "だ",
+        "romaji": [
+          "da"
+        ]
+      },
+      {
+        "char": "の",
+        "romaji": [
+          "no"
+        ]
+      },
+      {
+        "char": "ち",
+        "romaji": [
+          "ti",
+          "chi"
+        ]
+      },
+      {
+        "char": "く",
+        "romaji": [
+          "ku",
+          "cu",
+          "qu"
+        ]
+      },
+      {
+        "char": "しょ",
+        "romaji": [
+          "syo",
+          "sho",
+          "silyo",
+          "sixyo",
+          "shilyo",
+          "shixyo",
+          "cilyo",
+          "cixyo"
+        ]
+      },
+      {
+        "char": "う",
+        "romaji": [
+          "u",
+          "wu",
+          "whu"
+        ]
+      },
+      {
+        "char": "、",
+        "romaji": [
+          ","
+        ]
+      },
+      {
+        "char": "と",
+        "romaji": [
+          "to"
+        ]
+      },
+      {
+        "char": "り",
+        "romaji": [
+          "ri",
+          "li"
+        ]
+      },
+      {
+        "char": "は",
+        "romaji": [
+          "ha",
+          "wa"
+        ]
+      },
+      {
+        "char": "み",
+        "romaji": [
+          "mi"
+        ]
+      },
+      {
+        "char": "に",
+        "romaji": [
+          "ni"
+        ]
+      },
+      {
+        "char": "ま",
+        "romaji": [
+          "ma"
+        ]
+      },
+      {
+        "char": "り",
+        "romaji": [
+          "ri",
+          "li"
+        ]
+      },
+      {
+        "char": "す",
+        "romaji": [
+          "su"
+        ]
+      },
+      {
+        "char": "と",
+        "romaji": [
+          "to"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 86,
+    "original": "アウトプットの場を先に作る",
+    "characters": [
+      {
+        "char": "あ",
+        "romaji": [
+          "a"
+        ]
+      },
+      {
+        "char": "う",
+        "romaji": [
+          "u",
+          "wu",
+          "whu"
+        ]
+      },
+      {
+        "char": "と",
+        "romaji": [
+          "to"
+        ]
+      },
+      {
+        "char": "ぷ",
+        "romaji": [
+          "pu"
+        ]
+      },
+      {
+        "char": "っ",
+        "romaji": [
+          "xtu",
+          "ltu",
+          "xtsu",
+          "ltsu"
+        ]
+      },
+      {
+        "char": "と",
+        "romaji": [
+          "to"
+        ]
+      },
+      {
+        "char": "の",
+        "romaji": [
+          "no"
+        ]
+      },
+      {
+        "char": "ば",
+        "romaji": [
+          "ba"
+        ]
+      },
+      {
+        "char": "を",
+        "romaji": [
+          "wo",
+          "o"
+        ]
+      },
+      {
+        "char": "さ",
+        "romaji": [
+          "sa"
+        ]
+      },
+      {
+        "char": "き",
+        "romaji": [
+          "ki"
+        ]
+      },
+      {
+        "char": "に",
+        "romaji": [
+          "ni"
+        ]
+      },
+      {
+        "char": "つ",
+        "romaji": [
+          "tu",
+          "tsu"
+        ]
+      },
+      {
+        "char": "く",
+        "romaji": [
+          "ku",
+          "cu",
+          "qu"
+        ]
+      },
+      {
+        "char": "る",
+        "romaji": [
+          "ru",
+          "lu"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 87,
+    "original": "歌舞伎町の若者ひっぱたいてnotion",
+    "characters": [
+      {
+        "char": "か",
+        "romaji": [
+          "ka",
+          "ca"
+        ]
+      },
+      {
+        "char": "ぶ",
+        "romaji": [
+          "bu"
+        ]
+      },
+      {
+        "char": "き",
+        "romaji": [
+          "ki"
+        ]
+      },
+      {
+        "char": "ちょ",
+        "romaji": [
+          "tyo",
+          "cho",
+          "tilyo",
+          "tixyo",
+          "chilyo",
+          "chixyo",
+          "cyo"
+        ]
+      },
+      {
+        "char": "う",
+        "romaji": [
+          "u",
+          "wu",
+          "whu"
+        ]
+      },
+      {
+        "char": "の",
+        "romaji": [
+          "no"
+        ]
+      },
+      {
+        "char": "わ",
+        "romaji": [
+          "wa"
+        ]
+      },
+      {
+        "char": "か",
+        "romaji": [
+          "ka",
+          "ca"
+        ]
+      },
+      {
+        "char": "も",
+        "romaji": [
+          "mo"
+        ]
+      },
+      {
+        "char": "の",
+        "romaji": [
+          "no"
+        ]
+      },
+      {
+        "char": "ひ",
+        "romaji": [
+          "hi"
+        ]
+      },
+      {
+        "char": "っ",
+        "romaji": [
+          "xtu",
+          "ltu",
+          "xtsu",
+          "ltsu"
+        ]
+      },
+      {
+        "char": "ぱ",
+        "romaji": [
+          "pa"
+        ]
+      },
+      {
+        "char": "た",
+        "romaji": [
+          "ta"
+        ]
+      },
+      {
+        "char": "い",
+        "romaji": [
+          "i",
+          "yi"
+        ]
+      },
+      {
+        "char": "て",
+        "romaji": [
+          "te"
+        ]
+      },
+      {
+        "char": "n",
+        "romaji": [
+          "n"
+        ]
+      },
+      {
+        "char": "o",
+        "romaji": [
+          "o"
+        ]
+      },
+      {
+        "char": "t",
+        "romaji": [
+          "t"
+        ]
+      },
+      {
+        "char": "i",
+        "romaji": [
+          "i"
+        ]
+      },
+      {
+        "char": "o",
+        "romaji": [
+          "o"
+        ]
+      },
+      {
+        "char": "n",
+        "romaji": [
+          "n"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 88,
+    "original": "しょーもない生き方しているからPayPayにしょーもない名前つけるんだよ",
+    "characters": [
+      {
+        "char": "しょ",
+        "romaji": [
+          "syo",
+          "sho",
+          "silyo",
+          "sixyo",
+          "shilyo",
+          "shixyo",
+          "cilyo",
+          "cixyo"
+        ]
+      },
+      {
+        "char": "ー",
+        "romaji": [
+          "-"
+        ]
+      },
+      {
+        "char": "も",
+        "romaji": [
+          "mo"
+        ]
+      },
+      {
+        "char": "な",
+        "romaji": [
+          "na"
+        ]
+      },
+      {
+        "char": "い",
+        "romaji": [
+          "i",
+          "yi"
+        ]
+      },
+      {
+        "char": "い",
+        "romaji": [
+          "i",
+          "yi"
+        ]
+      },
+      {
+        "char": "き",
+        "romaji": [
+          "ki"
+        ]
+      },
+      {
+        "char": "か",
+        "romaji": [
+          "ka",
+          "ca"
+        ]
+      },
+      {
+        "char": "た",
+        "romaji": [
+          "ta"
+        ]
+      },
+      {
+        "char": "し",
+        "romaji": [
+          "si",
+          "shi",
+          "ci"
+        ]
+      },
+      {
+        "char": "て",
+        "romaji": [
+          "te"
+        ]
+      },
+      {
+        "char": "い",
+        "romaji": [
+          "i",
+          "yi"
+        ]
+      },
+      {
+        "char": "る",
+        "romaji": [
+          "ru",
+          "lu"
+        ]
+      },
+      {
+        "char": "か",
+        "romaji": [
+          "ka",
+          "ca"
+        ]
+      },
+      {
+        "char": "ら",
+        "romaji": [
+          "ra",
+          "la"
+        ]
+      },
+      {
+        "char": "P",
+        "romaji": [
+          "p"
+        ]
+      },
+      {
+        "char": "a",
+        "romaji": [
+          "a"
+        ]
+      },
+      {
+        "char": "y",
+        "romaji": [
+          "y"
+        ]
+      },
+      {
+        "char": "P",
+        "romaji": [
+          "p"
+        ]
+      },
+      {
+        "char": "a",
+        "romaji": [
+          "a"
+        ]
+      },
+      {
+        "char": "y",
+        "romaji": [
+          "y"
+        ]
+      },
+      {
+        "char": "に",
+        "romaji": [
+          "ni"
+        ]
+      },
+      {
+        "char": "しょ",
+        "romaji": [
+          "syo",
+          "sho",
+          "silyo",
+          "sixyo",
+          "shilyo",
+          "shixyo",
+          "cilyo",
+          "cixyo"
+        ]
+      },
+      {
+        "char": "ー",
+        "romaji": [
+          "-"
+        ]
+      },
+      {
+        "char": "も",
+        "romaji": [
+          "mo"
+        ]
+      },
+      {
+        "char": "な",
+        "romaji": [
+          "na"
+        ]
+      },
+      {
+        "char": "い",
+        "romaji": [
+          "i",
+          "yi"
+        ]
+      },
+      {
+        "char": "な",
+        "romaji": [
+          "na"
+        ]
+      },
+      {
+        "char": "ま",
+        "romaji": [
+          "ma"
+        ]
+      },
+      {
+        "char": "え",
+        "romaji": [
+          "e"
+        ]
+      },
+      {
+        "char": "つ",
+        "romaji": [
+          "tu",
+          "tsu"
+        ]
+      },
+      {
+        "char": "け",
+        "romaji": [
+          "ke"
+        ]
+      },
+      {
+        "char": "る",
+        "romaji": [
+          "ru",
+          "lu"
+        ]
+      },
+      {
+        "char": "ん",
+        "romaji": [
+          "n",
+          "nn",
+          "n'",
+          "xn"
+        ]
+      },
+      {
+        "char": "だ",
+        "romaji": [
+          "da"
+        ]
+      },
+      {
+        "char": "よ",
+        "romaji": [
+          "yo"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 89,
+    "original": "会議は発散と収束",
+    "characters": [
+      {
+        "char": "か",
+        "romaji": [
+          "ka",
+          "ca"
+        ]
+      },
+      {
+        "char": "い",
+        "romaji": [
+          "i",
+          "yi"
+        ]
+      },
+      {
+        "char": "ぎ",
+        "romaji": [
+          "gi"
+        ]
+      },
+      {
+        "char": "は",
+        "romaji": [
+          "ha",
+          "wa"
+        ]
+      },
+      {
+        "char": "は",
+        "romaji": [
+          "ha",
+          "wa"
+        ]
+      },
+      {
+        "char": "っ",
+        "romaji": [
+          "xtu",
+          "ltu",
+          "xtsu",
+          "ltsu"
+        ]
+      },
+      {
+        "char": "さ",
+        "romaji": [
+          "sa"
+        ]
+      },
+      {
+        "char": "ん",
+        "romaji": [
+          "n",
+          "nn",
+          "n'",
+          "xn"
+        ]
+      },
+      {
+        "char": "と",
+        "romaji": [
+          "to"
+        ]
+      },
+      {
+        "char": "しゅ",
+        "romaji": [
+          "syu",
+          "shu",
+          "silyu",
+          "sixyu",
+          "shilyu",
+          "shixyu",
+          "cilyu",
+          "cixyu"
+        ]
+      },
+      {
+        "char": "う",
+        "romaji": [
+          "u",
+          "wu",
+          "whu"
+        ]
+      },
+      {
+        "char": "そ",
+        "romaji": [
+          "so"
+        ]
+      },
+      {
+        "char": "く",
+        "romaji": [
+          "ku",
+          "cu",
+          "qu"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 90,
+    "original": "錯覚でもいい。大事なのは本人の気持ち",
+    "characters": [
+      {
+        "char": "さ",
+        "romaji": [
+          "sa"
+        ]
+      },
+      {
+        "char": "っ",
+        "romaji": [
+          "xtu",
+          "ltu",
+          "xtsu",
+          "ltsu"
+        ]
+      },
+      {
+        "char": "か",
+        "romaji": [
+          "ka",
+          "ca"
+        ]
+      },
+      {
+        "char": "く",
+        "romaji": [
+          "ku",
+          "cu",
+          "qu"
+        ]
+      },
+      {
+        "char": "で",
+        "romaji": [
+          "de"
+        ]
+      },
+      {
+        "char": "も",
+        "romaji": [
+          "mo"
+        ]
+      },
+      {
+        "char": "い",
+        "romaji": [
+          "i",
+          "yi"
+        ]
+      },
+      {
+        "char": "い",
+        "romaji": [
+          "i",
+          "yi"
+        ]
+      },
+      {
+        "char": "。",
+        "romaji": [
+          "."
+        ]
+      },
+      {
+        "char": "だ",
+        "romaji": [
+          "da"
+        ]
+      },
+      {
+        "char": "い",
+        "romaji": [
+          "i",
+          "yi"
+        ]
+      },
+      {
+        "char": "じ",
+        "romaji": [
+          "zi",
+          "ji"
+        ]
+      },
+      {
+        "char": "な",
+        "romaji": [
+          "na"
+        ]
+      },
+      {
+        "char": "の",
+        "romaji": [
+          "no"
+        ]
+      },
+      {
+        "char": "は",
+        "romaji": [
+          "ha",
+          "wa"
+        ]
+      },
+      {
+        "char": "ほ",
+        "romaji": [
+          "ho"
+        ]
+      },
+      {
+        "char": "ん",
+        "romaji": [
+          "nn",
+          "n'",
+          "xn"
+        ]
+      },
+      {
+        "char": "に",
+        "romaji": [
+          "ni"
+        ]
+      },
+      {
+        "char": "ん",
+        "romaji": [
+          "nn",
+          "n'",
+          "xn"
+        ]
+      },
+      {
+        "char": "の",
+        "romaji": [
+          "no"
+        ]
+      },
+      {
+        "char": "き",
+        "romaji": [
+          "ki"
+        ]
+      },
+      {
+        "char": "も",
+        "romaji": [
+          "mo"
+        ]
+      },
+      {
+        "char": "ち",
+        "romaji": [
+          "ti",
+          "chi"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 91,
+    "original": "だってポジティブな気持ちになったらあとは絶対またチャレンジできるもの",
+    "characters": [
+      {
+        "char": "だ",
+        "romaji": [
+          "da"
+        ]
+      },
+      {
+        "char": "っ",
+        "romaji": [
+          "xtu",
+          "ltu",
+          "xtsu",
+          "ltsu"
+        ]
+      },
+      {
+        "char": "て",
+        "romaji": [
+          "te"
+        ]
+      },
+      {
+        "char": "ぽ",
+        "romaji": [
+          "po"
+        ]
+      },
+      {
+        "char": "じ",
+        "romaji": [
+          "zi",
+          "ji"
+        ]
+      },
+      {
+        "char": "てぃ",
+        "romaji": [
+          "thi",
+          "texi",
+          "teli"
+        ]
+      },
+      {
+        "char": "ぶ",
+        "romaji": [
+          "bu"
+        ]
+      },
+      {
+        "char": "な",
+        "romaji": [
+          "na"
+        ]
+      },
+      {
+        "char": "き",
+        "romaji": [
+          "ki"
+        ]
+      },
+      {
+        "char": "も",
+        "romaji": [
+          "mo"
+        ]
+      },
+      {
+        "char": "ち",
+        "romaji": [
+          "ti",
+          "chi"
+        ]
+      },
+      {
+        "char": "に",
+        "romaji": [
+          "ni"
+        ]
+      },
+      {
+        "char": "な",
+        "romaji": [
+          "na"
+        ]
+      },
+      {
+        "char": "っ",
+        "romaji": [
+          "xtu",
+          "ltu",
+          "xtsu",
+          "ltsu"
+        ]
+      },
+      {
+        "char": "た",
+        "romaji": [
+          "ta"
+        ]
+      },
+      {
+        "char": "ら",
+        "romaji": [
+          "ra",
+          "la"
+        ]
+      },
+      {
+        "char": "あ",
+        "romaji": [
+          "a"
+        ]
+      },
+      {
+        "char": "と",
+        "romaji": [
+          "to"
+        ]
+      },
+      {
+        "char": "は",
+        "romaji": [
+          "ha",
+          "wa"
+        ]
+      },
+      {
+        "char": "ぜ",
+        "romaji": [
+          "ze"
+        ]
+      },
+      {
+        "char": "っ",
+        "romaji": [
+          "xtu",
+          "ltu",
+          "xtsu",
+          "ltsu"
+        ]
+      },
+      {
+        "char": "た",
+        "romaji": [
+          "ta"
+        ]
+      },
+      {
+        "char": "い",
+        "romaji": [
+          "i",
+          "yi"
+        ]
+      },
+      {
+        "char": "ま",
+        "romaji": [
+          "ma"
+        ]
+      },
+      {
+        "char": "た",
+        "romaji": [
+          "ta"
+        ]
+      },
+      {
+        "char": "ちゃ",
+        "romaji": [
+          "tya",
+          "cha",
+          "tilya",
+          "tixya",
+          "chilya",
+          "chixya",
+          "cya"
+        ]
+      },
+      {
+        "char": "れ",
+        "romaji": [
+          "re",
+          "le"
+        ]
+      },
+      {
+        "char": "ん",
+        "romaji": [
+          "n",
+          "nn",
+          "n'",
+          "xn"
+        ]
+      },
+      {
+        "char": "じ",
+        "romaji": [
+          "zi",
+          "ji"
+        ]
+      },
+      {
+        "char": "で",
+        "romaji": [
+          "de"
+        ]
+      },
+      {
+        "char": "き",
+        "romaji": [
+          "ki"
+        ]
+      },
+      {
+        "char": "る",
+        "romaji": [
+          "ru",
+          "lu"
+        ]
+      },
+      {
+        "char": "も",
+        "romaji": [
+          "mo"
+        ]
+      },
+      {
+        "char": "の",
+        "romaji": [
+          "no"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 92,
+    "original": "一番悲しいのが諦めてしまうこと。自分にはできないって思ってしまうこと",
+    "characters": [
+      {
+        "char": "い",
+        "romaji": [
+          "i",
+          "yi"
+        ]
+      },
+      {
+        "char": "ち",
+        "romaji": [
+          "ti",
+          "chi"
+        ]
+      },
+      {
+        "char": "ば",
+        "romaji": [
+          "ba"
+        ]
+      },
+      {
+        "char": "ん",
+        "romaji": [
+          "n",
+          "nn",
+          "n'",
+          "xn"
+        ]
+      },
+      {
+        "char": "か",
+        "romaji": [
+          "ka",
+          "ca"
+        ]
+      },
+      {
+        "char": "な",
+        "romaji": [
+          "na"
+        ]
+      },
+      {
+        "char": "し",
+        "romaji": [
+          "si",
+          "shi",
+          "ci"
+        ]
+      },
+      {
+        "char": "い",
+        "romaji": [
+          "i",
+          "yi"
+        ]
+      },
+      {
+        "char": "の",
+        "romaji": [
+          "no"
+        ]
+      },
+      {
+        "char": "が",
+        "romaji": [
+          "ga"
+        ]
+      },
+      {
+        "char": "あ",
+        "romaji": [
+          "a"
+        ]
+      },
+      {
+        "char": "き",
+        "romaji": [
+          "ki"
+        ]
+      },
+      {
+        "char": "ら",
+        "romaji": [
+          "ra",
+          "la"
+        ]
+      },
+      {
+        "char": "め",
+        "romaji": [
+          "me"
+        ]
+      },
+      {
+        "char": "て",
+        "romaji": [
+          "te"
+        ]
+      },
+      {
+        "char": "し",
+        "romaji": [
+          "si",
+          "shi",
+          "ci"
+        ]
+      },
+      {
+        "char": "ま",
+        "romaji": [
+          "ma"
+        ]
+      },
+      {
+        "char": "う",
+        "romaji": [
+          "u",
+          "wu",
+          "whu"
+        ]
+      },
+      {
+        "char": "こ",
+        "romaji": [
+          "ko",
+          "co"
+        ]
+      },
+      {
+        "char": "と",
+        "romaji": [
+          "to"
+        ]
+      },
+      {
+        "char": "。",
+        "romaji": [
+          "."
+        ]
+      },
+      {
+        "char": "じ",
+        "romaji": [
+          "zi",
+          "ji"
+        ]
+      },
+      {
+        "char": "ぶ",
+        "romaji": [
+          "bu"
+        ]
+      },
+      {
+        "char": "ん",
+        "romaji": [
+          "nn",
+          "n'",
+          "xn"
+        ]
+      },
+      {
+        "char": "に",
+        "romaji": [
+          "ni"
+        ]
+      },
+      {
+        "char": "は",
+        "romaji": [
+          "ha",
+          "wa"
+        ]
+      },
+      {
+        "char": "で",
+        "romaji": [
+          "de"
+        ]
+      },
+      {
+        "char": "き",
+        "romaji": [
+          "ki"
+        ]
+      },
+      {
+        "char": "な",
+        "romaji": [
+          "na"
+        ]
+      },
+      {
+        "char": "い",
+        "romaji": [
+          "i",
+          "yi"
+        ]
+      },
+      {
+        "char": "っ",
+        "romaji": [
+          "xtu",
+          "ltu",
+          "xtsu",
+          "ltsu"
+        ]
+      },
+      {
+        "char": "て",
+        "romaji": [
+          "te"
+        ]
+      },
+      {
+        "char": "お",
+        "romaji": [
+          "o"
+        ]
+      },
+      {
+        "char": "も",
+        "romaji": [
+          "mo"
+        ]
+      },
+      {
+        "char": "っ",
+        "romaji": [
+          "xtu",
+          "ltu",
+          "xtsu",
+          "ltsu"
+        ]
+      },
+      {
+        "char": "て",
+        "romaji": [
+          "te"
+        ]
+      },
+      {
+        "char": "し",
+        "romaji": [
+          "si",
+          "shi",
+          "ci"
+        ]
+      },
+      {
+        "char": "ま",
+        "romaji": [
+          "ma"
+        ]
+      },
+      {
+        "char": "う",
+        "romaji": [
+          "u",
+          "wu",
+          "whu"
+        ]
+      },
+      {
+        "char": "こ",
+        "romaji": [
+          "ko",
+          "co"
+        ]
+      },
+      {
+        "char": "と",
+        "romaji": [
+          "to"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 93,
+    "original": "人の上に立つの気持ちぃ??！",
+    "characters": [
+      {
+        "char": "に",
+        "romaji": [
+          "ni"
+        ]
+      },
+      {
+        "char": "ん",
+        "romaji": [
+          "nn",
+          "n'",
+          "xn"
+        ]
+      },
+      {
+        "char": "の",
+        "romaji": [
+          "no"
+        ]
+      },
+      {
+        "char": "う",
+        "romaji": [
+          "u",
+          "wu",
+          "whu"
+        ]
+      },
+      {
+        "char": "え",
+        "romaji": [
+          "e"
+        ]
+      },
+      {
+        "char": "に",
+        "romaji": [
+          "ni"
+        ]
+      },
+      {
+        "char": "た",
+        "romaji": [
+          "ta"
+        ]
+      },
+      {
+        "char": "つ",
+        "romaji": [
+          "tu",
+          "tsu"
+        ]
+      },
+      {
+        "char": "の",
+        "romaji": [
+          "no"
+        ]
+      },
+      {
+        "char": "き",
+        "romaji": [
+          "ki"
+        ]
+      },
+      {
+        "char": "も",
+        "romaji": [
+          "mo"
+        ]
+      },
+      {
+        "char": "ちぃ",
+        "romaji": [
+          "tyi",
+          "tili",
+          "tixi",
+          "chili",
+          "chixi",
+          "cyi"
+        ]
+      },
+      {
+        "char": "?",
+        "romaji": [
+          "?"
+        ]
+      },
+      {
+        "char": "?",
+        "romaji": [
+          "?"
+        ]
+      },
+      {
+        "char": "！",
+        "romaji": [
+          "!"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 94,
+    "original": "iphoneのアップデートはするのに自分の人生アップデートできてますか？",
+    "characters": [
+      {
+        "char": "i",
+        "romaji": [
+          "i"
+        ]
+      },
+      {
+        "char": "p",
+        "romaji": [
+          "p"
+        ]
+      },
+      {
+        "char": "h",
+        "romaji": [
+          "h"
+        ]
+      },
+      {
+        "char": "o",
+        "romaji": [
+          "o"
+        ]
+      },
+      {
+        "char": "n",
+        "romaji": [
+          "n"
+        ]
+      },
+      {
+        "char": "e",
+        "romaji": [
+          "e"
+        ]
+      },
+      {
+        "char": "の",
+        "romaji": [
+          "no"
+        ]
+      },
+      {
+        "char": "あ",
+        "romaji": [
+          "a"
+        ]
+      },
+      {
+        "char": "っ",
+        "romaji": [
+          "xtu",
+          "ltu",
+          "xtsu",
+          "ltsu"
+        ]
+      },
+      {
+        "char": "ぷ",
+        "romaji": [
+          "pu"
+        ]
+      },
+      {
+        "char": "で",
+        "romaji": [
+          "de"
+        ]
+      },
+      {
+        "char": "ー",
+        "romaji": [
+          "-"
+        ]
+      },
+      {
+        "char": "と",
+        "romaji": [
+          "to"
+        ]
+      },
+      {
+        "char": "は",
+        "romaji": [
+          "ha",
+          "wa"
+        ]
+      },
+      {
+        "char": "す",
+        "romaji": [
+          "su"
+        ]
+      },
+      {
+        "char": "る",
+        "romaji": [
+          "ru",
+          "lu"
+        ]
+      },
+      {
+        "char": "の",
+        "romaji": [
+          "no"
+        ]
+      },
+      {
+        "char": "に",
+        "romaji": [
+          "ni"
+        ]
+      },
+      {
+        "char": "じ",
+        "romaji": [
+          "zi",
+          "ji"
+        ]
+      },
+      {
+        "char": "ぶ",
+        "romaji": [
+          "bu"
+        ]
+      },
+      {
+        "char": "ん",
+        "romaji": [
+          "nn",
+          "n'",
+          "xn"
+        ]
+      },
+      {
+        "char": "の",
+        "romaji": [
+          "no"
+        ]
+      },
+      {
+        "char": "じ",
+        "romaji": [
+          "zi",
+          "ji"
+        ]
+      },
+      {
+        "char": "ん",
+        "romaji": [
+          "n",
+          "nn",
+          "n'",
+          "xn"
+        ]
+      },
+      {
+        "char": "せ",
+        "romaji": [
+          "se",
+          "ce"
+        ]
+      },
+      {
+        "char": "い",
+        "romaji": [
+          "i",
+          "yi"
+        ]
+      },
+      {
+        "char": "あ",
+        "romaji": [
+          "a"
+        ]
+      },
+      {
+        "char": "っ",
+        "romaji": [
+          "xtu",
+          "ltu",
+          "xtsu",
+          "ltsu"
+        ]
+      },
+      {
+        "char": "ぷ",
+        "romaji": [
+          "pu"
+        ]
+      },
+      {
+        "char": "で",
+        "romaji": [
+          "de"
+        ]
+      },
+      {
+        "char": "ー",
+        "romaji": [
+          "-"
+        ]
+      },
+      {
+        "char": "と",
+        "romaji": [
+          "to"
+        ]
+      },
+      {
+        "char": "で",
+        "romaji": [
+          "de"
+        ]
+      },
+      {
+        "char": "き",
+        "romaji": [
+          "ki"
+        ]
+      },
+      {
+        "char": "て",
+        "romaji": [
+          "te"
+        ]
+      },
+      {
+        "char": "ま",
+        "romaji": [
+          "ma"
+        ]
+      },
+      {
+        "char": "す",
+        "romaji": [
+          "su"
+        ]
+      },
+      {
+        "char": "か",
+        "romaji": [
+          "ka",
+          "ca"
+        ]
+      },
+      {
+        "char": "？",
+        "romaji": [
+          "?"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 95,
+    "original": "PCの画面がちっちゃい人間は心もちっちゃいからね？",
+    "characters": [
+      {
+        "char": "P",
+        "romaji": [
+          "p"
+        ]
+      },
+      {
+        "char": "C",
+        "romaji": [
+          "c"
+        ]
+      },
+      {
+        "char": "の",
+        "romaji": [
+          "no"
+        ]
+      },
+      {
+        "char": "が",
+        "romaji": [
+          "ga"
+        ]
+      },
+      {
+        "char": "め",
+        "romaji": [
+          "me"
+        ]
+      },
+      {
+        "char": "ん",
+        "romaji": [
+          "n",
+          "nn",
+          "n'",
+          "xn"
+        ]
+      },
+      {
+        "char": "が",
+        "romaji": [
+          "ga"
+        ]
+      },
+      {
+        "char": "ち",
+        "romaji": [
+          "ti",
+          "chi"
+        ]
+      },
+      {
+        "char": "っ",
+        "romaji": [
+          "xtu",
+          "ltu",
+          "xtsu",
+          "ltsu"
+        ]
+      },
+      {
+        "char": "ちゃ",
+        "romaji": [
+          "tya",
+          "cha",
+          "tilya",
+          "tixya",
+          "chilya",
+          "chixya",
+          "cya"
+        ]
+      },
+      {
+        "char": "い",
+        "romaji": [
+          "i",
+          "yi"
+        ]
+      },
+      {
+        "char": "に",
+        "romaji": [
+          "ni"
+        ]
+      },
+      {
+        "char": "ん",
+        "romaji": [
+          "n",
+          "nn",
+          "n'",
+          "xn"
+        ]
+      },
+      {
+        "char": "げ",
+        "romaji": [
+          "ge"
+        ]
+      },
+      {
+        "char": "ん",
+        "romaji": [
+          "n",
+          "nn",
+          "n'",
+          "xn"
+        ]
+      },
+      {
+        "char": "は",
+        "romaji": [
+          "ha",
+          "wa"
+        ]
+      },
+      {
+        "char": "こ",
+        "romaji": [
+          "ko",
+          "co"
+        ]
+      },
+      {
+        "char": "こ",
+        "romaji": [
+          "ko",
+          "co"
+        ]
+      },
+      {
+        "char": "ろ",
+        "romaji": [
+          "ro",
+          "lo"
+        ]
+      },
+      {
+        "char": "も",
+        "romaji": [
+          "mo"
+        ]
+      },
+      {
+        "char": "ち",
+        "romaji": [
+          "ti",
+          "chi"
+        ]
+      },
+      {
+        "char": "っ",
+        "romaji": [
+          "xtu",
+          "ltu",
+          "xtsu",
+          "ltsu"
+        ]
+      },
+      {
+        "char": "ちゃ",
+        "romaji": [
+          "tya",
+          "cha",
+          "tilya",
+          "tixya",
+          "chilya",
+          "chixya",
+          "cya"
+        ]
+      },
+      {
+        "char": "い",
+        "romaji": [
+          "i",
+          "yi"
+        ]
+      },
+      {
+        "char": "か",
+        "romaji": [
+          "ka",
+          "ca"
+        ]
+      },
+      {
+        "char": "ら",
+        "romaji": [
+          "ra",
+          "la"
+        ]
+      },
+      {
+        "char": "ね",
+        "romaji": [
+          "ne"
+        ]
+      },
+      {
+        "char": "？",
+        "romaji": [
+          "?"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 96,
+    "original": "ジブリの主人公は手際が悪い",
+    "characters": [
+      {
+        "char": "じ",
+        "romaji": [
+          "zi",
+          "ji"
+        ]
+      },
+      {
+        "char": "ぶ",
+        "romaji": [
+          "bu"
+        ]
+      },
+      {
+        "char": "り",
+        "romaji": [
+          "ri",
+          "li"
+        ]
+      },
+      {
+        "char": "の",
+        "romaji": [
+          "no"
+        ]
+      },
+      {
+        "char": "しゅ",
+        "romaji": [
+          "syu",
+          "shu",
+          "silyu",
+          "sixyu",
+          "shilyu",
+          "shixyu",
+          "cilyu",
+          "cixyu"
+        ]
+      },
+      {
+        "char": "じ",
+        "romaji": [
+          "zi",
+          "ji"
+        ]
+      },
+      {
+        "char": "ん",
+        "romaji": [
+          "n",
+          "nn",
+          "n'",
+          "xn"
+        ]
+      },
+      {
+        "char": "こ",
+        "romaji": [
+          "ko",
+          "co"
+        ]
+      },
+      {
+        "char": "う",
+        "romaji": [
+          "u",
+          "wu",
+          "whu"
+        ]
+      },
+      {
+        "char": "は",
+        "romaji": [
+          "ha",
+          "wa"
+        ]
+      },
+      {
+        "char": "て",
+        "romaji": [
+          "te"
+        ]
+      },
+      {
+        "char": "ぎ",
+        "romaji": [
+          "gi"
+        ]
+      },
+      {
+        "char": "わ",
+        "romaji": [
+          "wa"
+        ]
+      },
+      {
+        "char": "が",
+        "romaji": [
+          "ga"
+        ]
+      },
+      {
+        "char": "わ",
+        "romaji": [
+          "wa"
+        ]
+      },
+      {
+        "char": "る",
+        "romaji": [
+          "ru",
+          "lu"
+        ]
+      },
+      {
+        "char": "い",
+        "romaji": [
+          "i",
+          "yi"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 97,
+    "original": "文章・思考が発生する全ての業務にAIを使用する",
+    "characters": [
+      {
+        "char": "ぶ",
+        "romaji": [
+          "bu"
+        ]
+      },
+      {
+        "char": "ん",
+        "romaji": [
+          "n",
+          "nn",
+          "n'",
+          "xn"
+        ]
+      },
+      {
+        "char": "しょ",
+        "romaji": [
+          "syo",
+          "sho",
+          "silyo",
+          "sixyo",
+          "shilyo",
+          "shixyo",
+          "cilyo",
+          "cixyo"
+        ]
+      },
+      {
+        "char": "う",
+        "romaji": [
+          "u",
+          "wu",
+          "whu"
+        ]
+      },
+      {
+        "char": "・",
+        "romaji": [
+          "/"
+        ]
+      },
+      {
+        "char": "し",
+        "romaji": [
+          "si",
+          "shi",
+          "ci"
+        ]
+      },
+      {
+        "char": "こ",
+        "romaji": [
+          "ko",
+          "co"
+        ]
+      },
+      {
+        "char": "う",
+        "romaji": [
+          "u",
+          "wu",
+          "whu"
+        ]
+      },
+      {
+        "char": "が",
+        "romaji": [
+          "ga"
+        ]
+      },
+      {
+        "char": "は",
+        "romaji": [
+          "ha",
+          "wa"
+        ]
+      },
+      {
+        "char": "っ",
+        "romaji": [
+          "xtu",
+          "ltu",
+          "xtsu",
+          "ltsu"
+        ]
+      },
+      {
+        "char": "せ",
+        "romaji": [
+          "se",
+          "ce"
+        ]
+      },
+      {
+        "char": "い",
+        "romaji": [
+          "i",
+          "yi"
+        ]
+      },
+      {
+        "char": "す",
+        "romaji": [
+          "su"
+        ]
+      },
+      {
+        "char": "る",
+        "romaji": [
+          "ru",
+          "lu"
+        ]
+      },
+      {
+        "char": "す",
+        "romaji": [
+          "su"
+        ]
+      },
+      {
+        "char": "べ",
+        "romaji": [
+          "be"
+        ]
+      },
+      {
+        "char": "て",
+        "romaji": [
+          "te"
+        ]
+      },
+      {
+        "char": "の",
+        "romaji": [
+          "no"
+        ]
+      },
+      {
+        "char": "ぎょ",
+        "romaji": [
+          "gyo",
+          "gilyo",
+          "gixyo"
+        ]
+      },
+      {
+        "char": "う",
+        "romaji": [
+          "u",
+          "wu",
+          "whu"
+        ]
+      },
+      {
+        "char": "む",
+        "romaji": [
+          "mu"
+        ]
+      },
+      {
+        "char": "に",
+        "romaji": [
+          "ni"
+        ]
+      },
+      {
+        "char": "A",
+        "romaji": [
+          "a"
+        ]
+      },
+      {
+        "char": "I",
+        "romaji": [
+          "i"
+        ]
+      },
+      {
+        "char": "を",
+        "romaji": [
+          "wo",
+          "o"
+        ]
+      },
+      {
+        "char": "し",
+        "romaji": [
+          "si",
+          "shi",
+          "ci"
+        ]
+      },
+      {
+        "char": "よ",
+        "romaji": [
+          "yo"
+        ]
+      },
+      {
+        "char": "う",
+        "romaji": [
+          "u",
+          "wu",
+          "whu"
+        ]
+      },
+      {
+        "char": "す",
+        "romaji": [
+          "su"
+        ]
+      },
+      {
+        "char": "る",
+        "romaji": [
+          "ru",
+          "lu"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 98,
+    "original": "考えたように生きないと、生きたように考えてしまう",
+    "characters": [
+      {
+        "char": "か",
+        "romaji": [
+          "ka",
+          "ca"
+        ]
+      },
+      {
+        "char": "ん",
+        "romaji": [
+          "n",
+          "nn",
+          "n'",
+          "xn"
+        ]
+      },
+      {
+        "char": "が",
+        "romaji": [
+          "ga"
+        ]
+      },
+      {
+        "char": "え",
+        "romaji": [
+          "e"
+        ]
+      },
+      {
+        "char": "た",
+        "romaji": [
+          "ta"
+        ]
+      },
+      {
+        "char": "よ",
+        "romaji": [
+          "yo"
+        ]
+      },
+      {
+        "char": "う",
+        "romaji": [
+          "u",
+          "wu",
+          "whu"
+        ]
+      },
+      {
+        "char": "に",
+        "romaji": [
+          "ni"
+        ]
+      },
+      {
+        "char": "い",
+        "romaji": [
+          "i",
+          "yi"
+        ]
+      },
+      {
+        "char": "き",
+        "romaji": [
+          "ki"
+        ]
+      },
+      {
+        "char": "な",
+        "romaji": [
+          "na"
+        ]
+      },
+      {
+        "char": "い",
+        "romaji": [
+          "i",
+          "yi"
+        ]
+      },
+      {
+        "char": "と",
+        "romaji": [
+          "to"
+        ]
+      },
+      {
+        "char": "、",
+        "romaji": [
+          ","
+        ]
+      },
+      {
+        "char": "い",
+        "romaji": [
+          "i",
+          "yi"
+        ]
+      },
+      {
+        "char": "き",
+        "romaji": [
+          "ki"
+        ]
+      },
+      {
+        "char": "た",
+        "romaji": [
+          "ta"
+        ]
+      },
+      {
+        "char": "よ",
+        "romaji": [
+          "yo"
+        ]
+      },
+      {
+        "char": "う",
+        "romaji": [
+          "u",
+          "wu",
+          "whu"
+        ]
+      },
+      {
+        "char": "に",
+        "romaji": [
+          "ni"
+        ]
+      },
+      {
+        "char": "か",
+        "romaji": [
+          "ka",
+          "ca"
+        ]
+      },
+      {
+        "char": "ん",
+        "romaji": [
+          "n",
+          "nn",
+          "n'",
+          "xn"
+        ]
+      },
+      {
+        "char": "が",
+        "romaji": [
+          "ga"
+        ]
+      },
+      {
+        "char": "え",
+        "romaji": [
+          "e"
+        ]
+      },
+      {
+        "char": "て",
+        "romaji": [
+          "te"
+        ]
+      },
+      {
+        "char": "し",
+        "romaji": [
+          "si",
+          "shi",
+          "ci"
+        ]
+      },
+      {
+        "char": "ま",
+        "romaji": [
+          "ma"
+        ]
+      },
+      {
+        "char": "う",
+        "romaji": [
+          "u",
+          "wu",
+          "whu"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 99,
+    "original": "質問にはその人のレベルが出る",
+    "characters": [
+      {
+        "char": "し",
+        "romaji": [
+          "si",
+          "shi",
+          "ci"
+        ]
+      },
+      {
+        "char": "つ",
+        "romaji": [
+          "tu",
+          "tsu"
+        ]
+      },
+      {
+        "char": "も",
+        "romaji": [
+          "mo"
+        ]
+      },
+      {
+        "char": "ん",
+        "romaji": [
+          "nn",
+          "n'",
+          "xn"
+        ]
+      },
+      {
+        "char": "に",
+        "romaji": [
+          "ni"
+        ]
+      },
+      {
+        "char": "は",
+        "romaji": [
+          "ha",
+          "wa"
+        ]
+      },
+      {
+        "char": "そ",
+        "romaji": [
+          "so"
+        ]
+      },
+      {
+        "char": "の",
+        "romaji": [
+          "no"
+        ]
+      },
+      {
+        "char": "に",
+        "romaji": [
+          "ni"
+        ]
+      },
+      {
+        "char": "ん",
+        "romaji": [
+          "nn",
+          "n'",
+          "xn"
+        ]
+      },
+      {
+        "char": "の",
+        "romaji": [
+          "no"
+        ]
+      },
+      {
+        "char": "れ",
+        "romaji": [
+          "re",
+          "le"
+        ]
+      },
+      {
+        "char": "べ",
+        "romaji": [
+          "be"
+        ]
+      },
+      {
+        "char": "る",
+        "romaji": [
+          "ru",
+          "lu"
+        ]
+      },
+      {
+        "char": "が",
+        "romaji": [
+          "ga"
+        ]
+      },
+      {
+        "char": "で",
+        "romaji": [
+          "de"
+        ]
+      },
+      {
+        "char": "る",
+        "romaji": [
+          "ru",
+          "lu"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 100,
+    "original": "具体と抽象の行き来が得意",
+    "characters": [
+      {
+        "char": "ぐ",
+        "romaji": [
+          "gu"
+        ]
+      },
+      {
+        "char": "た",
+        "romaji": [
+          "ta"
+        ]
+      },
+      {
+        "char": "い",
+        "romaji": [
+          "i",
+          "yi"
+        ]
+      },
+      {
+        "char": "と",
+        "romaji": [
+          "to"
+        ]
+      },
+      {
+        "char": "ちゅ",
+        "romaji": [
+          "tyu",
+          "chu",
+          "tilyu",
+          "tixyu",
+          "chilyu",
+          "chixyu",
+          "cyu"
+        ]
+      },
+      {
+        "char": "う",
+        "romaji": [
+          "u",
+          "wu",
+          "whu"
+        ]
+      },
+      {
+        "char": "しょ",
+        "romaji": [
+          "syo",
+          "sho",
+          "silyo",
+          "sixyo",
+          "shilyo",
+          "shixyo",
+          "cilyo",
+          "cixyo"
+        ]
+      },
+      {
+        "char": "う",
+        "romaji": [
+          "u",
+          "wu",
+          "whu"
+        ]
+      },
+      {
+        "char": "の",
+        "romaji": [
+          "no"
+        ]
+      },
+      {
+        "char": "い",
+        "romaji": [
+          "i",
+          "yi"
+        ]
+      },
+      {
+        "char": "き",
+        "romaji": [
+          "ki"
+        ]
+      },
+      {
+        "char": "き",
+        "romaji": [
+          "ki"
+        ]
+      },
+      {
+        "char": "が",
+        "romaji": [
+          "ga"
+        ]
+      },
+      {
+        "char": "と",
+        "romaji": [
+          "to"
+        ]
+      },
+      {
+        "char": "く",
+        "romaji": [
+          "ku",
+          "cu",
+          "qu"
+        ]
+      },
+      {
+        "char": "い",
+        "romaji": [
+          "i",
+          "yi"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 101,
+    "original": "世の中の病んでる人は全員notion使った方が良い",
+    "characters": [
+      {
+        "char": "よ",
+        "romaji": [
+          "yo"
+        ]
+      },
+      {
+        "char": "の",
+        "romaji": [
+          "no"
+        ]
+      },
+      {
+        "char": "な",
+        "romaji": [
+          "na"
+        ]
+      },
+      {
+        "char": "か",
+        "romaji": [
+          "ka",
+          "ca"
+        ]
+      },
+      {
+        "char": "の",
+        "romaji": [
+          "no"
+        ]
+      },
+      {
+        "char": "や",
+        "romaji": [
+          "ya"
+        ]
+      },
+      {
+        "char": "ん",
+        "romaji": [
+          "n",
+          "nn",
+          "n'",
+          "xn"
+        ]
+      },
+      {
+        "char": "で",
+        "romaji": [
+          "de"
+        ]
+      },
+      {
+        "char": "る",
+        "romaji": [
+          "ru",
+          "lu"
+        ]
+      },
+      {
+        "char": "に",
+        "romaji": [
+          "ni"
+        ]
+      },
+      {
+        "char": "ん",
+        "romaji": [
+          "n",
+          "nn",
+          "n'",
+          "xn"
+        ]
+      },
+      {
+        "char": "は",
+        "romaji": [
+          "ha",
+          "wa"
+        ]
+      },
+      {
+        "char": "ぜ",
+        "romaji": [
+          "ze"
+        ]
+      },
+      {
+        "char": "ん",
+        "romaji": [
+          "nn",
+          "n'",
+          "xn"
+        ]
+      },
+      {
+        "char": "い",
+        "romaji": [
+          "i",
+          "yi"
+        ]
+      },
+      {
+        "char": "ん",
+        "romaji": [
+          "nn",
+          "n'",
+          "xn"
+        ]
+      },
+      {
+        "char": "n",
+        "romaji": [
+          "n"
+        ]
+      },
+      {
+        "char": "o",
+        "romaji": [
+          "o"
+        ]
+      },
+      {
+        "char": "t",
+        "romaji": [
+          "t"
+        ]
+      },
+      {
+        "char": "i",
+        "romaji": [
+          "i"
+        ]
+      },
+      {
+        "char": "o",
+        "romaji": [
+          "o"
+        ]
+      },
+      {
+        "char": "n",
+        "romaji": [
+          "n"
+        ]
+      },
+      {
+        "char": "つ",
+        "romaji": [
+          "tu",
+          "tsu"
+        ]
+      },
+      {
+        "char": "か",
+        "romaji": [
+          "ka",
+          "ca"
+        ]
+      },
+      {
+        "char": "っ",
+        "romaji": [
+          "xtu",
+          "ltu",
+          "xtsu",
+          "ltsu"
+        ]
+      },
+      {
+        "char": "た",
+        "romaji": [
+          "ta"
+        ]
+      },
+      {
+        "char": "ほ",
+        "romaji": [
+          "ho"
+        ]
+      },
+      {
+        "char": "う",
+        "romaji": [
+          "u",
+          "wu",
+          "whu"
+        ]
+      },
+      {
+        "char": "が",
+        "romaji": [
+          "ga"
+        ]
+      },
+      {
+        "char": "よ",
+        "romaji": [
+          "yo"
+        ]
+      },
+      {
+        "char": "い",
+        "romaji": [
+          "i",
+          "yi"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 102,
+    "original": "情報漏洩を気にする人はインターネットをしないでください",
+    "characters": [
+      {
+        "char": "じょ",
+        "romaji": [
+          "jo",
+          "zyo",
+          "jyo",
+          "zilyo",
+          "zixyo",
+          "jilyo",
+          "jixyo"
+        ]
+      },
+      {
+        "char": "う",
+        "romaji": [
+          "u",
+          "wu",
+          "whu"
+        ]
+      },
+      {
+        "char": "ほ",
+        "romaji": [
+          "ho"
+        ]
+      },
+      {
+        "char": "う",
+        "romaji": [
+          "u",
+          "wu",
+          "whu"
+        ]
+      },
+      {
+        "char": "ろ",
+        "romaji": [
+          "ro",
+          "lo"
+        ]
+      },
+      {
+        "char": "う",
+        "romaji": [
+          "u",
+          "wu",
+          "whu"
+        ]
+      },
+      {
+        "char": "え",
+        "romaji": [
+          "e"
+        ]
+      },
+      {
+        "char": "い",
+        "romaji": [
+          "i",
+          "yi"
+        ]
+      },
+      {
+        "char": "を",
+        "romaji": [
+          "wo",
+          "o"
+        ]
+      },
+      {
+        "char": "き",
+        "romaji": [
+          "ki"
+        ]
+      },
+      {
+        "char": "に",
+        "romaji": [
+          "ni"
+        ]
+      },
+      {
+        "char": "す",
+        "romaji": [
+          "su"
+        ]
+      },
+      {
+        "char": "る",
+        "romaji": [
+          "ru",
+          "lu"
+        ]
+      },
+      {
+        "char": "に",
+        "romaji": [
+          "ni"
+        ]
+      },
+      {
+        "char": "ん",
+        "romaji": [
+          "n",
+          "nn",
+          "n'",
+          "xn"
+        ]
+      },
+      {
+        "char": "は",
+        "romaji": [
+          "ha",
+          "wa"
+        ]
+      },
+      {
+        "char": "い",
+        "romaji": [
+          "i",
+          "yi"
+        ]
+      },
+      {
+        "char": "ん",
+        "romaji": [
+          "n",
+          "nn",
+          "n'",
+          "xn"
+        ]
+      },
+      {
+        "char": "た",
+        "romaji": [
+          "ta"
+        ]
+      },
+      {
+        "char": "ー",
+        "romaji": [
+          "-"
+        ]
+      },
+      {
+        "char": "ね",
+        "romaji": [
+          "ne"
+        ]
+      },
+      {
+        "char": "っ",
+        "romaji": [
+          "xtu",
+          "ltu",
+          "xtsu",
+          "ltsu"
+        ]
+      },
+      {
+        "char": "と",
+        "romaji": [
+          "to"
+        ]
+      },
+      {
+        "char": "を",
+        "romaji": [
+          "wo",
+          "o"
+        ]
+      },
+      {
+        "char": "し",
+        "romaji": [
+          "si",
+          "shi",
+          "ci"
+        ]
+      },
+      {
+        "char": "な",
+        "romaji": [
+          "na"
+        ]
+      },
+      {
+        "char": "い",
+        "romaji": [
+          "i",
+          "yi"
+        ]
+      },
+      {
+        "char": "で",
+        "romaji": [
+          "de"
+        ]
+      },
+      {
+        "char": "く",
+        "romaji": [
+          "ku",
+          "cu",
+          "qu"
+        ]
+      },
+      {
+        "char": "だ",
+        "romaji": [
+          "da"
+        ]
+      },
+      {
+        "char": "さ",
+        "romaji": [
+          "sa"
+        ]
+      },
+      {
+        "char": "い",
+        "romaji": [
+          "i",
+          "yi"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 103,
+    "original": "ChatGPTは飲み会一回より安い3000円課金で人類の最先端の叡智に触れられる",
+    "characters": [
+      {
+        "char": "C",
+        "romaji": [
+          "c"
+        ]
+      },
+      {
+        "char": "h",
+        "romaji": [
+          "h"
+        ]
+      },
+      {
+        "char": "a",
+        "romaji": [
+          "a"
+        ]
+      },
+      {
+        "char": "t",
+        "romaji": [
+          "t"
+        ]
+      },
+      {
+        "char": "G",
+        "romaji": [
+          "g"
+        ]
+      },
+      {
+        "char": "P",
+        "romaji": [
+          "p"
+        ]
+      },
+      {
+        "char": "T",
+        "romaji": [
+          "t"
+        ]
+      },
+      {
+        "char": "は",
+        "romaji": [
+          "ha",
+          "wa"
+        ]
+      },
+      {
+        "char": "の",
+        "romaji": [
+          "no"
+        ]
+      },
+      {
+        "char": "み",
+        "romaji": [
+          "mi"
+        ]
+      },
+      {
+        "char": "か",
+        "romaji": [
+          "ka",
+          "ca"
+        ]
+      },
+      {
+        "char": "い",
+        "romaji": [
+          "i",
+          "yi"
+        ]
+      },
+      {
+        "char": "い",
+        "romaji": [
+          "i",
+          "yi"
+        ]
+      },
+      {
+        "char": "っ",
+        "romaji": [
+          "xtu",
+          "ltu",
+          "xtsu",
+          "ltsu"
+        ]
+      },
+      {
+        "char": "か",
+        "romaji": [
+          "ka",
+          "ca"
+        ]
+      },
+      {
+        "char": "い",
+        "romaji": [
+          "i",
+          "yi"
+        ]
+      },
+      {
+        "char": "よ",
+        "romaji": [
+          "yo"
+        ]
+      },
+      {
+        "char": "り",
+        "romaji": [
+          "ri",
+          "li"
+        ]
+      },
+      {
+        "char": "や",
+        "romaji": [
+          "ya"
+        ]
+      },
+      {
+        "char": "す",
+        "romaji": [
+          "su"
+        ]
+      },
+      {
+        "char": "い",
+        "romaji": [
+          "i",
+          "yi"
+        ]
+      },
+      {
+        "char": "3",
+        "romaji": [
+          "3"
+        ]
+      },
+      {
+        "char": "0",
+        "romaji": [
+          "0"
+        ]
+      },
+      {
+        "char": "0",
+        "romaji": [
+          "0"
+        ]
+      },
+      {
+        "char": "0",
+        "romaji": [
+          "0"
+        ]
+      },
+      {
+        "char": "え",
+        "romaji": [
+          "e"
+        ]
+      },
+      {
+        "char": "ん",
+        "romaji": [
+          "n",
+          "nn",
+          "n'",
+          "xn"
+        ]
+      },
+      {
+        "char": "か",
+        "romaji": [
+          "ka",
+          "ca"
+        ]
+      },
+      {
+        "char": "き",
+        "romaji": [
+          "ki"
+        ]
+      },
+      {
+        "char": "ん",
+        "romaji": [
+          "n",
+          "nn",
+          "n'",
+          "xn"
+        ]
+      },
+      {
+        "char": "で",
+        "romaji": [
+          "de"
+        ]
+      },
+      {
+        "char": "じ",
+        "romaji": [
+          "zi",
+          "ji"
+        ]
+      },
+      {
+        "char": "ん",
+        "romaji": [
+          "n",
+          "nn",
+          "n'",
+          "xn"
+        ]
+      },
+      {
+        "char": "る",
+        "romaji": [
+          "ru",
+          "lu"
+        ]
+      },
+      {
+        "char": "い",
+        "romaji": [
+          "i",
+          "yi"
+        ]
+      },
+      {
+        "char": "の",
+        "romaji": [
+          "no"
+        ]
+      },
+      {
+        "char": "さ",
+        "romaji": [
+          "sa"
+        ]
+      },
+      {
+        "char": "い",
+        "romaji": [
+          "i",
+          "yi"
+        ]
+      },
+      {
+        "char": "せ",
+        "romaji": [
+          "se",
+          "ce"
+        ]
+      },
+      {
+        "char": "ん",
+        "romaji": [
+          "n",
+          "nn",
+          "n'",
+          "xn"
+        ]
+      },
+      {
+        "char": "た",
+        "romaji": [
+          "ta"
+        ]
+      },
+      {
+        "char": "ん",
+        "romaji": [
+          "nn",
+          "n'",
+          "xn"
+        ]
+      },
+      {
+        "char": "の",
+        "romaji": [
+          "no"
+        ]
+      },
+      {
+        "char": "え",
+        "romaji": [
+          "e"
+        ]
+      },
+      {
+        "char": "い",
+        "romaji": [
+          "i",
+          "yi"
+        ]
+      },
+      {
+        "char": "ち",
+        "romaji": [
+          "ti",
+          "chi"
+        ]
+      },
+      {
+        "char": "に",
+        "romaji": [
+          "ni"
+        ]
+      },
+      {
+        "char": "ふ",
+        "romaji": [
+          "hu",
+          "fu"
+        ]
+      },
+      {
+        "char": "れ",
+        "romaji": [
+          "re",
+          "le"
+        ]
+      },
+      {
+        "char": "ら",
+        "romaji": [
+          "ra",
+          "la"
+        ]
+      },
+      {
+        "char": "れ",
+        "romaji": [
+          "re",
+          "le"
+        ]
+      },
+      {
+        "char": "る",
+        "romaji": [
+          "ru",
+          "lu"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 104,
+    "original": "努力の副産物として成果がある",
+    "characters": [
+      {
+        "char": "ど",
+        "romaji": [
+          "do"
+        ]
+      },
+      {
+        "char": "りょ",
+        "romaji": [
+          "ryo",
+          "lyo",
+          "rilyo",
+          "rixyo",
+          "lilyo",
+          "lixyo"
+        ]
+      },
+      {
+        "char": "く",
+        "romaji": [
+          "ku",
+          "cu",
+          "qu"
+        ]
+      },
+      {
+        "char": "の",
+        "romaji": [
+          "no"
+        ]
+      },
+      {
+        "char": "ふ",
+        "romaji": [
+          "hu",
+          "fu"
+        ]
+      },
+      {
+        "char": "く",
+        "romaji": [
+          "ku",
+          "cu",
+          "qu"
+        ]
+      },
+      {
+        "char": "さ",
+        "romaji": [
+          "sa"
+        ]
+      },
+      {
+        "char": "ん",
+        "romaji": [
+          "n",
+          "nn",
+          "n'",
+          "xn"
+        ]
+      },
+      {
+        "char": "ぶ",
+        "romaji": [
+          "bu"
+        ]
+      },
+      {
+        "char": "つ",
+        "romaji": [
+          "tu",
+          "tsu"
+        ]
+      },
+      {
+        "char": "と",
+        "romaji": [
+          "to"
+        ]
+      },
+      {
+        "char": "し",
+        "romaji": [
+          "si",
+          "shi",
+          "ci"
+        ]
+      },
+      {
+        "char": "て",
+        "romaji": [
+          "te"
+        ]
+      },
+      {
+        "char": "せ",
+        "romaji": [
+          "se",
+          "ce"
+        ]
+      },
+      {
+        "char": "い",
+        "romaji": [
+          "i",
+          "yi"
+        ]
+      },
+      {
+        "char": "か",
+        "romaji": [
+          "ka",
+          "ca"
+        ]
+      },
+      {
+        "char": "が",
+        "romaji": [
+          "ga"
+        ]
+      },
+      {
+        "char": "あ",
+        "romaji": [
+          "a"
+        ]
+      },
+      {
+        "char": "る",
+        "romaji": [
+          "ru",
+          "lu"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 105,
+    "original": "下水道みたいな人生送ってないで",
+    "characters": [
+      {
+        "char": "げ",
+        "romaji": [
+          "ge"
+        ]
+      },
+      {
+        "char": "す",
+        "romaji": [
+          "su"
+        ]
+      },
+      {
+        "char": "い",
+        "romaji": [
+          "i",
+          "yi"
+        ]
+      },
+      {
+        "char": "ど",
+        "romaji": [
+          "do"
+        ]
+      },
+      {
+        "char": "う",
+        "romaji": [
+          "u",
+          "wu",
+          "whu"
+        ]
+      },
+      {
+        "char": "み",
+        "romaji": [
+          "mi"
+        ]
+      },
+      {
+        "char": "た",
+        "romaji": [
+          "ta"
+        ]
+      },
+      {
+        "char": "い",
+        "romaji": [
+          "i",
+          "yi"
+        ]
+      },
+      {
+        "char": "な",
+        "romaji": [
+          "na"
+        ]
+      },
+      {
+        "char": "じ",
+        "romaji": [
+          "zi",
+          "ji"
+        ]
+      },
+      {
+        "char": "ん",
+        "romaji": [
+          "n",
+          "nn",
+          "n'",
+          "xn"
+        ]
+      },
+      {
+        "char": "せ",
+        "romaji": [
+          "se",
+          "ce"
+        ]
+      },
+      {
+        "char": "い",
+        "romaji": [
+          "i",
+          "yi"
+        ]
+      },
+      {
+        "char": "お",
+        "romaji": [
+          "o"
+        ]
+      },
+      {
+        "char": "く",
+        "romaji": [
+          "ku",
+          "cu",
+          "qu"
+        ]
+      },
+      {
+        "char": "っ",
+        "romaji": [
+          "xtu",
+          "ltu",
+          "xtsu",
+          "ltsu"
+        ]
+      },
+      {
+        "char": "て",
+        "romaji": [
+          "te"
+        ]
+      },
+      {
+        "char": "な",
+        "romaji": [
+          "na"
+        ]
+      },
+      {
+        "char": "い",
+        "romaji": [
+          "i",
+          "yi"
+        ]
+      },
+      {
+        "char": "で",
+        "romaji": [
+          "de"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 106,
+    "original": "犬は、今のことしか考えない。わざわざ過去思い出して、大事な今を忘れたり悲しんだりしない",
+    "characters": [
+      {
+        "char": "い",
+        "romaji": [
+          "i",
+          "yi"
+        ]
+      },
+      {
+        "char": "ぬ",
+        "romaji": [
+          "nu"
+        ]
+      },
+      {
+        "char": "は",
+        "romaji": [
+          "ha",
+          "wa"
+        ]
+      },
+      {
+        "char": "、",
+        "romaji": [
+          ","
+        ]
+      },
+      {
+        "char": "い",
+        "romaji": [
+          "i",
+          "yi"
+        ]
+      },
+      {
+        "char": "ま",
+        "romaji": [
+          "ma"
+        ]
+      },
+      {
+        "char": "の",
+        "romaji": [
+          "no"
+        ]
+      },
+      {
+        "char": "こ",
+        "romaji": [
+          "ko",
+          "co"
+        ]
+      },
+      {
+        "char": "と",
+        "romaji": [
+          "to"
+        ]
+      },
+      {
+        "char": "し",
+        "romaji": [
+          "si",
+          "shi",
+          "ci"
+        ]
+      },
+      {
+        "char": "か",
+        "romaji": [
+          "ka",
+          "ca"
+        ]
+      },
+      {
+        "char": "か",
+        "romaji": [
+          "ka",
+          "ca"
+        ]
+      },
+      {
+        "char": "ん",
+        "romaji": [
+          "n",
+          "nn",
+          "n'",
+          "xn"
+        ]
+      },
+      {
+        "char": "が",
+        "romaji": [
+          "ga"
+        ]
+      },
+      {
+        "char": "え",
+        "romaji": [
+          "e"
+        ]
+      },
+      {
+        "char": "な",
+        "romaji": [
+          "na"
+        ]
+      },
+      {
+        "char": "い",
+        "romaji": [
+          "i",
+          "yi"
+        ]
+      },
+      {
+        "char": "。",
+        "romaji": [
+          "."
+        ]
+      },
+      {
+        "char": "わ",
+        "romaji": [
+          "wa"
+        ]
+      },
+      {
+        "char": "ざ",
+        "romaji": [
+          "za"
+        ]
+      },
+      {
+        "char": "わ",
+        "romaji": [
+          "wa"
+        ]
+      },
+      {
+        "char": "ざ",
+        "romaji": [
+          "za"
+        ]
+      },
+      {
+        "char": "か",
+        "romaji": [
+          "ka",
+          "ca"
+        ]
+      },
+      {
+        "char": "こ",
+        "romaji": [
+          "ko",
+          "co"
+        ]
+      },
+      {
+        "char": "お",
+        "romaji": [
+          "o"
+        ]
+      },
+      {
+        "char": "も",
+        "romaji": [
+          "mo"
+        ]
+      },
+      {
+        "char": "い",
+        "romaji": [
+          "i",
+          "yi"
+        ]
+      },
+      {
+        "char": "だ",
+        "romaji": [
+          "da"
+        ]
+      },
+      {
+        "char": "し",
+        "romaji": [
+          "si",
+          "shi",
+          "ci"
+        ]
+      },
+      {
+        "char": "て",
+        "romaji": [
+          "te"
+        ]
+      },
+      {
+        "char": "、",
+        "romaji": [
+          ","
+        ]
+      },
+      {
+        "char": "だ",
+        "romaji": [
+          "da"
+        ]
+      },
+      {
+        "char": "い",
+        "romaji": [
+          "i",
+          "yi"
+        ]
+      },
+      {
+        "char": "じ",
+        "romaji": [
+          "zi",
+          "ji"
+        ]
+      },
+      {
+        "char": "な",
+        "romaji": [
+          "na"
+        ]
+      },
+      {
+        "char": "い",
+        "romaji": [
+          "i",
+          "yi"
+        ]
+      },
+      {
+        "char": "ま",
+        "romaji": [
+          "ma"
+        ]
+      },
+      {
+        "char": "を",
+        "romaji": [
+          "wo",
+          "o"
+        ]
+      },
+      {
+        "char": "わ",
+        "romaji": [
+          "wa"
+        ]
+      },
+      {
+        "char": "す",
+        "romaji": [
+          "su"
+        ]
+      },
+      {
+        "char": "れ",
+        "romaji": [
+          "re",
+          "le"
+        ]
+      },
+      {
+        "char": "た",
+        "romaji": [
+          "ta"
+        ]
+      },
+      {
+        "char": "り",
+        "romaji": [
+          "ri",
+          "li"
+        ]
+      },
+      {
+        "char": "か",
+        "romaji": [
+          "ka",
+          "ca"
+        ]
+      },
+      {
+        "char": "な",
+        "romaji": [
+          "na"
+        ]
+      },
+      {
+        "char": "し",
+        "romaji": [
+          "si",
+          "shi",
+          "ci"
+        ]
+      },
+      {
+        "char": "ん",
+        "romaji": [
+          "n",
+          "nn",
+          "n'",
+          "xn"
+        ]
+      },
+      {
+        "char": "だ",
+        "romaji": [
+          "da"
+        ]
+      },
+      {
+        "char": "り",
+        "romaji": [
+          "ri",
+          "li"
+        ]
+      },
+      {
+        "char": "し",
+        "romaji": [
+          "si",
+          "shi",
+          "ci"
+        ]
+      },
+      {
+        "char": "な",
+        "romaji": [
+          "na"
+        ]
+      },
+      {
+        "char": "い",
+        "romaji": [
+          "i",
+          "yi"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 107,
+    "original": "「今より大切な時間はない」これを犬は教えてくれる。僕に足りてない考え方である",
+    "characters": [
+      {
+        "char": "「",
+        "romaji": [
+          "["
+        ]
+      },
+      {
+        "char": "い",
+        "romaji": [
+          "i",
+          "yi"
+        ]
+      },
+      {
+        "char": "ま",
+        "romaji": [
+          "ma"
+        ]
+      },
+      {
+        "char": "よ",
+        "romaji": [
+          "yo"
+        ]
+      },
+      {
+        "char": "り",
+        "romaji": [
+          "ri",
+          "li"
+        ]
+      },
+      {
+        "char": "た",
+        "romaji": [
+          "ta"
+        ]
+      },
+      {
+        "char": "い",
+        "romaji": [
+          "i",
+          "yi"
+        ]
+      },
+      {
+        "char": "せ",
+        "romaji": [
+          "se",
+          "ce"
+        ]
+      },
+      {
+        "char": "つ",
+        "romaji": [
+          "tu",
+          "tsu"
+        ]
+      },
+      {
+        "char": "な",
+        "romaji": [
+          "na"
+        ]
+      },
+      {
+        "char": "じ",
+        "romaji": [
+          "zi",
+          "ji"
+        ]
+      },
+      {
+        "char": "か",
+        "romaji": [
+          "ka",
+          "ca"
+        ]
+      },
+      {
+        "char": "ん",
+        "romaji": [
+          "n",
+          "nn",
+          "n'",
+          "xn"
+        ]
+      },
+      {
+        "char": "は",
+        "romaji": [
+          "ha",
+          "wa"
+        ]
+      },
+      {
+        "char": "な",
+        "romaji": [
+          "na"
+        ]
+      },
+      {
+        "char": "い",
+        "romaji": [
+          "i",
+          "yi"
+        ]
+      },
+      {
+        "char": "」",
+        "romaji": [
+          "]"
+        ]
+      },
+      {
+        "char": "こ",
+        "romaji": [
+          "ko",
+          "co"
+        ]
+      },
+      {
+        "char": "れ",
+        "romaji": [
+          "re",
+          "le"
+        ]
+      },
+      {
+        "char": "を",
+        "romaji": [
+          "wo",
+          "o"
+        ]
+      },
+      {
+        "char": "い",
+        "romaji": [
+          "i",
+          "yi"
+        ]
+      },
+      {
+        "char": "ぬ",
+        "romaji": [
+          "nu"
+        ]
+      },
+      {
+        "char": "は",
+        "romaji": [
+          "ha",
+          "wa"
+        ]
+      },
+      {
+        "char": "お",
+        "romaji": [
+          "o"
+        ]
+      },
+      {
+        "char": "し",
+        "romaji": [
+          "si",
+          "shi",
+          "ci"
+        ]
+      },
+      {
+        "char": "え",
+        "romaji": [
+          "e"
+        ]
+      },
+      {
+        "char": "て",
+        "romaji": [
+          "te"
+        ]
+      },
+      {
+        "char": "く",
+        "romaji": [
+          "ku",
+          "cu",
+          "qu"
+        ]
+      },
+      {
+        "char": "れ",
+        "romaji": [
+          "re",
+          "le"
+        ]
+      },
+      {
+        "char": "る",
+        "romaji": [
+          "ru",
+          "lu"
+        ]
+      },
+      {
+        "char": "。",
+        "romaji": [
+          "."
+        ]
+      },
+      {
+        "char": "ぼ",
+        "romaji": [
+          "bo"
+        ]
+      },
+      {
+        "char": "く",
+        "romaji": [
+          "ku",
+          "cu",
+          "qu"
+        ]
+      },
+      {
+        "char": "に",
+        "romaji": [
+          "ni"
+        ]
+      },
+      {
+        "char": "た",
+        "romaji": [
+          "ta"
+        ]
+      },
+      {
+        "char": "り",
+        "romaji": [
+          "ri",
+          "li"
+        ]
+      },
+      {
+        "char": "て",
+        "romaji": [
+          "te"
+        ]
+      },
+      {
+        "char": "な",
+        "romaji": [
+          "na"
+        ]
+      },
+      {
+        "char": "い",
+        "romaji": [
+          "i",
+          "yi"
+        ]
+      },
+      {
+        "char": "か",
+        "romaji": [
+          "ka",
+          "ca"
+        ]
+      },
+      {
+        "char": "ん",
+        "romaji": [
+          "n",
+          "nn",
+          "n'",
+          "xn"
+        ]
+      },
+      {
+        "char": "が",
+        "romaji": [
+          "ga"
+        ]
+      },
+      {
+        "char": "え",
+        "romaji": [
+          "e"
+        ]
+      },
+      {
+        "char": "か",
+        "romaji": [
+          "ka",
+          "ca"
+        ]
+      },
+      {
+        "char": "た",
+        "romaji": [
+          "ta"
+        ]
+      },
+      {
+        "char": "で",
+        "romaji": [
+          "de"
+        ]
+      },
+      {
+        "char": "あ",
+        "romaji": [
+          "a"
+        ]
+      },
+      {
+        "char": "る",
+        "romaji": [
+          "ru",
+          "lu"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 108,
+    "original": "僕はドーパミン中毒のZ世代のガキなので",
+    "characters": [
+      {
+        "char": "ぼ",
+        "romaji": [
+          "bo"
+        ]
+      },
+      {
+        "char": "く",
+        "romaji": [
+          "ku",
+          "cu",
+          "qu"
+        ]
+      },
+      {
+        "char": "は",
+        "romaji": [
+          "ha",
+          "wa"
+        ]
+      },
+      {
+        "char": "ど",
+        "romaji": [
+          "do"
+        ]
+      },
+      {
+        "char": "ー",
+        "romaji": [
+          "-"
+        ]
+      },
+      {
+        "char": "ぱ",
+        "romaji": [
+          "pa"
+        ]
+      },
+      {
+        "char": "み",
+        "romaji": [
+          "mi"
+        ]
+      },
+      {
+        "char": "ん",
+        "romaji": [
+          "n",
+          "nn",
+          "n'",
+          "xn"
+        ]
+      },
+      {
+        "char": "ちゅ",
+        "romaji": [
+          "tyu",
+          "chu",
+          "tilyu",
+          "tixyu",
+          "chilyu",
+          "chixyu",
+          "cyu"
+        ]
+      },
+      {
+        "char": "う",
+        "romaji": [
+          "u",
+          "wu",
+          "whu"
+        ]
+      },
+      {
+        "char": "ど",
+        "romaji": [
+          "do"
+        ]
+      },
+      {
+        "char": "く",
+        "romaji": [
+          "ku",
+          "cu",
+          "qu"
+        ]
+      },
+      {
+        "char": "の",
+        "romaji": [
+          "no"
+        ]
+      },
+      {
+        "char": "Z",
+        "romaji": [
+          "z"
+        ]
+      },
+      {
+        "char": "せ",
+        "romaji": [
+          "se",
+          "ce"
+        ]
+      },
+      {
+        "char": "だ",
+        "romaji": [
+          "da"
+        ]
+      },
+      {
+        "char": "い",
+        "romaji": [
+          "i",
+          "yi"
+        ]
+      },
+      {
+        "char": "の",
+        "romaji": [
+          "no"
+        ]
+      },
+      {
+        "char": "が",
+        "romaji": [
+          "ga"
+        ]
+      },
+      {
+        "char": "き",
+        "romaji": [
+          "ki"
+        ]
+      },
+      {
+        "char": "な",
+        "romaji": [
+          "na"
+        ]
+      },
+      {
+        "char": "の",
+        "romaji": [
+          "no"
+        ]
+      },
+      {
+        "char": "で",
+        "romaji": [
+          "de"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 109,
+    "original": "注文はボタン押した瞬間に決まっている",
+    "characters": [
+      {
+        "char": "ちゅ",
+        "romaji": [
+          "tyu",
+          "chu",
+          "tilyu",
+          "tixyu",
+          "chilyu",
+          "chixyu",
+          "cyu"
+        ]
+      },
+      {
+        "char": "う",
+        "romaji": [
+          "u",
+          "wu",
+          "whu"
+        ]
+      },
+      {
+        "char": "も",
+        "romaji": [
+          "mo"
+        ]
+      },
+      {
+        "char": "ん",
+        "romaji": [
+          "n",
+          "nn",
+          "n'",
+          "xn"
+        ]
+      },
+      {
+        "char": "は",
+        "romaji": [
+          "ha",
+          "wa"
+        ]
+      },
+      {
+        "char": "ぼ",
+        "romaji": [
+          "bo"
+        ]
+      },
+      {
+        "char": "た",
+        "romaji": [
+          "ta"
+        ]
+      },
+      {
+        "char": "ん",
+        "romaji": [
+          "nn",
+          "n'",
+          "xn"
+        ]
+      },
+      {
+        "char": "お",
+        "romaji": [
+          "o"
+        ]
+      },
+      {
+        "char": "し",
+        "romaji": [
+          "si",
+          "shi",
+          "ci"
+        ]
+      },
+      {
+        "char": "た",
+        "romaji": [
+          "ta"
+        ]
+      },
+      {
+        "char": "しゅ",
+        "romaji": [
+          "syu",
+          "shu",
+          "silyu",
+          "sixyu",
+          "shilyu",
+          "shixyu",
+          "cilyu",
+          "cixyu"
+        ]
+      },
+      {
+        "char": "ん",
+        "romaji": [
+          "n",
+          "nn",
+          "n'",
+          "xn"
+        ]
+      },
+      {
+        "char": "か",
+        "romaji": [
+          "ka",
+          "ca"
+        ]
+      },
+      {
+        "char": "ん",
+        "romaji": [
+          "nn",
+          "n'",
+          "xn"
+        ]
+      },
+      {
+        "char": "に",
+        "romaji": [
+          "ni"
+        ]
+      },
+      {
+        "char": "き",
+        "romaji": [
+          "ki"
+        ]
+      },
+      {
+        "char": "ま",
+        "romaji": [
+          "ma"
+        ]
+      },
+      {
+        "char": "っ",
+        "romaji": [
+          "xtu",
+          "ltu",
+          "xtsu",
+          "ltsu"
+        ]
+      },
+      {
+        "char": "て",
+        "romaji": [
+          "te"
+        ]
+      },
+      {
+        "char": "い",
+        "romaji": [
+          "i",
+          "yi"
+        ]
+      },
+      {
+        "char": "る",
+        "romaji": [
+          "ru",
+          "lu"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 110,
+    "original": "なんでも人に聞きたがる人はAIが使えない",
+    "characters": [
+      {
+        "char": "な",
+        "romaji": [
+          "na"
+        ]
+      },
+      {
+        "char": "ん",
+        "romaji": [
+          "n",
+          "nn",
+          "n'",
+          "xn"
+        ]
+      },
+      {
+        "char": "で",
+        "romaji": [
+          "de"
+        ]
+      },
+      {
+        "char": "も",
+        "romaji": [
+          "mo"
+        ]
+      },
+      {
+        "char": "に",
+        "romaji": [
+          "ni"
+        ]
+      },
+      {
+        "char": "ん",
+        "romaji": [
+          "nn",
+          "n'",
+          "xn"
+        ]
+      },
+      {
+        "char": "に",
+        "romaji": [
+          "ni"
+        ]
+      },
+      {
+        "char": "き",
+        "romaji": [
+          "ki"
+        ]
+      },
+      {
+        "char": "き",
+        "romaji": [
+          "ki"
+        ]
+      },
+      {
+        "char": "た",
+        "romaji": [
+          "ta"
+        ]
+      },
+      {
+        "char": "が",
+        "romaji": [
+          "ga"
+        ]
+      },
+      {
+        "char": "る",
+        "romaji": [
+          "ru",
+          "lu"
+        ]
+      },
+      {
+        "char": "に",
+        "romaji": [
+          "ni"
+        ]
+      },
+      {
+        "char": "ん",
+        "romaji": [
+          "n",
+          "nn",
+          "n'",
+          "xn"
+        ]
+      },
+      {
+        "char": "は",
+        "romaji": [
+          "ha",
+          "wa"
+        ]
+      },
+      {
+        "char": "A",
+        "romaji": [
+          "a"
+        ]
+      },
+      {
+        "char": "I",
+        "romaji": [
+          "i"
+        ]
+      },
+      {
+        "char": "が",
+        "romaji": [
+          "ga"
+        ]
+      },
+      {
+        "char": "つ",
+        "romaji": [
+          "tu",
+          "tsu"
+        ]
+      },
+      {
+        "char": "か",
+        "romaji": [
+          "ka",
+          "ca"
+        ]
+      },
+      {
+        "char": "え",
+        "romaji": [
+          "e"
+        ]
+      },
+      {
+        "char": "な",
+        "romaji": [
+          "na"
+        ]
+      },
+      {
+        "char": "い",
+        "romaji": [
+          "i",
+          "yi"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 111,
+    "original": "世の中のインフルエンサーはロジカルじゃない",
+    "characters": [
+      {
+        "char": "よ",
+        "romaji": [
+          "yo"
+        ]
+      },
+      {
+        "char": "の",
+        "romaji": [
+          "no"
+        ]
+      },
+      {
+        "char": "な",
+        "romaji": [
+          "na"
+        ]
+      },
+      {
+        "char": "か",
+        "romaji": [
+          "ka",
+          "ca"
+        ]
+      },
+      {
+        "char": "の",
+        "romaji": [
+          "no"
+        ]
+      },
+      {
+        "char": "い",
+        "romaji": [
+          "i",
+          "yi"
+        ]
+      },
+      {
+        "char": "ん",
+        "romaji": [
+          "n",
+          "nn",
+          "n'",
+          "xn"
+        ]
+      },
+      {
+        "char": "ふ",
+        "romaji": [
+          "hu",
+          "fu"
+        ]
+      },
+      {
+        "char": "る",
+        "romaji": [
+          "ru",
+          "lu"
+        ]
+      },
+      {
+        "char": "え",
+        "romaji": [
+          "e"
+        ]
+      },
+      {
+        "char": "ん",
+        "romaji": [
+          "n",
+          "nn",
+          "n'",
+          "xn"
+        ]
+      },
+      {
+        "char": "さ",
+        "romaji": [
+          "sa"
+        ]
+      },
+      {
+        "char": "ー",
+        "romaji": [
+          "-"
+        ]
+      },
+      {
+        "char": "は",
+        "romaji": [
+          "ha",
+          "wa"
+        ]
+      },
+      {
+        "char": "ろ",
+        "romaji": [
+          "ro",
+          "lo"
+        ]
+      },
+      {
+        "char": "じ",
+        "romaji": [
+          "zi",
+          "ji"
+        ]
+      },
+      {
+        "char": "か",
+        "romaji": [
+          "ka",
+          "ca"
+        ]
+      },
+      {
+        "char": "る",
+        "romaji": [
+          "ru",
+          "lu"
+        ]
+      },
+      {
+        "char": "じゃ",
+        "romaji": [
+          "ja",
+          "zya",
+          "jya",
+          "zilya",
+          "zixya",
+          "jilya",
+          "jixya"
+        ]
+      },
+      {
+        "char": "な",
+        "romaji": [
+          "na"
+        ]
+      },
+      {
+        "char": "い",
+        "romaji": [
+          "i",
+          "yi"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 112,
+    "original": "好奇心 is All You Need",
+    "characters": [
+      {
+        "char": "こ",
+        "romaji": [
+          "ko",
+          "co"
+        ]
+      },
+      {
+        "char": "う",
+        "romaji": [
+          "u",
+          "wu",
+          "whu"
+        ]
+      },
+      {
+        "char": "き",
+        "romaji": [
+          "ki"
+        ]
+      },
+      {
+        "char": "し",
+        "romaji": [
+          "si",
+          "shi",
+          "ci"
+        ]
+      },
+      {
+        "char": "ん",
+        "romaji": [
+          "nn",
+          "n'",
+          "xn"
+        ]
+      },
+      {
+        "char": "i",
+        "romaji": [
+          "i"
+        ]
+      },
+      {
+        "char": "s",
+        "romaji": [
+          "s"
+        ]
+      },
+      {
+        "char": "A",
+        "romaji": [
+          "a"
+        ]
+      },
+      {
+        "char": "l",
+        "romaji": [
+          "l"
+        ]
+      },
+      {
+        "char": "l",
+        "romaji": [
+          "l"
+        ]
+      },
+      {
+        "char": "Y",
+        "romaji": [
+          "y"
+        ]
+      },
+      {
+        "char": "o",
+        "romaji": [
+          "o"
+        ]
+      },
+      {
+        "char": "u",
+        "romaji": [
+          "u"
+        ]
+      },
+      {
+        "char": "N",
+        "romaji": [
+          "n"
+        ]
+      },
+      {
+        "char": "e",
+        "romaji": [
+          "e"
+        ]
+      },
+      {
+        "char": "e",
+        "romaji": [
+          "e"
+        ]
+      },
+      {
+        "char": "d",
+        "romaji": [
+          "d"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 113,
+    "original": "目が極端に乾かないから、2-3分くらい全然まばたき無しで仕事できる",
+    "characters": [
+      {
+        "char": "め",
+        "romaji": [
+          "me"
+        ]
+      },
+      {
+        "char": "が",
+        "romaji": [
+          "ga"
+        ]
+      },
+      {
+        "char": "きょ",
+        "romaji": [
+          "kyo",
+          "kilyo",
+          "kixyo"
+        ]
+      },
+      {
+        "char": "く",
+        "romaji": [
+          "ku",
+          "cu",
+          "qu"
+        ]
+      },
+      {
+        "char": "た",
+        "romaji": [
+          "ta"
+        ]
+      },
+      {
+        "char": "ん",
+        "romaji": [
+          "nn",
+          "n'",
+          "xn"
+        ]
+      },
+      {
+        "char": "に",
+        "romaji": [
+          "ni"
+        ]
+      },
+      {
+        "char": "か",
+        "romaji": [
+          "ka",
+          "ca"
+        ]
+      },
+      {
+        "char": "わ",
+        "romaji": [
+          "wa"
+        ]
+      },
+      {
+        "char": "か",
+        "romaji": [
+          "ka",
+          "ca"
+        ]
+      },
+      {
+        "char": "な",
+        "romaji": [
+          "na"
+        ]
+      },
+      {
+        "char": "い",
+        "romaji": [
+          "i",
+          "yi"
+        ]
+      },
+      {
+        "char": "か",
+        "romaji": [
+          "ka",
+          "ca"
+        ]
+      },
+      {
+        "char": "ら",
+        "romaji": [
+          "ra",
+          "la"
+        ]
+      },
+      {
+        "char": "、",
+        "romaji": [
+          ","
+        ]
+      },
+      {
+        "char": "2",
+        "romaji": [
+          "2"
+        ]
+      },
+      {
+        "char": "-",
+        "romaji": [
+          "-"
+        ]
+      },
+      {
+        "char": "3",
+        "romaji": [
+          "3"
+        ]
+      },
+      {
+        "char": "わ",
+        "romaji": [
+          "wa"
+        ]
+      },
+      {
+        "char": "く",
+        "romaji": [
+          "ku",
+          "cu",
+          "qu"
+        ]
+      },
+      {
+        "char": "ら",
+        "romaji": [
+          "ra",
+          "la"
+        ]
+      },
+      {
+        "char": "い",
+        "romaji": [
+          "i",
+          "yi"
+        ]
+      },
+      {
+        "char": "ぜ",
+        "romaji": [
+          "ze"
+        ]
+      },
+      {
+        "char": "ん",
+        "romaji": [
+          "n",
+          "nn",
+          "n'",
+          "xn"
+        ]
+      },
+      {
+        "char": "ぜ",
+        "romaji": [
+          "ze"
+        ]
+      },
+      {
+        "char": "ん",
+        "romaji": [
+          "n",
+          "nn",
+          "n'",
+          "xn"
+        ]
+      },
+      {
+        "char": "ま",
+        "romaji": [
+          "ma"
+        ]
+      },
+      {
+        "char": "ば",
+        "romaji": [
+          "ba"
+        ]
+      },
+      {
+        "char": "た",
+        "romaji": [
+          "ta"
+        ]
+      },
+      {
+        "char": "き",
+        "romaji": [
+          "ki"
+        ]
+      },
+      {
+        "char": "な",
+        "romaji": [
+          "na"
+        ]
+      },
+      {
+        "char": "し",
+        "romaji": [
+          "si",
+          "shi",
+          "ci"
+        ]
+      },
+      {
+        "char": "で",
+        "romaji": [
+          "de"
+        ]
+      },
+      {
+        "char": "し",
+        "romaji": [
+          "si",
+          "shi",
+          "ci"
+        ]
+      },
+      {
+        "char": "ご",
+        "romaji": [
+          "go"
+        ]
+      },
+      {
+        "char": "と",
+        "romaji": [
+          "to"
+        ]
+      },
+      {
+        "char": "で",
+        "romaji": [
+          "de"
+        ]
+      },
+      {
+        "char": "き",
+        "romaji": [
+          "ki"
+        ]
+      },
+      {
+        "char": "る",
+        "romaji": [
+          "ru",
+          "lu"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 114,
+    "original": "2-3分の間にまばたきで何度も視界を失ってる連中、非効率すぎて面白い。よく仕事できてるなって思う",
+    "characters": [
+      {
+        "char": "2",
+        "romaji": [
+          "2"
+        ]
+      },
+      {
+        "char": "-",
+        "romaji": [
+          "-"
+        ]
+      },
+      {
+        "char": "3",
+        "romaji": [
+          "3"
+        ]
+      },
+      {
+        "char": "ふ",
+        "romaji": [
+          "hu",
+          "fu"
+        ]
+      },
+      {
+        "char": "ん",
+        "romaji": [
+          "nn",
+          "n'",
+          "xn"
+        ]
+      },
+      {
+        "char": "の",
+        "romaji": [
+          "no"
+        ]
+      },
+      {
+        "char": "ま",
+        "romaji": [
+          "ma"
+        ]
+      },
+      {
+        "char": "に",
+        "romaji": [
+          "ni"
+        ]
+      },
+      {
+        "char": "ま",
+        "romaji": [
+          "ma"
+        ]
+      },
+      {
+        "char": "ば",
+        "romaji": [
+          "ba"
+        ]
+      },
+      {
+        "char": "た",
+        "romaji": [
+          "ta"
+        ]
+      },
+      {
+        "char": "き",
+        "romaji": [
+          "ki"
+        ]
+      },
+      {
+        "char": "で",
+        "romaji": [
+          "de"
+        ]
+      },
+      {
+        "char": "な",
+        "romaji": [
+          "na"
+        ]
+      },
+      {
+        "char": "ん",
+        "romaji": [
+          "n",
+          "nn",
+          "n'",
+          "xn"
+        ]
+      },
+      {
+        "char": "ど",
+        "romaji": [
+          "do"
+        ]
+      },
+      {
+        "char": "も",
+        "romaji": [
+          "mo"
+        ]
+      },
+      {
+        "char": "し",
+        "romaji": [
+          "si",
+          "shi",
+          "ci"
+        ]
+      },
+      {
+        "char": "か",
+        "romaji": [
+          "ka",
+          "ca"
+        ]
+      },
+      {
+        "char": "い",
+        "romaji": [
+          "i",
+          "yi"
+        ]
+      },
+      {
+        "char": "を",
+        "romaji": [
+          "wo",
+          "o"
+        ]
+      },
+      {
+        "char": "う",
+        "romaji": [
+          "u",
+          "wu",
+          "whu"
+        ]
+      },
+      {
+        "char": "っ",
+        "romaji": [
+          "xtu",
+          "ltu",
+          "xtsu",
+          "ltsu"
+        ]
+      },
+      {
+        "char": "て",
+        "romaji": [
+          "te"
+        ]
+      },
+      {
+        "char": "る",
+        "romaji": [
+          "ru",
+          "lu"
+        ]
+      },
+      {
+        "char": "れ",
+        "romaji": [
+          "re",
+          "le"
+        ]
+      },
+      {
+        "char": "ん",
+        "romaji": [
+          "n",
+          "nn",
+          "n'",
+          "xn"
+        ]
+      },
+      {
+        "char": "ちゅ",
+        "romaji": [
+          "tyu",
+          "chu",
+          "tilyu",
+          "tixyu",
+          "chilyu",
+          "chixyu",
+          "cyu"
+        ]
+      },
+      {
+        "char": "う",
+        "romaji": [
+          "u",
+          "wu",
+          "whu"
+        ]
+      },
+      {
+        "char": "、",
+        "romaji": [
+          ","
+        ]
+      },
+      {
+        "char": "ひ",
+        "romaji": [
+          "hi"
+        ]
+      },
+      {
+        "char": "こ",
+        "romaji": [
+          "ko",
+          "co"
+        ]
+      },
+      {
+        "char": "う",
+        "romaji": [
+          "u",
+          "wu",
+          "whu"
+        ]
+      },
+      {
+        "char": "り",
+        "romaji": [
+          "ri",
+          "li"
+        ]
+      },
+      {
+        "char": "つ",
+        "romaji": [
+          "tu",
+          "tsu"
+        ]
+      },
+      {
+        "char": "す",
+        "romaji": [
+          "su"
+        ]
+      },
+      {
+        "char": "ぎ",
+        "romaji": [
+          "gi"
+        ]
+      },
+      {
+        "char": "て",
+        "romaji": [
+          "te"
+        ]
+      },
+      {
+        "char": "お",
+        "romaji": [
+          "o"
+        ]
+      },
+      {
+        "char": "も",
+        "romaji": [
+          "mo"
+        ]
+      },
+      {
+        "char": "し",
+        "romaji": [
+          "si",
+          "shi",
+          "ci"
+        ]
+      },
+      {
+        "char": "ろ",
+        "romaji": [
+          "ro",
+          "lo"
+        ]
+      },
+      {
+        "char": "い",
+        "romaji": [
+          "i",
+          "yi"
+        ]
+      },
+      {
+        "char": "。",
+        "romaji": [
+          "."
+        ]
+      },
+      {
+        "char": "よ",
+        "romaji": [
+          "yo"
+        ]
+      },
+      {
+        "char": "く",
+        "romaji": [
+          "ku",
+          "cu",
+          "qu"
+        ]
+      },
+      {
+        "char": "し",
+        "romaji": [
+          "si",
+          "shi",
+          "ci"
+        ]
+      },
+      {
+        "char": "ご",
+        "romaji": [
+          "go"
+        ]
+      },
+      {
+        "char": "と",
+        "romaji": [
+          "to"
+        ]
+      },
+      {
+        "char": "で",
+        "romaji": [
+          "de"
+        ]
+      },
+      {
+        "char": "き",
+        "romaji": [
+          "ki"
+        ]
+      },
+      {
+        "char": "て",
+        "romaji": [
+          "te"
+        ]
+      },
+      {
+        "char": "る",
+        "romaji": [
+          "ru",
+          "lu"
+        ]
+      },
+      {
+        "char": "な",
+        "romaji": [
+          "na"
+        ]
+      },
+      {
+        "char": "っ",
+        "romaji": [
+          "xtu",
+          "ltu",
+          "xtsu",
+          "ltsu"
+        ]
+      },
+      {
+        "char": "て",
+        "romaji": [
+          "te"
+        ]
+      },
+      {
+        "char": "お",
+        "romaji": [
+          "o"
+        ]
+      },
+      {
+        "char": "も",
+        "romaji": [
+          "mo"
+        ]
+      },
+      {
+        "char": "う",
+        "romaji": [
+          "u",
+          "wu",
+          "whu"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 115,
+    "original": "20代のうちの貯金額＝機会損失",
+    "characters": [
+      {
+        "char": "2",
+        "romaji": [
+          "2"
+        ]
+      },
+      {
+        "char": "0",
+        "romaji": [
+          "0"
+        ]
+      },
+      {
+        "char": "だ",
+        "romaji": [
+          "da"
+        ]
+      },
+      {
+        "char": "い",
+        "romaji": [
+          "i",
+          "yi"
+        ]
+      },
+      {
+        "char": "の",
+        "romaji": [
+          "no"
+        ]
+      },
+      {
+        "char": "う",
+        "romaji": [
+          "u",
+          "wu",
+          "whu"
+        ]
+      },
+      {
+        "char": "ち",
+        "romaji": [
+          "ti",
+          "chi"
+        ]
+      },
+      {
+        "char": "の",
+        "romaji": [
+          "no"
+        ]
+      },
+      {
+        "char": "ちょ",
+        "romaji": [
+          "tyo",
+          "cho",
+          "tilyo",
+          "tixyo",
+          "chilyo",
+          "chixyo",
+          "cyo"
+        ]
+      },
+      {
+        "char": "き",
+        "romaji": [
+          "ki"
+        ]
+      },
+      {
+        "char": "ん",
+        "romaji": [
+          "n",
+          "nn",
+          "n'",
+          "xn"
+        ]
+      },
+      {
+        "char": "が",
+        "romaji": [
+          "ga"
+        ]
+      },
+      {
+        "char": "く",
+        "romaji": [
+          "ku",
+          "cu",
+          "qu"
+        ]
+      },
+      {
+        "char": "は",
+        "romaji": [
+          "ha",
+          "wa"
+        ]
+      },
+      {
+        "char": "き",
+        "romaji": [
+          "ki"
+        ]
+      },
+      {
+        "char": "か",
+        "romaji": [
+          "ka",
+          "ca"
+        ]
+      },
+      {
+        "char": "い",
+        "romaji": [
+          "i",
+          "yi"
+        ]
+      },
+      {
+        "char": "そ",
+        "romaji": [
+          "so"
+        ]
+      },
+      {
+        "char": "ん",
+        "romaji": [
+          "n",
+          "nn",
+          "n'",
+          "xn"
+        ]
+      },
+      {
+        "char": "し",
+        "romaji": [
+          "si",
+          "shi",
+          "ci"
+        ]
+      },
+      {
+        "char": "つ",
+        "romaji": [
+          "tu",
+          "tsu"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 116,
+    "original": "最小限のものだけ持って、最大限の経験をしたい",
+    "characters": [
+      {
+        "char": "さ",
+        "romaji": [
+          "sa"
+        ]
+      },
+      {
+        "char": "い",
+        "romaji": [
+          "i",
+          "yi"
+        ]
+      },
+      {
+        "char": "しょ",
+        "romaji": [
+          "syo",
+          "sho",
+          "silyo",
+          "sixyo",
+          "shilyo",
+          "shixyo",
+          "cilyo",
+          "cixyo"
+        ]
+      },
+      {
+        "char": "う",
+        "romaji": [
+          "u",
+          "wu",
+          "whu"
+        ]
+      },
+      {
+        "char": "げ",
+        "romaji": [
+          "ge"
+        ]
+      },
+      {
+        "char": "ん",
+        "romaji": [
+          "nn",
+          "n'",
+          "xn"
+        ]
+      },
+      {
+        "char": "の",
+        "romaji": [
+          "no"
+        ]
+      },
+      {
+        "char": "も",
+        "romaji": [
+          "mo"
+        ]
+      },
+      {
+        "char": "の",
+        "romaji": [
+          "no"
+        ]
+      },
+      {
+        "char": "だ",
+        "romaji": [
+          "da"
+        ]
+      },
+      {
+        "char": "け",
+        "romaji": [
+          "ke"
+        ]
+      },
+      {
+        "char": "も",
+        "romaji": [
+          "mo"
+        ]
+      },
+      {
+        "char": "っ",
+        "romaji": [
+          "xtu",
+          "ltu",
+          "xtsu",
+          "ltsu"
+        ]
+      },
+      {
+        "char": "て",
+        "romaji": [
+          "te"
+        ]
+      },
+      {
+        "char": "、",
+        "romaji": [
+          ","
+        ]
+      },
+      {
+        "char": "さ",
+        "romaji": [
+          "sa"
+        ]
+      },
+      {
+        "char": "い",
+        "romaji": [
+          "i",
+          "yi"
+        ]
+      },
+      {
+        "char": "だ",
+        "romaji": [
+          "da"
+        ]
+      },
+      {
+        "char": "い",
+        "romaji": [
+          "i",
+          "yi"
+        ]
+      },
+      {
+        "char": "げ",
+        "romaji": [
+          "ge"
+        ]
+      },
+      {
+        "char": "ん",
+        "romaji": [
+          "nn",
+          "n'",
+          "xn"
+        ]
+      },
+      {
+        "char": "の",
+        "romaji": [
+          "no"
+        ]
+      },
+      {
+        "char": "け",
+        "romaji": [
+          "ke"
+        ]
+      },
+      {
+        "char": "い",
+        "romaji": [
+          "i",
+          "yi"
+        ]
+      },
+      {
+        "char": "け",
+        "romaji": [
+          "ke"
+        ]
+      },
+      {
+        "char": "ん",
+        "romaji": [
+          "n",
+          "nn",
+          "n'",
+          "xn"
+        ]
+      },
+      {
+        "char": "を",
+        "romaji": [
+          "wo",
+          "o"
+        ]
+      },
+      {
+        "char": "し",
+        "romaji": [
+          "si",
+          "shi",
+          "ci"
+        ]
+      },
+      {
+        "char": "た",
+        "romaji": [
+          "ta"
+        ]
+      },
+      {
+        "char": "い",
+        "romaji": [
+          "i",
+          "yi"
+        ]
+      }
+    ]
+  }
 ];

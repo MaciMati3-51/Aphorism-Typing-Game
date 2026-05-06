@@ -1,4 +1,5 @@
 import React from 'react';
+import backgroundImage from '../assets/背景.png';
 
 // Character Panel - Full screen background
 export const CharacterPanel = () => {
@@ -13,7 +14,7 @@ export const CharacterPanel = () => {
             zIndex: 0
         }}>
             <img
-                src="/背景.png"
+                src={backgroundImage}
                 alt="Background"
                 style={{
                     width: '100%',
