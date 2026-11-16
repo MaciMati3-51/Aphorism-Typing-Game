@@ -30,7 +30,7 @@ export const HUD = ({ timeLeft, score, wordMistakes }) => {
 
             {/* Center: Timer */}
             <div className="timer" style={{ fontSize: '2.5rem', fontWeight: 'bold', fontFamily: 'monospace', color: timeLeft < 10 ? '#ff4d4d' : 'white' }}>
-                0:{timeLeft.toString().padStart(2, '0')}
+                {Math.floor(timeLeft / 60)}:{(timeLeft % 60).toString().padStart(2, '0')}
             </div>
 
             {/* Right: Accuracy/Efficiency */}

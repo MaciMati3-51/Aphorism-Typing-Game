@@ -40,6 +40,11 @@ export const useGameLogic = () => {
     const sessionRef = useRef(EMPTY_SESSION);
     const wordMistakesRef = useRef(0);
     const startTimeRef = useRef(null);
+    const scoreRef = useRef(0);
+
+    useEffect(() => {
+        scoreRef.current = score;
+    }, [score]);
 
     const loadWord = useCallback((index) => {
         const pool = poolRef.current;
@@ -82,12 +87,15 @@ export const useGameLogic = () => {
         loadWord(0);
     }, [loadWord]);
 
+    // score を依存に入れない: 入れると1打ごとにタイマーが張り直され、
+    // 100ms より速い連打が続く間は残り時間が進まず、ゲームも終わらない
     const endGame = useCallback(() => {
+        const finalScore = scoreRef.current;
         setGameState('finished');
-        if (score >= 5000) playSound('finish_godlike');
-        else if (score >= 2000) playSound('finish_good');
+        if (finalScore >= 5000) playSound('finish_godlike');
+        else if (finalScore >= 2000) playSound('finish_good');
         else playSound('finish_bad');
-    }, [score, playSound]);
+    }, [playSound]);
 
     useEffect(() => {
         if (gameState !== 'playing') return;

@@ -62,7 +62,13 @@ export const TypingDisplay = ({ currentWord, userInput, isInefficient, feedback 
     // ローマ字表示（入力済み + 入力中 + 未入力）
     const renderRomajiDisplay = () => {
         return (
-            <div className="romaji-display" style={{ display: 'flex', flexWrap: 'wrap', justifyContent: 'center' }}>
+            <div className="romaji-display" style={{
+                // ローマ字は空白の無い1語なので、文字単位で折り返させる
+                // （flex で並べると各 span が折り返せず、長文が画面外にはみ出す）
+                overflowWrap: 'anywhere',
+                wordBreak: 'break-all',
+                lineHeight: 1.4
+            }}>
                 {/* 完了したローマ字 */}
                 <span style={{
                     color: '#4facfe',
