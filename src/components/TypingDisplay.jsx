@@ -2,50 +2,8 @@ import React, { useEffect, useState } from 'react';
 import './TypingDisplay.css';
 
 export const TypingDisplay = ({ currentWord, userInput, isInefficient, feedback }) => {
-    const { text, original, tokens } = currentWord;
+    const { original, characters, completedRomaji, currentCharInput, pendingRomaji, currentCharIndex } = currentWord;
     const [effects, setEffects] = useState([]);
-
-    // ローマ字を40字程度で改行する関数
-    const breakIntoLines = (tokens) => {
-        if (!tokens || tokens.length === 0) return [text];
-
-        const MAX_LINE_LENGTH = 40;
-        const lines = [];
-        let currentLine = '';
-
-        for (const token of tokens) {
-            // トークン自体が最大長を超える場合、強制的に分割
-            if (token.length > MAX_LINE_LENGTH) {
-                // 現在の行があれば確定
-                if (currentLine.length > 0) {
-                    lines.push(currentLine);
-                    currentLine = '';
-                }
-
-                // トークンを40文字ずつ分割
-                for (let i = 0; i < token.length; i += MAX_LINE_LENGTH) {
-                    const chunk = token.slice(i, i + MAX_LINE_LENGTH);
-                    lines.push(chunk);
-                }
-            } else if (currentLine.length > 0 && currentLine.length + token.length > MAX_LINE_LENGTH) {
-                // 次のトークンを追加したら最大長を超える場合
-                lines.push(currentLine);
-                currentLine = token;
-            } else {
-                // 現在の行に追加
-                currentLine += token;
-            }
-        }
-
-        // 最後の行を追加
-        if (currentLine.length > 0) {
-            lines.push(currentLine);
-        }
-
-        return lines.length > 0 ? lines : [text];
-    };
-
-    const romajiLines = breakIntoLines(tokens);
 
     useEffect(() => {
         if (feedback) {
@@ -59,6 +17,76 @@ export const TypingDisplay = ({ currentWord, userInput, isInefficient, feedback 
             }, 600);
         }
     }, [feedback]);
+
+    // 日本語文字のハイライト表示用
+    const renderJapaneseCharacters = () => {
+        if (!characters || characters.length === 0) {
+            return <span>{original}</span>;
+        }
+
+        return characters.map((charObj, index) => {
+            let className = 'jp-char';
+            let style = {};
+
+            if (index < currentCharIndex) {
+                // 完了した文字
+                className += ' completed';
+                style = {
+                    color: '#4facfe',
+                    textShadow: '0 0 10px #4facfe'
+                };
+            } else if (index === currentCharIndex) {
+                // 現在入力中の文字
+                className += ' active';
+                style = {
+                    color: '#fff',
+                    textShadow: '0 0 15px #fff',
+                    fontWeight: 'bold'
+                };
+            } else {
+                // 未入力の文字
+                className += ' pending';
+                style = {
+                    color: '#888'
+                };
+            }
+
+            return (
+                <span key={index} className={className} style={style}>
+                    {charObj.char}
+                </span>
+            );
+        });
+    };
+
+    // ローマ字表示（入力済み + 入力中 + 未入力）
+    const renderRomajiDisplay = () => {
+        return (
+            <div className="romaji-display" style={{ display: 'flex', flexWrap: 'wrap', justifyContent: 'center' }}>
+                {/* 完了したローマ字 */}
+                <span style={{
+                    color: '#4facfe',
+                    textShadow: '0 0 10px #4facfe'
+                }}>
+                    {completedRomaji || ''}
+                </span>
+                {/* 現在入力中のローマ字 */}
+                <span style={{
+                    color: '#fff',
+                    textShadow: '0 0 15px #fff',
+                    fontWeight: 'bold'
+                }}>
+                    {currentCharInput || ''}
+                </span>
+                {/* 未入力のローマ字 */}
+                <span style={{
+                    color: '#666'
+                }}>
+                    {pendingRomaji || ''}
+                </span>
+            </div>
+        );
+    };
 
     return (
         <div className="typing-display" style={{ position: 'relative', margin: '4rem 0', minHeight: '150px', zIndex: 10 }}>
@@ -79,47 +107,39 @@ export const TypingDisplay = ({ currentWord, userInput, isInefficient, feedback 
                     whiteSpace: 'nowrap',
                     pointerEvents: 'none'
                 }}>
-                    非効率！
+                    非効率
                 </div>
             )}
 
-            {/* Original Text (Japanese) */}
-            <div className="original-text" style={{ fontSize: '2.5rem', marginBottom: '1rem', fontWeight: 'bold' }}>
+            {/* Original Text (Kanji) - Large display without progress coloring */}
+            <div className="original-text" style={{
+                fontSize: '2.5rem',
+                marginBottom: '0.5rem',
+                fontWeight: 'bold',
+                letterSpacing: '2px',
+                color: '#fff',
+                textShadow: '0 0 10px rgba(255,255,255,0.5)'
+            }}>
                 {original}
             </div>
 
-            {/* Romaji Text (Multiple Lines) */}
-            <div className="romaji-text" style={{ fontSize: '2rem', fontFamily: 'monospace', letterSpacing: '2px', position: 'relative' }}>
-                {romajiLines.map((line, lineIndex) => {
-                    // この行の開始位置を計算
-                    let lineStartPos = 0;
-                    for (let i = 0; i < lineIndex; i++) {
-                        lineStartPos += romajiLines[i].length;
-                    }
+            {/* Reading Text (Hiragana) with character highlighting */}
+            <div className="reading-text" style={{
+                fontSize: '1.5rem',
+                marginBottom: '1rem',
+                letterSpacing: '1px'
+            }}>
+                {renderJapaneseCharacters()}
+            </div>
 
-                    return (
-                        <div key={lineIndex} style={{ marginBottom: '0.5rem' }}>
-                            {line.split('').map((char, charIndex) => {
-                                const absoluteIndex = lineStartPos + charIndex;
-                                let className = 'char';
-                                if (absoluteIndex < userInput.length) {
-                                    className += ' typed correct';
-                                } else if (absoluteIndex === userInput.length) {
-                                    className += ' active';
-                                }
-                                return (
-                                    <span key={charIndex} className={className} style={{
-                                        color: absoluteIndex < userInput.length ? '#4facfe' : '#666',
-                                        textShadow: absoluteIndex < userInput.length ? '0 0 10px #4facfe' : 'none',
-                                        transition: 'color 0.1s'
-                                    }}>
-                                        {char}
-                                    </span>
-                                );
-                            })}
-                        </div>
-                    );
-                })}
+            {/* Romaji Text */}
+            <div className="romaji-text" style={{
+                fontSize: '2rem',
+                fontFamily: 'monospace',
+                letterSpacing: '2px',
+                position: 'relative'
+            }}>
+                {renderRomajiDisplay()}
             </div>
 
             {/* Visual Effects Overlay */}
@@ -134,9 +154,9 @@ export const TypingDisplay = ({ currentWord, userInput, isInefficient, feedback 
                     zIndex: 5
                 }}>
                     {effect.type === 'correct' ? (
-                        <span style={{ color: '#00ff00', fontSize: '1.5rem', fontWeight: 'bold', textShadow: '0 0 10px lime' }}>効率的！</span>
+                        <span style={{ color: '#00ff00', fontSize: '1.5rem', fontWeight: 'bold', textShadow: '0 0 10px lime' }}>効率的</span>
                     ) : (
-                        <span style={{ color: '#ff0000', fontSize: '1.5rem', fontWeight: 'bold', textShadow: '0 0 15px red' }}>非効率！</span>
+                        <span style={{ color: '#ff0000', fontSize: '1.5rem', fontWeight: 'bold', textShadow: '0 0 15px red' }}>非効率</span>
                     )}
                 </div>
             ))}

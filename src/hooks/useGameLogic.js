@@ -1,26 +1,23 @@
 import { useState, useEffect, useCallback, useRef, useMemo } from 'react';
 import { useAudio } from './useAudio';
 import { APHORISMS } from '../data/usutakuData';
-import { matchRomajiInput, normalizeRomaji, normalizeRomajiCandidates } from '../utils/romaji';
+import { createSession, typeKey, getView } from '../utils/typingEngine';
 
 const GAME_DURATION = 60;
 const MAX_WORD_MISTAKES = 3;
 
-const convertAphorismsToGameData = (aphorisms) => {
-    return aphorisms.map((item) => {
-        const tokensString = item.tokens.join('|');
-        const normalizedCandidates = normalizeRomajiCandidates(tokensString);
+const EMPTY_SESSION = createSession('');
 
-        return {
-            id: item.id,
-            original: item.original,
-            expectedRaw: tokensString,
-            expectedCandidatesRaw: item.tokens,
-            expectedCandidatesNormalized: normalizedCandidates,
-            displayRomaji: normalizedCandidates[0],
-            tokens: normalizedCandidates
-        };
-    });
+// 打てる文字が1つも無い文は出題しない（出題すると進行不能になる）
+const WORDS = APHORISMS.filter((item) => !createSession(item.kana).done);
+
+const shuffle = (items) => {
+    const result = [...items];
+    for (let i = result.length - 1; i > 0; i -= 1) {
+        const j = Math.floor(Math.random() * (i + 1));
+        [result[i], result[j]] = [result[j], result[i]];
+    }
+    return result;
 };
 
 export const useGameLogic = () => {
@@ -28,74 +25,62 @@ export const useGameLogic = () => {
     const [timeLeft, setTimeLeft] = useState(GAME_DURATION);
     const [score, setScore] = useState(0);
 
-    const [currentWordIndex, setCurrentWordIndex] = useState(0);
-    const [currentInput, setCurrentInput] = useState('');
-    const [displayInput, setDisplayInput] = useState('');
+    const [currentWord, setCurrentWord] = useState(null);
+    const [session, setSession] = useState(EMPTY_SESSION);
 
     const [wordMistakes, setWordMistakes] = useState(0);
     const [isInefficient, setIsInefficient] = useState(false);
 
-    const [totalCorrectChars, setTotalCorrectChars] = useState(0);
-    const [totalMistakes, setTotalMistakes] = useState(0);
-
     const [feedback, setFeedback] = useState(null);
     const { playSound } = useAudio();
 
-    const [aphorisms, setAphorisms] = useState([]);
-    const [shuffledAphorisms, setShuffledAphorisms] = useState([]);
-    const [activeRomaji, setActiveRomaji] = useState('');
+    // 打鍵は描画を待たずに連続で届くので、判定に使う値は ref に持つ
+    const poolRef = useRef(WORDS);
+    const wordIndexRef = useRef(0);
+    const sessionRef = useRef(EMPTY_SESSION);
+    const wordMistakesRef = useRef(0);
+    const startTimeRef = useRef(null);
 
-    useEffect(() => {
-        const gameData = convertAphorismsToGameData(APHORISMS);
-        setAphorisms(gameData);
-        setShuffledAphorisms([...gameData].sort(() => 0.5 - Math.random()));
-    }, []);
+    const loadWord = useCallback((index) => {
+        const pool = poolRef.current;
+        if (pool.length === 0) return;
 
-    const wordPool = shuffledAphorisms.length > 0 ? shuffledAphorisms : aphorisms;
-    const rawWord = wordPool.length > 0 ? wordPool[currentWordIndex % wordPool.length] : null;
+        const word = pool[index % pool.length];
+        const nextSession = createSession(word.kana);
 
-    const currentWord = useMemo(() => {
-        if (!rawWord) {
-            return {
-                id: 0,
-                original: '',
-                expectedRaw: '',
-                expectedCandidatesNormalized: [],
-                displayRomaji: '',
-                tokens: []
-            };
-        }
-        return rawWord;
-    }, [rawWord]);
+        wordIndexRef.current = index;
+        sessionRef.current = nextSession;
+        wordMistakesRef.current = 0;
 
-    useEffect(() => {
-        setActiveRomaji(currentWord.displayRomaji || '');
-    }, [currentWord.displayRomaji, currentWord.id]);
-
-    const displayRomaji = activeRomaji || currentWord.displayRomaji || '';
-    const displayWord = useMemo(() => ({
-        ...currentWord,
-        text: displayRomaji,
-        tokens: displayRomaji ? [displayRomaji] : []
-    }), [currentWord, displayRomaji]);
-
-    const startGame = useCallback(() => {
-        setGameState('playing');
-        setTimeLeft(GAME_DURATION);
-        startTimeRef.current = Date.now();
-        setScore(0);
-        setCurrentWordIndex(0);
-        setCurrentInput('');
-        setDisplayInput('');
-        setActiveRomaji('');
+        setCurrentWord(word);
+        setSession(nextSession);
         setWordMistakes(0);
         setIsInefficient(false);
-        setTotalCorrectChars(0);
-        setTotalMistakes(0);
-        if (aphorisms.length > 0) {
-            setShuffledAphorisms([...aphorisms].sort(() => 0.5 - Math.random()));
-        }
-    }, [aphorisms]);
+    }, []);
+
+    // 表示用データ（打ち方を切り替えるとローマ字ガイドも追従する）
+    const displayWord = useMemo(() => {
+        const view = getView(session);
+        return {
+            id: currentWord?.id ?? 0,
+            original: currentWord?.original ?? '',
+            characters: view.chars.map((char) => ({ char })),
+            currentCharIndex: view.kanaDone,
+            completedRomaji: view.completedRomaji,
+            currentCharInput: view.currentInput,
+            pendingRomaji: view.remaining
+        };
+    }, [session, currentWord]);
+
+    const startGame = useCallback(() => {
+        poolRef.current = shuffle(WORDS);
+        startTimeRef.current = Date.now();
+        setGameState('playing');
+        setTimeLeft(GAME_DURATION);
+        setScore(0);
+        setFeedback(null);
+        loadWord(0);
+    }, [loadWord]);
 
     const endGame = useCallback(() => {
         setGameState('finished');
@@ -103,8 +88,6 @@ export const useGameLogic = () => {
         else if (score >= 2000) playSound('finish_good');
         else playSound('finish_bad');
     }, [score, playSound]);
-
-    const startTimeRef = useRef(null);
 
     useEffect(() => {
         if (gameState !== 'playing') return;
@@ -123,86 +106,52 @@ export const useGameLogic = () => {
         return () => clearInterval(timer);
     }, [gameState, endGame]);
 
+    /**
+     * 1打鍵の判定
+     * 判定そのものは typingEngine が行う（どの打ち方にも合わなければミス）
+     */
     const handleInput = useCallback((char) => {
         if (gameState !== 'playing') return;
-        const expectedCandidates = currentWord.expectedCandidatesNormalized || [];
-        if (expectedCandidates.length === 0) return;
 
-        const nextInput = currentInput + char;
-        const normalizedCurrent = normalizeRomaji(currentInput);
-        const normalizedNext = normalizeRomaji(nextInput);
+        const current = sessionRef.current;
+        if (current.done) return;
 
-        if (normalizedNext === normalizedCurrent) {
-            setCurrentInput(nextInput);
-            return;
-        }
+        const next = typeKey(current, char);
 
-        const matchInfo = matchRomajiInput(expectedCandidates, nextInput);
-
-        if (import.meta.env.DEV) {
-            const resultLabel = matchInfo.isComplete
-                ? 'complete OK'
-                : matchInfo.isValid
-                    ? 'prefix OK'
-                    : `NG at ${matchInfo.ngIndex}`;
-            console.debug('[typing-check]', {
-                japanese: currentWord.original,
-                expectedRaw: currentWord.expectedRaw,
-                expectedNormalized: expectedCandidates,
-                expectedUsed: matchInfo.matchedCandidate,
-                typedRaw: nextInput,
-                typedNormalized: matchInfo.normalizedTyped,
-                result: resultLabel
-            });
-        }
-
-        if (!matchInfo.isValid) {
-            setTotalMistakes(prev => prev + 1);
+        if (!next) {
+            // ミス
             setScore(prev => Math.max(0, prev - 100));
             setFeedback({ type: 'mistake', id: Date.now() });
             playSound('mistake');
 
-            setWordMistakes(prev => {
-                const newCount = prev + 1;
-                if (newCount === MAX_WORD_MISTAKES) {
-                    setIsInefficient(true);
-                    playSound('inefficient');
-                    setTimeout(() => setIsInefficient(false), 2000);
-                }
-                return newCount;
-            });
+            wordMistakesRef.current += 1;
+            setWordMistakes(wordMistakesRef.current);
+            if (wordMistakesRef.current === MAX_WORD_MISTAKES) {
+                setIsInefficient(true);
+                playSound('sdgs');
+                setTimeout(() => setIsInefficient(false), 2000);
+            }
             return;
         }
 
-        const delta = normalizedNext.length - normalizedCurrent.length;
-        if (delta <= 0) {
-            setCurrentInput(nextInput);
-            return;
-        }
-
-        setCurrentInput(nextInput);
-        setDisplayInput(matchInfo.matchedCandidate.slice(0, matchInfo.matchedLength));
-        setActiveRomaji(matchInfo.matchedCandidate);
-        setTotalCorrectChars(prev => prev + delta);
-        setScore(prev => prev + (10 * delta));
+        setScore(prev => prev + 10);
         setFeedback({ type: 'correct', id: Date.now() });
         playSound('correct');
 
-        if (matchInfo.isComplete) {
-            setTimeout(() => {
-                setCurrentWordIndex(prev => prev + 1);
-                setCurrentInput('');
-                setDisplayInput('');
-                setActiveRomaji('');
-                setWordMistakes(0);
-                setIsInefficient(false);
-            }, 200);
+        if (next.done) {
+            // 文章完了 → 待ち時間なしで次の文へ（待つと速い打鍵が取りこぼされてミスになる）
+            loadWord(wordIndexRef.current + 1);
+        } else {
+            sessionRef.current = next;
+            setSession(next);
         }
-    }, [gameState, currentWord.expectedCandidatesNormalized, currentWord.expectedRaw, currentWord.original, currentInput, playSound]);
+    }, [gameState, playSound, loadWord]);
 
     const handleKeyDown = useCallback((e) => {
         if (gameState !== 'playing') return;
         if (e.key.length === 1 && !e.ctrlKey && !e.altKey && !e.metaKey) {
+            // ' や / はブラウザのクイック検索、スペースはスクロールが動くので止める
+            e.preventDefault();
             handleInput(e.key);
         }
     }, [handleInput, gameState]);
@@ -212,7 +161,7 @@ export const useGameLogic = () => {
         timeLeft,
         score,
         currentWord: displayWord,
-        userInput: displayInput,
+        userInput: displayWord.completedRomaji + displayWord.currentCharInput,
         wordMistakes,
         isInefficient,
         feedback,

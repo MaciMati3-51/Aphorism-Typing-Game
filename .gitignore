@@ -7,3 +7,4 @@ package-lock.json
 *.png
 convert_csv_fixed.js
 process_csv.js
+*:Zone.Identifier

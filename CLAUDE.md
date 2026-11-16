@@ -5,55 +5,52 @@
 ### プロジェクト構造
 ```
 Aphorism-Typing-Game/
-├── public/
-│   └── usutaku_DB_UTF8.csv          # メインのCSVデータベース
+├── hiragana_romaji_master.csv       # かな→ローマ字パターン表（元データ・git管理外）
+├── sentences_with_hiragana.csv      # 出題文と読み（元データ・git管理外）
+├── scripts/
+│   └── generateGameData.cjs         # 上記CSV → src/data/*.js を生成（npm run generate-data）
 ├── src/
 │   ├── components/
-│   │   ├── CharacterPanel.jsx       # キャラクターパネルコンポーネント
+│   │   ├── CharacterPanel.jsx       # 背景パネル
 │   │   ├── HUD.jsx                  # スコア・時間表示
 │   │   └── TypingDisplay.jsx        # タイピング表示メイン
 │   ├── data/
-│   │   ├── aphorisms.js             # （旧データ）
-│   │   └── usutakuData.js           # CSV変換済みデータ（APHORISMS配列）
+│   │   ├── romajiMaster.js          # 生成物: かな→ローマ字パターン表（ROMAJI_MASTER）
+│   │   └── usutakuData.js           # 生成物: 出題文（APHORISMS = { id, original, kana }）
 │   ├── hooks/
 │   │   ├── useAudio.js              # 音声再生フック
-│   │   └── useGameLogic.js          # ゲームロジック（メイン）
+│   │   └── useGameLogic.js          # ゲーム進行（スコア・タイマー・出題）
 │   └── utils/
-│       ├── kanaToRomaji.js          # かな→ローマ字変換テーブル
-│       ├── romaji.js                # ローマ字マッチングロジック
-│       └── typingData.js            # タイピングデータ処理
-├── convert_csv.js                   # CSV変換スクリプト
-└── process_csv.js                   # CSV処理スクリプト
+│       ├── typingEngine.js          # ローマ字入力の判定エンジン（判定はここだけ）
+│       └── typingEngine.test.js     # 判定エンジンのテスト（npm test）
 ```
+
+※ `src/utils/romaji.js` `kanaToRomaji.js` `typingData.js`、`src/data/aphorisms.js`、
+ルートの `convert_csv.js` などは旧実装の残骸で、ゲームからは参照されていない。
 
 ### CSVから問題出題までの流れ
 
-1. **CSVファイル準備**
-   - `public/usutaku_DB_UTF8.csv` に格言・名言データを格納
-   - 各行には日本語テキストとローマ字候補が含まれる
+1. **元データ**
+   - `sentences_with_hiragana.csv`: 原文 / 読み / 読みのトークン（`|`区切り）
+   - `hiragana_romaji_master.csv`: かな（拗音は2文字単位）ごとのローマ字パターン（`|`区切り、先頭が表示ガイドの既定）
 
-2. **CSVデータの変換**
-   - `convert_csv.js` または `process_csv.js` を実行
-   - CSV → `src/data/usutakuData.js` のAPHORISMS配列に変換
-   - 各項目には以下が含まれる：
-     - `id`: 一意のID
-     - `original`: 日本語原文
-     - `text`: ローマ字テキスト
-     - `tokens`: 複数のローマ字候補（`|`区切りで複数の入力方法を許容）
+2. **データ生成**（`npm run generate-data`）
+   - `romajiMaster.js` と `usutakuData.js` を生成
+   - 出題文は **読み（kana）だけ** を持つ。ローマ字パターンは文ごとに展開しない
+   - 生成時に判定エンジンで全文を検証し、打てない文字があれば警告を出す
 
-3. **ゲームロジックでの読み込み**（`src/hooks/useGameLogic.js`）
-   - `APHORISMS`配列をインポート
-   - `convertAphorismsToGameData()`で正規化処理
-   - `normalizeRomajiCandidates()`で複数のローマ字候補を展開
+3. **入力判定**（`src/utils/typingEngine.js`）
+   - `createSession(kana)` → `typeKey(session, key)` → `getView(session)`
+   - 読み全体に対して「いま有効な打ち方」をすべて同時に追跡する（1文字ごとの候補配列との照合ではない）
+   - そのため si/shi などの対応は **出題文に依存しない**。パターンを増やすときはマスターCSVに足すだけでよい
+   - 「ん」: 次の打鍵が母音・y・n 以外なら `n` 1打で可。`nn` / `n'` / `xn` は常に可。文末は `n` 1打不可
+   - 「っ」: 次の子音を重ねる（`tta` `ssha` `cchi`）か、`xtu` `ltu` `xtsu` `ltsu` の単独入力
+   - 拗音: まとめ打ち（`sha`）と分割打ち（`si`+`xya`）の両方
+   - 空白と、どのキーでも打てない文字は読み飛ばす
 
-4. **入力判定**（`src/utils/romaji.js`）
-   - `matchRomajiInput()`でユーザー入力と候補を比較
-   - 複数の入力パターンに対応（si/shi、cho/tyo、ha/waなど）
-   - 前方一致で正誤判定を実施
-
-5. **かな→ローマ字変換**（`src/utils/kanaToRomaji.js`）
-   - `KANA_TO_ROMAJI`テーブルで複数のローマ字表記を定義
-   - 訓令式とヘボン式の両方をサポート
+4. **ゲーム進行**（`src/hooks/useGameLogic.js`）
+   - 判定結果を受けてスコア・ミス数・出題の切り替えを行う
+   - 表示用のローマ字ガイドは `getView()` の `remaining`（打ち方を切り替えると追従する）
 
 ## テストで確認すべき事項
 
@@ -86,9 +83,10 @@ Aphorism-Typing-Game/
 - **じょ**: `zyo` / `jo` / `jyo`
 
 #### 特殊な「ん」の入力
-- **ん**: `n` / `nn` / `xn`
+- **ん**: `n` / `nn` / `n'` / `xn`（母音・や行・な行の前と文末は `n` 1打不可）
 
 ### テスト手順
+0. `npm test` を実行する（上記パターンと全出題文の完走を自動で確認する）
 1. 各パターンについて、すべての入力方法を試す
 2. 誤判定（正しい入力がミス扱い）されないことを確認
 3. 途中で入力方法を切り替えても正しく動作することを確認
@@ -171,7 +169,8 @@ Aphorism-Typing-Game/
 
 ### ミス一覧
 
-
-
-
-
+### [2026-11-16] 編集スクリプトで改行コードを変えてしまった
+- **何が起きたか**: `scripts/generateGameData.cjs`（CRLF）を Python で読み書きしたら LF に変わり、全行が差分になった
+- **原因**: Python のテキストモードは読み込み時に CRLF を LF に変換する。元の改行コードを確認していなかった
+- **正しい対処**: 既存ファイルをスクリプトで書き換える前に `file` で改行コードを確認し、`newline=''` で開く。書き換え後は `git diff --stat` で差分量を確認する
+- **関連ファイル**: `scripts/generateGameData.cjs`（CRLF に戻して修正済み）
