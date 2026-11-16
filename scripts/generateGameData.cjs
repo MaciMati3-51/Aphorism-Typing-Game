@@ -2,7 +2,11 @@
  * ゲームデータ生成スクリプト
  *
  * 1. hiragana_romaji_master.csv → src/data/romajiMaster.js
- * 2. sentences_with_hiragana.csv → src/data/usutakuData.js (新形式)
+ * 2. sentences_with_hiragana.csv → src/data/usutakuData.js
+ *    各文は { id, original, kana }。kana は読み（打鍵対象の文字列）。
+ *
+ * ローマ字の打ち方（si/shi、「ん」「っ」の規則など）はここでは展開しない。
+ * 実行時に src/utils/typingEngine.js が読みから全パターンを組み立てる。
  */
 
 const fs = require('fs');
@@ -13,12 +17,6 @@ const HIRAGANA_MASTER_CSV = path.join(ROOT_DIR, 'hiragana_romaji_master.csv');
 const SENTENCES_CSV = path.join(ROOT_DIR, 'sentences_with_hiragana.csv');
 const ROMAJI_MASTER_OUTPUT = path.join(ROOT_DIR, 'src/data/romajiMaster.js');
 const USUTAKU_DATA_OUTPUT = path.join(ROOT_DIR, 'src/data/usutakuData.js');
-
-// 拗音のリスト（2文字セットとして扱う）
-const YOUON_CHARS = ['ゃ', 'ゅ', 'ょ', 'ぁ', 'ぃ', 'ぅ', 'ぇ', 'ぉ', 'ャ', 'ュ', 'ョ', 'ァ', 'ィ', 'ゥ', 'ェ', 'ォ'];
-
-// 「ん」の後にこれらで始まるローマ字が来る場合、nn必須
-const N_REQUIRES_DOUBLE = ['a', 'i', 'u', 'e', 'o', 'y', 'n'];
 
 /**
  * CSVを簡易パース（ダブルクォート対応）
@@ -85,29 +83,6 @@ function generateRomajiMaster() {
 // Do not edit manually
 
 export const ROMAJI_MASTER = ${JSON.stringify(master, null, 2)};
-
-// 「ん」の後にこれらで始まるローマ字が来る場合、nn必須
-export const N_REQUIRES_DOUBLE = ${JSON.stringify(N_REQUIRES_DOUBLE)};
-
-/**
- * 文字に対応するローマ字パターンを取得
- * @param {string} char - ひらがな/カタカナ/記号
- * @returns {string[]} ローマ字パターンの配列
- */
-export function getRomajiPatterns(char) {
-    const entry = ROMAJI_MASTER[char];
-    if (entry) {
-        return entry.patterns;
-    }
-
-    // 英数字はそのまま返す
-    if (/^[a-zA-Z0-9]$/.test(char)) {
-        return [char.toLowerCase()];
-    }
-
-    // 未知の文字は空配列
-    return [];
-}
 `;
 
     fs.writeFileSync(ROMAJI_MASTER_OUTPUT, output, 'utf-8');
@@ -118,188 +93,68 @@ export function getRomajiPatterns(char) {
 }
 
 /**
- * 拗音を考慮してトークンをマージ
- * 例: ["き", "ゃ"] → ["きゃ"]
+ * sentences_with_hiragana.csv を読み込んでゲームデータを生成
  */
-function mergeYouonTokens(tokens, master) {
-    const result = [];
-
-    for (let i = 0; i < tokens.length; i++) {
-        const current = tokens[i];
-        const next = tokens[i + 1];
-
-        // 次のトークンが拗音文字の場合、結合
-        if (next && YOUON_CHARS.includes(next)) {
-            const combined = current + next;
-
-            // マスターに結合形があるか確認
-            if (master[combined]) {
-                result.push(combined);
-                i++; // 次のトークンをスキップ
-                continue;
-            }
-        }
-
-        result.push(current);
-    }
-
-    return result;
-}
-
-/**
- * 促音「っ」の処理
- * 次の文字の子音を重ねるパターンを生成
- */
-function processSokuon(tokens, index, master) {
-    const nextToken = tokens[index + 1];
-    if (!nextToken) {
-        // 次の文字がない場合は独立入力
-        return master['っ']?.patterns || ['xtu', 'ltu'];
-    }
-
-    // 次の文字のローマ字パターンを取得
-    const nextPatterns = master[nextToken]?.patterns || getRomajiPatternsForChar(nextToken, master);
-    if (!nextPatterns || nextPatterns.length === 0) {
-        return master['っ']?.patterns || ['xtu', 'ltu'];
-    }
-
-    // 各パターンの最初の子音を重ねる
-    const sokuonPatterns = [];
-    for (const pattern of nextPatterns) {
-        if (pattern.length > 0 && /^[a-z]/.test(pattern)) {
-            const consonant = pattern[0];
-            // 母音で始まる場合は促音なし
-            if (['a', 'i', 'u', 'e', 'o'].includes(consonant)) {
-                continue;
-            }
-            sokuonPatterns.push(consonant + pattern);
-        }
-    }
-
-    // 独立入力パターンも追加
-    const independentPatterns = master['っ']?.patterns || ['xtu', 'ltu'];
-    for (const indep of independentPatterns) {
-        for (const next of nextPatterns) {
-            sokuonPatterns.push(indep + next);
-        }
-    }
-
-    return [...new Set(sokuonPatterns)];
-}
-
-/**
- * 文字に対するローマ字パターンを取得
- */
-function getRomajiPatternsForChar(char, master) {
-    const entry = master[char];
-    if (entry) {
-        return entry.patterns;
-    }
-
-    // 英数字はそのまま
-    if (/^[a-zA-Z0-9]$/.test(char)) {
-        return [char.toLowerCase()];
-    }
-
-    // 未知の文字
-    return [char];
-}
-
-/**
- * 「ん」の処理
- * 次の文字によってnn必須かどうかを判定
- */
-function processN(tokens, index, master) {
-    const nextToken = tokens[index + 1];
-    const basePatterns = master['ん']?.patterns || ['nn', "n'", 'xn'];
-
-    if (!nextToken) {
-        // 文末の「ん」は n でも OK
-        return ['n', ...basePatterns];
-    }
-
-    // 次の文字のローマ字パターンを取得
-    const nextPatterns = master[nextToken]?.patterns || getRomajiPatternsForChar(nextToken, master);
-    if (!nextPatterns || nextPatterns.length === 0) {
-        return ['n', ...basePatterns];
-    }
-
-    // 次の文字の最初のローマ字がa,i,u,e,o,y,nで始まるか確認
-    const firstRomaji = nextPatterns[0];
-    if (firstRomaji && N_REQUIRES_DOUBLE.includes(firstRomaji[0].toLowerCase())) {
-        // nn必須
-        return basePatterns;
-    } else {
-        // n でも OK
-        return ['n', ...basePatterns];
-    }
-}
-
-/**
- * sentences_with_hiragana.csv を読み込んで新形式のゲームデータを生成
- */
-function generateGameData(master) {
+async function generateGameData() {
     console.log('Generating game data...');
+
+    // 判定エンジンで「全文字が打てるか」を検証する（ESM なので動的 import）
+    const { createSession, typeKey, getView } = await import('../src/utils/typingEngine.js');
 
     const content = fs.readFileSync(SENTENCES_CSV, 'utf-8');
     const rows = parseCSV(content);
 
     const aphorisms = [];
     const trailingPunctuation = ['.', '。', '、', ',', '，'];
+    let warnings = 0;
 
     // ヘッダーをスキップ
     for (let i = 1; i < rows.length; i++) {
-        const [originalText, hiragana, hiraganaTokens, originalPatterns] = rows[i];
+        const [originalText, , hiraganaTokens] = rows[i];
 
         if (!originalText || !hiraganaTokens) continue;
 
         // 末尾の区切り記号を削除
-        let cleanedOriginal = originalText.replace(/[.。、,，]$/, '').trim();
+        const cleanedOriginal = originalText.replace(/[.。、,，]$/, '').trim();
 
-        // トークンを分割
-        let tokens = hiraganaTokens.split('|').map(t => t.trim()).filter(t => t);
+        // トークンを分割（空白は打鍵対象にしない）
+        const tokens = hiraganaTokens.split('|').map(t => t.trim()).filter(t => t);
 
         // 末尾トークンが区切り記号の場合は削除
         while (tokens.length > 0 && trailingPunctuation.includes(tokens[tokens.length - 1])) {
             tokens.pop();
         }
 
-        // 拗音をマージ
-        tokens = mergeYouonTokens(tokens, master);
+        const kana = tokens.join('');
 
-        // 各トークンにローマ字パターンを付与
-        const characters = [];
+        // 検証1: 打てない文字（漢字の混入など）が無いか
+        const session = createSession(kana);
+        const typable = getView(session).chars.join('');
+        const expected = Array.from(kana.normalize('NFKC')).length;
+        if (Array.from(typable.normalize('NFKC')).length !== expected) {
+            warnings++;
+            console.warn(`  [WARN] row ${i + 1}: 打てない文字を含む → 実行時は読み飛ばす: ${kana}`);
+        }
 
-        for (let j = 0; j < tokens.length; j++) {
-            const token = tokens[j];
-            let romaji;
+        // 検証2: ガイド通りに打って完走できるか
+        let state = session;
+        for (const key of getView(session).remaining) {
+            state = state && typeKey(state, key);
+        }
+        if (!state || !state.done) {
+            warnings++;
+            console.warn(`  [WARN] row ${i + 1}: ガイド通りに打っても完走できない: ${kana}`);
+        }
 
-            // 促音の処理
-            if (token === 'っ' || token === 'ッ') {
-                romaji = processSokuon(tokens, j, master);
-                // 促音は次の文字と結合して処理するので、次の文字をスキップするかどうか
-                // ここでは促音単体のパターンを使用し、次の文字は別で処理
-                romaji = master['っ']?.patterns || ['xtu', 'ltu', 'xtsu', 'ltsu'];
-            }
-            // 「ん」の処理
-            else if (token === 'ん' || token === 'ン') {
-                romaji = processN(tokens, j, master);
-            }
-            // 通常の文字
-            else {
-                romaji = getRomajiPatternsForChar(token, master);
-            }
-
-            characters.push({
-                char: token,
-                romaji: romaji
-            });
+        if (session.done) {
+            console.warn(`  [WARN] row ${i + 1}: 打てる文字が無いので除外: ${originalText}`);
+            continue;
         }
 
         aphorisms.push({
             id: i,
             original: cleanedOriginal,
-            characters: characters
+            kana
         });
     }
 
@@ -312,24 +167,27 @@ export const APHORISMS = ${JSON.stringify(aphorisms, null, 2)};
 
     fs.writeFileSync(USUTAKU_DATA_OUTPUT, output, 'utf-8');
     console.log(`  -> Generated: ${USUTAKU_DATA_OUTPUT}`);
-    console.log(`  -> ${aphorisms.length} sentences`);
+    console.log(`  -> ${aphorisms.length} sentences, ${warnings} warnings`);
 
     return aphorisms;
 }
 
 // メイン処理
-function main() {
+async function main() {
     console.log('=== Game Data Generator ===\n');
 
-    // ローマ字マスターテーブルを生成
-    const master = generateRomajiMaster();
+    // ローマ字マスターテーブルを生成（エンジンがこれを読むので先に作る）
+    generateRomajiMaster();
 
     console.log('');
 
     // ゲームデータを生成
-    generateGameData(master);
+    await generateGameData();
 
     console.log('\n=== Done ===');
 }
 
-main();
+main().catch((error) => {
+    console.error(error);
+    process.exit(1);
+});

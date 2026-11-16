@@ -1689,26 +1689,3 @@ export const ROMAJI_MASTER = {
     "note": ""
   }
 };
-
-// 「ん」の後にこれらで始まるローマ字が来る場合、nn必須
-export const N_REQUIRES_DOUBLE = ["a","i","u","e","o","y","n"];
-
-/**
- * 文字に対応するローマ字パターンを取得
- * @param {string} char - ひらがな/カタカナ/記号
- * @returns {string[]} ローマ字パターンの配列
- */
-export function getRomajiPatterns(char) {
-    const entry = ROMAJI_MASTER[char];
-    if (entry) {
-        return entry.patterns;
-    }
-
-    // 英数字はそのまま返す
-    if (/^[a-zA-Z0-9]$/.test(char)) {
-        return [char.toLowerCase()];
-    }
-
-    // 未知の文字は空配列
-    return [];
-}
